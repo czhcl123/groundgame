@@ -8,6 +8,8 @@ next-env.d.ts
 tmp-*.png
 shot-*.png
 tmp-*.cjs
+tmp-*.json
+tmp-*.html
 tmp-*.js
 tmp-*.log
 *.local
