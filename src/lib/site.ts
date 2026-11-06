@@ -13,39 +13,39 @@ export function baseMetadata(lang: 'en' | 'zh'): Metadata {
   return {
     metadataBase: new URL(SITE_URL),
     title: {
-      default: isZh ? 'GroundGame — 每日地理猜测游戏' : 'GroundGame — Daily geography guessing game',
+      default: isZh ? '体育地理每日问答 — 在地图上点出它发生的地方' : 'Sports Geography Quiz — Guess Where It Happened',
       template: '%s | GroundGame',
     },
     description: isZh
-      ? '每天 5 道地理题,在地图上点出它发生的地方。体育历史、场馆、名人出生地,60 到 90 秒一局。'
-      : 'Five questions a day. Tap where it happened on the world map. Sports geography, history, and landmarks — 60 to 90 seconds a round.',
+      ? '每天 5 道体育地理题,在地图上点出它发生的地方。NBA、NHL、MLB、NFL 球馆、名人出生地,60 到 90 秒一局。'
+      : 'Five sports geography questions a day. Tap where it happened on the world map - NBA, NHL, MLB and NFL arenas, hometown cities, famous moments.',
     keywords: isZh
-      ? ['地理游戏', '每日猜谜', '地图游戏', '地理知识', '体育地理']
+      ? ['体育地理', '地理猜谜游戏', '每日问答游戏', '地图游戏', 'NBA球馆', '体育知识']
       : [
-          'geography game',
-          'guessing game',
+          'sports geography',
+          'geography quiz',
           'daily geography puzzle',
           'map quiz',
-          'sports geography',
-          'world capitals game',
-          'learn geography',
+          'guess the location',
+          'sports trivia map',
+          'where in the world quiz',
         ],
     openGraph: {
       type: 'website',
       url: isZh ? `${SITE_URL}/zh` : SITE_URL,
-      title: isZh ? 'GroundGame — 每日地理猜测游戏' : 'GroundGame — Daily geography guessing game',
+      title: isZh ? '体育地理每日问答 — 在地图上点出它发生的地方' : 'Sports Geography Quiz — Guess Where It Happened',
       description: isZh
-        ? '每天 5 道地理题,在地图上点出它发生的地方。60 到 90 秒一局。'
-        : 'Five questions a day. Tap where it happened on the world map. 60 to 90 seconds a round.',
+        ? '每天 5 道体育地理题,在地图上点出它发生的地方。60 到 90 秒一局。'
+        : 'Five sports geography questions a day. Tap where it happened on the world map. 60 to 90 seconds a round.',
       siteName: 'GroundGame',
       locale: isZh ? 'zh_CN' : 'en_US',
     },
     twitter: {
       card: 'summary_large_image',
-      title: isZh ? 'GroundGame — 每日地理猜测游戏' : 'GroundGame — Daily geography guessing game',
+      title: isZh ? '体育地理每日问答 — 在地图上点出它发生的地方' : 'Sports Geography Quiz — Guess Where It Happened',
       description: isZh
-        ? '每天 5 道地理题,在地图上点出它发生的地方。'
-        : 'Five questions a day. Tap where it happened on the world map.',
+        ? '每天 5 道体育地理题,在地图上点出它发生的地方。'
+        : 'Five sports geography questions a day. Tap where it happened on the world map.',
     },
     robots: {
       index: true,

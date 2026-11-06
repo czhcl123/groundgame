@@ -210,6 +210,13 @@ function check(name, ok, detail) {
     // 4 — continue control
     check("4 continue button present after guess", f.buttons.length > 0, JSON.stringify(f.buttons).slice(0, 160));
 
+    // 4b — the location story is what makes a right answer worth anything.
+    const story = await b.evalJs(`(()=>{const el=document.querySelector('.gg-feedback-story');
+      return JSON.stringify({present:!!el,text:el?el.textContent.trim().slice(0,120):null});})()`);
+    const st = JSON.parse(story);
+    check("4b location story shown after the answer",
+      st.present && st.text && st.text.length > 25, story.slice(0, 200));
+
     // 5 — advance to Q2
     if (f.buttons.length) {
       await b.evalJs(`(()=>{const bs=[...document.querySelectorAll('button')];
@@ -268,6 +275,18 @@ function check(name, ok, detail) {
       ld:document.querySelectorAll("script[type='application/ld+json']").length,
       promptZh:/[\\u4e00-\\u9fa5]/.test((document.querySelector('.gg-prompt')||{}).textContent||'')});})()`);
     const z = JSON.parse(zh);
+    const zhStory = await b.evalJs(`(()=>{const svg=document.querySelector('svg');if(!svg)return 'nosvg';
+      const r=svg.getBoundingClientRect();const x=r.x+r.width*0.4,y=r.y+r.height*0.5;
+      const t=document.elementFromPoint(x,y)||svg;
+      t.dispatchEvent(new MouseEvent('click',{bubbles:true,cancelable:true,clientX:x,clientY:y,button:0}));
+      return 'clicked';})()`);
+    await sleep(900);
+    const zhs = await b.evalJs(`(()=>{const el=document.querySelector('.gg-feedback-story');
+      return JSON.stringify({present:!!el,text:el?el.textContent.trim().slice(0,90):null});})()`);
+    const zs = JSON.parse(zhs);
+    check("8b Chinese location story shown",
+      zs.present && /[\u4e00-\u9fa5]/.test(zs.text || ""), zhs.slice(0, 180));
+
     check("8 /zh: CJK copy + prompt + lang=zh-CN + canonical + hreflang + schema",
       z.hasCjk && z.promptZh && z.lang === "zh-CN" && !!z.canon && z.alt.length >= 3 && z.ld >= 1,
       JSON.stringify(z).slice(0, 300));

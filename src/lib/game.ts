@@ -18,6 +18,10 @@ export interface Question {
   prompt: string
   /** 中文题干（lang='zh' 时显示）。缺失则回退到英文 prompt */
   promptZh?: string
+  /** 地点背景故事（答对后显示）。缺失则不显示这一块 */
+  story?: string
+  /** 中文背景故事 */
+  storyZh?: string
   answer: string
   lat: number
   lng: number

@@ -333,7 +333,27 @@ a {
   font-size: 15px;
 }
 
-.gg-feedback-answer-label {
+.gg-feedback-story {
+  margin-top: 10px;
+  padding: 12px 14px;
+  border-left: 3px solid var(--gg-accent-2);
+  border-radius: 0 8px 8px 0;
+  background: var(--gg-panel-2);
+  color: var(--gg-text);
+  font-size: 14px;
+  line-height: 1.6;
+  }
+
+  .gg-review-story {
+  margin-top: 6px;
+  padding-left: 10px;
+  border-left: 2px solid var(--gg-border);
+  color: var(--gg-muted);
+  font-size: 13px;
+  line-height: 1.55;
+  }
+
+  .gg-feedback-answer-label {
   display: block;
   color: var(--gg-muted);
   font-size: 12px;
