@@ -1,0 +1,3305 @@
+{
+  "meta": {
+    "version": 1,
+    "note": "GroundGame 题库。每题含真实坐标，按四大体育联盟/国际赛事分类。难度由 groundgame 的评分算法决定，不在数据里写死。",
+    "fields": {
+      "id": "稳定唯一 id",
+      "prompt": "题目文本，用 'this city' / 'this stadium' 等留白",
+      "answer": "答案地名（复盘时显示）",
+      "lat": "答案纬度",
+      "lng": "答案经度",
+      "scope": "world | country | city —— 决定出题时给的地图范围",
+      "sport": "sports 分类，用于抽题时的多样性约束",
+      "tags": "自由标签"
+    }
+  },
+  "questions": [
+    {
+      "id": "mlb-atlanta-2",
+      "prompt": "Mean' Joe Greene was a 2x NFL DPOY, drafted from this small Texas school",
+      "answer": "Taylor, Texas",
+      "lat": 30.5708,
+      "lng": -97.4092,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "draft"
+      ],
+      "viewLat": 20.643,
+      "viewLng": -92.4453,
+      "promptZh": "Mean' Joe Greene 曾两获 NFL 年度最佳防守球员，并从这所德州小学校被选入"
+    },
+    {
+      "id": "nba-baltimore-1",
+      "prompt": "Because of his father's basketball career, Ravens safety Kyle Hamilton was born on this European island best known for vacations",
+      "answer": "Saint James, Jamaica",
+      "lat": 18.1167,
+      "lng": -77.85,
+      "scope": "world",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "international"
+      ],
+      "promptZh": "由于父亲的篮球生涯，Ravens 安全卫 Kyle Hamilton 出生在这座以度假闻名的欧洲岛屿"
+    },
+    {
+      "id": "nba-boston-5",
+      "prompt": "Randy Moss signed to play for Marshall, but after serving 63 days in jail he landed with the Vikings here in 1997",
+      "answer": "Minneapolis, Minnesota",
+      "lat": 44.9778,
+      "lng": -93.265,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Vikings"
+      ],
+      "viewLat": 56.4524,
+      "viewLng": -95.6415,
+      "promptZh": "Randy Moss 原本签约效力 Marshall，但在监禁 63 天后，于 1997 年加盟了这里的 Vikings"
+    },
+    {
+      "id": "nba-cle-2",
+      "prompt": "Before becoming NFL quarterbacks, Carson Wentz and Trey Lance both won national titles at this university",
+      "answer": "Tallahassee, Florida",
+      "lat": 30.4383,
+      "lng": -84.2807,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "college"
+      ],
+      "viewLat": 35.8112,
+      "viewLng": -77.7951,
+      "promptZh": "成为 NFL 四分卫前，Carson Wentz 和 Trey Lance 都曾随这所大学赢得全国冠军"
+    },
+    {
+      "id": "nba-cleveland-1",
+      "prompt": "Bears QB Caleb Williams was born and raised in this city",
+      "answer": "Inglewood, California",
+      "lat": 33.9617,
+      "lng": -118.3531,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "USC"
+      ],
+      "viewLat": 22.8884,
+      "viewLng": -123.8897,
+      "promptZh": "Bears 四分卫 Caleb Williams 出生并成长于这座城市"
+    },
+    {
+      "id": "nba-detroit-6",
+      "prompt": "From 2006 to 2014, the NFL Draft spent 9 straight years here before it hit the road",
+      "answer": "New York, New York",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Draft"
+      ],
+      "viewLat": 51.5128,
+      "viewLng": -74.006,
+      "promptZh": "从 2006 年到 2014 年，NFL 选秀连续 9 年在这里举行，之后开始异地举办"
+    },
+    {
+      "id": "nba-ohio-1",
+      "prompt": "Lamar Jackson became the youngest player ever to win the Heisman Trophy at this school",
+      "answer": "Louisville, Kentucky",
+      "lat": 38.2527,
+      "lng": -85.7585,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NCAA",
+        "Louisville"
+      ],
+      "viewLat": 48.2306,
+      "viewLng": -83.692,
+      "promptZh": "Lamar Jackson 在这所学校成为赢得 Heisman Trophy 的最年轻球员"
+    },
+    {
+      "id": "nfl-army-1",
+      "prompt": "Pat Tillman left a $3.6 million NFL contract in this city to enlist as an Army Ranger after 9/11",
+      "answer": "Fresno, California",
+      "lat": 36.7378,
+      "lng": -119.7871,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Arizona State"
+      ],
+      "viewLat": 25.6645,
+      "viewLng": -125.3237,
+      "promptZh": "“9·11”事件后，Pat Tillman 在这座城市放弃一份价值 360 万美元的 NFL 合同，报名成为 Army Ranger"
+    },
+    {
+      "id": "nfl-baltimore-1",
+      "prompt": "The NFL's smallest-market team played 2 to 3 home games a year from 1933 to 1994 in this nearby city to boost revenue",
+      "answer": "Baltimore, Maryland",
+      "lat": 39.2904,
+      "lng": -76.6122,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Colts"
+      ],
+      "viewLat": 49.2182,
+      "viewLng": -71.6483,
+      "promptZh": "为增加收入，NFL 市场规模最小的球队曾在 1933 年至 1994 年间每年在这座附近城市举办 2 至 3 个主场比赛"
+    },
+    {
+      "id": "nfl-baylor-1",
+      "prompt": "Adrian Peterson rushed for 1,925 yards as a 2004 freshman at this Big 12 school's town",
+      "answer": "Waco, Texas",
+      "lat": 31.5493,
+      "lng": -97.1467,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NCAA",
+        "Baylor"
+      ],
+      "viewLat": 40.3316,
+      "viewLng": -92.7556,
+      "promptZh": "Adrian Peterson 在 2004 年大一赛季便 rushing 了 1,925 码，当时效力于这所 Big 12 联盟学校所在的城市"
+    },
+    {
+      "id": "nfl-boise-1",
+      "prompt": "Ashton Jeanty rushed for 2,601 yards and finished 2nd in Heisman voting while playing here",
+      "answer": "Boise, Idaho",
+      "lat": 43.615,
+      "lng": -116.2023,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NCAA",
+        "Boise State"
+      ],
+      "viewLat": 38.8621,
+      "viewLng": -121.9396,
+      "promptZh": "Ashton Jeanty 效力期间 rushing 了 2,601 码，并在 Heisman 评选中获得第二名"
+    },
+    {
+      "id": "nfl-buffalo-1",
+      "prompt": "Before a 17-year NFL career, Ryan Fitzpatrick played quarterback at an Ivy League school in this city",
+      "answer": "Ithaca, New York",
+      "lat": 42.443,
+      "lng": -76.5019,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NCAA",
+        "Cornell"
+      ],
+      "viewLat": 26.783,
+      "viewLng": -76.5019,
+      "promptZh": "开启 17 年 NFL 生涯前，Ryan Fitzpatrick 曾在这座城市的常春藤盟校担任四分卫"
+    },
+    {
+      "id": "nfl-chicago-1",
+      "prompt": "The Chicago Bears began as the 'Decatur Staleys' in 1919 in this small Illinois manufacturing city",
+      "answer": "Decatur, Illinois",
+      "lat": 39.8403,
+      "lng": -88.9548,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Bears"
+      ],
+      "viewLat": 54.3083,
+      "viewLng": -91.9512,
+      "promptZh": "Chicago Bears 于1919年以“Decatur Staleyes”之名创立于伊利诺伊州这座小型工业城市"
+    },
+    {
+      "id": "nfl-chicago-2",
+      "prompt": "In 1999, Mike Ditka traded a historic 8-pick package to bring Ricky Williams to this city",
+      "answer": "New Orleans, Louisiana",
+      "lat": 29.9511,
+      "lng": -90.0715,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Saints"
+      ],
+      "viewLat": 41.0244,
+      "viewLng": -95.6081,
+      "promptZh": "1999年，Mike Ditka 送出历史级的8号签位组合，将 Ricky Williams 带到这座城市"
+    },
+    {
+      "id": "nfl-cowboys-1",
+      "prompt": "A 1985 rap video recorded by the roster before a Super Bowl blowout became a pop-culture hit for the team here",
+      "answer": "Irving, Texas",
+      "lat": 32.814,
+      "lng": -96.9489,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Cowboys"
+      ],
+      "viewLat": 18.346,
+      "viewLng": -93.9525,
+      "promptZh": "1985年，这支球队的全体成员在一场超级碗惨败前录制了一支说唱视频，并成为流行文化爆款"
+    },
+    {
+      "id": "nfl-dallas-1",
+      "prompt": "Emmitt Smith, the NFL's all-time rushing leader, was born in this Georgia city",
+      "answer": "Savannah, Georgia",
+      "lat": 32.0809,
+      "lng": -81.0912,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "born"
+      ],
+      "viewLat": 21.2809,
+      "viewLng": -81.0912,
+      "promptZh": "NFL 历史 rushing 纪录保持者 Emmitt Smith 出生于佐治亚州这座城市"
+    },
+    {
+      "id": "nfl-dallas-2",
+      "prompt": "Emmitt Smith, the NFL's all-time rushing leader, was born in this Florida city",
+      "answer": "Port St. Lucie, Florida",
+      "lat": 27.273,
+      "lng": -80.3582,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Cowboys"
+      ],
+      "viewLat": 17.2951,
+      "viewLng": -78.2917,
+      "promptZh": "NFL 历史 rushing 纪录保持者 Emmitt Smith 出生于佛罗里达州这座城市"
+    },
+    {
+      "id": "nfl-denver-1",
+      "prompt": "John Elway's 'The Drive' which went 98 yards to win the AFC Championship happened here in 1987",
+      "answer": "Denver, Colorado",
+      "lat": 39.7392,
+      "lng": -104.9903,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Broncos"
+      ],
+      "viewLat": 51.2138,
+      "viewLng": -102.6138,
+      "promptZh": "1987年，John Elway 完成了著名的“The Drive”，推进98码并赢得 AFC 冠军"
+    },
+    {
+      "id": "nfl-detroit-1",
+      "prompt": "A Thanksgiving football game has been an unbroken tradition since 1934 for the franchise in this city",
+      "answer": "Detroit, Michigan",
+      "lat": 42.3314,
+      "lng": -83.0458,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Lions"
+      ],
+      "viewLat": 49.9682,
+      "viewLng": -86.8642,
+      "promptZh": "自1934年起，这座城市球队的感恩节橄榄球赛从未中断"
+    },
+    {
+      "id": "nfl-detroit-2",
+      "prompt": "The Fail Mary, decided by replacement refs on the final play, happened here in 2012",
+      "answer": "New Orleans, Louisiana",
+      "lat": 29.9511,
+      "lng": -90.0715,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Saints"
+      ],
+      "viewLat": 34.0841,
+      "viewLng": -95.0604,
+      "promptZh": "2012年，决定比赛结果的“Fail Mary”在这座城市上演"
+    },
+    {
+      "id": "nfl-detroit-3",
+      "prompt": "Super Bowl XVI, the first ever held in a cold-weather city, was played here at the Silverdome here in 1982",
+      "answer": "Pontiac, Michigan",
+      "lat": 42.6389,
+      "lng": -83.1948,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Lions"
+      ],
+      "viewLat": 42.6389,
+      "viewLng": -88.5948,
+      "promptZh": "1982年，首次在寒冷城市举行的 Super Bowl XVI 在这座城市的 Silverdome 举行"
+    },
+    {
+      "id": "nfl-detroit-5",
+      "prompt": "This is the city where the NFL was founded in 1920, in a meeting above a candy shop",
+      "answer": "New York, New York",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "history"
+      ],
+      "viewLat": 33.076,
+      "viewLng": -77.8244,
+      "promptZh": "1920年，NFL 在一家糖果店楼上的会议中诞生于这座城市"
+    },
+    {
+      "id": "nfl-houston-1",
+      "prompt": "Kurt Warner was stocking shelves for $5.50/hr in Iowa before winning the Super Bowl for a team in this city",
+      "answer": "Sioux City, Iowa",
+      "lat": 42.4963,
+      "lng": -96.4049,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Rams"
+      ],
+      "viewLat": 37.7434,
+      "viewLng": -102.1422,
+      "promptZh": "Kurt Warner 曾在爱荷华州以每小时5.50美元的价格补货，后来为这座城市的球队赢得 Super Bowl"
+    },
+    {
+      "id": "nfl-houston-2",
+      "prompt": "Robert Crippen, the first NFL quarterback to throw for 3,000 yards in a season, was born in this city",
+      "answer": "Vienna, Virginia",
+      "lat": 38.7521,
+      "lng": -77.2217,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL"
+      ],
+      "viewLat": 29.9698,
+      "viewLng": -81.6128,
+      "promptZh": "Robert Crippen 是首位单赛季传球码数达到3,000码的 NFL 四分卫，出生于这座城市"
+    },
+    {
+      "id": "nfl-jacksonville-1",
+      "prompt": "Since 2017, college football fans in this city have waved to children watching from a hospital overlooking the stadium",
+      "answer": "Jacksonville, Florida",
+      "lat": 30.3322,
+      "lng": -81.6557,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NCAA",
+        "Florida"
+      ],
+      "viewLat": 14.6722,
+      "viewLng": -81.6557,
+      "promptZh": "自2017年以来，这座城市的大学橄榄球球迷一直向俯瞰球场的医院里的孩子们挥手"
+    },
+    {
+      "id": "nfl-london-1",
+      "prompt": "In 2022, the Packers played their first international game at the only purpose-built NFL stadium outside the US, here",
+      "answer": "London, England",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "scope": "country",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "international"
+      ],
+      "promptZh": "2022年，Packers首次参加海外比赛，地点就是美国境外唯一专为NFL修建的球场"
+    },
+    {
+      "id": "nfl-london-2",
+      "prompt": "In 2022, the NFL played its first regular-season game in Germany at this stadium",
+      "answer": "Munich, Germany",
+      "lat": 48.1351,
+      "lng": 11.582,
+      "scope": "world",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "international"
+      ],
+      "promptZh": "2022年，NFL首场德国常规赛在这座球场举行"
+    },
+    {
+      "id": "nfl-marshall-1",
+      "prompt": "A 1970 plane crash killed 75 including 37 college football players headed home to this city",
+      "answer": "Marshall, Texas",
+      "lat": 32.2396,
+      "lng": -94.3705,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NCAA",
+        "Marshall"
+      ],
+      "viewLat": 19.2683,
+      "viewLng": -97.0569,
+      "promptZh": "1970年一场飞机失事造成75人死亡，其中包括37名准备返回这座城市的大学橄榄球运动员"
+    },
+    {
+      "id": "nfl-miami-2",
+      "prompt": "The NFL's only community-owned team has played here since 1957, at the league's oldest active stadium",
+      "answer": "Green Bay, Wisconsin",
+      "lat": 44.5133,
+      "lng": -88.0133,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Packers"
+      ],
+      "viewLat": 31.542,
+      "viewLng": -85.3269,
+      "promptZh": "NFL唯一由社区共同持有的球队自1957年起，一直在这座城市联盟最古老且仍在使用的球场比赛"
+    },
+    {
+      "id": "nfl-miami-3",
+      "prompt": "Joe Namath guaranteed a win, then upset the Colts in Super Bowl III in 1969 at the Orange Bowl in this city",
+      "answer": "Miami, Florida",
+      "lat": 25.7617,
+      "lng": -80.1918,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Jets"
+      ],
+      "viewLat": 15.8339,
+      "viewLng": -75.2279,
+      "promptZh": "1969年Super Bowl III在这座城市的Orange Bowl举行，Joe Namath赛前保证获胜，随后爆冷击败Colts"
+    },
+    {
+      "id": "nfl-nfl-1",
+      "prompt": "Antonio Brown, the 4x All-Pro WR, was J.J. Watt's teammate at this university",
+      "answer": "Columbus, Ohio",
+      "lat": 39.9612,
+      "lng": -82.9988,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NCAA",
+        "Ohio State"
+      ],
+      "viewLat": 33.9684,
+      "viewLng": -75.7648,
+      "promptZh": "四届最佳阵容外接手Antonio Brown曾与J.J. Watt是这所大学的队友"
+    },
+    {
+      "id": "nfl-oakland-1",
+      "prompt": "The only NFL team ever to complete a perfect season played its home games in this city",
+      "answer": "Oakland, California",
+      "lat": 37.8044,
+      "lng": -122.2712,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Raiders"
+      ],
+      "viewLat": 33.6714,
+      "viewLng": -117.2823,
+      "promptZh": "唯一完成全胜赛季的NFL球队曾在这座城市进行主场比赛"
+    },
+    {
+      "id": "nfl-ohio-1",
+      "prompt": "A Thanksgiving football game has been an unbroken tradition since 1934 for the franchise in this city",
+      "answer": "Detroit, Michigan",
+      "lat": 42.3314,
+      "lng": -83.0458,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Lions"
+      ],
+      "viewLat": 29.9114,
+      "viewLng": -83.0458,
+      "promptZh": "自1934年以来，感恩节橄榄球赛一直是这座城市球队的悠久传统"
+    },
+    {
+      "id": "nfl-pennsylvania-1",
+      "prompt": "Tom Brady won 7 Super Bowls, but was a backup in this college town",
+      "answer": "State College, Pennsylvania",
+      "lat": 40.7934,
+      "lng": -77.8601,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NCAA",
+        "Penn State"
+      ],
+      "viewLat": 44.9264,
+      "viewLng": -82.849,
+      "promptZh": "Tom Brady赢得了7届超级碗，但在这座大学城只是一名替补"
+    },
+    {
+      "id": "nfl-philadelphia-3",
+      "prompt": "The 1939 NFL Championship Game, the first ever, was won by the New York Giants over this city",
+      "answer": "Brooklyn, New York",
+      "lat": 40.6782,
+      "lng": -73.9442,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "history"
+      ],
+      "viewLat": 53.0982,
+      "viewLng": -73.9442,
+      "promptZh": "首届1939年NFL冠军赛中，New York Giants击败了这座城市的球队"
+    },
+    {
+      "id": "nfl-phoenix-1",
+      "prompt": "Before being drafted in 2018, this QB threw for 4,948 yards in his last college season",
+      "answer": "Tempe, Arizona",
+      "lat": 33.4255,
+      "lng": -111.94,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "draft"
+      ],
+      "viewLat": 24.6432,
+      "viewLng": -116.3311,
+      "promptZh": "在2018年被选秀前，这位四分卫在大学最后一个赛季传出了4,948码"
+    },
+    {
+      "id": "nfl-pittsburgh-2",
+      "prompt": "After grenades ripped through his legs in Vietnam, Rocky Bleier was awarded a Purple Heart and won 4 Super Bowls for this city",
+      "answer": "Pittsburgh, Pennsylvania",
+      "lat": 40.4406,
+      "lng": -79.9959,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Steelers"
+      ],
+      "viewLat": 54.4806,
+      "viewLng": -79.9959,
+      "promptZh": "在越南被手榴弹炸伤双腿后，Rocky Bleier 获授紫心勋章，并为这座城市赢得了 4 次超级碗"
+    },
+    {
+      "id": "nfl-probowl-1",
+      "prompt": "The NFL Pro Bowl was held in this capital city from 1980 to 2009",
+      "answer": "Honolulu, Hawaii",
+      "lat": 21.3069,
+      "lng": -157.8583,
+      "scope": "world",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Pro Bowl"
+      ],
+      "promptZh": "1980 年至 2009 年，NFL 职业碗一直在这座首都城市举办"
+    },
+    {
+      "id": "nfl-sfo-1",
+      "prompt": "Joe Montana's 5 Super Bowl wins started with this Bay Area city",
+      "answer": "San Francisco, California",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "49ers"
+      ],
+      "viewLat": 41.9079,
+      "viewLng": -127.4083,
+      "promptZh": "Joe Montana 的 5 次超级碗胜利始于一这座湾区城市"
+    },
+    {
+      "id": "nfl-tennessee-1",
+      "prompt": "Peyton Manning chose this SEC school over Ole Miss, his father Archie's alma mater",
+      "answer": "Knoxville, Tennessee",
+      "lat": 35.9606,
+      "lng": -83.9207,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NCAA",
+        "Tennessee"
+      ],
+      "viewLat": 31.2077,
+      "viewLng": -78.1834,
+      "promptZh": "Peyton Manning 选择了这所东南联盟学校，而非父亲 Archie 的母校 Ole Miss"
+    },
+    {
+      "id": "nfl-tennessee-2",
+      "prompt": "Wentz and Lance both won national titles at this university",
+      "answer": "Fayetteville, North Carolina",
+      "lat": 35.0527,
+      "lng": -78.8784,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NCAA"
+      ],
+      "viewLat": 35.0527,
+      "viewLng": -71.8584,
+      "promptZh": "Wentz 和 Lance 都曾在这所大学赢得全国冠军"
+    },
+    {
+      "id": "nfl-texas-1",
+      "prompt": "Patrick Mahomes grew up in this city where his father pitched in the minors",
+      "answer": "Alvin, Texas",
+      "lat": 29.3019,
+      "lng": -95.0561,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Chiefs"
+      ],
+      "viewLat": 43.3419,
+      "viewLng": -95.0561,
+      "promptZh": "Patrick Mahomes 在这座城市长大，他的父亲曾在这里效力于小联盟"
+    },
+    {
+      "id": "nfl-texas-2",
+      "prompt": "Before inspiring a hit movie, the true story of 'Remember the Titans' unfolded at a high school in this city",
+      "answer": "Tarrant, Alabama",
+      "lat": 31.6208,
+      "lng": -87.0484,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Titans"
+      ],
+      "viewLat": 44.5921,
+      "viewLng": -89.7348,
+      "promptZh": "《Remember the Titans》的真实故事发生在这座城市的一所高中，后来启发了这部热门电影"
+    },
+    {
+      "id": "nfl-vegas-1",
+      "prompt": "The Raiders moved here in 2020 and their first home game drew a crowd of over 62,000",
+      "answer": "Las Vegas, Nevada",
+      "lat": 36.1699,
+      "lng": -115.1398,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Raiders"
+      ],
+      "viewLat": 47.6445,
+      "viewLng": -117.5163,
+      "promptZh": "Raiders 于 2020 年迁至这里，首场主场比赛吸引了超过 62,000 名观众"
+    },
+    {
+      "id": "us-ncaa-notre-dame-1",
+      "prompt": "Joe Montana won a national title at this Catholic university's town before going pro in 1979",
+      "answer": "South Bend, Indiana",
+      "lat": 41.6764,
+      "lng": -86.252,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NCAA",
+        "Notre Dame"
+      ],
+      "viewLat": 36.3035,
+      "viewLng": -92.7376,
+      "promptZh": "1979 年进入职业联盟前，Joe Montana 曾在这所天主教大学所在的城镇赢得全国冠军"
+    },
+    {
+      "id": "us-nfl-boston-1",
+      "prompt": "Tom Brady, the 199th pick of the 2000 NFL Draft, grew up in this California city",
+      "answer": "San Mateo, California",
+      "lat": 37.563,
+      "lng": -122.3255,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Patriots"
+      ],
+      "viewLat": 31.5702,
+      "viewLng": -129.5595,
+      "promptZh": "Tom Brady 是 2000 年 NFL 选秀大会第 199 顺位选中的球员，他在这座加州城市长大"
+    },
+    {
+      "id": "us-nfl-greenbay-1",
+      "prompt": "This small Wisconsin city has hosted the Packers since 1957 at the 'Frozen Tundra'",
+      "answer": "Green Bay, Wisconsin",
+      "lat": 44.5133,
+      "lng": -88.0133,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Packers"
+      ],
+      "viewLat": 57.4846,
+      "viewLng": -85.3269,
+      "promptZh": "自 1957 年起，Packers 一直在这座威斯康星小城以“冰雪荒原”之名进行主场比赛"
+    },
+    {
+      "id": "us-nfl-pittsburgh-1",
+      "prompt": "Franco Harris's tipped-pass touchdown in this city won an AFC playoff game in 1972",
+      "answer": "Pittsburgh, Pennsylvania",
+      "lat": 40.4406,
+      "lng": -79.9959,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Steelers",
+        "1970s"
+      ],
+      "viewLat": 51.5139,
+      "viewLng": -74.4593,
+      "promptZh": "1972 年，Franco Harris 在这座城市的接球达阵帮助球队赢下一场 AFC 季后赛"
+    },
+    {
+      "id": "mlb-arizona-2",
+      "prompt": "The largest stadium in the United States, The Big House, packs over 107,000 into this college town",
+      "answer": "Ann Arbor, Michigan",
+      "lat": 42.2808,
+      "lng": -83.743,
+      "scope": "city",
+      "sport": "athletics",
+      "tags": [
+        "NCAA"
+      ],
+      "viewLat": 27.8128,
+      "viewLng": -86.7394,
+      "promptZh": "美国最大的体育场 The Big House 可容纳超过 10.7 万名观众，位于这座大学城"
+    },
+    {
+      "id": "nfl-dallas-3",
+      "prompt": "This Texas university's 'A&M' yell was led by the 12th Man",
+      "answer": "College Station, Texas",
+      "lat": 30.628,
+      "lng": -96.3344,
+      "scope": "city",
+      "sport": "athletics",
+      "tags": [
+        "NCAA"
+      ],
+      "viewLat": 22.9912,
+      "viewLng": -92.516,
+      "promptZh": "这所 Texas 大学的“A&M”呐喊声曾由第 12 人领唱"
+    },
+    {
+      "id": "nfl-detroit-4",
+      "prompt": "This university's 'Sparty' mascot has been stomping since 1895",
+      "answer": "East Lansing, Michigan",
+      "lat": 42.7325,
+      "lng": -84.5555,
+      "scope": "city",
+      "sport": "athletics",
+      "tags": [
+        "NCAA",
+        "Michigan State"
+      ],
+      "viewLat": 38.5995,
+      "viewLng": -89.5444,
+      "promptZh": "这所大学的“Sparty”吉祥物从 1895 年起一直跺着脚"
+    },
+    {
+      "id": "nike-oregon-1",
+      "prompt": "Nike was born on this campus when Bill Bowerman & Phil Knight built a waffle-inspired running shoe",
+      "answer": "Eugene, Oregon",
+      "lat": 44.0521,
+      "lng": -123.0868,
+      "scope": "city",
+      "sport": "athletics",
+      "tags": [
+        "Nike",
+        "Nike Oregon Project"
+      ],
+      "viewLat": 44.0521,
+      "viewLng": -117.6868,
+      "promptZh": "Bill Bowerman 和 Phil Knight 在这座大学的校园里制造出灵感来自华夫饼的跑鞋，Nike 由此诞生"
+    },
+    {
+      "id": "olympics-berlin-1",
+      "prompt": "Jesse Owens won 4 gold medals at the 1936 Summer Olympics in this city",
+      "answer": "Berlin, Germany",
+      "lat": 52.52,
+      "lng": 13.405,
+      "scope": "world",
+      "sport": "athletics",
+      "tags": [
+        "Olympics",
+        "1936"
+      ],
+      "promptZh": "Jesse Owens 在 1936 年夏季奥运会于此城夺得 4 枚金牌"
+    },
+    {
+      "id": "mlb-baltimore-2",
+      "prompt": "Cal Ripken broke Lou Gehrig's ironman streak with his 2,131st straight game in 1995 in this city",
+      "answer": "Baltimore, Maryland",
+      "lat": 39.2904,
+      "lng": -76.6122,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Orioles"
+      ],
+      "viewLat": 48.0727,
+      "viewLng": -72.2211,
+      "promptZh": "1995 年，Cal Ripken 在这座城市参加第 2,131 场连续比赛，打破 Lou Gehrig 的铁人纪录"
+    },
+    {
+      "id": "mlb-boston-1",
+      "prompt": "After missing 3 years of his prime to serve as an aviator in WWII, Ted Williams returned to this city to win AL MVP in 1946",
+      "answer": "San Diego, California",
+      "lat": 32.7157,
+      "lng": -117.1611,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Red Sox"
+      ],
+      "viewLat": 21.2411,
+      "viewLng": -119.5376,
+      "promptZh": "大联盟仍在使用的最古老球场自 1912 年起便矗立在这座城市"
+    },
+    {
+      "id": "mlb-boston-2",
+      "prompt": "The 'Music City Miracle' saw Kevin Dyson return a lateraled kickoff for a TD with 3 seconds left in this city",
+      "answer": "Nashville, Tennessee",
+      "lat": 36.1627,
+      "lng": -86.7816,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "NFL",
+        "Titans"
+      ],
+      "viewLat": 23.7427,
+      "viewLng": -86.7816,
+      "promptZh": "“Music City Miracle”见证了 Kevin Dyson 在这座城市于开球回传后以 3 秒之差完成达阵"
+    },
+    {
+      "id": "mlb-boston-3",
+      "prompt": "The oldest ballpark still in use in the majors has stood in this city since 1912",
+      "answer": "Boston, Massachusetts",
+      "lat": 42.3601,
+      "lng": -71.0589,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Fenway"
+      ],
+      "viewLat": 30.8855,
+      "viewLng": -68.6824,
+      "promptZh": "大联盟仍在使用的最古老球场自 1912 年起便矗立在这座城市"
+    },
+    {
+      "id": "mlb-bronx-1",
+      "prompt": "Yankee Stadium, originally opened 1923, sits in this New York borough",
+      "answer": "The Bronx, New York",
+      "lat": 40.8448,
+      "lng": -73.8648,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Yankees"
+      ],
+      "viewLat": 53.8161,
+      "viewLng": -71.1784,
+      "promptZh": "Yankee Stadium 于 1923 年首次开放，坐落在 New York 的这座行政区"
+    },
+    {
+      "id": "mlb-brooklyn-1",
+      "prompt": "In 1947, Jackie Robinson broke MLB's color barrier by making his Dodgers debut at a now-demolished park in this city",
+      "answer": "Brooklyn, New York",
+      "lat": 40.6782,
+      "lng": -73.9442,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Dodgers"
+      ],
+      "viewLat": 56.3382,
+      "viewLng": -73.9442,
+      "promptZh": "1947 年，Jackie Robinson 在这座城市一座如今已拆除的球场完成 Dodgers 首次亮相，打破 MLB 的肤色壁垒"
+    },
+    {
+      "id": "mlb-dominican-1",
+      "prompt": "Hall of Fame slugger David Ortiz, won 3 World Series with Boston. He was born in this capital city",
+      "answer": "Santo Domingo, Dominican Republic",
+      "lat": 18.4861,
+      "lng": -69.9312,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "international"
+      ],
+      "promptZh": "名人堂击球手 David Ortiz 随 Boston 赢得 3 次 World Series，出生在这座首都城市"
+    },
+    {
+      "id": "mlb-iowa-1",
+      "prompt": "The Yankees & White Sox played a game in a cornfield next to the 'Field of Dreams' movie site in this small town",
+      "answer": "Dyersville, Iowa",
+      "lat": 42.4761,
+      "lng": -91.2857,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Field of Dreams"
+      ],
+      "viewLat": 31.4028,
+      "viewLng": -85.7491,
+      "promptZh": "Yankees 与 White Sox 曾在这座小镇的玉米田里、电影《梦幻球场》取景地旁进行过一场比赛"
+    },
+    {
+      "id": "mlb-japan-1",
+      "prompt": "Ichiro has pro baseball's most career hits. 1,278 came with the Orix BlueWave in this Asian city",
+      "answer": "Kobe, Japan",
+      "lat": 34.6901,
+      "lng": 135.1955,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "international"
+      ],
+      "promptZh": "Ichiro 拥有职业棒球生涯最多的安打，其中 1,278 是在这座亚洲城市效力 Orix BlueWave 时击出的"
+    },
+    {
+      "id": "mlb-milwaukee-1",
+      "prompt": "A 1969 MLB expansion team went bankrupt after 1 season. They later became the Brewers, but they first played here",
+      "answer": "Seattle, Washington",
+      "lat": 47.6062,
+      "lng": -122.3321,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Pilots"
+      ],
+      "viewLat": 39.9694,
+      "viewLng": -126.1505,
+      "promptZh": "一支 1969 年加入 MLB 的扩张球队首个赛季便破产，后来成为 Brewers，最初曾在这座城市效力"
+    },
+    {
+      "id": "mlb-milwaukee-2",
+      "prompt": "The highest-scoring World Series game of the century produced 25 runs in this inland port city",
+      "answer": "Cincinnati, Ohio",
+      "lat": 39.1031,
+      "lng": -84.512,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Reds"
+      ],
+      "viewLat": 29.1252,
+      "viewLng": -86.5785,
+      "promptZh": "本世纪得分最高的 World Series 比赛在这座内陆港口城市共打出 25 分"
+    },
+    {
+      "id": "mlb-minnesota-1",
+      "prompt": "This city opened an MLB ballpark in 2012 with a 450 gallon saltwater aquarium full of tropical fish behind home plate",
+      "answer": "Minneapolis, Minnesota",
+      "lat": 44.9778,
+      "lng": -93.265,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Twins"
+      ],
+      "viewLat": 34.1778,
+      "viewLng": -93.265,
+      "promptZh": "这座城市于 2012 年启用一座 MLB 球场，主_plate 后方设有一个装有热带鱼的大型海水水族箱"
+    },
+    {
+      "id": "mlb-pittsburgh-1",
+      "prompt": "Roberto Clemente, the first Latin American Hall of Famer, grew up just outside this capital",
+      "answer": "Ponce, Puerto Rico",
+      "lat": 18.0108,
+      "lng": -66.6141,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Pirates"
+      ],
+      "promptZh": "Roberto Clemente——首位入选 Hall of Fame 的拉丁美洲球员——在这座首都郊外长大"
+    },
+    {
+      "id": "mlb-puerto rico-1",
+      "prompt": "Xander Bogaerts, a 10 time Gold Glove center fielder, was born in the capital of this small Caribbean island",
+      "answer": "Oranjestad, Aruba",
+      "lat": 12.5246,
+      "lng": -70.0271,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "international"
+      ]
+    },
+    {
+      "id": "mlb-san diego-1",
+      "prompt": "In 1996, the Padres and Mets played the first MLB regular-season game outside the US and Canada in this city",
+      "answer": "Hermosillo, Sonora",
+      "lat": 29.0729,
+      "lng": -110.9559,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "international"
+      ],
+      "promptZh": "1996 年，Padres 与 Mets 在这座城市进行美国和加拿大以外的 MLB 常规赛首秀"
+    },
+    {
+      "id": "mlb-san-jose-1",
+      "prompt": "Aaron Judge grew up in this small valley town of 2,000 before breaking the AL HR record",
+      "answer": "Alameda, California",
+      "lat": 37.7652,
+      "lng": -122.2416,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Yankees"
+      ],
+      "viewLat": 48.8385,
+      "viewLng": -116.705,
+      "promptZh": "Aaron Judge 在刷新美联本垒打纪录前，就在这座人口约两千的小山谷城镇长大"
+    },
+    {
+      "id": "nba-detroit-4",
+      "prompt": "Miguel Cabrera, 2012 Triple Crown winner, grew up on this city's sandlots",
+      "answer": "Maracay, Venezuela",
+      "lat": 10.2469,
+      "lng": -67.5958,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "international"
+      ],
+      "promptZh": "Miguel Cabrera——2012 年三冠王——在这座城市的沙地棒球场长大"
+    },
+    {
+      "id": "nba-detroit-5",
+      "prompt": "The last major league park to install lights, in 1988, hosted only day games for decades in this city",
+      "answer": "San Francisco, California",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Giants"
+      ],
+      "viewLat": 47.7528,
+      "viewLng": -120.3529,
+      "promptZh": "这座球场是 1988 年最后安装灯光的 MLB 球场，多年来只承办日间比赛，位于这座城市"
+    },
+    {
+      "id": "nba-miami-2",
+      "prompt": "Hobbled Kirk Gibson hit a pinch-hit walk-off homer in the 1988 World Series opener in this city",
+      "answer": "Los Angeles, California",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Dodgers"
+      ],
+      "viewLat": 43.98,
+      "viewLng": -123.2076,
+      "promptZh": "在 1988 年 World Series 揭幕战中，受伤跛足的 Kirk Gibson 于这座城市击出代打再见本垒打"
+    },
+    {
+      "id": "nba-miami-3",
+      "prompt": "Cuban flamethrower Aroldis Chapman, owner of the fastest pitch in MLB history, hails from this city",
+      "answer": "Havana, Cuba",
+      "lat": 23.1136,
+      "lng": -82.3666,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "international"
+      ],
+      "promptZh": "拥有MLB历史最快球速的古巴火焰投手Aroldis Chapman来自这座城市"
+    },
+    {
+      "id": "nba-orlando-1",
+      "prompt": "In 1905, Honus Wagner became the first baseball player to sign a bat endorsement deal with a company from this city",
+      "answer": "Chicago, Illinois",
+      "lat": 41.8781,
+      "lng": -87.6298,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Spalding"
+      ],
+      "viewLat": 54.8494,
+      "viewLng": -90.3162,
+      "promptZh": "1905年，Honus Wagner成为首位与一家来自这座城市的公司签署球棒代言协议的棒球运动员"
+    },
+    {
+      "id": "nba-queens-1",
+      "prompt": "The Mets won the World Series in '69 and '86 while playing at Shea Stadium which sits here",
+      "answer": "Flushing, New York",
+      "lat": 40.7445,
+      "lng": -73.8453,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Mets"
+      ],
+      "viewLat": 30.7666,
+      "viewLng": -71.7788,
+      "promptZh": "Mets在1969年和1986年夺得世界大赛冠军，当时的主场Shea Stadium坐落于此"
+    },
+    {
+      "id": "nba-seattle-1",
+      "prompt": "Felix Hernandez, who tossed a 2012 perfect game for Seattle, grew up in this city",
+      "answer": "Brewster, Washington",
+      "lat": 48.1683,
+      "lng": -122.4346,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Mariners"
+      ],
+      "viewLat": 37.3683,
+      "viewLng": -122.4346,
+      "promptZh": "Felix Hernandez曾为Seattle投出2012年的完美比赛，并在这座城市长大"
+    },
+    {
+      "id": "nca-omaha-1",
+      "prompt": "The College World Series has been held annually in this city since 1950",
+      "answer": "Omaha, Nebraska",
+      "lat": 41.2565,
+      "lng": -95.9345,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "NCAA"
+      ],
+      "viewLat": 36.5036,
+      "viewLng": -90.1972,
+      "promptZh": "大学世界大赛自1950年起每年都在这座城市举行"
+    },
+    {
+      "id": "nfl-boston-1",
+      "prompt": "Before starting 1st in the NFL Draft, Kyler Murray went 9th overall in the 2018 MLB Draft to the team who played here",
+      "answer": "Oakland, California",
+      "lat": 37.8044,
+      "lng": -122.2712,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Athletics"
+      ],
+      "viewLat": 27.8766,
+      "viewLng": -127.2351,
+      "promptZh": "在NFL选秀中成为状元前，Kyler Murray在2018年MLB选秀中以第9顺位被一支效力于此城的球队选中"
+    },
+    {
+      "id": "nfl-greenbay-2",
+      "prompt": "In 1905, Honus Wagner became the first baseball player to sign a bat endorsement deal with a company from this city",
+      "answer": "Chicago, Illinois",
+      "lat": 41.8781,
+      "lng": -87.6298,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Spalding"
+      ],
+      "viewLat": 53.3527,
+      "viewLng": -90.0063,
+      "promptZh": "1905年，Honus Wagner成为首位与一家来自这座城市的公司签署球棒代言协议的棒球运动员"
+    },
+    {
+      "id": "nfl-miami-4",
+      "prompt": "Ten Cent Beer Night in 1974 turned into a drunken riot and a forfeit for the MLB team who plays here",
+      "answer": "Arlington, Texas",
+      "lat": 32.7357,
+      "lng": -97.1081,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Rangers"
+      ],
+      "viewLat": 27.3628,
+      "viewLng": -90.6225,
+      "promptZh": "1974年的“十美分啤酒之夜”演变成醉汉暴乱，并导致一支效力于此城的MLB球队被判负"
+    },
+    {
+      "id": "nfl-tampa-1",
+      "prompt": "Andruw Jones, a 10 time Gold Glove center fielder, was born in the capital of this Dutch Caribbean island",
+      "answer": "Willemstad, Curaçao",
+      "lat": 12.1091,
+      "lng": -68.9316,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "international"
+      ],
+      "promptZh": "十届金手套奖中外野手Andruw Jones出生于这座荷兰加勒比海岛屿的首府"
+    },
+    {
+      "id": "nhl-seattle-1",
+      "prompt": "MLB has opened multiple seasons at a domed stadium in this Asian capital",
+      "answer": "Tokyo, Japan",
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "international"
+      ],
+      "promptZh": "MLB曾在这座亚洲首都的穹顶球场多次开启新赛季"
+    },
+    {
+      "id": "us-mlb-atlanta-1",
+      "prompt": "Hank Aaron broke Babe Ruth's career home run record at this city's stadium in 1974",
+      "answer": "Atlanta, Georgia",
+      "lat": 33.7554,
+      "lng": -84.4006,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Braves",
+        "home run"
+      ],
+      "viewLat": 22.6821,
+      "viewLng": -78.864,
+      "promptZh": "1974年，Hank Aaron在这座城市的球场打破了Babe Ruth的本垒打生涯纪录"
+    },
+    {
+      "id": "basketball-sudan-1",
+      "prompt": "Manute Bol, the 7'7 NBA legend who drank beer before games to keep weight on, grew up in this East African nation",
+      "answer": "Turalei, South Sudan",
+      "lat": 6.6,
+      "lng": 31.6667,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "这位身高7英尺7英寸的NBA传奇Manute Bol靠赛前喝啤酒控制体重，并在这个东非国家长大"
+    },
+    {
+      "id": "intl-nba-houston-1",
+      "prompt": "Hakeem Olajuwon, the NBA's all-time blocks leader, was born in this city and didn't play hoops until age 15",
+      "answer": "Lagos, Nigeria",
+      "lat": 6.5244,
+      "lng": 3.3792,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "NBA历史盖帽王Hakeem Olajuwon出生在这座城市，15岁才开始打篮球"
+    },
+    {
+      "id": "nba-akron-1",
+      "prompt": "LeBron James was living in this city when he graced the cover of Sports Illustrated as a high school junior",
+      "answer": "Akron, Ohio",
+      "lat": 41.0814,
+      "lng": -81.519,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Cavaliers"
+      ],
+      "viewLat": 28.1101,
+      "viewLng": -84.2054,
+      "promptZh": "LeBron James读高中三年级时登上Sports Illustrated封面，当时生活在这座城市"
+    },
+    {
+      "id": "nba-augusta-1",
+      "prompt": "Kevin Durant won NBA Rookie of the Year with a franchise from this city after being drafted 2nd overall in 2007",
+      "answer": "Seattle, Washington",
+      "lat": 47.6062,
+      "lng": -122.3321,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "SuperSonics"
+      ],
+      "viewLat": 55.243,
+      "viewLng": -118.5137,
+      "promptZh": "Kevin Durant在2007年以榜眼秀身份被选中后，随这座城市的球队赢得NBA最佳新秀"
+    },
+    {
+      "id": "nba-boston-2",
+      "prompt": "A gray squirrel that darted across home plate in a 2011 playoff game became a good-luck mascot for the team here",
+      "answer": "St. Louis, Missouri",
+      "lat": 38.627,
+      "lng": -90.1994,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Cardinals"
+      ],
+      "viewLat": 47.4093,
+      "viewLng": -85.8083,
+      "promptZh": "一只在2011年季后赛中跑过本垒的灰松鼠，后来成为这里球队的幸运吉祥物"
+    },
+    {
+      "id": "nba-boston-3",
+      "prompt": "Bob Cousy starred at Holy Cross in this 'City of Seven Hills'",
+      "answer": "Worcester, Massachusetts",
+      "lat": 42.2626,
+      "lng": -71.8023,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NCAA",
+        "Holy Cross"
+      ],
+      "viewLat": 53.7372,
+      "viewLng": -69.4258,
+      "promptZh": "Bob Cousy曾在这座“七丘之城”的Holy Cross效力"
+    },
+    {
+      "id": "nba-boston-4",
+      "prompt": "Cooper Flagg and his twin brother Ace grew up in this small city before he became the #1 NBA Draft pick in 2025",
+      "answer": "Newport, Maine",
+      "lat": 44.6362,
+      "lng": -69.3253,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "draft"
+      ],
+      "viewLat": 57.0562,
+      "viewLng": -69.3253,
+      "promptZh": "Cooper Flagg和他的双胞胎兄弟Ace在这座小城长大，随后他成为2025年NBA状元秀"
+    },
+    {
+      "id": "nba-boston-6",
+      "prompt": "Bob Cousy, the NBA's all-time leader in assists for 22 years, was born in this Massachusetts city",
+      "answer": "Brookline, Massachusetts",
+      "lat": 42.3318,
+      "lng": -71.1212,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Celtics"
+      ],
+      "viewLat": 51.1141,
+      "viewLng": -75.5123,
+      "promptZh": "曾连续22年领跑NBA助攻榜的Bob Cousy出生在这座马萨诸塞州城市"
+    },
+    {
+      "id": "nba-boston-7",
+      "prompt": "Larry O'Brien, the NBA's longest-serving commissioner, was born in this Massachusetts city",
+      "answer": "Springfield, Massachusetts",
+      "lat": 42.1015,
+      "lng": -72.5898,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "history"
+      ],
+      "viewLat": 46.8544,
+      "viewLng": -78.3271,
+      "promptZh": "NBA任期最长的总裁Larry O'Brien出生在这座马萨诸塞州城市"
+    },
+    {
+      "id": "nba-brooklyn-1",
+      "prompt": "Hall of Famer Drazen Petrovic, starred for the Nets but grew up in this coastal city",
+      "answer": "Šibenik, Croatia",
+      "lat": 43.735,
+      "lng": 15.895,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "名人堂球员Drazen Petrovic曾效力Nets，但在这座沿海城市长大"
+    },
+    {
+      "id": "nba-canada-1",
+      "prompt": "Olivier Rioux, who stands 7'9, is tallest college basketball player ever. He grew up in this town",
+      "answer": "Victoria, British Columbia",
+      "lat": 48.4284,
+      "lng": -123.3656,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NCAA"
+      ],
+      "promptZh": "身高7英尺9英寸、NCAA历史最高大学篮球运动员Olivier Rioux在这座小镇长大"
+    },
+    {
+      "id": "nba-carmelo-1",
+      "prompt": "Manu Ginobili grew up playing soccer in this city before becoming one of basketball's greatest international stars",
+      "answer": "Bahía Blanca, Argentina",
+      "lat": -38.7167,
+      "lng": -62.2667,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "Manu Ginobili小时候在这座城市踢足球，后来成为篮球史上最伟大的国际球星之一"
+    },
+    {
+      "id": "nba-celtics-1",
+      "prompt": "The 'parity' era Boston Celtics' 8 straight titles began with a 1957 championship in this city",
+      "answer": "St. Louis, Missouri",
+      "lat": 38.627,
+      "lng": -90.1994,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Hawks"
+      ],
+      "viewLat": 53.095,
+      "viewLng": -87.203,
+      "promptZh": "处于“均势”时代的Boston Celtics八连冠始于1957年在这座城市夺得的总冠军"
+    },
+    {
+      "id": "nba-celtics-2",
+      "prompt": "This Massachusetts city is where the NBA's first draft was held in 1947",
+      "answer": "Waterloo, Iowa",
+      "lat": 42.4928,
+      "lng": -92.3405,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "history"
+      ],
+      "viewLat": 58.1528,
+      "viewLng": -92.3405,
+      "promptZh": "1947年，NBA首届选秀大会在这座马萨诸塞州城市举行"
+    },
+    {
+      "id": "nba-charlotte-2",
+      "prompt": "The NBA's all-time leader in both assists and steals, John Stockton, grew up and played college ball in this city",
+      "answer": "Spokane, Washington",
+      "lat": 47.6588,
+      "lng": -117.426,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NCAA",
+        "Gonzaga"
+      ],
+      "viewLat": 53.6516,
+      "viewLng": -110.192,
+      "promptZh": "NBA历史助攻数和抢断数纪录保持者John Stockton在这座城市长大并打过大学篮球"
+    },
+    {
+      "id": "nba-congo-1",
+      "prompt": "Dikembe Mutombo was born in this African capital before arriving at Georgetown to study medicine",
+      "answer": "Kinshasa, DR Congo",
+      "lat": -4.4419,
+      "lng": 15.2663,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "Dikembe Mutombo出生于这座非洲首都，后来前往Georgetown学习医学"
+    },
+    {
+      "id": "nba-detroit-20",
+      "prompt": "This city's team was founded by a businessman named Fred Zollner",
+      "answer": "Fort Wayne, Indiana",
+      "lat": 41.0793,
+      "lng": -85.1394,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Pistons"
+      ],
+      "viewLat": 41.0793,
+      "viewLng": -77.3094,
+      "promptZh": "这座城市的球队由 businessman Fred Zollner 创立"
+    },
+    {
+      "id": "nba-detroit-24",
+      "prompt": "This city's team won the 1940 NBL title as the Fort Wayne Zollner Pistons",
+      "answer": "Fort Wayne, Indiana",
+      "lat": 41.0793,
+      "lng": -85.1394,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Pistons"
+      ],
+      "viewLat": 56.7393,
+      "viewLng": -85.1394,
+      "promptZh": "这座城市的球队以Zollner活塞队的身份赢得了1940年NBL总冠军"
+    },
+    {
+      "id": "nba-europe-1",
+      "prompt": "Before he was drafted during a Taco Bell commercial in 2014, Nikola Jokić was playing professionally here",
+      "answer": "Belgrade, Serbia",
+      "lat": 44.7866,
+      "lng": 20.4489,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "2014年在一则Taco Bell广告中被选中的Nikola Jokić，此前一直在这座城市效力"
+    },
+    {
+      "id": "nba-france-2",
+      "prompt": "4-time NBA Defensive Player of the Year, Rudy Gobert, was born in this European town",
+      "answer": "Saint-Denis, Réunion",
+      "lat": -20.8823,
+      "lng": 55.4504,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "四届NBA最佳防守球员Rudy Gobert出生于这座欧洲城镇"
+    },
+    {
+      "id": "nba-houston-1",
+      "prompt": "Yao Ming, the #1 pick in 2002, played professionally in this city before the NBA",
+      "answer": "Shanghai, China",
+      "lat": 31.2304,
+      "lng": 121.4737,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "2002年状元Yao Ming加盟NBA前曾在这座城市效力"
+    },
+    {
+      "id": "nba-houston-2",
+      "prompt": "AJ Dybantsa became the first NBA #1 overall pick to have played college ball at this university",
+      "answer": "Provo, Utah",
+      "lat": 40.2338,
+      "lng": -111.6585,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NCAA",
+        "BYU"
+      ],
+      "viewLat": 51.7084,
+      "viewLng": -109.282,
+      "promptZh": "AJ Dybantsa成为首位曾在这所大学打过大学篮球的NBA状元"
+    },
+    {
+      "id": "nba-illinois-1",
+      "prompt": "Allen Iverson's infamous 'We talkin' about practice' rant came at a 2002 press conference in this city",
+      "answer": "Philadelphia, Pennsylvania",
+      "lat": 39.9526,
+      "lng": -75.1652,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "76ers"
+      ],
+      "viewLat": 35.8196,
+      "viewLng": -70.1763,
+      "promptZh": "Allen Iverson著名的“我们还在讨论训练”发言，出现在这座城市举行的2002年新闻发布会上"
+    },
+    {
+      "id": "nba-iowa-1",
+      "prompt": "Caitlin Clark broke the all-time NCAA scoring record here in 2024",
+      "answer": "Iowa City, Iowa",
+      "lat": 41.6611,
+      "lng": -91.5301,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NCAA",
+        "women's basketball"
+      ],
+      "viewLat": 57.3211,
+      "viewLng": -91.5301,
+      "promptZh": "Caitlin Clark于2024年在这座城市打破NCAA历史得分纪录"
+    },
+    {
+      "id": "nba-la-1",
+      "prompt": "Kobe Bryant jumped straight to the league from this high school",
+      "answer": "Lower Merion, Pennsylvania",
+      "lat": 40.0194,
+      "lng": -75.3081,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Lakers"
+      ],
+      "viewLat": 34.0266,
+      "viewLng": -82.5421,
+      "promptZh": "Kobe Bryant从这所高中直接进入NBA"
+    },
+    {
+      "id": "nba-memphis-1",
+      "prompt": "Before relocating to Memphis, the Grizzlies called this city home for 6 seasons",
+      "answer": "Vancouver, British Columbia",
+      "lat": 49.2827,
+      "lng": -123.1207,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "在迁往孟菲斯前，Grizzlies曾在这座城市效力了6个赛季"
+    },
+    {
+      "id": "nba-memphis-2",
+      "prompt": "The NBA's first Chinese player, Wang Zhizhi, was born in this city",
+      "answer": "Shanghai, China",
+      "lat": 31.2304,
+      "lng": 121.4737,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "NBA首位中国球员王治郅出生在这座城市"
+    },
+    {
+      "id": "nba-miami-6",
+      "prompt": "This university's 1987 NCAA title game, where a free throw made it 74-74, is still called the 'greatest game ever played'",
+      "answer": "Indianapolis, Indiana",
+      "lat": 39.7684,
+      "lng": -86.1581,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NCAA",
+        "Final Four"
+      ],
+      "viewLat": 29.8406,
+      "viewLng": -91.122,
+      "promptZh": "这所大学的1987年NCAA冠军赛仍被称为“最伟大的一场比赛”，一记罚球曾将比分扳成74-74"
+    },
+    {
+      "id": "nba-miami-7",
+      "prompt": "The 1997-98 Bulls' 72-10 record was broken by this team",
+      "answer": "Golden Valley, Minnesota",
+      "lat": 44.988,
+      "lng": -93.4683,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Wolves"
+      ],
+      "viewLat": 32.0167,
+      "viewLng": -96.1547,
+      "promptZh": "1997-98赛季Bulls的72胜10负纪录被这支球队打破"
+    },
+    {
+      "id": "nba-michigan-1",
+      "prompt": "Magic Johnson was 'Earvin' until a writer saw him post 36-18-16 at this high school",
+      "answer": "Lansing, Michigan",
+      "lat": 42.7325,
+      "lng": -84.5555,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Lakers"
+      ],
+      "viewLat": 42.7325,
+      "viewLng": -78.3455,
+      "promptZh": "Magic Johnson本名是Earvin，直到一名记者看到他在这所高中打出36分18篮板16助攻"
+    },
+    {
+      "id": "nba-milwaukee-1",
+      "prompt": "The last time the Bucks had the #1 overall pick, in 2005, they took a 7-footer from this city",
+      "answer": "Toronto, Ontario",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "Bucks上一次拥有状元签是在2005年，他们从这座城市选走了一名7尺中锋"
+    },
+    {
+      "id": "nba-north carolina-1",
+      "prompt": "Cameron Indoor Stadium, which has sold out every NCAAB game since 1990, sits here",
+      "answer": "Greensboro, North Carolina",
+      "lat": 36.0726,
+      "lng": -79.792,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NCAA"
+      ],
+      "viewLat": 28.4358,
+      "viewLng": -83.6104,
+      "promptZh": "自1990年以来每场NCAAB比赛都售罄的Cameron Indoor Stadium坐落在这里"
+    },
+    {
+      "id": "nba-northcarolina-1",
+      "prompt": "Michael Jordan was cut from varsity as a sophomore in this coastal city",
+      "answer": "Wilmington, North Carolina",
+      "lat": 34.2257,
+      "lng": -77.9447,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Bullets"
+      ],
+      "viewLat": 46.6457,
+      "viewLng": -77.9447,
+      "promptZh": "Michael Jordan读大二时从校队阵容中被裁掉，当时他在这座沿海城市"
+    },
+    {
+      "id": "nba-okc-1",
+      "prompt": "Kevin Durant's 2012-13 scoring title came with this Oklahoma City team",
+      "answer": "Oklahoma City, Oklahoma",
+      "lat": 35.4676,
+      "lng": -97.5164,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Thunder"
+      ],
+      "viewLat": 25.4897,
+      "viewLng": -99.5829,
+      "promptZh": "Kevin Durant的2012-13赛季得分王是在这座城市的球队效力时获得的"
+    },
+    {
+      "id": "nba-oklahoma-1",
+      "prompt": "Back to back MVP Shai Gilgeous-Alexander grew up just outside of this city",
+      "answer": "Hamilton, Ontario",
+      "lat": 43.2557,
+      "lng": -79.8711,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "连续两届MVP Shai Gilgeous-Alexander就在这座城市郊外长大"
+    },
+    {
+      "id": "nba-philadelphia-1",
+      "prompt": "After a 3 game stint with the Memphis Grizzlies, Allen Iverson finished his NBA career in this city",
+      "answer": "Philadelphia, Pennsylvania",
+      "lat": 39.9526,
+      "lng": -75.1652,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "76ers"
+      ],
+      "viewLat": 33.9598,
+      "viewLng": -82.3992,
+      "promptZh": "在Memphis Grizzlies短暂效力3场后，Allen Iverson在这座城市结束了NBA生涯"
+    },
+    {
+      "id": "nba-philly-1",
+      "prompt": "Before moving to Canada at 18 months old, two-time NBA MVP Steve Nash was born in this city",
+      "answer": "Johannesburg, South Africa",
+      "lat": -26.2041,
+      "lng": 28.0473,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "两届NBA MVP Steve Nash出生在这座城市，18个月大时随家人移居加拿大"
+    },
+    {
+      "id": "nba-philly-2",
+      "prompt": "The first NBA game under the three-point line was played in this city in 1979",
+      "answer": "Boston, Massachusetts",
+      "lat": 42.3601,
+      "lng": -71.0589,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "history"
+      ],
+      "viewLat": 29.3888,
+      "viewLng": -68.3725,
+      "promptZh": "1979年，NBA首场采用三分线的比赛在这座城市进行"
+    },
+    {
+      "id": "nba-phoenix-1",
+      "prompt": "A mischievous coyote mascot has entertained crowds for the 5 time champions in this city since 1983",
+      "answer": "San Antonio, Texas",
+      "lat": 29.4241,
+      "lng": -98.4936,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Spurs"
+      ],
+      "viewLat": 40.8987,
+      "viewLng": -96.1171,
+      "promptZh": "自1983年以来，调皮的郊狼吉祥物一直为这座城市的五届总冠军球队娱乐现场观众"
+    },
+    {
+      "id": "nba-phoenix-2",
+      "prompt": "Charles Barkley was born in this Alabama city",
+      "answer": "Leeds, Alabama",
+      "lat": 33.3554,
+      "lng": -86.5211,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Suns"
+      ],
+      "viewLat": 45.7754,
+      "viewLng": -86.5211,
+      "promptZh": "Charles Barkley 出生在这座阿拉巴马州城市"
+    },
+    {
+      "id": "nba-portland-1",
+      "prompt": "Bill Walton led this city to their only NBA title in 1977",
+      "answer": "Portland, Oregon",
+      "lat": 45.5152,
+      "lng": -122.6784,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Blazers"
+      ],
+      "viewLat": 45.5152,
+      "viewLng": -114.8484,
+      "promptZh": "1977年，Bill Walton 带领这座城市的球队赢得队史唯一的 NBA 总冠军"
+    },
+    {
+      "id": "nba-portland-2",
+      "prompt": "Clyde 'The Glide' Drexler's No. 22 hangs in this city's arena",
+      "answer": "Portland, Oregon",
+      "lat": 45.5152,
+      "lng": -122.6784,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Blazers"
+      ],
+      "viewLat": 51.508,
+      "viewLng": -115.4444,
+      "promptZh": "Clyde “The Glide” Drexler 的22号球衣悬挂在这座城市的球馆里"
+    },
+    {
+      "id": "nba-sacramento-1",
+      "prompt": "The Royals captured this city's only NBA title in 1951, long before the franchise became the Sacramento Kings",
+      "answer": "Rochester, New York",
+      "lat": 43.1566,
+      "lng": -77.6088,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Royals"
+      ],
+      "viewLat": 47.9095,
+      "viewLng": -71.8715,
+      "promptZh": "1951年，Royals 队为这座城市赢得了唯一的 NBA 总冠军，当时球队尚未更名为 Sacramento Kings"
+    },
+    {
+      "id": "nba-sacramento-2",
+      "prompt": "Kobe Bryant's first professional team was this Italian city",
+      "answer": "Siena, Italy",
+      "lat": 43.3188,
+      "lng": 11.3308,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "international"
+      ],
+      "promptZh": "Kobe Bryant 的第一支职业球队位于这座意大利城市"
+    },
+    {
+      "id": "nba-syracuse-1",
+      "prompt": "Jim Brown was an All-American in football AND lacrosse at this city",
+      "answer": "Syracuse, New York",
+      "lat": 43.0481,
+      "lng": -76.1474,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NCAA",
+        "multi-sport"
+      ],
+      "viewLat": 31.5735,
+      "viewLng": -73.7709,
+      "promptZh": "Jim Brown 在这座城市的橄榄球和长曲棍球项目中都曾入选全美最佳阵容"
+    },
+    {
+      "id": "nba-toronto-1",
+      "prompt": "The Raptors' first franchise player, an expansion pick in 1995, was drafted out of this university",
+      "answer": "Toronto, Ontario",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "Raptors 队的首位建队球员是1995年扩军选秀选中的，他出自这所大学"
+    },
+    {
+      "id": "nba-turkey-1",
+      "prompt": "In the 2011 NBA lockout, Deron Williams became the first All-Star to play overseas, joining Besiktas in this city",
+      "answer": "Istanbul, Turkey",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "international"
+      ],
+      "promptZh": "2011年 NBA 停摆期间，Deron Williams 成为首位赴海外效应的全明星球员，加盟了位于这座城市的 Besiktas"
+    },
+    {
+      "id": "nba-wisconsin-1",
+      "prompt": "In 2015, Frank Kaminsky's Wisconsin ended Kentucky's 38-0 season with a 71-64 Final Four win at this converted NFL stadium",
+      "answer": "Indianapolis, Indiana",
+      "lat": 39.7684,
+      "lng": -86.1581,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NCAA",
+        "Final Four"
+      ],
+      "viewLat": 25.3004,
+      "viewLng": -89.1545,
+      "promptZh": "2015年，Wisconsin 在这座城市一座由 NFL 球场改建而成的体育场以71比64击败 Kentucky，终结其38连胜并闯入最终四强"
+    },
+    {
+      "id": "nca-memphis-1",
+      "prompt": "As a 9-seed, the 'Shockers' made a cinderella run to the 2013 Final Four representing this city",
+      "answer": "Wichita, Kansas",
+      "lat": 37.6872,
+      "lng": -97.3301,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NCAA"
+      ],
+      "viewLat": 28.9049,
+      "viewLng": -101.7212,
+      "promptZh": "“Shockers”队以9号种子身份上演黑马之旅，代表这座城市闯入2013年最终四强"
+    },
+    {
+      "id": "nca-michigan-1",
+      "prompt": "This Big Ten stadium took its unusual name from a Union Army training camp used during the Civil War",
+      "answer": "Ann Arbor, Michigan",
+      "lat": 42.2808,
+      "lng": -83.743,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NCAA",
+        "Michigan"
+      ],
+      "viewLat": 47.0337,
+      "viewLng": -78.0057,
+      "promptZh": "这座Big Ten球场的奇特名称源自南北战争期间使用过的联邦军训练营"
+    },
+    {
+      "id": "nca-west-point-1",
+      "prompt": "Mike Krzyzewski played for Bobby Knight at this service academy from 1965-69",
+      "answer": "West Point, New York",
+      "lat": 41.3915,
+      "lng": -73.9616,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NCAA",
+        "Army"
+      ],
+      "viewLat": 47.3843,
+      "viewLng": -81.1956,
+      "promptZh": "Mike Krzyzewski于1965年至1969年在这所军校为Bobby Knight效力"
+    },
+    {
+      "id": "nfl-miami-1",
+      "prompt": "LeBron James announced 'The Decision' to join Miami on live TV in 2010 from a club in this town",
+      "answer": "Cleveland, Ohio",
+      "lat": 41.4993,
+      "lng": -81.6944,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Cavaliers"
+      ],
+      "viewLat": 27.4593,
+      "viewLng": -81.6944,
+      "promptZh": "2010年，LeBron James在一家俱乐部现场直播中宣布“The Decision”，宣布将加盟新东家"
+    },
+    {
+      "id": "nfl-sf-1",
+      "prompt": "Kyle MVP, Jerry West aka 'The Logo,' was a 5x All-American at this college whose state shares his name",
+      "answer": "West Virginia, West Virginia",
+      "lat": 39.6299,
+      "lng": -79.9589,
+      "scope": "country",
+      "sport": "basketball",
+      "tags": [
+        "NCAA",
+        "West Virginia"
+      ],
+      "promptZh": "Kyle MVP和绰号“The Logo”的Jerry West曾是这所大学的5届全美最佳阵容球员，而这所大学所在的州与他的名字相同"
+    },
+    {
+      "id": "olympics-phoenix-1",
+      "prompt": "Stephen Curry made 4 three-pointers in the final 3 minutes as the USA beat France for gold in this city",
+      "answer": "Phoenix, Arizona",
+      "lat": 33.4484,
+      "lng": -112.074,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "Olympics",
+        "2020"
+      ],
+      "viewLat": 33.4484,
+      "viewLng": -106.674,
+      "promptZh": "Stephen Curry在最后3分钟命中4记三分球，帮助美国队在这座城市击败法国队夺得金牌"
+    },
+    {
+      "id": "us-nba-memphis-1",
+      "prompt": "Before becoming the NBA's first unanimous MVP, this guard led a tiny school here to the 2008 Elite Eight",
+      "answer": "Memphis, Tennessee",
+      "lat": 35.1495,
+      "lng": -90.049,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Memphis"
+      ],
+      "viewLat": 24.3495,
+      "viewLng": -90.049,
+      "promptZh": "这位后卫在成为NBA首位全票MVP之前，曾率领当地一所小学校打进2008年精英八强"
+    },
+    {
+      "id": "olympics-toronto-1",
+      "prompt": "A bobsled team from this tropical city qualified for the 1988 Winter Olympics despite never seeing snow before",
+      "answer": "Kingston, Jamaica",
+      "lat": 17.9714,
+      "lng": -76.7931,
+      "scope": "world",
+      "sport": "bobsled",
+      "tags": [
+        "Olympics",
+        "1988"
+      ],
+      "promptZh": "这支来自这座热带城市的雪车队尽管从未见过雪，仍成功获得1988年冬季奥运会参赛资格"
+    },
+    {
+      "id": "boxing-dr Congo-1",
+      "prompt": "Muhammad Ali's famous 'Rumble in the Jungle' victory over George Foreman took place in this African capital",
+      "answer": "Kinshasa, DR Congo",
+      "lat": -4.4419,
+      "lng": 15.2663,
+      "scope": "world",
+      "sport": "boxing",
+      "tags": [
+        "international"
+      ],
+      "promptZh": "Muhammad Ali在“丛林之战”中击败George Foreman的著名胜利发生在这座非洲首都"
+    },
+    {
+      "id": "boxing-europe-1",
+      "prompt": "Ivan Drago, the antagonist of Rocky IV, trained in this European capital",
+      "answer": "Saint Petersburg, Russia",
+      "lat": 59.9311,
+      "lng": 30.3609,
+      "scope": "world",
+      "sport": "boxing",
+      "tags": [
+        "international"
+      ],
+      "promptZh": "《Rocky IV》中的反派Ivan Drago曾在这座欧洲首都接受训练"
+    },
+    {
+      "id": "boxing-mexico-1",
+      "prompt": "Canelo Álvarez, 4-belt undisputed super middleweight champion, was born in 1990 in the suburbs of this city",
+      "answer": "Guadalajara, Mexico",
+      "lat": 20.6597,
+      "lng": -103.3496,
+      "scope": "world",
+      "sport": "boxing",
+      "tags": [
+        "international"
+      ],
+      "promptZh": "这位拥有4条金腰带、 undisputed超中量级拳王Canelo Álvarez于1990年出生在这座城市的郊区"
+    },
+    {
+      "id": "boxing-uk-1",
+      "prompt": "Oleksandr Usyk defeated Tyson Fury to become undisputed heavyweight champion in this city in 2024",
+      "answer": "Riyadh, Saudi Arabia",
+      "lat": 24.7136,
+      "lng": 46.6753,
+      "scope": "world",
+      "sport": "boxing",
+      "tags": [
+        "international"
+      ],
+      "promptZh": "2024年，Oleksandr Usyk在这座城市击败Tyson Fury，成为 undisputed重量级拳王"
+    },
+    {
+      "id": "cycling-france-1",
+      "prompt": "Before being stripped of all his titles, Lance Armstrong won cycling's biggest race 7 times, all finishing in this city",
+      "answer": "Paris, France",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "scope": "world",
+      "sport": "cycling",
+      "tags": [
+        "Tour de France"
+      ],
+      "promptZh": "在被剥夺全部冠军头衔之前，Lance Armstrong曾7次赢得自行车赛这项最大赛事，而终点都在这座城市"
+    },
+    {
+      "id": "golf-california-1",
+      "prompt": "Tiger Woods was born in 1975 in this city",
+      "answer": "Cypress, California",
+      "lat": 33.8195,
+      "lng": -118.0356,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "PGA"
+      ],
+      "viewLat": 39.1924,
+      "viewLng": -124.5212,
+      "promptZh": "Tiger Woods 于1975年出生在这座城市"
+    },
+    {
+      "id": "golf-california-2",
+      "prompt": "Bobby Jones and Alister MacKenzie transformed a former plant nursery into a legendary course in this city",
+      "answer": "Augusta, Georgia",
+      "lat": 33.4715,
+      "lng": -81.9748,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "PGA",
+        "Masters"
+      ],
+      "viewLat": 33.4715,
+      "viewLng": -88.9948,
+      "promptZh": "Bobby Jones 和 Alister MacKenzie 将一座旧苗圃改造成了这座城市的传奇球场"
+    },
+    {
+      "id": "golf-michigan-1",
+      "prompt": "Phil Mickelson became the oldest major champion in golf history by winning the 2021 PGA Championship in this city",
+      "answer": "Kailua-Kona, Hawaii",
+      "lat": 19.6402,
+      "lng": -155.9969,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "PGA"
+      ],
+      "promptZh": "Phil Mickelson 在这座城市赢得2021年PGA锦标赛，成为高尔夫史上最年长的大满贯冠军"
+    },
+    {
+      "id": "golf-north Carolina-1",
+      "prompt": "This city has been home to 'The Masters' every year since 1934",
+      "answer": "Augusta, Georgia",
+      "lat": 33.4715,
+      "lng": -81.9748,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "PGA",
+        "Masters"
+      ],
+      "viewLat": 44.9461,
+      "viewLng": -84.3513,
+      "promptZh": "自1934年以来，“美国大师赛”每年都在这座城市举行"
+    },
+    {
+      "id": "golf-ohio-1",
+      "prompt": "Donald Ross designed the No. 2 course here, host to more golf championships than any other site in America",
+      "answer": "Beverly Hills, California",
+      "lat": 34.0736,
+      "lng": -118.4004,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "PGA"
+      ],
+      "viewLat": 24.1458,
+      "viewLng": -113.4365,
+      "promptZh": "Donald Ross 设计了这里的2号球场，它承办的高尔夫锦标赛比美国任何其他场地都多"
+    },
+    {
+      "id": "nfl-southcarolina-1",
+      "prompt": "Before starting 99 straight major championships, Adam Scott was born in this southern hemispheric city",
+      "answer": "Montrose, Victoria",
+      "lat": -37.8267,
+      "lng": 145.2344,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "PGA"
+      ],
+      "promptZh": "在连续参加99场大满贯赛事之前，Adam Scott 出生在这座南半球城市"
+    },
+    {
+      "id": "soccer-brazil-3",
+      "prompt": "The Open Championship regularly returns to The Old Course in this city where golf has been played since 1552",
+      "answer": "St Andrews, Scotland",
+      "lat": 56.3398,
+      "lng": -2.7968,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "PGA",
+        "The Open"
+      ],
+      "promptZh": "英国公开赛经常重返这座城市的 The Old Course，自1552年以来这里便一直有人打高尔夫"
+    },
+    {
+      "id": "nba-detroit-7",
+      "prompt": "Kerri Strug, the gymnast whose 10.0 ended her 1996 campaign, was born in this Michigan city",
+      "answer": "Bellaire, Michigan",
+      "lat": 42.9806,
+      "lng": -83.0161,
+      "scope": "city",
+      "sport": "gymnastics",
+      "tags": [
+        "Olympics",
+        "1996"
+      ],
+      "viewLat": 52.9585,
+      "viewLng": -85.0826,
+      "promptZh": "拿到10.0分并结束1996年征程的体操运动员 Kerri Strug，出生在密歇根州这座城市"
+    },
+    {
+      "id": "mlb-arizona-1",
+      "prompt": "Fresh off the 2024 Cup, the Panthers met the Stars in 2 NHL Global Series games at the Nokia Arena in this city",
+      "answer": "Tempe, Arizona",
+      "lat": 33.4255,
+      "lng": -111.94,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Global Series"
+      ],
+      "viewLat": 22.3522,
+      "viewLng": -117.4766,
+      "promptZh": "刚赢得2024年Cup后，Panthers 在这座城市的 Nokia Arena 与 Stars 进行了2场NHL Global Series比赛"
+    },
+    {
+      "id": "nfl-michigan-1",
+      "prompt": "Before joining the Hurricanes in 1997, the NHL's Whalers spent 18 seasons here",
+      "answer": "Hartford, Connecticut",
+      "lat": 41.7658,
+      "lng": -72.6734,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Whalers"
+      ],
+      "viewLat": 36.3929,
+      "viewLng": -79.159,
+      "promptZh": "在这里效力18个赛季后，NHL的 Whalers 于1997年加盟 Hurricanes"
+    },
+    {
+      "id": "nhl-boston-1",
+      "prompt": "A disputed 'No Goal' in triple OT of the '99 Stanley Cup Final still stings the blue and gold fans of this city",
+      "answer": "Buffalo, New York",
+      "lat": 42.8864,
+      "lng": -78.8784,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Sabres"
+      ],
+      "viewLat": 28.8464,
+      "viewLng": -78.8784,
+      "promptZh": "1999年斯坦利杯决赛三加时赛中的争议“零进球”，至今仍让这座城市的蓝金球衣球迷心中刺痛"
+    },
+    {
+      "id": "nhl-calgary-1",
+      "prompt": "The Flames won the 1989 Stanley Cup for this city, which had just hosted the 1988 Winter Olympics",
+      "answer": "Calgary, Alberta",
+      "lat": 51.0447,
+      "lng": -114.0719,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Olympics"
+      ],
+      "promptZh": "Flames 为这座城市赢得了1989年斯坦利杯，而这里刚刚主办过1988年冬奥会"
+    },
+    {
+      "id": "nhl-dday-1",
+      "prompt": "At just 19 years old, Yogi Berra fired rockets from a Navy boat onto this European beach during D-Day",
+      "answer": "Normandy, France",
+      "lat": 49.3417,
+      "lng": -0.5333,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "WWII"
+      ],
+      "promptZh": "年仅19岁的 Yogi Berra 在诺曼底登陆日从一艘海军舰船上向这座欧洲海滩发射火箭弹"
+    },
+    {
+      "id": "nhl-detroit-2",
+      "prompt": "Bobby Orr revolutionized hockey & won 8 straight Norris Trophies as a D-man. He's from this small town",
+      "answer": "Parry Sound, Ontario",
+      "lat": 45.3387,
+      "lng": -80.0412,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL"
+      ],
+      "promptZh": "Bobby Orr 革新了冰球运动，并连续8次当选 Norris Trophy 最佳防守球员，他来自这座小镇"
+    },
+    {
+      "id": "nhl-edmonton-1",
+      "prompt": "The NHL franchise who plays here was revived in 1992 and made its first Stanley Cup Final in 2007",
+      "answer": "Edmonton, Alberta",
+      "lat": 53.5461,
+      "lng": -113.4938,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Oilers"
+      ],
+      "promptZh": "在这座城市效力的 NHL 球队于1992年复兴，并于2007年首次打进 Stanley Cup 总决赛"
+    },
+    {
+      "id": "nhl-edmonton-2",
+      "prompt": "Before winning 3 Hart trophies in his first 11 NHL seasons, Connor McDavid grew up here",
+      "answer": "New Westminster, British Columbia",
+      "lat": 49.1869,
+      "lng": -122.8496,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL"
+      ],
+      "promptZh": "在首个11个 NHL 赛季中赢得3座 Hart Trophy 之前，Connor McDavid 在这里长大"
+    },
+    {
+      "id": "nhl-hamilton-1",
+      "prompt": "Wayne Gretzky scored 1,016 points before his 21st birthday and grew up in this small city",
+      "answer": "Brantford, Ontario",
+      "lat": 43.1394,
+      "lng": -80.2644,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL"
+      ],
+      "promptZh": "Wayne Gretzky 在21岁生日之前得到1,016分，并在这座小城长大"
+    },
+    {
+      "id": "nhl-losangeles-1",
+      "prompt": "Back-to-back championships in '94 and '95 earned this team's home the nickname 'Clutch City'",
+      "answer": "Raleigh, North Carolina",
+      "lat": 35.7796,
+      "lng": -78.6382,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Hurricanes"
+      ],
+      "viewLat": 24.7063,
+      "viewLng": -73.1016,
+      "promptZh": "连续赢得1994年和1995年冠军后，这支球队的主场被称为“Clutch City”"
+    },
+    {
+      "id": "nhl-losangeles-2",
+      "prompt": "After this city lost Game 7 of the 2011 Stanley Cup Final, fans burned cars and looted in the downtown area",
+      "answer": "Vancouver, British Columbia",
+      "lat": 49.2827,
+      "lng": -123.1207,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Canucks"
+      ],
+      "promptZh": "这座城市在2011年 Stanley Cup 总决赛第七场落败后，市中心发生烧车和哄抢事件"
+    },
+    {
+      "id": "nhl-nashville-1",
+      "prompt": "Before relocating to Tennessee the Titans franchise had a different name and played here",
+      "answer": "Houston, Texas",
+      "lat": 29.7604,
+      "lng": -95.3698,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Oilers"
+      ],
+      "viewLat": 41.235,
+      "viewLng": -92.9933,
+      "promptZh": "迁往 Tennessee 之前，Titans 球队使用着另一个名字，并在这座城市效力"
+    },
+    {
+      "id": "nhl-newyork-1",
+      "prompt": "Before becoming the 'One-Two Three, Four, Five' Henrik, longtime Rangers goalie, Henrik Lundqvist was born here",
+      "answer": "Stockholm, Sweden",
+      "lat": 59.3293,
+      "lng": 18.0686,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Rangers"
+      ],
+      "promptZh": "在成为“One-Two Three, Four, Five”Henrik 之前，Rangers 的长期守门员 Henrik Lundqvist 出生在这里"
+    },
+    {
+      "id": "nhl-pittsburgh-1",
+      "prompt": "Sidney Crosby grew up in this Nova Scotia town of about 25,000 people",
+      "answer": "Cole Harbour, Nova Scotia",
+      "lat": 44.6589,
+      "lng": -63.6926,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Penguins"
+      ],
+      "promptZh": "Sidney Crosby 在这座拥有约25,000人口的 Nova Scotia 小镇长大"
+    },
+    {
+      "id": "nhl-pittsburgh-2",
+      "prompt": "Fans rioted in 1955 after the NHL suspended Canadiens star Maurice 'Rocket' Richard in this city",
+      "answer": "Montreal, Quebec",
+      "lat": 45.5017,
+      "lng": -73.5673,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "international"
+      ],
+      "promptZh": "1955年，NHL 停赛 Canadiens 球星 Maurice “Rocket” Richard 后，这座城市的球迷发生骚乱"
+    },
+    {
+      "id": "nhl-tampa-1",
+      "prompt": "In 1993 an NHL team originally named for a Disney movie was founded by the studio here",
+      "answer": "Los Angeles, California",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Kings"
+      ],
+      "viewLat": 25.2699,
+      "viewLng": -122.6348,
+      "promptZh": "1993年，Disney 工作室在这里创立了一支最初以一部 Disney 电影命名的 NHL 球队"
+    },
+    {
+      "id": "nhl-utah-1",
+      "prompt": "A franchise whose musical name and note-shaped logo were carried from here to Utah in 1979",
+      "answer": "Montreal, Quebec",
+      "lat": 45.5017,
+      "lng": -73.5673,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "international"
+      ],
+      "promptZh": "这里的球队于1979年迁往Utah，并沿用了音乐名称和音符形标志"
+    },
+    {
+      "id": "nhl-whitehorse-1",
+      "prompt": "Gavin McKenna, projected #1 pick in the 2026 NHL Draft, was born in this Yukon capital",
+      "answer": "Whitehorse, Yukon",
+      "lat": 60.7212,
+      "lng": -135.0568,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "draft"
+      ],
+      "promptZh": "预计成为2026年NHL选秀状元秀的Gavin McKenna出生在这座Yukon首府"
+    },
+    {
+      "id": "olympics-nashville-1",
+      "prompt": "In 2020, over 85,000 fans watched the Stars and Predators play an outdoor game at a college stadium in this city",
+      "answer": "Nashville, Tennessee",
+      "lat": 36.1627,
+      "lng": -86.7816,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "outdoor game"
+      ],
+      "viewLat": 21.6947,
+      "viewLng": -89.778,
+      "promptZh": "2020年，超过85,000名球迷在这座城市的大学体育场观看了Stars与Predators的户外比赛"
+    },
+    {
+      "id": "olympics-saltlake-2",
+      "prompt": "After 4 years from his 'Golden Goal', Sidney Crosby won his 2nd Olympic gold in this city",
+      "answer": "Sochi, Russia",
+      "lat": 43.5855,
+      "lng": 39.7231,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "Olympics",
+        "2014"
+      ],
+      "promptZh": "在“金球”4年后，Sidney Crosby在这座城市赢得了个人第二枚奥运金牌"
+    },
+    {
+      "id": "nba-cle-1",
+      "prompt": "ESPN has broadcast SportsCenter from its headquarters in this city since 1979",
+      "answer": "Bristol, Connecticut",
+      "lat": 41.6717,
+      "lng": -72.9493,
+      "scope": "city",
+      "sport": "media",
+      "tags": [
+        "ESPN"
+      ],
+      "viewLat": 41.6717,
+      "viewLng": -65.9293,
+      "promptZh": "ESPN自1979年起一直在其位于这座城市的总部播出SportsCenter"
+    },
+    {
+      "id": "soccer-nepal-1",
+      "prompt": "Sherpa guides helping climbers tackle the world's highest mountain often begin expeditions from this capital city",
+      "answer": "Kathmandu, Nepal",
+      "lat": 27.7172,
+      "lng": 85.324,
+      "scope": "world",
+      "sport": "mountaineering",
+      "tags": [
+        "Everest"
+      ],
+      "promptZh": "帮助登山者攀登世界最高峰的夏尔巴向导，行程常从这座首都城市开始"
+    },
+    {
+      "id": "nba-france-3",
+      "prompt": "Every Olympic torch relay begins each Games at the original ancient stadium in this European city",
+      "answer": "Athens, Greece",
+      "lat": 37.9838,
+      "lng": 23.7275,
+      "scope": "world",
+      "sport": "olympics",
+      "tags": [
+        "Olympics"
+      ],
+      "promptZh": "每届奥运会的火炬接力都会从这座欧洲城市的古老体育场启程"
+    },
+    {
+      "id": "olympics-norway-1",
+      "prompt": "The '94 Winter Olympics was the first to be held separately from the Summer Games. They were in this town",
+      "answer": "Lillehammer, Norway",
+      "lat": 61.1153,
+      "lng": 10.4663,
+      "scope": "world",
+      "sport": "olympics",
+      "tags": [
+        "Olympics",
+        "1994"
+      ],
+      "promptZh": "1994年冬奥会首次与夏季奥运会分开举办，举办地就是这座小镇"
+    },
+    {
+      "id": "olympics-saltlake-1",
+      "prompt": "The last time the US hosted the Olympics was here, in the Winter of 2002",
+      "answer": "Salt Lake City, Utah",
+      "lat": 40.7608,
+      "lng": -111.891,
+      "scope": "city",
+      "sport": "olympics",
+      "tags": [
+        "Olympics",
+        "2002"
+      ],
+      "viewLat": 28.3408,
+      "viewLng": -111.891,
+      "promptZh": "2002年冬季，美国最后一次举办奥运会的地方就在这里"
+    },
+    {
+      "id": "olympics-us-1",
+      "prompt": "In 1980, a team of U.S. college kids upset the unbeaten Soviets at the Olympics in this town",
+      "answer": "Lake Placid, New York",
+      "lat": 44.2795,
+      "lng": -73.9799,
+      "scope": "city",
+      "sport": "olympics",
+      "tags": [
+        "Olympics",
+        "1980",
+        "ice hockey"
+      ],
+      "viewLat": 55.7541,
+      "viewLng": -76.3564,
+      "promptZh": "1980年，一支美国大学队在这座小镇的奥运会上击败了保持不败的苏联队"
+    },
+    {
+      "id": "f1-monaco-1",
+      "prompt": "Charles Leclerc finally won his hometown race in 2024, ending years of heartbreak on the streets of this city",
+      "answer": "Monte Carlo, Monaco",
+      "lat": 43.7384,
+      "lng": 7.4246,
+      "scope": "world",
+      "sport": "racing",
+      "tags": [
+        "Formula 1"
+      ],
+      "promptZh": "Charles Leclerc终于在2024年的家乡之战中获胜，多年心碎终告结束，赛街道穿过这座城市"
+    },
+    {
+      "id": "f1-monaco-2",
+      "prompt": "F1's most prestigious race winds through this principality's casino and harbor streets every year",
+      "answer": "Monte Carlo, Monaco",
+      "lat": 43.7384,
+      "lng": 7.4246,
+      "scope": "world",
+      "sport": "racing",
+      "tags": [
+        "Formula 1"
+      ],
+      "promptZh": "F1最具声望的比赛每年都会穿过这个principality的赌场与港湾街道"
+    },
+    {
+      "id": "nascar-fl-1",
+      "prompt": "This Florida city is home to NASCAR's most famous track",
+      "answer": "Daytona Beach, Florida",
+      "lat": 29.1905,
+      "lng": -81.0238,
+      "scope": "city",
+      "sport": "racing",
+      "tags": [
+        "NASCAR"
+      ],
+      "viewLat": 42.1618,
+      "viewLng": -78.3374,
+      "promptZh": "这座佛罗里达州城市拥有 NASCAR 最著名的赛道"
+    },
+    {
+      "id": "nfl-philadelphia-1",
+      "prompt": "Super Bowl Champion Jordan Mailata played rugby here before he was drafted by the Eagles",
+      "answer": "Auckland, New Zealand",
+      "lat": -36.8485,
+      "lng": 174.7633,
+      "scope": "world",
+      "sport": "rugby",
+      "tags": [
+        "NFL",
+        "international"
+      ],
+      "promptZh": "超级碗冠军 Jordan Mailata 在被 Eagles 选中前曾在这里打橄榄球"
+    },
+    {
+      "id": "rugby-newzealand-1",
+      "prompt": "The All Blacks, who perform the 'Haka,' represent this nation. Its capital sits at the bottom of the North Island",
+      "answer": "Wellington, New Zealand",
+      "lat": -41.2866,
+      "lng": 174.7756,
+      "scope": "world",
+      "sport": "rugby",
+      "tags": [
+        "All Blacks"
+      ],
+      "promptZh": "表演“Haka”的 All Blacks 代表这个国家，其首都位于北岛最南端"
+    },
+    {
+      "id": "rugby-southafrica-1",
+      "prompt": "For 25 years, the Rugby Sevens Series stopped at this stadium, whose South Stand rained beer and worse onto the pitch",
+      "answer": "Hong Kong",
+      "lat": 22.3193,
+      "lng": 114.1694,
+      "scope": "world",
+      "sport": "rugby",
+      "tags": [
+        "rugby sevens"
+      ],
+      "promptZh": "橄榄球七人制系列赛曾在这里的体育场停办25年，其南看台还曾向球场倾倒啤酒等液体"
+    },
+    {
+      "id": "marathon-kenya-1",
+      "prompt": "Eliud Kipchoge became the first to break 2 hours in the marathon. He trains in this city",
+      "answer": "Kaptagat, Kenya",
+      "lat": 0.3133,
+      "lng": 35.2139,
+      "scope": "world",
+      "sport": "running",
+      "tags": [
+        "marathon"
+      ],
+      "promptZh": "Eliud Kipchoge 成为首位突破马拉松两小时大关的人。他在这座城市训练"
+    },
+    {
+      "id": "olympics-torrance-1",
+      "prompt": "Olympic record holder Louis Zamperini survived 47 days at sea and 2 yrs of POW torture near this city in WWII",
+      "answer": "Torrance, California",
+      "lat": 33.8358,
+      "lng": -118.3406,
+      "scope": "city",
+      "sport": "running",
+      "tags": [
+        "Olympics",
+        "WWII"
+      ],
+      "viewLat": 37.9688,
+      "viewLng": -113.3517,
+      "promptZh": "奥运纪录保持者 Louis Zamperini 曾在二战期间于这座城市附近海上漂流47天，并遭受两年战俘折磨"
+    },
+    {
+      "id": "nfl-pittsburgh-3",
+      "prompt": "In the 2010 Olympics, Lindsey Vonn became the first American woman to win downhill gold, racing at this resort",
+      "answer": "Whistler, British Columbia",
+      "lat": 50.1163,
+      "lng": -122.9574,
+      "scope": "world",
+      "sport": "skiing",
+      "tags": [
+        "Olympics",
+        "2010"
+      ],
+      "promptZh": "2010年奥运会上，Lindsey Vonn 成为首位夺得速降金牌的美国女性，她在这座度假胜地比赛"
+    },
+    {
+      "id": "football-london-1",
+      "prompt": "An uncalled handball denied the USMNT a likely equalizer in a 2002 World Cup quarterfinal in this city",
+      "answer": "Daegu, South Korea",
+      "lat": 35.8714,
+      "lng": 128.6014,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "2002"
+      ],
+      "promptZh": "2002年世界杯四分之一决赛中，一次未被判罚的手球让 USMNT 错失扳平机会，比赛在这座城市举行"
+    },
+    {
+      "id": "nba-france-1",
+      "prompt": "Born in the USA, USMNT striker Folarin Balogun left after just 2 months as a baby and grew up in this city",
+      "answer": "Old Bridge, New Jersey",
+      "lat": 40.3758,
+      "lng": -74.3605,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "FIFA"
+      ],
+      "viewLat": 35.6229,
+      "viewLng": -68.6232,
+      "promptZh": "USMNT 前锋 Folarin Balogun 生于美国，离开时年仅2个月，并在这座城市长大"
+    },
+    {
+      "id": "nba-miami-1",
+      "prompt": "Lionel Messi moved from Argentina at 13 to join an academy in this city",
+      "answer": "Barcelona, Spain",
+      "lat": 41.3874,
+      "lng": 2.1686,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "football",
+        "international"
+      ],
+      "promptZh": "Lionel Messi 13岁时离开阿根廷，前往这座城市的青训营加盟"
+    },
+    {
+      "id": "nba-nashville-1",
+      "prompt": "The World Cup kicks off in 30 days at this storied stadium in the capital city of one of the 3 host countries",
+      "answer": "Mexico City, Mexico",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "2026"
+      ],
+      "promptZh": "世界杯将在30天后于这座历史悠久的体育场开幕，它位于三个主办国之一的首都"
+    },
+    {
+      "id": "soccer-argentina-1",
+      "prompt": "Lionel Messi was born in this Argentine city with a growth-hormone deficiency his club couldn't treat",
+      "answer": "Rosario, Argentina",
+      "lat": -32.9442,
+      "lng": -60.6505,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "football",
+        "international"
+      ],
+      "promptZh": "Lionel Messi 出生在这座阿根廷城市，俱乐部无法治疗他的生长激素缺乏症"
+    },
+    {
+      "id": "soccer-brazil-1",
+      "prompt": "Pelé was born in 1940 in this small Brazilian town in Minas Gerais state",
+      "answer": "Três Corações, Brazil",
+      "lat": -22.2517,
+      "lng": -45.1925,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "football",
+        "international"
+      ],
+      "promptZh": "Pelé于1940年出生在明纳斯吉拉斯州这座巴西小镇"
+    },
+    {
+      "id": "soccer-brazil-2",
+      "prompt": "The only African player to win the Ballon d'Or, later became his country's president. He was born in this West African capital and his son plays for the USMNT",
+      "answer": "Dakar, Senegal",
+      "lat": 14.7167,
+      "lng": -17.4677,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "football",
+        "international"
+      ],
+      "promptZh": "这位西非首都出生的球员是唯一获评金球奖的非洲球员，后来成为祖国总统，他的儿子效力于USMNT"
+    },
+    {
+      "id": "soccer-brazil-4",
+      "prompt": "The 2014 World Cup's opening match was played in this Brazilian city",
+      "answer": "São Paulo, Brazil",
+      "lat": -23.5505,
+      "lng": -46.6333,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "2014"
+      ],
+      "promptZh": "2014年世界杯揭幕战在这座巴西城市举行"
+    },
+    {
+      "id": "soccer-brazil-5",
+      "prompt": "The 1950 Maracanazo, the 'Maracanazo', happened in this Brazilian city",
+      "answer": "Rio de Janeiro, Brazil",
+      "lat": -22.9068,
+      "lng": -43.1729,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "1950"
+      ],
+      "promptZh": "1950年的“马拉卡纳惨案”就发生在这座巴西城市"
+    },
+    {
+      "id": "soccer-durban-1",
+      "prompt": "In 2014, US keeper Tim Howard set a World Cup record with 16 saves in a knockout match played here",
+      "answer": "Cape Town, South Africa",
+      "lat": -33.9249,
+      "lng": 18.4241,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "2010"
+      ],
+      "promptZh": "2014年，美国门将Tim Howard在一场于此举行的淘汰赛中扑出16次，创下世界杯纪录"
+    },
+    {
+      "id": "soccer-italy-1",
+      "prompt": "Diego Maradona's 'Goal of the Century' was scored in this city in 1986",
+      "answer": "Mexico City, Mexico",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "1986"
+      ],
+      "promptZh": "Diego Maradona的“世纪进球”于1986年在这座城市打进"
+    },
+    {
+      "id": "soccer-italy-2",
+      "prompt": "Roberto Baggio's 1994 World Cup penalty miss happened in this American city",
+      "answer": "Dallas, Texas",
+      "lat": 32.7767,
+      "lng": -96.797,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "1994"
+      ],
+      "viewLat": 46.8167,
+      "viewLng": -96.797,
+      "promptZh": "Roberto Baggio在1994年世界杯罚失的点球发生在这座美国城市"
+    },
+    {
+      "id": "soccer-italy-3",
+      "prompt": "This Italian club's 'Curva Nord' banners hung over this city's stands",
+      "answer": "Turin, Italy",
+      "lat": 45.0703,
+      "lng": 7.6869,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "football",
+        "international"
+      ],
+      "promptZh": "这家意大利俱乐部的“Curva Nord”横幅曾悬挂在这座城市的看台上"
+    },
+    {
+      "id": "soccer-korea-1",
+      "prompt": "The 2002 World Cup final was held in this Japanese city",
+      "answer": "Yokohama, Japan",
+      "lat": 35.4437,
+      "lng": 139.638,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "2002"
+      ],
+      "promptZh": "2002年世界杯决赛在这座日本城市举行"
+    },
+    {
+      "id": "soccer-london-1",
+      "prompt": "Arsenal, chasing their first Premier League title since 2004, plays its home games here",
+      "answer": "London, England",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ],
+      "promptZh": "Arsenal主场作战在这座城市，正争夺自2004年以来首个英超冠军"
+    },
+    {
+      "id": "soccer-madeira-1",
+      "prompt": "Cristiano Ronaldo was born and raised here before leaving at 12 years old",
+      "answer": "Funchal, Portugal",
+      "lat": 32.6669,
+      "lng": -16.9241,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "football",
+        "international"
+      ],
+      "promptZh": "Cristiano Ronaldo在这里出生并长大，12岁前离开"
+    },
+    {
+      "id": "soccer-madrid-1",
+      "prompt": "In 2025, the Dolphins and Commanders played a game at Santiago Bernabeu, which is located here",
+      "answer": "Madrid, Spain",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "NFL",
+        "international"
+      ],
+      "promptZh": "2025年，Dolphins与Commanders在这座城市的Santiago Bernabéu球场比赛"
+    },
+    {
+      "id": "soccer-netherlands-1",
+      "prompt": "This is the city where the Ajax dynasty of the 1970s was born",
+      "answer": "Amsterdam, Netherlands",
+      "lat": 52.3676,
+      "lng": 4.9041,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "football",
+        "international"
+      ],
+      "promptZh": "Ajax的黄金时代诞生于这座城市"
+    },
+    {
+      "id": "soccer-netherlands-2",
+      "prompt": "Total football was invented by a teacher at this school in this Dutch city",
+      "answer": "Narrow, Netherlands",
+      "lat": 51.9944,
+      "lng": 5.9875,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "football",
+        "history"
+      ],
+      "promptZh": "全民足球由一位老师在这座荷兰城市的这所学校发明"
+    },
+    {
+      "id": "soccer-portugal-1",
+      "prompt": "Diego Maradona, scorer of the 'Hand of God' and 'Goal of the Century' in 1986, grew up near this capital",
+      "answer": "Buenos Aires, Argentina",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "1986"
+      ],
+      "promptZh": "打进1986年世界杯“上帝之手”和“世纪进球”的Diego Maradona在这座首都附近长大"
+    },
+    {
+      "id": "soccer-spain-1",
+      "prompt": "The Running of the Bulls takes place every July during The San Fermín Festival in this European city",
+      "answer": "Pamplona, Spain",
+      "lat": 42.8125,
+      "lng": -1.6458,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "football",
+        "international"
+      ],
+      "promptZh": "奔牛活动每年7月都会在这座欧洲城市的San Fermín Festival期间上演"
+    },
+    {
+      "id": "soccer-spain-2",
+      "prompt": "Lionel Messi lifted the World Cup for the first time in 2022 in this city known for its futuristic skyline",
+      "answer": "Lusail, Qatar",
+      "lat": 25.4109,
+      "lng": 51.4931,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "2022"
+      ],
+      "promptZh": "2022年，Lionel Messi在这座以未来主义天际线闻名的城市首次举起世界杯"
+    },
+    {
+      "id": "soccer-uruguay-1",
+      "prompt": "The USMNT recorded its best World Cup finish (3rd in 1930) at the inaugural tourney in this South American city",
+      "answer": "Montevideo, Uruguay",
+      "lat": -34.9011,
+      "lng": -56.1645,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "1930"
+      ],
+      "promptZh": "1930年首届世界杯在这座南美城市举行，美国队取得队史世界杯最佳成绩——季军"
+    },
+    {
+      "id": "soccer-usa-1",
+      "prompt": "The 1994 World Cup final was played in this Californian city",
+      "answer": "Pasadena, California",
+      "lat": 34.1478,
+      "lng": -118.1445,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "1994"
+      ],
+      "viewLat": 44.1257,
+      "viewLng": -116.078,
+      "promptZh": "1994年世界杯决赛在这座加利福尼亚州城市举行"
+    },
+    {
+      "id": "worldcup-uruguay-1",
+      "prompt": "The most-attended World Cup match ever drew an estimated 173,850 to this stadium in 1950",
+      "answer": "Rio de Janeiro, Brazil",
+      "lat": -22.9068,
+      "lng": -43.1729,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "FIFA",
+        "1950"
+      ],
+      "promptZh": "1950年，史上观众人数最多的世界杯比赛在这座球场所在的这座城市举行，估计有173,850人到场"
+    },
+    {
+      "id": "olympics-beijing-1",
+      "prompt": "Michael Phelps won a record 8 gold medals at the 2008 Summer Olympics, held in this Asian capital",
+      "answer": "Beijing, China",
+      "lat": 39.9042,
+      "lng": 116.4074,
+      "scope": "world",
+      "sport": "swimming",
+      "tags": [
+        "Olympics",
+        "2008"
+      ],
+      "promptZh": "Michael Phelps在这座亚洲首都举行的2008年夏季奥运会上创纪录地赢得8枚金牌"
+    },
+    {
+      "id": "nba-france-4",
+      "prompt": "Tennis's 1st major of the year has been held in this Victorian capital since 1988",
+      "answer": "Melbourne, Australia",
+      "lat": -37.8136,
+      "lng": 144.9631,
+      "scope": "world",
+      "sport": "tennis",
+      "tags": [
+        "Australian Open"
+      ],
+      "promptZh": "自1988年以来，网球年度首项大满贯赛事一直在这座维多利亚州首府举行"
+    },
+    {
+      "id": "nba-houston-3",
+      "prompt": "Billie Jean King, who won 39 Grand Slams and beat Bobby Riggs in the 1973 'Battle of the Sexes,' grew up in this city",
+      "answer": "Long Beach, California",
+      "lat": 33.7701,
+      "lng": -118.1937,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "WTA"
+      ],
+      "viewLat": 46.1901,
+      "viewLng": -118.1937,
+      "promptZh": "赢得39项大满贯并在1973年“性别大战”中击败Bobby Riggs的Billie Jean King在这座城市长大"
+    },
+    {
+      "id": "soccer-australia-1",
+      "prompt": "Tennis's 1st major of the year has been held in this Victorian capital since 1988",
+      "answer": "Melbourne, Australia",
+      "lat": -37.8136,
+      "lng": 144.9631,
+      "scope": "world",
+      "sport": "tennis",
+      "tags": [
+        "Australian Open"
+      ],
+      "promptZh": "自1988年以来，网球年度首项大满贯赛事一直在这座维多利亚州首府举行"
+    },
+    {
+      "id": "tennis-serbia-1",
+      "prompt": "Tennis's all-time leader in Grand Slams was born in this captial city in 1987",
+      "answer": "Belgrade, Serbia",
+      "lat": 44.7866,
+      "lng": 20.4489,
+      "scope": "world",
+      "sport": "tennis",
+      "tags": [
+        "ATP"
+      ],
+      "promptZh": "这位网球史上大满贯纪录保持者于1987年出生在这座首都城市"
+    },
+    {
+      "id": "tennis-serena-1",
+      "prompt": "Serena and Venus Williams learned tennis on cracked public courts in this city before dominating Wimbledon",
+      "answer": "Compton, California",
+      "lat": 33.8958,
+      "lng": -118.2201,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "WTA"
+      ],
+      "viewLat": 26.259,
+      "viewLng": -114.4017,
+      "promptZh": "Serena Williams 和 Venus Williams 是在这座城市的破旧公共球场上学习打网球的，随后统治了 Wimbledon"
+    },
+    {
+      "id": "tennis-sweden-1",
+      "prompt": "Bjorn Borg won 5 straight Wimbledon titles from 1976-80 and then retired at 26. He's from this European city",
+      "answer": "Stockholm, Sweden",
+      "lat": 59.3293,
+      "lng": 18.0686,
+      "scope": "world",
+      "sport": "tennis",
+      "tags": [
+        "Wimbledon"
+      ],
+      "promptZh": "Bjorn Borg 在1976年至1980年间连续5次夺得 Wimbledon 冠军，26岁退役。他来自这座欧洲城市"
+    }
+  ]
+}

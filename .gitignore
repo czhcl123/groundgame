@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# local scratch
+tmp-*.png
+tmp-*.cjs
+tmp-*.js
+tmp-*.log
+*.local
+.env*.local
+.DS_Store
