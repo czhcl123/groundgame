@@ -49,6 +49,9 @@ http
     });
     res.end(body);
   })
-  .listen(PORT, "127.0.0.1", () => {
-    console.log(`serving ${ROOT} on http://127.0.0.1:${PORT}`);
+  // Bind 0.0.0.0, not 127.0.0.1: Railway (and most container hosts) reach the
+  // service through a proxy on the container's external interface, so a
+  // loopback-only listener answers with 502.
+  .listen(PORT, "0.0.0.0", () => {
+    console.log(`serving ${ROOT} on http://0.0.0.0:${PORT}`);
   });
