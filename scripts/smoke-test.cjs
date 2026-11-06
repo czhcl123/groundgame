@@ -1,32 +1,95 @@
-// Interactive smoke test for the GroundGame static build over CDP.
-// Verifies: map click -> score panel -> next question -> language switch -> archive page.
+// Interactive smoke test for the GroundGame build over CDP.
+//
+// Runs a real headless Chrome against the site and checks that the game
+// actually works: the map renders, a click scores, the round advances, the
+// keyboard path works, progress persists, and the SEO-critical markup is
+// present on every page type.
+//
+// Usage:
+//   node scripts/smoke-test.cjs                       # local static server
+//   BASE_URL=https://host node scripts/smoke-test.cjs # against a deployed URL
+//
+// Notes:
+//  - A unique profile dir per run matters: the game remembers a finished
+//    round in localStorage and jumps straight to the summary page, which
+//    would make the "playing" assertions fail.
+//  - The debug port is randomised for the same reason - a stale Chrome from
+//    an earlier run would otherwise be picked up instead of this one.
+
 const { spawn } = require("child_process");
 const fs = require("fs");
 const os = require("os");
+const http = require("http");
+const path = require("path");
 
 const CHROME = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe";
-const BASE = process.env.BASE || "http://127.0.0.1:3989";
-const PORT = 9336;
+const ROOT = path.resolve(__dirname, "..", "out");
+const PORT = Number(process.env.SERVE_PORT || 3991);
+const CDP_PORT = 9400 + Math.floor(Math.random() * 400);
+const BASE = (process.env.BASE_URL || `http://127.0.0.1:${PORT}`).replace(/\/$/, "");
+const USE_LOCAL_SERVER = !process.env.BASE_URL;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function cdp() {
+// ---------------------------------------------------------------- static server
+
+const TYPES = {
+  ".html": "text/html; charset=utf-8",
+  ".js": "text/javascript; charset=utf-8",
+  ".css": "text/css; charset=utf-8",
+  ".json": "application/json; charset=utf-8",
+  ".xml": "application/xml; charset=utf-8",
+  ".txt": "text/plain; charset=utf-8",
+  ".svg": "image/svg+xml",
+  ".png": "image/png",
+  ".ico": "image/x-icon",
+  ".woff2": "font/woff2",
+};
+
+function startStaticServer() {
+  const server = http.createServer((req, res) => {
+    const url = decodeURIComponent((req.url || "/").split("?")[0]);
+    let file = path.join(ROOT, url);
+    if (!file.startsWith(ROOT)) return void res.writeHead(403).end("forbidden");
+    // Next static export emits /foo -> foo.html and /foo/ -> foo/index.html.
+    const isFile = (q) => fs.existsSync(q) && fs.statSync(q).isFile();
+    const candidates = [];
+    if (!url.endsWith("/")) candidates.push(file + ".html");
+    candidates.push(path.join(file, "index.html"));
+    candidates.push(file);
+    file = candidates.find(isFile);
+    if (!file) return void res.writeHead(404, { "content-type": "text/plain" }).end("404 " + url);
+    const body = fs.readFileSync(file);
+    res.writeHead(200, {
+      "content-type": TYPES[path.extname(file)] || "application/octet-stream",
+      "content-length": body.length,
+    });
+    res.end(body);
+  });
+  return new Promise((resolve) => server.listen(PORT, "127.0.0.1", () => resolve(server)));
+}
+
+// ---------------------------------------------------------------- CDP client
+
+async function connect() {
+  const profile = path.join(os.tmpdir(), "gg-smoke-" + process.pid + "-" + Date.now());
   const proc = spawn(
     CHROME,
     [
       "--headless=new", "--disable-gpu", "--no-sandbox", "--no-proxy-server",
-      "--proxy-bypass-list=*", "--remote-debugging-port=" + PORT,
-      "--user-data-dir=" + os.tmpdir() + "\\gg-smoke",
+      "--proxy-bypass-list=*", "--remote-debugging-port=" + CDP_PORT,
+      "--user-data-dir=" + profile,
       "--window-size=1280,1000", BASE + "/",
     ],
     { stdio: "ignore" }
   );
   let wsUrl = null;
-  for (let i = 0; i < 60; i++) {
+  const needle = BASE.replace(/^https?:\/\//, "").split("/")[0];
+  for (let i = 0; i < 75; i++) {
     await sleep(400);
     try {
-      const list = await (await fetch(`http://127.0.0.1:${PORT}/json/list`)).json();
-      const p = list.find((t) => t.type === "page" && t.url.includes("127.0.0.1"));
+      const list = await (await fetch(`http://127.0.0.1:${CDP_PORT}/json/list`)).json();
+      const p = list.find((t) => t.type === "page" && t.url.includes(needle));
       if (p && p.webSocketDebuggerUrl) { wsUrl = p.webSocketDebuggerUrl; break; }
     } catch {}
   }
@@ -42,157 +105,212 @@ async function cdp() {
     new Promise((r) => { const i = ++id; pend.set(i, r); sock.send(JSON.stringify({ id: i, method, params })); });
   const evalJs = async (expression) => {
     const res = await send("Runtime.evaluate", { expression, returnByValue: true, awaitPromise: true });
-    if (res.result?.exceptionDetails) return "EXCEPTION: " + JSON.stringify(res.result.exceptionDetails).slice(0, 300);
-    return res.result?.result?.value;
+    if (res.result && res.result.exceptionDetails) {
+      return "EXCEPTION: " + JSON.stringify(res.result.exceptionDetails).slice(0, 300);
+    }
+    return res.result && res.result.result ? res.result.result.value : undefined;
   };
   const shot = async (name) => {
     const s = await send("Page.captureScreenshot", { format: "png", captureBeyondViewport: true });
-    if (s.result?.data) {
-      fs.writeFileSync(`D:\\SEO\\groundgame\\tmp-${name}.png`, Buffer.from(s.result.data, "base64"));
-      return `D:\\SEO\\groundgame\\tmp-${name}.png`;
+    if (s.result && s.result.data) {
+      const p = path.join(ROOT, "..", "tmp-" + name + ".png");
+      fs.writeFileSync(p, Buffer.from(s.result.data, "base64"));
+      return p;
     }
     return null;
   };
-  return { send, evalJs, shot, close: () => { try { sock.close(); } catch {} proc.kill(); } };
+  return {
+    send, evalJs, shot,
+    on: (ev, cb) => sock.addEventListener("message", cb),
+    off: (ev, cb) => sock.removeEventListener("message", cb),
+    close: () => {
+      try { sock.close(); } catch {}
+      try { proc.kill(); } catch {}
+      try { fs.rmSync(profile, { recursive: true, force: true }); } catch {}
+    },
+  };
+}
+
+// ---------------------------------------------------------------- assertions
+
+
+// Navigate and wait until the new document is really there.
+// Page.navigate returns before the new document has parsed, so a fixed sleep
+// is not enough - poll readyState and the expected body instead.
+async function goto(b, url, expect) {
+  await b.send("Page.navigate", { url });
+  for (let i = 0; i < 60; i++) {
+    await sleep(250);
+    const ready = await b.evalJs(
+      "(()=>{const t=document.body?document.body.innerText:'';return JSON.stringify({" +
+      "state:document.readyState,len:t.length," +
+      "hit:" + (expect ? "t.includes(" + JSON.stringify(expect) + ")" : "true") + "});})()"
+    );
+    if (!ready || String(ready).startsWith("EXCEPTION")) continue;
+    const st = JSON.parse(ready);
+    if (st.state === "complete" && st.len > 200 && st.hit) return true;
+  }
+  return false;
 }
 
 const results = [];
-const check = (name, ok, detail) => {
-  results.push({ name, ok, detail });
-  console.log((ok ? "PASS " : "FAIL ") + name + (detail ? "  :: " + detail : ""));
-};
+function check(name, ok, detail) {
+  results.push({ name, ok });
+  console.log((ok ? "PASS  " : "FAIL  ") + name + (detail ? "  :: " + detail : ""));
+}
+
+// ---------------------------------------------------------------- run
 
 (async () => {
-  const b = await cdp();
-  try {
-    await sleep(2500);
+  let server = null;
+  if (USE_LOCAL_SERVER) {
+    server = await startStaticServer();
+    console.log("static server on " + BASE + " (root " + ROOT + ")");
+  } else {
+    console.log("testing against " + BASE);
+  }
 
-    // 1. shell renders
+  const b = await connect();
+  try {
+    await sleep(3000);
+
+    // 1 — shell renders
     const shell = await b.evalJs(`(()=>{const t=document.body.innerText;return JSON.stringify({
       h1:document.querySelector('h1')?.textContent?.trim(),
-      q:document.querySelector('.gg-question')?.textContent?.trim()||null,
       svg:!!document.querySelector('svg'),
-      markers:document.querySelectorAll('.gg-marker').length,
-      bodyLen:t.length});})()`);
+      bodyLen:t.length,
+      prompt:(document.querySelector('.gg-prompt')||{}).textContent||null,
+      done:/points|总分/.test(t)&&!/Question|第\\s*\\d/.test(t)});})()`);
     const s = JSON.parse(shell);
-    check("1. shell renders with h1 + question + svg map", !!s.h1 && s.svg && s.bodyLen > 400, JSON.stringify(s).slice(0, 220));
+    check("1 shell renders (h1 + prompt + svg map)",
+      !!s.h1 && s.svg && !!s.prompt && !s.done, JSON.stringify(s).slice(0, 200));
 
-    // 2. map has clickable surface
-    const surface = await b.evalJs(`(()=>{const els=[...document.querySelectorAll('svg *')];
-      const kinds={};els.forEach(e=>{kinds[e.tagName]=(kinds[e.tagName]||0)+1;});
-      const r=document.querySelector('svg')?.getBoundingClientRect();
-      return JSON.stringify({kinds,rect:r?{x:Math.round(r.x),y:Math.round(r.y),w:Math.round(r.width),h:Math.round(r.height)}:null});})()`);
-    const sv = JSON.parse(surface);
-    check("2. svg map has geometry + renderable rect", !!sv.rect && sv.rect.w > 300 && sv.rect.h > 200, surface.slice(0, 220));
+    // 2 — map geometry
+    const geo = await b.evalJs(`(()=>{const r=document.querySelector('svg')?.getBoundingClientRect();
+      const kinds={};[...document.querySelectorAll('svg *')].forEach(e=>{kinds[e.tagName]=(kinds[e.tagName]||0)+1;});
+      return JSON.stringify({kinds,rect:r?{w:Math.round(r.width),h:Math.round(r.height)}:null});})()`);
+    const g = JSON.parse(geo);
+    check("2 svg map has land polygons + size",
+      g.kinds.polygon >= 5 && g.rect.w > 300 && g.rect.h > 200, geo.slice(0, 200));
 
-    // 3. click the map -> score panel appears
-    const before = await b.evalJs(`document.body.innerText.length`);
-    const clicked = await b.evalJs(`(()=>{
-      const svg=document.querySelector('svg'); const r=svg.getBoundingClientRect();
-      const x=r.x+r.width*0.5, y=r.y+r.height*0.5;
-      const opts={bubbles:true,cancelable:true,clientX:x,clientY:y,button:0};
-      const target=document.elementFromPoint(x,y)||svg;
-      target.dispatchEvent(new MouseEvent('click',opts));
-      return target.tagName+'.'+(target.className.baseVal||target.className||'');})()`);
-    await sleep(900);
-    const after = await b.evalJs(`(()=>{const t=document.body.innerText;
-      const hasKm=/\\d[\\d,.]*\\s*km/.test(t);
-      const hasScore=/\\b\\d{1,4}\\b/.test(t);
-      const next=[...document.querySelectorAll('button')].map(b=>b.textContent.trim());
-      return JSON.stringify({len:t.length,hasKm,hasScore,buttons:next,tail:t.slice(-700)});})()`);
-    const a = JSON.parse(after);
-    check("3. map click produces distance/score feedback", a.hasKm && a.len > before, "clicked " + clicked + " | " + JSON.stringify({ hasKm: a.hasKm, buttons: a.buttons }).slice(0, 220));
-    console.log("   feedback text: " + String(a.tail).replace(/\s+/g, " ").slice(0, 420));
-    await b.shot("after-click");
+    // 3 — click the map -> score feedback
+    const clicked = await b.evalJs(`(()=>{const svg=document.querySelector('svg');const r=svg.getBoundingClientRect();
+      const x=r.x+r.width*0.45,y=r.y+r.height*0.5;
+      const t=document.elementFromPoint(x,y)||svg;
+      t.dispatchEvent(new MouseEvent('click',{bubbles:true,cancelable:true,clientX:x,clientY:y,button:0}));
+      return t.tagName+' '+(t.getAttribute('class')||'');})()`);
+    await sleep(1000);
+    const fb = await b.evalJs(`(()=>{const t=document.body.innerText;
+      return JSON.stringify({len:t.length,km:/(km|KM)/.test(t),
+        buttons:[...document.querySelectorAll('button')].map(b=>b.textContent.trim())});})()`);
+    const f = JSON.parse(fb);
+    check("3 map click -> feedback panel with distance",
+      f.len > 300 && f.km, "clicked " + clicked + " buttons=" + JSON.stringify(f.buttons));
 
-    // 4. next-question control exists
-    const hasNext = a.buttons.length > 0;
-    check("4. next-question button rendered after guess", hasNext, JSON.stringify(a.buttons).slice(0, 200));
+    // 4 — continue control
+    check("4 continue button present after guess", f.buttons.length > 0, JSON.stringify(f.buttons).slice(0, 160));
 
-    // 5. click next -> question 2
-    if (hasNext) {
-      await b.evalJs(`(()=>{const bs=[...document.querySelectorAll('button')];const b0=bs.find(x=>/next|下一|continue/i.test(x.textContent))||bs[0];if(b0)b0.click();return b0?b0.textContent.trim():null;})()`);
-      await sleep(700);
-      const q2 = await b.evalJs(`(()=>{const t=document.body.innerText;const m=t.match(/Question\\s*(\\d)\\s*\\/\\s*5/);return JSON.stringify({n:m?m[1]:null,head:t.slice(0,260)});})()`);
-      check("5. advances to question 2", JSON.parse(q2).n === "2", q2.slice(0, 200));
+    // 5 — advance to Q2
+    if (f.buttons.length) {
+      await b.evalJs(`(()=>{const bs=[...document.querySelectorAll('button')];
+        const t=bs.find(x=>/next|下一|continue|see results|看结果/i.test(x.textContent));
+        if(t)t.click();return t?t.textContent.trim():null;})()`);
+      await sleep(900);
+      const q2 = await b.evalJs(`(()=>{const t=document.body.innerText;
+        const m=t.match(/Question\\s*(\\d)\\s*\\/\\s*5/i)||t.match(/第\\s*(\\d)\\s*\\/\\s*5/);
+        return JSON.stringify({n:m?m[1]:null});})()`);
+      check("5 advances to question 2", JSON.parse(q2).n === "2", q2.slice(0, 160));
     }
 
-    // 6. keyboard interaction (arrow keys + Enter promised in copy)
-    // NOTE: the keydown handler lives on the SVG element, so the test must
-    // focus the SVG and dispatch there - dispatching on document does nothing.
+    // 6 — keyboard path: focus the SVG, then arrows + Enter
     const kb = await b.evalJs(`(()=>{const svg=document.querySelector('svg');svg.focus();
       const focused=document.activeElement===svg;
-      const before=document.body.innerText.length;
       for(let i=0;i<3;i++)svg.dispatchEvent(new KeyboardEvent('keydown',{key:'ArrowUp',bubbles:true}));
       const cursor=!!document.querySelector('.gg-cursor');
       svg.dispatchEvent(new KeyboardEvent('keydown',{key:'Enter',bubbles:true}));
-      return JSON.stringify({focused,before:before.length,after:document.body.innerText.length,
-        cursor,hasFeedback:/km/.test(document.body.innerText)});})()`);
+      return JSON.stringify({focused,cursor,hasFeedback:/km/.test(document.body.innerText)});})()`);
+    await sleep(600);
     const k = JSON.parse(kb);
-    check("6. keyboard path (focus map, arrows, Enter) wired",
-      k.focused && k.cursor && k.hasFeedback, kb.slice(0, 220));
+    check("6 keyboard path (focus map, arrows, Enter) wired",
+      k.focused && k.cursor && k.hasFeedback, kb.slice(0, 200));
 
-    // 7. localStorage persistence.
-    // NOTE: results are written only when the whole 5-question round is done,
-    // so the test has to finish the round before asserting.
+    // 7 — localStorage after finishing the round.
+    // Results are only written once the whole 5-question round is done, so
+    // play it out first. Never click "Back to home" - it reloads the page.
     for (let i = 0; i < 6; i++) {
       await b.evalJs(`(()=>{const svg=document.querySelector('svg');if(!svg)return 'nosvg';
         const r=svg.getBoundingClientRect();const x=r.x+r.width*0.4,y=r.y+r.height*0.5;
         const t=document.elementFromPoint(x,y)||svg;
         t.dispatchEvent(new MouseEvent('click',{bubbles:true,cancelable:true,clientX:x,clientY:y,button:0}));
         return 'clicked';})()`);
-      await sleep(650);
+      await sleep(700);
       await b.evalJs(`(()=>{const bs=[...document.querySelectorAll('button')];
-        // NOTE: do NOT click "Back to home" - it reloads the page and we
-        // would read localStorage mid-reload.
-        const t=bs.find(x=>/next|下一|continue|again|再来|finish|看结果|see results/i.test(x.textContent));
+        const t=bs.find(x=>/next|下一|continue|see results|看结果/i.test(x.textContent));
         if(t)t.click();return t?t.textContent.trim():null;})()`);
-      await sleep(450);
+      await sleep(500);
     }
     const ls = await b.evalJs(`(()=>{try{const keys=Object.keys(localStorage);
       const hit=keys.find(k=>/streak|score|result|gg/i.test(k));
       const raw=hit?localStorage.getItem(hit):null;
-      return JSON.stringify({keys,raw:raw?raw.slice(0,180):null});}catch(e){return 'ERR '+e.message;}})()`);
-    check("7. progress persisted in localStorage after finishing the round",
-      /streak|score|result|gg/i.test(ls), ls.slice(0, 260));
-    // 8. language switch
-    await b.send("Page.navigate", { url: BASE + "/zh" });
-    await sleep(2200);
+      return JSON.stringify({keys,raw:raw?raw.slice(0,160):null});}catch(e){return 'ERR '+e.message;}})()`);
+    check("7 progress persisted in localStorage after the round",
+      /streak|score|result|gg/i.test(ls), ls.slice(0, 240));
+
+    // 8 — Chinese page.
+    // Clear the saved round first: a returning player is shown their results
+    // instead of the question, so .gg-prompt would not exist.
+    await b.evalJs("localStorage.clear()");
+    await goto(b, BASE + "/zh", "\u6bcf\u5929");
     const zh = await b.evalJs(`(()=>{const t=document.body.innerText;return JSON.stringify({
-      h1:document.querySelector('h1')?.textContent?.trim(),
-      lang:document.documentElement.lang,
-      hasZh:/[\\u4e00-\\u9fa5]/.test(t),
-      canonical:document.querySelector('link[rel=canonical]')?.href,
-      hreflang:[...document.querySelectorAll('link[rel=alternate]')].map(l=>l.hreflang+'='+l.href)});})()`);
+      h1:document.querySelector('h1')?.textContent?.trim(),lang:document.documentElement.lang,
+      hasCjk:/[\\u4e00-\\u9fa5]/.test(t),canon:document.querySelector('link[rel=canonical]')?.href,
+      alt:[...document.querySelectorAll('link[rel=alternate]')].map(l=>l.hreflang),
+      ld:document.querySelectorAll("script[type='application/ld+json']").length,
+      promptZh:/[\\u4e00-\\u9fa5]/.test((document.querySelector('.gg-prompt')||{}).textContent||'')});})()`);
     const z = JSON.parse(zh);
-    check("8. /zh page: Chinese content + zh-CN lang + hreflang", z.hasZh && z.lang === "zh-CN", JSON.stringify(z).slice(0, 280));
+    check("8 /zh: CJK copy + prompt + lang=zh-CN + canonical + hreflang + schema",
+      z.hasCjk && z.promptZh && z.lang === "zh-CN" && !!z.canon && z.alt.length >= 3 && z.ld >= 1,
+      JSON.stringify(z).slice(0, 300));
 
-    // 9. archive page
-    await b.send("Page.navigate", { url: BASE + "/d/2026-11-05" });
-    await sleep(2000);
+    // 9 — archive page
+    await goto(b, BASE + "/d/2026-11-05", "2026-11-05");
     const arch = await b.evalJs(`(()=>{const t=document.body.innerText;return JSON.stringify({
-      h1:document.querySelector('h1')?.textContent?.trim(),
-      hasDate:/2026-11-05/.test(t),
-      canonical:document.querySelector('link[rel=canonical]')?.href,
-      ld:document.querySelectorAll('script[type="application/ld+json"]').length});})()`);
+      hasDate:/2026-11-05/.test(t),canon:document.querySelector('link[rel=canonical]')?.href,
+      alt:[...document.querySelectorAll('link[rel=alternate]')].map(l=>l.hreflang),
+      ld:document.querySelectorAll("script[type='application/ld+json']").length});})()`);
     const ar = JSON.parse(arch);
-    check("9. archive page /d/2026-11-05 renders with canonical + schema", ar.hasDate && ar.ld >= 1, arch.slice(0, 260));
+    check("9 /d/2026-11-05 archive renders (date + canonical + hreflang + schema)",
+      ar.hasDate && !!ar.canon && ar.alt.length >= 3 && ar.ld >= 1, JSON.stringify(ar).slice(0, 260));
 
-    // 10. how-it-works
-    await b.send("Page.navigate", { url: BASE + "/how-it-works" });
-    await sleep(1800);
-    const hiw = await b.evalJs(`(()=>{const t=document.body.innerText;return JSON.stringify({len:t.length,h1:document.querySelector('h1')?.textContent?.trim(),ld:document.querySelectorAll('script[type="application/ld+json"]').length});})()`);
-    check("10. /how-it-works has real copy + schema", JSON.parse(hiw).len > 800, hiw.slice(0, 200));
+    // 10 — how-it-works
+    await goto(b, BASE + "/how-it-works", "scoring");
+    const hiw = await b.evalJs(`(()=>{const t=document.body.innerText;return JSON.stringify({
+      len:t.length,h1:document.querySelector('h1')?.textContent?.trim(),
+      ld:document.querySelectorAll("script[type='application/ld+json']").length,
+      tl:document.title.length,dl:(document.querySelector('meta[name=description]')?.content||'').length});})()`);
+    const h = JSON.parse(hiw);
+    check("10 /how-it-works: copy + schema + meta lengths within limits",
+      h.len > 800 && h.ld >= 1 && h.tl <= 60 && h.dl <= 155, JSON.stringify(h).slice(0, 240));
 
-    // 11. title/description lengths on key pages
-    const meta = await b.evalJs(`(()=>{const t=document.title;const d=document.querySelector('meta[name=description]')?.content||'';return JSON.stringify({title:t,tl:t.length,dl:d.length});})()`);
-    const m = JSON.parse(meta);
-    check("11. how-it-works title<=60 desc<=155", m.tl <= 60 && m.dl <= 155, meta.slice(0, 200));
+    // 11 — sitemap coverage
+    const sm = await b.evalJs(`fetch('/sitemap.xml').then(r=>r.text()).then(t=>JSON.stringify({
+      n:(t.match(/<loc>/g)||[]).length,hasZh:t.includes('/zh/d/'),hasD:t.includes('/d/')}))`);
+    const smj = JSON.parse(sm);
+    check("11 sitemap lists EN + ZH + archive URLs",
+      smj.n >= 180 && smj.hasZh && smj.hasD, sm.slice(0, 200));
   } finally {
     b.close();
+    if (server) server.close();
   }
 
   const failed = results.filter((r) => !r.ok);
-  console.log("\\n=== " + (results.length - failed.length) + "/" + results.length + " passed ===");
-  if (failed.length) { console.log("FAILED: " + failed.map((f) => f.name).join(", ")); process.exit(1); }
-})().catch((e) => { console.log("SMOKE ERROR: " + e.message); process.exit(1); });
+  console.log("\n=== " + (results.length - failed.length) + "/" + results.length + " checks passed ===");
+  if (failed.length) {
+    console.log("FAILED: " + failed.map((f) => f.name).join(" | "));
+    process.exit(1);
+  }
+  console.log("ALL PASS");
+})().catch((e) => {
+  console.log("SMOKE ERROR: " + (e && e.stack ? e.stack : e));
+  process.exit(1);
+});
