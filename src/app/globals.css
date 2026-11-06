@@ -1,0 +1,655 @@
+@import 'tailwindcss';
+
+:root {
+  --gg-bg: #0b1220;
+  --gg-panel: #121b2e;
+  --gg-panel-2: #182338;
+  --gg-border: #26334d;
+  --gg-text: #e8edf6;
+  --gg-muted: #94a3b8;
+  --gg-accent: #4ade80;
+  --gg-accent-2: #38bdf8;
+  --gg-warn: #fbbf24;
+  --gg-ocean: #0d1b30;
+  --gg-land: #1e2d47;
+  --gg-land-stroke: #2f4265;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--gg-bg);
+  color: var(--gg-text);
+  font-family: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--gg-accent-2);
+}
+
+.gg-shell {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px 16px 64px;
+}
+
+/* ---------- header ---------- */
+.gg-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 8px 0 24px;
+  border-bottom: 1px solid var(--gg-border);
+  margin-bottom: 28px;
+}
+
+.gg-brand {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  font-weight: 800;
+  font-size: 20px;
+  letter-spacing: -0.02em;
+  text-decoration: none;
+  color: var(--gg-text);
+}
+
+.gg-brand span {
+  color: var(--gg-accent);
+}
+
+.gg-nav {
+  display: flex;
+  gap: 18px;
+  font-size: 14px;
+}
+
+.gg-nav a {
+  color: var(--gg-muted);
+  text-decoration: none;
+}
+
+.gg-nav a:hover {
+  color: var(--gg-text);
+}
+
+/* ---------- hero ---------- */
+.gg-hero {
+  margin-bottom: 32px;
+}
+
+.gg-hero h1 {
+  font-size: clamp(30px, 6vw, 46px);
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+  margin: 0 0 12px;
+  font-weight: 800;
+}
+
+.gg-hero p {
+  color: var(--gg-muted);
+  font-size: 17px;
+  line-height: 1.6;
+  margin: 0;
+  max-width: 62ch;
+}
+
+.gg-tagline {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--gg-accent);
+  border: 1px solid var(--gg-accent);
+  border-radius: 999px;
+  padding: 3px 12px;
+  margin-bottom: 16px;
+}
+
+/* ---------- buttons ---------- */
+.gg-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  padding: 12px 20px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s, transform 0.05s;
+  font-family: inherit;
+}
+
+.gg-btn:active {
+  transform: translateY(1px);
+}
+
+.gg-btn:focus-visible {
+  outline: 2px solid var(--gg-accent-2);
+  outline-offset: 2px;
+}
+
+.gg-btn-primary {
+  background: var(--gg-accent);
+  color: #052e16;
+}
+
+.gg-btn-primary:hover {
+  background: #22c55e;
+}
+
+.gg-btn-secondary {
+  background: transparent;
+  border-color: var(--gg-border);
+  color: var(--gg-text);
+}
+
+.gg-btn-secondary:hover {
+  border-color: var(--gg-muted);
+}
+
+/* ---------- map ---------- */
+.gg-map-wrap {
+  position: relative;
+  border: 1px solid var(--gg-border);
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--gg-ocean);
+  margin: 20px 0;
+}
+
+.gg-map {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 2 / 1;
+  cursor: crosshair;
+  touch-action: manipulation;
+}
+
+.gg-map:focus-visible {
+  outline: 2px solid var(--gg-accent-2);
+  outline-offset: -2px;
+}
+
+.gg-ocean {
+  fill: var(--gg-ocean);
+}
+
+.gg-land {
+  fill: var(--gg-land);
+  stroke: var(--gg-land-stroke);
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+}
+
+.gg-grid line {
+  stroke: #1b2b46;
+  stroke-width: 0.5;
+  vector-effect: non-scaling-stroke;
+}
+
+.gg-guess-ring {
+  fill: none;
+  stroke: var(--gg-accent-2);
+  stroke-width: 2;
+  vector-effect: non-scaling-stroke;
+}
+
+.gg-guess-dot {
+  fill: var(--gg-accent-2);
+}
+
+.gg-answer-ring {
+  fill: none;
+  stroke: var(--gg-warn);
+  stroke-width: 2;
+  stroke-dasharray: 4 3;
+  vector-effect: non-scaling-stroke;
+}
+
+.gg-answer-dot {
+  fill: var(--gg-warn);
+}
+
+.gg-cursor line {
+  stroke: var(--gg-accent);
+  stroke-width: 1.5;
+  vector-effect: non-scaling-stroke;
+}
+
+.gg-map-readout {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  background: rgba(11, 18, 32, 0.88);
+  border: 1px solid var(--gg-border);
+  border-radius: 6px;
+  padding: 3px 8px;
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  color: var(--gg-muted);
+  pointer-events: none;
+}
+
+/* ---------- board ---------- */
+.gg-hud {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-size: 14px;
+  color: var(--gg-muted);
+  margin-bottom: 12px;
+  font-variant-numeric: tabular-nums;
+}
+
+.gg-hud-score {
+  margin-left: auto;
+  color: var(--gg-text);
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.gg-hud-streak {
+  color: var(--gg-warn);
+  font-weight: 600;
+}
+
+.gg-prompt {
+  font-size: clamp(17px, 2.4vw, 22px);
+  line-height: 1.5;
+  font-weight: 600;
+  margin: 0 0 4px;
+  min-height: 2.6em;
+}
+
+.gg-hint {
+  color: var(--gg-muted);
+  font-size: 14px;
+  text-align: center;
+  margin: 4px 0 0;
+}
+
+/* ---------- feedback ---------- */
+.gg-feedback {
+  background: var(--gg-panel);
+  border: 1px solid var(--gg-border);
+  border-radius: 14px;
+  padding: 18px;
+  margin-top: 18px;
+}
+
+.gg-feedback-main {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.gg-feedback-emoji {
+  font-size: 32px;
+  line-height: 1;
+}
+
+.gg-feedback-dist {
+  font-size: 22px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
+.gg-feedback-label {
+  color: var(--gg-muted);
+  font-size: 13px;
+}
+
+.gg-feedback-score {
+  margin-left: auto;
+  font-size: 26px;
+  font-weight: 800;
+  color: var(--gg-accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.gg-mult {
+  display: block;
+  font-size: 12px;
+  color: var(--gg-warn);
+  text-align: right;
+}
+
+.gg-feedback-answer {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--gg-border);
+  font-size: 15px;
+}
+
+.gg-feedback-answer-label {
+  display: block;
+  color: var(--gg-muted);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 2px;
+}
+
+.gg-feedback .gg-btn {
+  margin-top: 16px;
+  width: 100%;
+}
+
+/* ---------- tip bar ---------- */
+.gg-tip {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  font-size: 13px;
+  color: var(--gg-muted);
+  margin: 2px 0 0;
+}
+
+.gg-tip-prev {
+  margin-left: auto;
+  font-variant-numeric: tabular-nums;
+}
+
+.gg-tip-prev strong {
+  color: var(--gg-text);
+}
+
+/* ---------- intro ---------- */
+.gg-intro {
+  background: var(--gg-panel);
+  border: 1px solid var(--gg-border);
+  border-radius: 16px;
+  padding: 28px;
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+.gg-intro h2 {
+  margin: 0 0 8px;
+  font-size: 26px;
+}
+
+.gg-intro-lead {
+  color: var(--gg-muted);
+  margin: 0 0 18px;
+  line-height: 1.6;
+}
+
+.gg-intro-list {
+  color: var(--gg-muted);
+  font-size: 15px;
+  line-height: 1.7;
+  padding-left: 20px;
+  margin: 0 0 22px;
+}
+
+.gg-intro .gg-btn {
+  width: 100%;
+}
+
+.gg-intro-prev {
+  margin: 14px 0 0;
+  text-align: center;
+  color: var(--gg-muted);
+  font-size: 14px;
+}
+
+/* ---------- results ---------- */
+.gg-done {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.gg-done-head {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background: var(--gg-panel);
+  border: 1px solid var(--gg-border);
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 16px;
+}
+
+.gg-done-emoji {
+  font-size: 30px;
+  letter-spacing: 2px;
+  line-height: 1.3;
+}
+
+.gg-done-score {
+  font-size: 42px;
+  font-weight: 800;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.gg-done-label {
+  color: var(--gg-muted);
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+.gg-done-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.gg-done-stats > div {
+  background: var(--gg-panel);
+  border: 1px solid var(--gg-border);
+  border-radius: 12px;
+  padding: 14px;
+  text-align: center;
+}
+
+.gg-done-stats strong {
+  display: block;
+  font-size: 22px;
+  font-variant-numeric: tabular-nums;
+}
+
+.gg-done-stats span {
+  color: var(--gg-muted);
+  font-size: 12px;
+}
+
+.gg-review {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px;
+}
+
+.gg-review li {
+  background: var(--gg-panel);
+  border: 1px solid var(--gg-border);
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin-bottom: 10px;
+}
+
+.gg-review-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 6px;
+}
+
+.gg-review-q {
+  font-size: 12px;
+  color: var(--gg-muted);
+  font-weight: 700;
+}
+
+.gg-review-emoji {
+  font-size: 18px;
+}
+
+.gg-review-dist {
+  color: var(--gg-muted);
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+}
+
+.gg-review-score {
+  margin-left: auto;
+  color: var(--gg-accent);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.gg-review-answer {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.gg-review-prompt {
+  color: var(--gg-muted);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* ---------- cards / sections ---------- */
+.gg-section {
+  margin: 44px 0;
+}
+
+.gg-section h2 {
+  font-size: 22px;
+  margin: 0 0 16px;
+  letter-spacing: -0.01em;
+}
+
+.gg-grid-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 14px;
+}
+
+.gg-card {
+  background: var(--gg-panel);
+  border: 1px solid var(--gg-border);
+  border-radius: 14px;
+  padding: 18px;
+}
+
+.gg-card h3 {
+  margin: 0 0 6px;
+  font-size: 16px;
+}
+
+.gg-card p {
+  margin: 0;
+  color: var(--gg-muted);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+/* ---------- footer ---------- */
+.gg-footer {
+  border-top: 1px solid var(--gg-border);
+  margin-top: 56px;
+  padding-top: 24px;
+  color: var(--gg-muted);
+  font-size: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: space-between;
+}
+
+.gg-footer nav {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.gg-footer a {
+  color: var(--gg-muted);
+  text-decoration: none;
+}
+
+.gg-footer a:hover {
+  color: var(--gg-text);
+}
+
+/* ---------- language switch ---------- */
+.gg-lang {
+  display: inline-flex;
+  border: 1px solid var(--gg-border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.gg-lang a {
+  padding: 5px 11px;
+  font-size: 13px;
+  color: var(--gg-muted);
+  text-decoration: none;
+}
+
+.gg-lang a[aria-current='true'] {
+  background: var(--gg-panel-2);
+  color: var(--gg-text);
+  font-weight: 600;
+}
+
+/* ---------- skip link ---------- */
+.gg-skip {
+  position: absolute;
+  left: -9999px;
+}
+
+.gg-skip:focus {
+  left: 12px;
+  top: 12px;
+  background: var(--gg-panel-2);
+  padding: 8px 14px;
+  border-radius: 8px;
+  z-index: 10;
+}
+
+/* ---------- reduced motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ---------- high contrast ---------- */
+@media (prefers-contrast: more) {
+  :root {
+    --gg-muted: #cbd5e1;
+    --gg-border: #4a5c7d;
+  }
+}
+
+@media (max-width: 640px) {
+  .gg-shell {
+    padding: 16px 12px 48px;
+  }
+
+  .gg-done-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .gg-map {
+    aspect-ratio: 4 / 3;
+  }
+}
