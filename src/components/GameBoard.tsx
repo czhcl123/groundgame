@@ -158,6 +158,9 @@ export default function GameBoard({ questions, dateKey, gameId, lang, isToday = 
                   <span className="gg-review-score">+{r.score}</span>
                 </div>
                 {qq && <div className="gg-review-answer">{qq.answer}</div>}
+                {qq && storyFor(qq, lang) && (
+                  <div className="gg-review-story">{storyFor(qq, lang)}</div>
+                )}
                 <div className="gg-review-prompt">{qq ? promptFor(qq, lang) : ''}</div>
               </li>
             )
@@ -225,6 +228,9 @@ export default function GameBoard({ questions, dateKey, gameId, lang, isToday = 
             <span className="gg-feedback-answer-label">{T.answer}</span>
             {q.answer}
           </div>
+          {storyFor(q, lang) && (
+            <p className="gg-feedback-story">{storyFor(q, lang)}</p>
+          )}
           <button className="gg-btn gg-btn-primary" onClick={next} autoFocus>
             {index >= questions.length - 1 ? T.finish : T.next}
           </button>
@@ -234,6 +240,12 @@ export default function GameBoard({ questions, dateKey, gameId, lang, isToday = 
       )}
     </div>
   )
+}
+
+/** 取背景故事：中文站优先用中文故事，缺失时回退英文 */
+function storyFor(q: Question, lang: 'en' | 'zh'): string {
+  if (lang === 'zh' && q.storyZh) return q.storyZh
+  return q.story || ''
 }
 
 /** 取题干：中文站优先用中文题干，缺失时回退英文（不出现空白） */

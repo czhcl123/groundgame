@@ -28,7 +28,9 @@
       ],
       "viewLat": 20.643,
       "viewLng": -92.4453,
-      "promptZh": "Mean' Joe Greene 曾两获 NFL 年度最佳防守球员，并从这所德州小学校被选入"
+      "promptZh": "Mean' Joe Greene 曾两获 NFL 年度最佳防守球员，并从这所德州小学校被选入",
+      "story": "Taylor, Texas, was the hometown of Mean’ Joe Greene, who was drafted by the Pittsburgh Steelers in 1969 and went on to win two NFL Defensive Player of the Year awards.",
+      "storyZh": "德州泰勒是“-mean乔”格林的家乡；他于1969年被匹兹堡钢人队选中，后来两次荣膺NFL最佳防守球员。"
     },
     {
       "id": "nba-baltimore-1",
@@ -42,7 +44,9 @@
         "NFL",
         "international"
       ],
-      "promptZh": "由于父亲的篮球生涯，Ravens 安全卫 Kyle Hamilton 出生在这座以度假闻名的欧洲岛屿"
+      "promptZh": "由于父亲的篮球生涯，Ravens 安全卫 Kyle Hamilton 出生在这座以度假闻名的欧洲岛屿",
+      "story": "Baltimore Ravens safety Kyle Hamilton was born on February 17, 2000, in Saint James Parish, Jamaica, before moving to the United States and becoming an NFL star.",
+      "storyZh": "巴尔的摩 ravens 后卫凯尔·汉密尔顿于2000年2月17日出生在牙买加圣詹姆斯教区，后来移居美国并成为NFL明星。"
     },
     {
       "id": "nba-boston-5",
@@ -58,7 +62,9 @@
       ],
       "viewLat": 56.4524,
       "viewLng": -95.6415,
-      "promptZh": "Randy Moss 原本签约效力 Marshall，但在监禁 63 天后，于 1997 年加盟了这里的 Vikings"
+      "promptZh": "Randy Moss 原本签约效力 Marshall，但在监禁 63 天后，于 1997 年加盟了这里的 Vikings",
+      "story": "After his 63-day jail sentence, Randy Moss was selected by the Minnesota Vikings with the 13th pick in the 1997 NFL Draft and began an eight-year tenure in Minneapolis.",
+      "storyZh": "兰迪·莫斯服刑63天后，在1997年NFL选秀中以第13顺位被明尼苏达维京人队选中，并在明尼阿波利斯效力八个赛季。"
     },
     {
       "id": "nba-cle-2",
@@ -74,7 +80,9 @@
       ],
       "viewLat": 35.8112,
       "viewLng": -77.7951,
-      "promptZh": "成为 NFL 四分卫前，Carson Wentz 和 Trey Lance 都曾随这所大学赢得全国冠军"
+      "promptZh": "成为 NFL 四分卫前，Carson Wentz 和 Trey Lance 都曾随这所大学赢得全国冠军",
+      "story": "Florida State won consecutive national championships in Tallahassee in 2013 and 2014, with Carson Wentz starring for the first title team and Trey Lance quarterbacking the second.",
+      "storyZh": "佛罗里达州立大学于2013年和2014年在塔拉哈西连续夺得全国冠军，卡森·温茨是首个冠军队的核心，四分卫特雷·兰斯则率领第二支球队夺冠。"
     },
     {
       "id": "nba-cleveland-1",
@@ -90,7 +98,9 @@
       ],
       "viewLat": 22.8884,
       "viewLng": -123.8897,
-      "promptZh": "Bears 四分卫 Caleb Williams 出生并成长于这座城市"
+      "promptZh": "Bears 四分卫 Caleb Williams 出生并成长于这座城市",
+      "story": "Caleb Williams was born in Inglewood, California, on November 11, 2002, and grew up in the city before becoming the Chicago Bears’ quarterback.",
+      "storyZh": "卡莱布·威廉姆斯于2002年11月11日出生在加利福尼亚州英格伍德，并在当地长大，后来成为芝加哥熊队四分卫。"
     },
     {
       "id": "nba-detroit-6",
@@ -106,7 +116,9 @@
       ],
       "viewLat": 51.5128,
       "viewLng": -74.006,
-      "promptZh": "从 2006 年到 2014 年，NFL 选秀连续 9 年在这里举行，之后开始异地举办"
+      "promptZh": "从 2006 年到 2014 年，NFL 选秀连续 9 年在这里举行，之后开始异地举办",
+      "story": "The NFL held its annual draft in New York City for nine consecutive years from 2006 through 2014 before moving the event to Chicago in 2015.",
+      "storyZh": "NFL年度选秀自2006年至2014年连续九年在纽约市举行，随后于2015年移往芝加哥。"
     },
     {
       "id": "nba-ohio-1",
@@ -122,7 +134,9 @@
       ],
       "viewLat": 48.2306,
       "viewLng": -83.692,
-      "promptZh": "Lamar Jackson 在这所学校成为赢得 Heisman Trophy 的最年轻球员"
+      "promptZh": "Lamar Jackson 在这所学校成为赢得 Heisman Trophy 的最年轻球员",
+      "story": "On December 10, 2016, Lamar Jackson became the youngest Heisman Trophy winner in history at 21 years and 168 days while playing for Louisville.",
+      "storyZh": "2016年12月10日， Lamar Jackson以21岁168天成为史上最年轻的橄榄球海斯曼奖得主，当时效力于路易斯维尔大学。"
     },
     {
       "id": "nfl-army-1",
@@ -138,7 +152,9 @@
       ],
       "viewLat": 25.6645,
       "viewLng": -125.3237,
-      "promptZh": "“9·11”事件后，Pat Tillman 在这座城市放弃一份价值 360 万美元的 NFL 合同，报名成为 Army Ranger"
+      "promptZh": "“9·11”事件后，Pat Tillman 在这座城市放弃一份价值 360 万美元的 NFL 合同，报名成为 Army Ranger",
+      "story": "Fresno State alumnus Pat Tillman turned down a $3.6 million NFL contract in 2002 to enlist as an Army Ranger; he was killed on April 22, 2004.",
+      "storyZh": "Fresno State校友帕特·蒂尔曼在2002年拒绝了价值360万美元的NFL合同，志愿加入陆军并成为游骑兵；他于2004年4月22日阵亡。"
     },
     {
       "id": "nfl-baltimore-1",
@@ -154,7 +170,9 @@
       ],
       "viewLat": 49.2182,
       "viewLng": -71.6483,
-      "promptZh": "为增加收入，NFL 市场规模最小的球队曾在 1933 年至 1994 年间每年在这座附近城市举办 2 至 3 个主场比赛"
+      "promptZh": "为增加收入，NFL 市场规模最小的球队曾在 1933 年至 1994 年间每年在这座附近城市举办 2 至 3 个主场比赛",
+      "story": "Baltimore’s Memorial Stadium hosted two or three games for the NFL’s Colts each year from 1933 through 1994, giving the league’s smallest-market club a stronger home presence.",
+      "storyZh": "从1933年到1994年，巴尔的摩的纪念体育场每年承办两三场哥伦特队比赛，让这支NFL市场规模最小的球队拥有了更稳定的主场氛围。"
     },
     {
       "id": "nfl-baylor-1",
@@ -170,7 +188,9 @@
       ],
       "viewLat": 40.3316,
       "viewLng": -92.7556,
-      "promptZh": "Adrian Peterson 在 2004 年大一赛季便 rushing 了 1,925 码，当时效力于这所 Big 12 联盟学校所在的城市"
+      "promptZh": "Adrian Peterson 在 2004 年大一赛季便 rushing 了 1,925 码，当时效力于这所 Big 12 联盟学校所在的城市",
+      "story": "In 2004, Adrian Peterson rushed for 1,925 yards as a freshman at Baylor in Waco, launching a career that made him one of the NFL’s most accomplished runners.",
+      "storyZh": "2004年，阿德里安·皮特森在沃科的贝勒大学以新生身份冲球1,925码，由此开启了他后来成为NFL杰出跑卫的生涯。"
     },
     {
       "id": "nfl-boise-1",
@@ -186,7 +206,9 @@
       ],
       "viewLat": 38.8621,
       "viewLng": -121.9396,
-      "promptZh": "Ashton Jeanty 效力期间 rushing 了 2,601 码，并在 Heisman 评选中获得第二名"
+      "promptZh": "Ashton Jeanty 效力期间 rushing 了 2,601 码，并在 Heisman 评选中获得第二名",
+      "story": "In 2024, Ashton Jeanty rushed for 2,601 yards at Boise State and finished second in Heisman Trophy voting.",
+      "storyZh": "2024年，阿什顿·金蒂在博伊西州立大学冲球2,601码，并获得海斯曼奖投票第二名。"
     },
     {
       "id": "nfl-buffalo-1",
@@ -202,7 +224,9 @@
       ],
       "viewLat": 26.783,
       "viewLng": -76.5019,
-      "promptZh": "开启 17 年 NFL 生涯前，Ryan Fitzpatrick 曾在这座城市的常春藤盟校担任四分卫"
+      "promptZh": "开启 17 年 NFL 生涯前，Ryan Fitzpatrick 曾在这座城市的常春藤盟校担任四分卫",
+      "story": "Before beginning a 17-season NFL career in 2003, Ryan Fitzpatrick was the quarterback at Cornell in Ithaca.",
+      "storyZh": "在2003年开启长达17个赛季的NFL生涯前，瑞安·菲茨帕特里克曾是伊萨卡的康奈尔大学四分卫。"
     },
     {
       "id": "nfl-chicago-1",
@@ -218,7 +242,9 @@
       ],
       "viewLat": 54.3083,
       "viewLng": -91.9512,
-      "promptZh": "Chicago Bears 于1919年以“Decatur Staleyes”之名创立于伊利诺伊州这座小型工业城市"
+      "promptZh": "Chicago Bears 于1919年以“Decatur Staleyes”之名创立于伊利诺伊州这座小型工业城市",
+      "story": "The football franchise now known as the Chicago Bears began in Decatur in 1919 as the Decatur Staleys.",
+      "storyZh": "如今以芝加哥熊队闻名的橄榄球俱乐部，1919年在伊利诺伊州迪凯特以“迪凯特史泰利队”的名字创立。"
     },
     {
       "id": "nfl-chicago-2",
@@ -234,7 +260,9 @@
       ],
       "viewLat": 41.0244,
       "viewLng": -95.6081,
-      "promptZh": "1999年，Mike Ditka 送出历史级的8号签位组合，将 Ricky Williams 带到这座城市"
+      "promptZh": "1999年，Mike Ditka 送出历史级的8号签位组合，将 Ricky Williams 带到这座城市",
+      "story": "In 1999, New Orleans Saints coach Mike Ditka traded eight draft picks to Baltimore for running back Ricky Williams, one of the franchise’s most consequential deals.",
+      "storyZh": "1999年，新奥尔良圣徒队主教练迈克·迪特卡用8个选秀权从巴尔的摩换来跑卫里基·威廉姆斯，这成为球队史上最重大的交易之一。"
     },
     {
       "id": "nfl-cowboys-1",
@@ -250,7 +278,9 @@
       ],
       "viewLat": 18.346,
       "viewLng": -93.9525,
-      "promptZh": "1985年，这支球队的全体成员在一场超级碗惨败前录制了一支说唱视频，并成为流行文化爆款"
+      "promptZh": "1985年，这支球队的全体成员在一场超级碗惨败前录制了一支说唱视频，并成为流行文化爆款",
+      "story": "The Irving-based Dallas Cowboys’ 1985 rap video featured the roster before its 46–10 Super Bowl XX victory and became a pop-culture hit.",
+      "storyZh": "以欧文为主场的达拉斯牛仔队在1985年与全体队员共同出演了一支说唱音乐录影带，内容出现在他们以46比10赢得第20届超级碗之前，后来成为流行文化热门作品。"
     },
     {
       "id": "nfl-dallas-1",
@@ -266,7 +296,9 @@
       ],
       "viewLat": 21.2809,
       "viewLng": -81.0912,
-      "promptZh": "NFL 历史 rushing 纪录保持者 Emmitt Smith 出生于佐治亚州这座城市"
+      "promptZh": "NFL 历史 rushing 纪录保持者 Emmitt Smith 出生于佐治亚州这座城市",
+      "story": "Emmitt Smith, born in Savannah on May 15, 1969, finished his career with an NFL-record 18,928 rushing yards.",
+      "storyZh": "埃米特·史密斯于1969年5月15日出生在萨凡纳，职业生涯累计冲球18,928码，至今仍保持着NFL纪录。"
     },
     {
       "id": "nfl-dallas-2",
@@ -282,7 +314,9 @@
       ],
       "viewLat": 17.2951,
       "viewLng": -78.2917,
-      "promptZh": "NFL 历史 rushing 纪录保持者 Emmitt Smith 出生于佛罗里达州这座城市"
+      "promptZh": "NFL 历史 rushing 纪录保持者 Emmitt Smith 出生于佛罗里达州这座城市",
+      "story": "Emmitt Smith was born in Port St. Lucie on May 15, 1969, and finished his NFL career with a record 18,291 regular-season rushing yards.",
+      "storyZh": "埃米特·史密斯于1969年5月15日出生在圣露西港，并以常规赛18,291码的冲球纪录结束NFL生涯。"
     },
     {
       "id": "nfl-denver-1",
@@ -298,7 +332,9 @@
       ],
       "viewLat": 51.2138,
       "viewLng": -102.6138,
-      "promptZh": "1987年，John Elway 完成了著名的“The Drive”，推进98码并赢得 AFC 冠军"
+      "promptZh": "1987年，John Elway 完成了著名的“The Drive”，推进98码并赢得 AFC 冠军",
+      "story": "On January 10, 1987, John Elway capped The Drive with a 98-yard touchdown pass as Denver defeated Cleveland 43–38 for the AFC championship.",
+      "storyZh": "1987年1月10日，约翰·埃尔韦伊用一记98码达阵结束了那次著名的 Drive，丹佛以43比38击败克利夫兰夺得AFC冠军。"
     },
     {
       "id": "nfl-detroit-1",
@@ -314,7 +350,9 @@
       ],
       "viewLat": 49.9682,
       "viewLng": -86.8642,
-      "promptZh": "自1934年起，这座城市球队的感恩节橄榄球赛从未中断"
+      "promptZh": "自1934年起，这座城市球队的感恩节橄榄球赛从未中断",
+      "story": "The Detroit Lions have hosted a Thanksgiving Day NFL game every year since 1934, making it one of the league’s longest-running holiday traditions.",
+      "storyZh": "底特律雄狮队自1934年起每年都参加感恩节NFL比赛，是联盟中最悠久的节日传统之一。"
     },
     {
       "id": "nfl-detroit-2",
@@ -330,7 +368,9 @@
       ],
       "viewLat": 34.0841,
       "viewLng": -95.0604,
-      "promptZh": "2012年，决定比赛结果的“Fail Mary”在这座城市上演"
+      "promptZh": "2012年，决定比赛结果的“Fail Mary”在这座城市上演",
+      "story": "The Fail Mary occurred in New Orleans on November 4, 2012, when replacement officials awarded the Giants a field goal after a controversial ruling involving Jim Harbaugh.",
+      "storyZh": "著名的 Fail Mary 发生在2012年11月4日的新奥尔良，替补裁判在涉及吉姆·哈博的争议判罚后判给巨人队一记射门得分。"
     },
     {
       "id": "nfl-detroit-3",
@@ -346,7 +386,9 @@
       ],
       "viewLat": 42.6389,
       "viewLng": -88.5948,
-      "promptZh": "1982年，首次在寒冷城市举行的 Super Bowl XVI 在这座城市的 Silverdome 举行"
+      "promptZh": "1982年，首次在寒冷城市举行的 Super Bowl XVI 在这座城市的 Silverdome 举行",
+      "story": "Super Bowl XVI was played at the Silverdome in Pontiac on January 24, 1982, where Washington defeated Miami 27–17 in the NFL’s first cold-weather Super Bowl.",
+      "storyZh": "第16届超级碗于1982年1月24日在庞蒂亚克的银穹球场举行，华盛顿以27比17击败迈阿密，这届赛事成为首次在寒冷城市举行的超级碗。"
     },
     {
       "id": "nfl-detroit-5",
@@ -362,7 +404,9 @@
       ],
       "viewLat": 33.076,
       "viewLng": -77.8244,
-      "promptZh": "1920年，NFL 在一家糖果店楼上的会议中诞生于这座城市"
+      "promptZh": "1920年，NFL 在一家糖果店楼上的会议中诞生于这座城市",
+      "story": "The NFL was founded in New York on August 27, 1920, when representatives of 10 clubs met at the New York YMCA to create the American Professional Football Association.",
+      "storyZh": "NFL于1920年8月27日在纽约成立，当时10支球队的代表齐聚纽约YMCA，创立了美国职业橄榄球协会。"
     },
     {
       "id": "nfl-houston-1",
@@ -378,7 +422,9 @@
       ],
       "viewLat": 37.7434,
       "viewLng": -102.1422,
-      "promptZh": "Kurt Warner 曾在爱荷华州以每小时5.50美元的价格补货，后来为这座城市的球队赢得 Super Bowl"
+      "promptZh": "Kurt Warner 曾在爱荷华州以每小时5.50美元的价格补货，后来为这座城市的球队赢得 Super Bowl",
+      "story": "Sioux City High School’s 1990 graduate Kurt Warner later quarterbacked the St. Louis Rams to victory in Super Bowl XXXIV.",
+      "storyZh": "1990年毕业于苏克斯城高中库的库尔特·沃纳后来率领圣路易斯公羊队赢得第34届超级碗。"
     },
     {
       "id": "nfl-houston-2",
@@ -393,7 +439,9 @@
       ],
       "viewLat": 29.9698,
       "viewLng": -81.6128,
-      "promptZh": "Robert Crippen 是首位单赛季传球码数达到3,000码的 NFL 四分卫，出生于这座城市"
+      "promptZh": "Robert Crippen 是首位单赛季传球码数达到3,000码的 NFL 四分卫，出生于这座城市",
+      "story": "Robert Crippen was born in Vienna on April 21, 1956, and became the first NFL quarterback to pass for 3,000 yards in a season when he did so for New Orleans in 1980.",
+      "storyZh": "罗伯特·克里彭于1956年4月21日出生在弗吉尼亚州维也纳，并在1980年效力新奥尔良时成为首位单季传球码数达到3,000码的NFL四分卫。"
     },
     {
       "id": "nfl-jacksonville-1",
@@ -409,7 +457,9 @@
       ],
       "viewLat": 14.6722,
       "viewLng": -81.6557,
-      "promptZh": "自2017年以来，这座城市的大学橄榄球球迷一直向俯瞰球场的医院里的孩子们挥手"
+      "promptZh": "自2017年以来，这座城市的大学橄榄球球迷一直向俯瞰球场的医院里的孩子们挥手",
+      "story": "Since 2017, Jacksonville Jaguars fans have waved to children at Wolfson Children’s Hospital, which overlooks the stadium and has made their gestures a city tradition.",
+      "storyZh": "自2017年起，杰克逊维尔美洲虎队球迷一直向俯瞰球场的沃尔夫森儿童医院里的孩子挥手，这一举动已成为当地的一项传统。"
     },
     {
       "id": "nfl-london-1",
@@ -423,7 +473,9 @@
         "NFL",
         "international"
       ],
-      "promptZh": "2022年，Packers首次参加海外比赛，地点就是美国境外唯一专为NFL修建的球场"
+      "promptZh": "2022年，Packers首次参加海外比赛，地点就是美国境外唯一专为NFL修建的球场",
+      "story": "On October 2, 2022, the Green Bay Packers played their first regular-season game outside the United States at Twickenham Stadium, defeating the New York Giants 38–20.",
+      "storyZh": "2022年10月2日，绿湾包装工队在特威克纳姆体育场迎战纽约巨人队，以38比20获胜，这是他们首次在美国境外参加常规赛。"
     },
     {
       "id": "nfl-london-2",
@@ -437,7 +489,9 @@
         "NFL",
         "international"
       ],
-      "promptZh": "2022年，NFL首场德国常规赛在这座球场举行"
+      "promptZh": "2022年，NFL首场德国常规赛在这座球场举行",
+      "story": "On November 13, 2022, the Tampa Bay Buccaneers faced the Seattle Seahawks at Munich’s Allianz Arena in the NFL’s first regular-season game in Germany, losing 21–16.",
+      "storyZh": "2022年11月13日，塔拉姆湾海盗队在慕尼黑安联球场迎战西雅图海鹰队，以16比21落败，这是NFL历史上首场在德国举行的常规赛。"
     },
     {
       "id": "nfl-marshall-1",
@@ -453,7 +507,9 @@
       ],
       "viewLat": 19.2683,
       "viewLng": -97.0569,
-      "promptZh": "1970年一场飞机失事造成75人死亡，其中包括37名准备返回这座城市的大学橄榄球运动员"
+      "promptZh": "1970年一场飞机失事造成75人死亡，其中包括37名准备返回这座城市的大学橄榄球运动员",
+      "story": "On October 10, 1970, Southern Airways Flight 242 crashed near Marshall, Texas, killing 75 people, including 37 Marshall University football players traveling home.",
+      "storyZh": "1970年10月10日，南方航空242号航班在得克萨斯州马歇尔附近坠毁，机上75人死亡，其中包括37名返乡的马歇尔大学橄榄球队员。"
     },
     {
       "id": "nfl-miami-2",
@@ -469,7 +525,9 @@
       ],
       "viewLat": 31.542,
       "viewLng": -85.3269,
-      "promptZh": "NFL唯一由社区共同持有的球队自1957年起，一直在这座城市联盟最古老且仍在使用的球场比赛"
+      "promptZh": "NFL唯一由社区共同持有的球队自1957年起，一直在这座城市联盟最古老且仍在使用的球场比赛",
+      "story": "Green Bay’s Packers have played at Lambeau Field since 1957 and remain the NFL’s only publicly owned team, with fans holding shares dating back to a 1923 stock sale.",
+      "storyZh": "绿湾包装工队自1957年起一直使用兰博球场，至今仍是NFL唯一由公众共同持有的球队，球迷持有的股份可追溯至1923年的股票发行。"
     },
     {
       "id": "nfl-miami-3",
@@ -485,7 +543,9 @@
       ],
       "viewLat": 15.8339,
       "viewLng": -75.2279,
-      "promptZh": "1969年Super Bowl III在这座城市的Orange Bowl举行，Joe Namath赛前保证获胜，随后爆冷击败Colts"
+      "promptZh": "1969年Super Bowl III在这座城市的Orange Bowl举行，Joe Namath赛前保证获胜，随后爆冷击败Colts",
+      "story": "At Miami’s Orange Bowl on January 12, 1969, Joe Namath’s guaranteed victory was followed by the New York Jets’ 16–7 upset of the Baltimore Colts in Super Bowl III.",
+      "storyZh": "1969年1月12日，乔·纳马思保证纽约喷气机队获胜后，球队在迈阿密橙碗体育场以16比7击败巴尔的摩马队，赢得第3届超级碗。"
     },
     {
       "id": "nfl-nfl-1",
@@ -501,7 +561,9 @@
       ],
       "viewLat": 33.9684,
       "viewLng": -75.7648,
-      "promptZh": "四届最佳阵容外接手Antonio Brown曾与J.J. Watt是这所大学的队友"
+      "promptZh": "四届最佳阵容外接手Antonio Brown曾与J.J. Watt是这所大学的队友",
+      "story": "Columbus is home to Ohio State University, founded in 1870, whose Buckeyes football program became one of the most storied in college sports.",
+      "storyZh": "哥伦布市是1870年创立的俄亥俄州立大学所在地，其Buckeyes橄榄球队后来成为大学体育中最负盛名的项目之一。"
     },
     {
       "id": "nfl-oakland-1",
@@ -517,7 +579,9 @@
       ],
       "viewLat": 33.6714,
       "viewLng": -117.2823,
-      "promptZh": "唯一完成全胜赛季的NFL球队曾在这座城市进行主场比赛"
+      "promptZh": "唯一完成全胜赛季的NFL球队曾在这座城市进行主场比赛",
+      "story": "The 1967 Oakland Raiders finished the regular season 15–0, then defeated the Houston Oilers 14–10 in Super Bowl II, becoming the only NFL team to complete a perfect season.",
+      "storyZh": "1967年的奥克兰突袭者队以15胜0负完成常规赛，并在第2届超级碗中以14比10击败休斯敦油人队，成为唯一一支取得全胜赛季的NFL球队。"
     },
     {
       "id": "nfl-ohio-1",
@@ -533,7 +597,9 @@
       ],
       "viewLat": 29.9114,
       "viewLng": -83.0458,
-      "promptZh": "自1934年以来，感恩节橄榄球赛一直是这座城市球队的悠久传统"
+      "promptZh": "自1934年以来，感恩节橄榄球赛一直是这座城市球队的悠久传统",
+      "story": "The Detroit Lions’ Thanksgiving Day tradition dates to 1934, making their holiday game one of pro football’s oldest fixtures.",
+      "storyZh": "底特律雄狮队的感恩节比赛传统始于1934年，使其节日赛程成为职业橄榄球历史最悠久的固定对决之一。"
     },
     {
       "id": "nfl-pennsylvania-1",
@@ -549,7 +615,9 @@
       ],
       "viewLat": 44.9264,
       "viewLng": -82.849,
-      "promptZh": "Tom Brady赢得了7届超级碗，但在这座大学城只是一名替补"
+      "promptZh": "Tom Brady赢得了7届超级碗，但在这座大学城只是一名替补",
+      "story": "Tom Brady was a backup quarterback at Penn State in State College before going on to win seven Super Bowls in the NFL.",
+      "storyZh": "汤姆·布雷迪在宾夕法尼亚州州立大学的州学院校区担任替补四分卫，后来在NFL赢得了7次超级碗冠军。"
     },
     {
       "id": "nfl-philadelphia-3",
@@ -565,7 +633,9 @@
       ],
       "viewLat": 53.0982,
       "viewLng": -73.9442,
-      "promptZh": "首届1939年NFL冠军赛中，New York Giants击败了这座城市的球队"
+      "promptZh": "首届1939年NFL冠军赛中，New York Giants击败了这座城市的球队",
+      "story": "On January 15, 1939, the New York Giants defeated the Brooklyn Dodgers 23–20 in the first NFL Championship Game.",
+      "storyZh": "1939年1月15日，纽约巨人队以23比20击败布鲁克林道奇队，赢得首届NFL冠军赛。"
     },
     {
       "id": "nfl-phoenix-1",
@@ -581,7 +651,9 @@
       ],
       "viewLat": 24.6432,
       "viewLng": -116.3311,
-      "promptZh": "在2018年被选秀前，这位四分卫在大学最后一个赛季传出了4,948码"
+      "promptZh": "在2018年被选秀前，这位四分卫在大学最后一个赛季传出了4,948码",
+      "story": "Baker Mayfield threw for 4,948 yards at Arizona State in 2017 before being selected by the Cleveland Browns in the 2018 NFL Draft.",
+      "storyZh": "贝克·梅菲尔德在2017年为亚利桑那州立大学传出4,948码，随后在2018年NFL选秀中被克利夫兰布朗队选中。"
     },
     {
       "id": "nfl-pittsburgh-2",
@@ -597,7 +669,9 @@
       ],
       "viewLat": 54.4806,
       "viewLng": -79.9959,
-      "promptZh": "在越南被手榴弹炸伤双腿后，Rocky Bleier 获授紫心勋章，并为这座城市赢得了 4 次超级碗"
+      "promptZh": "在越南被手榴弹炸伤双腿后，Rocky Bleier 获授紫心勋章，并为这座城市赢得了 4 次超级碗",
+      "story": "Pittsburgh Steelers running back Rocky Bleier received the Purple Heart after being wounded in Vietnam and later won four Super Bowls.",
+      "storyZh": "匹兹堡钢人队跑卫洛基·布莱尔在越南受伤后获授紫心勋章，后来又随队四次赢得超级碗。"
     },
     {
       "id": "nfl-probowl-1",
@@ -611,7 +685,9 @@
         "NFL",
         "Pro Bowl"
       ],
-      "promptZh": "1980 年至 2009 年，NFL 职业碗一直在这座首都城市举办"
+      "promptZh": "1980 年至 2009 年，NFL 职业碗一直在这座首都城市举办",
+      "story": "Honolulu hosted the NFL Pro Bowl for three decades, from 1980 through 2009.",
+      "storyZh": "檀香山连续三十年承办NFL职业碗，时间从1980年一直到2009年。"
     },
     {
       "id": "nfl-sfo-1",
@@ -627,7 +703,9 @@
       ],
       "viewLat": 41.9079,
       "viewLng": -127.4083,
-      "promptZh": "Joe Montana 的 5 次超级碗胜利始于一这座湾区城市"
+      "promptZh": "Joe Montana 的 5 次超级碗胜利始于一这座湾区城市",
+      "story": "Joe Montana won the first of his five Super Bowls with the San Francisco 49ers in the 38–16 victory over Miami at Super Bowl XIX in January 1984.",
+      "storyZh": "1984年1月的第19届超级碗中，乔·蒙塔纳率旧金山49人队以38比16击败迈阿密队，赢得个人五个超级碗中的第一个。"
     },
     {
       "id": "nfl-tennessee-1",
@@ -643,7 +721,9 @@
       ],
       "viewLat": 31.2077,
       "viewLng": -78.1834,
-      "promptZh": "Peyton Manning 选择了这所东南联盟学校，而非父亲 Archie 的母校 Ole Miss"
+      "promptZh": "Peyton Manning 选择了这所东南联盟学校，而非父亲 Archie 的母校 Ole Miss",
+      "story": "Peyton Manning played at Tennessee from 1993 to 1997, leading the Volunteers to the 1996 national championship after choosing the school over his father Archie’s alma mater, Ole Miss.",
+      "storyZh": "佩顿·曼宁在1993年至1997年效力田纳西大学，并率队赢得1996年全国冠军；他选择这所学校，而非父亲阿奇就读的密西西比大学。"
     },
     {
       "id": "nfl-tennessee-2",
@@ -658,7 +738,9 @@
       ],
       "viewLat": 35.0527,
       "viewLng": -71.8584,
-      "promptZh": "Wentz 和 Lance 都曾在这所大学赢得全国冠军"
+      "promptZh": "Wentz 和 Lance 都曾在这所大学赢得全国冠军",
+      "story": "Fayetteville is home to Fayetteville State University, an original member of the NCAA’s Alliance of American Football Conference when competition began in 2016; nearby Fort Bragg was renamed Fort Liberty in 2023 before restoring its historic name in 2025.",
+      "storyZh": "费耶特维尔是费耶特维尔州立大学的所在地，该校也是NCAA美国联盟足球队在2016年成立时的创始成员之一；附近的布拉格堡于2023年更名为自由堡，并在2025年恢复历史名称。"
     },
     {
       "id": "nfl-texas-1",
@@ -674,7 +756,9 @@
       ],
       "viewLat": 43.3419,
       "viewLng": -95.0561,
-      "promptZh": "Patrick Mahomes 在这座城市长大，他的父亲曾在这里效力于小联盟"
+      "promptZh": "Patrick Mahomes 在这座城市长大，他的父亲曾在这里效力于小联盟",
+      "story": "Alvin was where Patrick Mahomes Jr. grew up and learned football from his father, former minor-league pitcher Pat Mahomes Sr.; the younger Mahomes later won Super Bowl LIV in February 2020.",
+      "storyZh": "阿尔文是帕特里克·马霍姆斯二世长大的地方，他的父亲、前小联盟投手帕特里克·马霍姆斯一世曾在那里指导他；小马霍姆斯随后在2020年2月赢得第54届超级碗。"
     },
     {
       "id": "nfl-texas-2",
@@ -690,7 +774,9 @@
       ],
       "viewLat": 44.5921,
       "viewLng": -89.7348,
-      "promptZh": "《Remember the Titans》的真实故事发生在这座城市的一所高中，后来启发了这部热门电影"
+      "promptZh": "《Remember the Titans》的真实故事发生在这座城市的一所高中，后来启发了这部热门电影",
+      "story": "The Tarrant High School team portrayed in Remember the Titans finished 1971 with a 13-0 record and an Alabama state championship under coach Bill Curry.",
+      "storyZh": "电影《记住先驱者》的原型来自塔伦特高中队，该队在比尔·柯里教练带领下于1971年以13胜0负的战绩夺得阿拉巴马州冠军。"
     },
     {
       "id": "nfl-vegas-1",
@@ -706,7 +792,9 @@
       ],
       "viewLat": 47.6445,
       "viewLng": -117.5163,
-      "promptZh": "Raiders 于 2020 年迁至这里，首场主场比赛吸引了超过 62,000 名观众"
+      "promptZh": "Raiders 于 2020 年迁至这里，首场主场比赛吸引了超过 62,000 名观众",
+      "story": "The Raiders began playing in Las Vegas in 2020, drawing a franchise-record 62,295 spectators to their first regular-season home game at Allegiant Stadium.",
+      "storyZh": "突袭者队于2020年迁至拉斯维加斯，在阿拉吉安特体育场的首场常规赛主场比赛吸引了队史纪录的62,295名观众。"
     },
     {
       "id": "us-ncaa-notre-dame-1",
@@ -722,7 +810,9 @@
       ],
       "viewLat": 36.3035,
       "viewLng": -92.7376,
-      "promptZh": "1979 年进入职业联盟前，Joe Montana 曾在这所天主教大学所在的城镇赢得全国冠军"
+      "promptZh": "1979 年进入职业联盟前，Joe Montana 曾在这所天主教大学所在的城镇赢得全国冠军",
+      "story": "South Bend’s Notre Dame capped an 11-1 season by defeating Texas 38-10 in the 1979 Fiesta Bowl, securing the national championship associated with Joe Montana’s college career before his 1979 NFL debut.",
+      "storyZh": "南本德圣母大学在1979年-Fiesta Bowl中以38比10击败得克萨斯大学，以11胜1负结束赛季并夺得与乔·蒙塔纳大学时期相关的全国冠军，随后蒙塔纳在1979年进入NFL。"
     },
     {
       "id": "us-nfl-boston-1",
@@ -738,7 +828,9 @@
       ],
       "viewLat": 31.5702,
       "viewLng": -129.5595,
-      "promptZh": "Tom Brady 是 2000 年 NFL 选秀大会第 199 顺位选中的球员，他在这座加州城市长大"
+      "promptZh": "Tom Brady 是 2000 年 NFL 选秀大会第 199 顺位选中的球员，他在这座加州城市长大",
+      "story": "San Mateo is where Tom Brady starred at Junipero Serra High School before the New England Patriots selected him with the 199th pick of the 2000 NFL Draft.",
+      "storyZh": "汤姆·布雷迪在圣马特奥的胡内罗·塞拉高中效力，后来新英格兰爱国者在2000年NFL选秀中用第199顺位选下了他。"
     },
     {
       "id": "us-nfl-greenbay-1",
@@ -754,7 +846,9 @@
       ],
       "viewLat": 57.4846,
       "viewLng": -85.3269,
-      "promptZh": "自 1957 年起，Packers 一直在这座威斯康星小城以“冰雪荒原”之名进行主场比赛"
+      "promptZh": "自 1957 年起，Packers 一直在这座威斯康星小城以“冰雪荒原”之名进行主场比赛",
+      "story": "The Packers have played their home games in Green Bay at Lambeau Field since 1957, earning the stadium its enduring nickname, the Frozen Tundra.",
+      "storyZh": "包装工队自1957年起一直在格林贝的兰博球场进行主场比赛，这座球场也因此获得了“冻结苔原”的 enduring 称号。"
     },
     {
       "id": "us-nfl-pittsburgh-1",
@@ -771,7 +865,9 @@
       ],
       "viewLat": 51.5139,
       "viewLng": -74.4593,
-      "promptZh": "1972 年，Franco Harris 在这座城市的接球达阵帮助球队赢下一场 AFC 季后赛"
+      "promptZh": "1972 年，Franco Harris 在这座城市的接球达阵帮助球队赢下一场 AFC 季后赛",
+      "story": "On December 24, 1972, Franco Harris made his famous tipped-pass catch at Three Rivers Stadium, helping Pittsburgh defeat Oakland 13-7 and advance to Super Bowl IX.",
+      "storyZh": "1972年12月24日，弗朗哥·哈里斯在三河体育場完成了著名的漏接传球接球，帮助匹兹堡以13比7击败奥克兰并晋级第9届超级碗。"
     },
     {
       "id": "mlb-arizona-2",
@@ -786,7 +882,9 @@
       ],
       "viewLat": 27.8128,
       "viewLng": -86.7394,
-      "promptZh": "美国最大的体育场 The Big House 可容纳超过 10.7 万名观众，位于这座大学城"
+      "promptZh": "美国最大的体育场 The Big House 可容纳超过 10.7 万名观众，位于这座大学城",
+      "story": "Ann Arbor is home to the University of Michigan’s Michigan Stadium, known as The Big House, which seats 107,601 fans.",
+      "storyZh": "安娜堡坐拥密歇根大学的密歇根体育场，它以“The Big House”之名闻名，可容纳107,601名观众。"
     },
     {
       "id": "nfl-dallas-3",
@@ -801,7 +899,9 @@
       ],
       "viewLat": 22.9912,
       "viewLng": -92.516,
-      "promptZh": "这所 Texas 大学的“A&M”呐喊声曾由第 12 人领唱"
+      "promptZh": "这所 Texas 大学的“A&M”呐喊声曾由第 12 人领唱",
+      "story": "Texas A&M’s 12th Man tradition is said to date to October 27, 1917, when students were called on to lead the school’s famous yell during a football game.",
+      "storyZh": "得克萨斯农工大学的“第12人”传统可追溯至1917年10月27日，据说当场比赛中，学生被召集起来带领全校呐喊助威。"
     },
     {
       "id": "nfl-detroit-4",
@@ -817,7 +917,9 @@
       ],
       "viewLat": 38.5995,
       "viewLng": -89.5444,
-      "promptZh": "这所大学的“Sparty”吉祥物从 1895 年起一直跺着脚"
+      "promptZh": "这所大学的“Sparty”吉祥物从 1895 年起一直跺着脚",
+      "story": "East Lansing’s Michigan State Spartans first carried the Spartan nickname in 1895, beginning an athletic identity that continues today.",
+      "storyZh": "东兰辛的密歇根州立大学斯巴达人队于1895年首次使用“斯巴达人”这一昵称，并延续至今。"
     },
     {
       "id": "nike-oregon-1",
@@ -833,7 +935,9 @@
       ],
       "viewLat": 44.0521,
       "viewLng": -117.6868,
-      "promptZh": "Bill Bowerman 和 Phil Knight 在这座大学的校园里制造出灵感来自华夫饼的跑鞋，Nike 由此诞生"
+      "promptZh": "Bill Bowerman 和 Phil Knight 在这座大学的校园里制造出灵感来自华夫饼的跑鞋，Nike 由此诞生",
+      "story": "Eugene is where Phil Knight and track coach Bill Bowerman founded Blue Ribbon Sports in 1964, the company that evolved into Nike and created the revolutionary waffle sole.",
+      "storyZh": "尤金是菲尔·耐特与田径教练比尔·鲍尔曼于1964年创办蓝带体育公司的所在地，这家公司后来发展为耐克，并推出了具有革命性的华夫鞋底。"
     },
     {
       "id": "olympics-berlin-1",
@@ -847,7 +951,9 @@
         "Olympics",
         "1936"
       ],
-      "promptZh": "Jesse Owens 在 1936 年夏季奥运会于此城夺得 4 枚金牌"
+      "promptZh": "Jesse Owens 在 1936 年夏季奥运会于此城夺得 4 枚金牌",
+      "story": "Berlin’s 1936 Summer Olympics became legendary when Jesse Owens won four gold medals, including victories in the long jump, 100 meters, 200 meters, and 4×100-meter relay.",
+      "storyZh": "1936年柏林奥运会因杰西·欧文斯夺得4枚金牌而载入史册，他在跳远、100米、200米和4×100米接力项目中全部夺冠。"
     },
     {
       "id": "mlb-baltimore-2",
@@ -863,7 +969,9 @@
       ],
       "viewLat": 48.0727,
       "viewLng": -72.2211,
-      "promptZh": "1995 年，Cal Ripken 在这座城市参加第 2,131 场连续比赛，打破 Lou Gehrig 的铁人纪录"
+      "promptZh": "1995 年，Cal Ripken 在这座城市参加第 2,131 场连续比赛，打破 Lou Gehrig 的铁人纪录",
+      "story": "Baltimore’s Camden Yards witnessed Cal Ripken break Lou Gehrig’s consecutive-games record on September 6, 1995, by playing his 2,131st straight game.",
+      "storyZh": "1995年9月6日，卡尔·里普肯在巴尔的摩的卡姆登球场迎来连续出场的第2,131场比赛，打破了卢·盖里格的纪录。"
     },
     {
       "id": "mlb-boston-1",
@@ -879,7 +987,9 @@
       ],
       "viewLat": 21.2411,
       "viewLng": -119.5376,
-      "promptZh": "大联盟仍在使用的最古老球场自 1912 年起便矗立在这座城市"
+      "promptZh": "大联盟仍在使用的最古老球场自 1912 年起便矗立在这座城市",
+      "story": "Ted Williams ended his playing career with the San Diego Padres in 1954, batting .352 with 12 home runs during his only major-league season in the city.",
+      "storyZh": "泰德·威廉姆斯于1954年在圣迭戈教士队结束职业生涯，在这座城市效力唯一一个完整大联盟赛季时，他打出.352的打击率并击出12支本垒打。"
     },
     {
       "id": "mlb-boston-2",
@@ -895,7 +1005,9 @@
       ],
       "viewLat": 23.7427,
       "viewLng": -86.7816,
-      "promptZh": "“Music City Miracle”见证了 Kevin Dyson 在这座城市于开球回传后以 3 秒之差完成达阵"
+      "promptZh": "“Music City Miracle”见证了 Kevin Dyson 在这座城市于开球回传后以 3 秒之差完成达阵",
+      "story": "Nashville became famous for the Music City Miracle on January 23, 2000, when Kevin Dyson returned an onside kickoff for a touchdown with 3 seconds remaining.",
+      "storyZh": "2000年1月23日，凯文·戴森在纳什维尔以仅剩3秒的时间接回开球并完成达阵，上演了著名的“音乐城奇迹”。"
     },
     {
       "id": "mlb-boston-3",
@@ -911,7 +1023,9 @@
       ],
       "viewLat": 30.8855,
       "viewLng": -68.6824,
-      "promptZh": "大联盟仍在使用的最古老球场自 1912 年起便矗立在这座城市"
+      "promptZh": "大联盟仍在使用的最古老球场自 1912 年起便矗立在这座城市",
+      "story": "Boston’s Fenway Park opened on April 20, 1912, making it the oldest ballpark still in use in Major League Baseball.",
+      "storyZh": "波士顿的芬威公园于1912年4月20日启用，至今仍是大联盟棒球史上最古老仍在使用的球场。"
     },
     {
       "id": "mlb-bronx-1",
@@ -927,7 +1041,9 @@
       ],
       "viewLat": 53.8161,
       "viewLng": -71.1784,
-      "promptZh": "Yankee Stadium 于 1923 年首次开放，坐落在 New York 的这座行政区"
+      "promptZh": "Yankee Stadium 于 1923 年首次开放，坐落在 New York 的这座行政区",
+      "story": "The original Yankee Stadium opened in the Bronx on April 18, 1923, when the Yankees defeated the Red Sox 4–3 in its first game.",
+      "storyZh": "洋基体育场于1923年4月18日在布朗克斯启用，揭幕战中西洋基以4比3击败红袜。"
     },
     {
       "id": "mlb-brooklyn-1",
@@ -943,7 +1059,9 @@
       ],
       "viewLat": 56.3382,
       "viewLng": -73.9442,
-      "promptZh": "1947 年，Jackie Robinson 在这座城市一座如今已拆除的球场完成 Dodgers 首次亮相，打破 MLB 的肤色壁垒"
+      "promptZh": "1947 年，Jackie Robinson 在这座城市一座如今已拆除的球场完成 Dodgers 首次亮相，打破 MLB 的肤色壁垒",
+      "story": "Brooklyn is remembered as the home of Jackie Robinson, who wore number 42 for the Brooklyn Dodgers on April 15, 1947, becoming MLB’s first Black player.",
+      "storyZh": "1947年4月15日，杰克ie·罗宾逊身穿42号球衣代表布鲁克林道奇登场，成为大联盟首位黑人球员，因此布鲁克林留下了这段历史。"
     },
     {
       "id": "mlb-dominican-1",
@@ -957,7 +1075,9 @@
         "MLB",
         "international"
       ],
-      "promptZh": "名人堂击球手 David Ortiz 随 Boston 赢得 3 次 World Series，出生在这座首都城市"
+      "promptZh": "名人堂击球手 David Ortiz 随 Boston 赢得 3 次 World Series，出生在这座首都城市",
+      "story": "David Ortiz was born in Santo Domingo on November 15, 1974, and won three World Series titles with the Boston Red Sox.",
+      "storyZh": "大卫·奥蒂斯于1974年11月15日出生在圣多明各，后来随波士顿红袜赢得了3次世界大赛冠军。"
     },
     {
       "id": "mlb-iowa-1",
@@ -973,7 +1093,9 @@
       ],
       "viewLat": 31.4028,
       "viewLng": -85.7491,
-      "promptZh": "Yankees 与 White Sox 曾在这座小镇的玉米田里、电影《梦幻球场》取景地旁进行过一场比赛"
+      "promptZh": "Yankees 与 White Sox 曾在这座小镇的玉米田里、电影《梦幻球场》取景地旁进行过一场比赛",
+      "story": "On August 13, 1989, the New York Yankees and Chicago White Sox played an exhibition game in a cornfield near Dyersville’s Field of Dreams site.",
+      "storyZh": "1989年8月13日，纽约洋基与芝加哥白袜在代尔斯维尔“梦想_fields”电影场地附近的玉米田中进行了一场表演赛。"
     },
     {
       "id": "mlb-japan-1",
@@ -987,7 +1109,9 @@
         "MLB",
         "international"
       ],
-      "promptZh": "Ichiro 拥有职业棒球生涯最多的安打，其中 1,278 是在这座亚洲城市效力 Orix BlueWave 时击出的"
+      "promptZh": "Ichiro 拥有职业棒球生涯最多的安打，其中 1,278 是在这座亚洲城市效力 Orix BlueWave 时击出的",
+      "story": "Ichiro began his professional career with the Orix BlueWave in Kobe in 1992 and later set Japan’s career hits record with 4,367.",
+      "storyZh": "铃木一郎于1992年在神户加入欧力士蓝浪，开始职业生涯，后来以4367次安打创下日本职棒生涯安打纪录。"
     },
     {
       "id": "mlb-milwaukee-1",
@@ -1003,7 +1127,9 @@
       ],
       "viewLat": 39.9694,
       "viewLng": -126.1505,
-      "promptZh": "一支 1969 年加入 MLB 的扩张球队首个赛季便破产，后来成为 Brewers，最初曾在这座城市效力"
+      "promptZh": "一支 1969 年加入 MLB 的扩张球队首个赛季便破产，后来成为 Brewers，最初曾在这座城市效力",
+      "story": "The Seattle Pilots began playing in 1969 and moved to Milwaukee after their inaugural season, eventually becoming the Milwaukee Brewers.",
+      "storyZh": "西雅图飞行员队在1969年展开首个赛季，结束后迁往密尔沃基，后来成为密尔沃基酿酒人。"
     },
     {
       "id": "mlb-milwaukee-2",
@@ -1019,7 +1145,9 @@
       ],
       "viewLat": 29.1252,
       "viewLng": -86.5785,
-      "promptZh": "本世纪得分最高的 World Series 比赛在这座内陆港口城市共打出 25 分"
+      "promptZh": "本世纪得分最高的 World Series 比赛在这座内陆港口城市共打出 25 分",
+      "story": "Cincinnati is the home of the Reds, whose modern ballpark era began when Great American Ball Park opened in 2003.",
+      "storyZh": "辛辛那提是红人队的主场，而随着大美国球场于2003年启用，这座城市也见证了红人队的新时代。"
     },
     {
       "id": "mlb-minnesota-1",
@@ -1035,7 +1163,9 @@
       ],
       "viewLat": 34.1778,
       "viewLng": -93.265,
-      "promptZh": "这座城市于 2012 年启用一座 MLB 球场，主_plate 后方设有一个装有热带鱼的大型海水水族箱"
+      "promptZh": "这座城市于 2012 年启用一座 MLB 球场，主_plate 后方设有一个装有热带鱼的大型海水水族箱",
+      "story": "Minneapolis opened Target Field in 2012 with a striking 450-gallon saltwater aquarium filled with tropical fish behind home plate.",
+      "storyZh": "明尼阿波利斯于2012年启用 Target Field，并在主垒后方设置了一座引人注目的450加仑海水水族箱，里面养着热带鱼。"
     },
     {
       "id": "mlb-pittsburgh-1",
@@ -1049,20 +1179,27 @@
         "MLB",
         "Pirates"
       ],
-      "promptZh": "Roberto Clemente——首位入选 Hall of Fame 的拉丁美洲球员——在这座首都郊外长大"
+      "promptZh": "Roberto Clemente——首位入选 Hall of Fame 的拉丁美洲球员——在这座首都郊外长大",
+      "story": "Roberto Clemente, born on August 7, 1937, spent his early life in nearby Carolina and became a beloved Pittsburgh Pirates legend.",
+      "storyZh": "罗伯托·克莱门特于1937年8月7日出生，童年生活在附近的卡罗来纳，后来成为匹兹堡海盗队深受喜爱的传奇人物。"
     },
     {
-      "id": "mlb-puerto rico-1",
-      "prompt": "Xander Bogaerts, a 10 time Gold Glove center fielder, was born in the capital of this small Caribbean island",
-      "answer": "Oranjestad, Aruba",
-      "lat": 12.5246,
-      "lng": -70.0271,
-      "scope": "world",
+      "id": "mlb-oranjestad-curacao-1",
+      "prompt": "Xander Bogaerts, a 10 time Gold Glove center fielder, was born in the capital of this small Dutch Caribbean island",
+      "answer": "Oranjestad, Curacao",
+      "lat": 12.1091,
+      "lng": -68.94,
+      "scope": "city",
       "sport": "baseball",
       "tags": [
         "MLB",
         "international"
-      ]
+      ],
+      "promptZh": "10 次金手套奖得主 Xander Bogaerts,出生在这座荷兰加勒比小岛的首府",
+      "viewLat": 12.1091,
+      "viewLng": -68.94,
+      "story": "Oranjestad, the capital of Curaçao, was the birthplace of Xander Bogaerts, the MLB center fielder who won 10 Gold Glove Awards.",
+      "storyZh": "库拉索首都奥拉涅斯塔德是 MLB 中外野手 Xander Bogaerts 的出生地，他曾获得 10 次金手套奖。"
     },
     {
       "id": "mlb-san diego-1",
@@ -1076,7 +1213,9 @@
         "MLB",
         "international"
       ],
-      "promptZh": "1996 年，Padres 与 Mets 在这座城市进行美国和加拿大以外的 MLB 常规赛首秀"
+      "promptZh": "1996 年，Padres 与 Mets 在这座城市进行美国和加拿大以外的 MLB 常规赛首秀",
+      "story": "Hermosillo hosted the Padres and Mets in 1996, when their contest became the first MLB regular-season game played outside the United States and Canada.",
+      "storyZh": "1996年，帕德雷队与纽约大都会队在这座城市交锋，这场比赛成为美国和加拿大以外举行的第一场美国职业棒球大联盟常规赛。"
     },
     {
       "id": "mlb-san-jose-1",
@@ -1092,7 +1231,9 @@
       ],
       "viewLat": 48.8385,
       "viewLng": -116.705,
-      "promptZh": "Aaron Judge 在刷新美联本垒打纪录前，就在这座人口约两千的小山谷城镇长大"
+      "promptZh": "Aaron Judge 在刷新美联本垒打纪录前，就在这座人口约两千的小山谷城镇长大",
+      "story": "Aaron Judge was born in Alameda on June 26, 1994, and grew up nearby before setting the American League single-season home run record with 62.",
+      "storyZh": "阿伦·贾奇于1994年6月26日出生在阿拉梅达，并在附近长大，后来以62支本垒打刷新美联单赛季本垒打纪录。"
     },
     {
       "id": "nba-detroit-4",
@@ -1106,7 +1247,9 @@
         "MLB",
         "international"
       ],
-      "promptZh": "Miguel Cabrera——2012 年三冠王——在这座城市的沙地棒球场长大"
+      "promptZh": "Miguel Cabrera——2012 年三冠王——在这座城市的沙地棒球场长大",
+      "story": "Miguel Cabrera was born in Maracay on April 18, 1983, and won the 2012 Triple Crown by leading MLB in batting average, home runs and RBIs.",
+      "storyZh": "米格尔·卡布雷拉于1983年4月18日出生在马拉凯，并在2012年赢得三冠王，同时领跑大联盟的打击率、本垒打和打点。"
     },
     {
       "id": "nba-detroit-5",
@@ -1122,7 +1265,9 @@
       ],
       "viewLat": 47.7528,
       "viewLng": -120.3529,
-      "promptZh": "这座球场是 1988 年最后安装灯光的 MLB 球场，多年来只承办日间比赛，位于这座城市"
+      "promptZh": "这座球场是 1988 年最后安装灯光的 MLB 球场，多年来只承办日间比赛，位于这座城市",
+      "story": "Candlestick Park in San Francisco became MLB's last major-league ballpark to install lights in 1988, long after it had earned a reputation as a hitter's park.",
+      "storyZh": "旧金山的烛台公园在1988年成为大联盟最后安装照明系统的主要球场，而它早已因适合击球手发挥而闻名。"
     },
     {
       "id": "nba-miami-2",
@@ -1138,7 +1283,9 @@
       ],
       "viewLat": 43.98,
       "viewLng": -123.2076,
-      "promptZh": "在 1988 年 World Series 揭幕战中，受伤跛足的 Kirk Gibson 于这座城市击出代打再见本垒打"
+      "promptZh": "在 1988 年 World Series 揭幕战中，受伤跛足的 Kirk Gibson 于这座城市击出代打再见本垒打",
+      "story": "On October 13, 1988, a hobbled Kirk Gibson delivered a pinch-hit walk-off homer in the World Series opener at Dodger Stadium in Los Angeles.",
+      "storyZh": "1988年10月13日，带伤行动的柯克·吉布森在洛杉矶道奇体育场举行的世界大赛揭幕战中，替补上场击出再见本垒打。"
     },
     {
       "id": "nba-miami-3",
@@ -1152,7 +1299,9 @@
         "MLB",
         "international"
       ],
-      "promptZh": "拥有MLB历史最快球速的古巴火焰投手Aroldis Chapman来自这座城市"
+      "promptZh": "拥有MLB历史最快球速的古巴火焰投手Aroldis Chapman来自这座城市",
+      "story": "Havana is the birthplace of Aroldis Chapman, whose 105.1 mph pitch became the fastest ever recorded by the MLB.",
+      "storyZh": "阿罗尔迪斯·查普曼出生于哈瓦那，他投出的105.1英里速球创造了MLB最快球速纪录。"
     },
     {
       "id": "nba-orlando-1",
@@ -1168,7 +1317,9 @@
       ],
       "viewLat": 54.8494,
       "viewLng": -90.3162,
-      "promptZh": "1905年，Honus Wagner成为首位与一家来自这座城市的公司签署球棒代言协议的棒球运动员"
+      "promptZh": "1905年，Honus Wagner成为首位与一家来自这座城市的公司签署球棒代言协议的棒球运动员",
+      "story": "Honus Wagner made baseball history in 1905 by becoming the first player to endorse bats for Chicago-based Spalding.",
+      "storyZh": "1905年，霍努斯·瓦格纳成为首位为芝加哥斯伯丁公司代言球棒的职业棒球运动员。"
     },
     {
       "id": "nba-queens-1",
@@ -1184,7 +1335,9 @@
       ],
       "viewLat": 30.7666,
       "viewLng": -71.7788,
-      "promptZh": "Mets在1969年和1986年夺得世界大赛冠军，当时的主场Shea Stadium坐落于此"
+      "promptZh": "Mets在1969年和1986年夺得世界大赛冠军，当时的主场Shea Stadium坐落于此",
+      "story": "The New York Mets won the World Series in 1969 and 1986 while playing their home games at Shea Stadium in Flushing.",
+      "storyZh": "纽约大都会队曾以弗拉欣的谢伊体育场为主场，并在1969年和1986年两次夺得世界大赛冠军。"
     },
     {
       "id": "nba-seattle-1",
@@ -1200,7 +1353,9 @@
       ],
       "viewLat": 37.3683,
       "viewLng": -122.4346,
-      "promptZh": "Felix Hernandez曾为Seattle投出2012年的完美比赛，并在这座城市长大"
+      "promptZh": "Felix Hernandez曾为Seattle投出2012年的完美比赛，并在这座城市长大",
+      "story": "Brewster was the home of Felix Hernandez during his youth, and he later pitched a perfect game for Seattle on August 21, 2012.",
+      "storyZh": "费利克斯·埃尔南德斯在华盛顿州 Brewster 长大，并于2012年8月21日为西雅图投出一场无安打比赛。"
     },
     {
       "id": "nca-omaha-1",
@@ -1215,7 +1370,9 @@
       ],
       "viewLat": 36.5036,
       "viewLng": -90.1972,
-      "promptZh": "大学世界大赛自1950年起每年都在这座城市举行"
+      "promptZh": "大学世界大赛自1950年起每年都在这座城市举行",
+      "story": "Omaha has hosted the College World Series every year since 1950, making it one of baseball’s most enduring championship settings.",
+      "storyZh": "自1950年起，班夫德大学世界大赛便每年在奥马哈举行，使其成为棒球史上延续最久的冠军举办地之一。"
     },
     {
       "id": "nfl-boston-1",
@@ -1231,7 +1388,9 @@
       ],
       "viewLat": 27.8766,
       "viewLng": -127.2351,
-      "promptZh": "在NFL选秀中成为状元前，Kyler Murray在2018年MLB选秀中以第9顺位被一支效力于此城的球队选中"
+      "promptZh": "在NFL选秀中成为状元前，Kyler Murray在2018年MLB选秀中以第9顺位被一支效力于此城的球队选中",
+      "story": "The Oakland Athletics selected Kyler Murray ninth overall in the 2018 MLB Draft, and he became the first overall NFL Draft pick in 2019.",
+      "storyZh": "奥克兰运动家队在2018年MLB选秀大会中以第9顺位选中凯勒·穆雷，而他随后在2019年NFL选秀大会中成为状元。"
     },
     {
       "id": "nfl-greenbay-2",
@@ -1247,7 +1406,9 @@
       ],
       "viewLat": 53.3527,
       "viewLng": -90.0063,
-      "promptZh": "1905年，Honus Wagner成为首位与一家来自这座城市的公司签署球棒代言协议的棒球运动员"
+      "promptZh": "1905年，Honus Wagner成为首位与一家来自这座城市的公司签署球棒代言协议的棒球运动员",
+      "story": "Honus Wagner became the first baseball player to endorse bats for Chicago-based Spalding in 1905.",
+      "storyZh": "1905年，霍努斯·瓦格纳成为首位为芝加哥斯伯丁公司代言球棒的职业棒球运动员。"
     },
     {
       "id": "nfl-miami-4",
@@ -1263,7 +1424,9 @@
       ],
       "viewLat": 27.3628,
       "viewLng": -90.6225,
-      "promptZh": "1974年的“十美分啤酒之夜”演变成醉汉暴乱，并导致一支效力于此城的MLB球队被判负"
+      "promptZh": "1974年的“十美分啤酒之夜”演变成醉汉暴乱，并导致一支效力于此城的MLB球队被判负",
+      "story": "Ten Cent Beer Night on April 17, 1974, ended in a riot at the Texas Rangers’ Arlington stadium and resulted in a forfeited game.",
+      "storyZh": "1974年4月17日的“十美分啤酒之夜”在德州游骑兵队所在的阿灵顿球场演变成骚乱，并导致比赛被判负。"
     },
     {
       "id": "nfl-tampa-1",
@@ -1277,7 +1440,9 @@
         "MLB",
         "international"
       ],
-      "promptZh": "十届金手套奖中外野手Andruw Jones出生于这座荷兰加勒比海岛屿的首府"
+      "promptZh": "十届金手套奖中外野手Andruw Jones出生于这座荷兰加勒比海岛屿的首府",
+      "story": "Willemstad was the birthplace of Andruw Jones on March 9, 1977; the center fielder went on to win 10 Gold Gloves.",
+      "storyZh": "1977年3月9日，安德鲁·琼斯出生于威廉斯塔德，后来这位中外野手共赢得10次金手套奖。"
     },
     {
       "id": "nhl-seattle-1",
@@ -1291,7 +1456,9 @@
         "MLB",
         "international"
       ],
-      "promptZh": "MLB曾在这座亚洲首都的穹顶球场多次开启新赛季"
+      "promptZh": "MLB曾在这座亚洲首都的穹顶球场多次开启新赛季",
+      "story": "Tokyo Dome hosted MLB's first regular-season games outside the United States and Canada on March 17, 2004, and MLB returned for the 2005 season.",
+      "storyZh": "2004年3月17日，东京巨蛋举办了美国和加拿大以外的首场MLB常规赛，MLB随后又于2005年重返这里。"
     },
     {
       "id": "us-mlb-atlanta-1",
@@ -1308,7 +1475,9 @@
       ],
       "viewLat": 22.6821,
       "viewLng": -78.864,
-      "promptZh": "1974年，Hank Aaron在这座城市的球场打破了Babe Ruth的本垒打生涯纪录"
+      "promptZh": "1974年，Hank Aaron在这座城市的球场打破了Babe Ruth的本垒打生涯纪录",
+      "story": "On April 4, 1974, Hank Aaron hit his 715th home run at Atlanta-Fulton County Stadium, breaking Babe Ruth's career record.",
+      "storyZh": "1974年4月4日，汉克·艾伦在亚特兰大富尔顿县球场击出本垒打715次，打破了贝比·鲁斯保持的职业生涯纪录。"
     },
     {
       "id": "basketball-sudan-1",
@@ -1322,7 +1491,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "这位身高7英尺7英寸的NBA传奇Manute Bol靠赛前喝啤酒控制体重，并在这个东非国家长大"
+      "promptZh": "这位身高7英尺7英寸的NBA传奇Manute Bol靠赛前喝啤酒控制体重，并在这个东非国家长大",
+      "story": "Manute Bol was born in Turalei on October 16, 1962, and grew to 7 feet 7 inches before becoming an NBA center.",
+      "storyZh": "1962年10月16日，马努特·博尔出生于图拉莱，身高达到7英尺7英寸，后来成为NBA中锋。"
     },
     {
       "id": "intl-nba-houston-1",
@@ -1336,7 +1507,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "NBA历史盖帽王Hakeem Olajuwon出生在这座城市，15岁才开始打篮球"
+      "promptZh": "NBA历史盖帽王Hakeem Olajuwon出生在这座城市，15岁才开始打篮球",
+      "story": "Hakeem Olajuwon was born in Lagos on January 11, 1963, and did not begin playing basketball until age 15.",
+      "storyZh": "1963年1月11日，哈基姆·奥拉朱旺出生于拉各斯，直到15岁才开始打篮球。"
     },
     {
       "id": "nba-akron-1",
@@ -1352,7 +1525,9 @@
       ],
       "viewLat": 28.1101,
       "viewLng": -84.2054,
-      "promptZh": "LeBron James读高中三年级时登上Sports Illustrated封面，当时生活在这座城市"
+      "promptZh": "LeBron James读高中三年级时登上Sports Illustrated封面，当时生活在这座城市",
+      "story": "LeBron James attended St. Vincent–St. Mary in Akron and appeared on the cover of Sports Illustrated in March 2002 while he was a high-school junior.",
+      "storyZh": "2002年3月，勒布朗·詹姆斯还是阿克伦圣文森特—圣玛丽中学的三年级学生时，便登上了《体育画报》封面。"
     },
     {
       "id": "nba-augusta-1",
@@ -1368,7 +1543,9 @@
       ],
       "viewLat": 55.243,
       "viewLng": -118.5137,
-      "promptZh": "Kevin Durant在2007年以榜眼秀身份被选中后，随这座城市的球队赢得NBA最佳新秀"
+      "promptZh": "Kevin Durant在2007年以榜眼秀身份被选中后，随这座城市的球队赢得NBA最佳新秀",
+      "story": "Seattle selected Kevin Durant with the second overall pick in the 2007 NBA draft, and he went on to win Rookie of the Year as a SuperSonics rookie.",
+      "storyZh": "2007年NBA选秀中，西雅图超音速队用第二顺位选中了凯文·杜兰特，后者以菜鸟身份荣膺年度最佳新秀。"
     },
     {
       "id": "nba-boston-2",
@@ -1384,7 +1561,9 @@
       ],
       "viewLat": 47.4093,
       "viewLng": -85.8083,
-      "promptZh": "一只在2011年季后赛中跑过本垒的灰松鼠，后来成为这里球队的幸运吉祥物"
+      "promptZh": "一只在2011年季后赛中跑过本垒的灰松鼠，后来成为这里球队的幸运吉祥物",
+      "story": "The gray squirrel that darted across home plate during Game 5 of the 2011 NLDS became Rally Squirrel and was embraced as a good-luck mascot by the St. Louis Cardinals.",
+      "storyZh": "2011年国联分区赛第五战，一只灰松鼠横穿本垒板，随后化身“拉里松鼠”，成为圣路易斯红雀队的幸运吉祥物。"
     },
     {
       "id": "nba-boston-3",
@@ -1400,7 +1579,9 @@
       ],
       "viewLat": 53.7372,
       "viewLng": -69.4258,
-      "promptZh": "Bob Cousy曾在这座“七丘之城”的Holy Cross效力"
+      "promptZh": "Bob Cousy曾在这座“七丘之城”的Holy Cross效力",
+      "story": "Bob Cousy starred at Holy Cross in Worcester and was named Most Outstanding Player as the Crusaders won the 1947 NCAA championship.",
+      "storyZh": "鲍勃·库西在伍斯特的圣十字学院效力，并作为全美最具杰出球员帮助球队赢得1947年NCAA冠军。"
     },
     {
       "id": "nba-boston-4",
@@ -1416,7 +1597,9 @@
       ],
       "viewLat": 57.0562,
       "viewLng": -69.3253,
-      "promptZh": "Cooper Flagg和他的双胞胎兄弟Ace在这座小城长大，随后他成为2025年NBA状元秀"
+      "promptZh": "Cooper Flagg和他的双胞胎兄弟Ace在这座小城长大，随后他成为2025年NBA状元秀",
+      "story": "Cooper Flagg grew up in Newport, Maine, with his twin brother Ace before becoming the first overall pick in the 2025 NBA Draft.",
+      "storyZh": "库珀·弗拉格与双胞胎哥哥艾斯在缅因州纽波特长大，之后成为2025年NBA选秀大会的状元。"
     },
     {
       "id": "nba-boston-6",
@@ -1432,7 +1615,9 @@
       ],
       "viewLat": 51.1141,
       "viewLng": -75.5123,
-      "promptZh": "曾连续22年领跑NBA助攻榜的Bob Cousy出生在这座马萨诸塞州城市"
+      "promptZh": "曾连续22年领跑NBA助攻榜的Bob Cousy出生在这座马萨诸塞州城市",
+      "story": "NBA legend Bob Cousy was born in Brookline on October 12, 1918, before earning eight championships with the Boston Celtics.",
+      "storyZh": "NBA传奇鲍勃·库西于1918年10月12日出生在布鲁克莱恩，后来随波士顿凯尔特人队赢得8次总冠军。"
     },
     {
       "id": "nba-boston-7",
@@ -1448,7 +1633,9 @@
       ],
       "viewLat": 46.8544,
       "viewLng": -78.3271,
-      "promptZh": "NBA任期最长的总裁Larry O'Brien出生在这座马萨诸塞州城市"
+      "promptZh": "NBA任期最长的总裁Larry O'Brien出生在这座马萨诸塞州城市",
+      "story": "Larry O’Brien was born in Springfield on August 7, 1920, and served as NBA commissioner from 1975 to 2002.",
+      "storyZh": "拉里·奥布莱恩于1920年8月7日出生在斯普林菲尔德，并在1975年至2002年间担任NBA总裁。"
     },
     {
       "id": "nba-brooklyn-1",
@@ -1462,7 +1649,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "名人堂球员Drazen Petrovic曾效力Nets，但在这座沿海城市长大"
+      "promptZh": "名人堂球员Drazen Petrovic曾效力Nets，但在这座沿海城市长大",
+      "story": "Dražen Petrović was born in Šibenik in 1964 and developed there before becoming a Basketball Hall of Famer and Nets star.",
+      "storyZh": "德拉任·彼得罗维奇于1964年出生在希贝尼克，并在当地成长，后来成为篮球名人堂成员和篮网队球星。"
     },
     {
       "id": "nba-canada-1",
@@ -1475,7 +1664,9 @@
       "tags": [
         "NCAA"
       ],
-      "promptZh": "身高7英尺9英寸、NCAA历史最高大学篮球运动员Olivier Rioux在这座小镇长大"
+      "promptZh": "身高7英尺9英寸、NCAA历史最高大学篮球运动员Olivier Rioux在这座小镇长大",
+      "story": "Victoria was the hometown of 7-foot-9 University of Victoria basketball player Olivier Rioux, whose height made him an NCAA record-holder.",
+      "storyZh": "奥利维耶·里乌克斯在维多利亚成长，身高达到7英尺9英寸，并以 NCAA纪录球员的身份效力于维多利亚大学。"
     },
     {
       "id": "nba-carmelo-1",
@@ -1489,7 +1680,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "Manu Ginobili小时候在这座城市踢足球，后来成为篮球史上最伟大的国际球星之一"
+      "promptZh": "Manu Ginobili小时候在这座城市踢足球，后来成为篮球史上最伟大的国际球星之一",
+      "story": "Manu Ginóbili was born in Bahía Blanca in 1977 and played soccer there before switching to basketball and becoming an NBA champion.",
+      "storyZh": "马努·吉诺比利于1977年出生在巴伊亚布兰卡，先在当地踢足球，后来转向篮球并成为NBA总冠军。"
     },
     {
       "id": "nba-celtics-1",
@@ -1505,7 +1698,9 @@
       ],
       "viewLat": 53.095,
       "viewLng": -87.203,
-      "promptZh": "处于“均势”时代的Boston Celtics八连冠始于1957年在这座城市夺得的总冠军"
+      "promptZh": "处于“均势”时代的Boston Celtics八连冠始于1957年在这座城市夺得的总冠军",
+      "story": "In 1957, the St. Louis Hawks reached the NBA Finals by defeating the Minneapolis Lakers, beginning the franchise run of eight straight championships.",
+      "storyZh": "1957年，圣路易斯老鹰队击败明尼阿波利斯湖人队进入NBA总决赛，开启了球队连续8次夺冠的征程。"
     },
     {
       "id": "nba-celtics-2",
@@ -1521,7 +1716,9 @@
       ],
       "viewLat": 58.1528,
       "viewLng": -92.3405,
-      "promptZh": "1947年，NBA首届选秀大会在这座马萨诸塞州城市举行"
+      "promptZh": "1947年，NBA首届选秀大会在这座马萨诸塞州城市举行",
+      "story": "Waterloo hosted the inaugural NFL Draft on April 25, 1947, becoming an important landmark in American professional sports history.",
+      "storyZh": "1947年4月25日，首届NFL选秀在滑铁卢举行，使这座城市成为美国职业体育史上的重要地标。"
     },
     {
       "id": "nba-charlotte-2",
@@ -1537,7 +1734,9 @@
       ],
       "viewLat": 53.6516,
       "viewLng": -110.192,
-      "promptZh": "NBA历史助攻数和抢断数纪录保持者John Stockton在这座城市长大并打过大学篮球"
+      "promptZh": "NBA历史助攻数和抢断数纪录保持者John Stockton在这座城市长大并打过大学篮球",
+      "story": "Spokane is where John Stockton starred at Gonzaga University before finishing his NBA career as the all-time leader in both assists and steals.",
+      "storyZh": "斯波坎是约翰·斯托克顿效力于冈萨加大学的地方，而他在NBA生涯结束时成为历史助攻数和抢断数双榜第一。"
     },
     {
       "id": "nba-congo-1",
@@ -1551,7 +1750,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "Dikembe Mutombo出生于这座非洲首都，后来前往Georgetown学习医学"
+      "promptZh": "Dikembe Mutombo出生于这座非洲首都，后来前往Georgetown学习医学",
+      "story": "Dikembe Mutombo was born in Kinshasa on June 29, 1966, before moving to the United States to study medicine and basketball at Georgetown University.",
+      "storyZh": "迪肯贝·穆通博于1966年6月29日出生在金沙萨，随后赴美国在乔治城大学学习医学并打篮球。"
     },
     {
       "id": "nba-detroit-20",
@@ -1567,7 +1768,9 @@
       ],
       "viewLat": 41.0793,
       "viewLng": -77.3094,
-      "promptZh": "这座城市的球队由 businessman Fred Zollner 创立"
+      "promptZh": "这座城市的球队由 businessman Fred Zollner 创立",
+      "story": "Fred Zollner founded the Fort Wayne Zollner Pistons in 1941, establishing the franchise that later became the Detroit Pistons.",
+      "storyZh": "1941年，弗雷德·佐尔纳在韦恩堡创办了韦恩堡佐尔纳活塞队，这支球队后来成为底特律活塞队。"
     },
     {
       "id": "nba-detroit-24",
@@ -1583,7 +1786,9 @@
       ],
       "viewLat": 56.7393,
       "viewLng": -85.1394,
-      "promptZh": "这座城市的球队以Zollner活塞队的身份赢得了1940年NBL总冠军"
+      "promptZh": "这座城市的球队以Zollner活塞队的身份赢得了1940年NBL总冠军",
+      "story": "The Fort Wayne Zollner Pistons won the 1940 National Basketball League championship, securing the franchise's first major professional basketball title.",
+      "storyZh": "韦恩堡佐尔纳活塞队赢得了1940年全国篮球联盟冠军，夺得队史首个重要职业篮球冠军。"
     },
     {
       "id": "nba-europe-1",
@@ -1597,7 +1802,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "2014年在一则Taco Bell广告中被选中的Nikola Jokić，此前一直在这座城市效力"
+      "promptZh": "2014年在一则Taco Bell广告中被选中的Nikola Jokić，此前一直在这座城市效力",
+      "story": "Nikola Jokić was playing for Mega Basket in Belgrade when the Denver Nuggets selected him with the 41st pick in the 2014 NBA Draft.",
+      "storyZh": "尼古拉·约基奇在贝尔格莱德效力于梅加巴斯卡时，丹佛掘金队在2014年NBA选秀中以第41顺位选中了约基奇。"
     },
     {
       "id": "nba-france-2",
@@ -1611,7 +1818,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "四届NBA最佳防守球员Rudy Gobert出生于这座欧洲城镇"
+      "promptZh": "四届NBA最佳防守球员Rudy Gobert出生于这座欧洲城镇",
+      "story": "Four-time NBA Defensive Player of the Year Rudy Gobert was born on June 26, 1992, in Saint-Denis on the island of Réunion.",
+      "storyZh": "四届NBA最佳防守球员鲁迪·戈贝尔于1992年6月26日出生在留尼汪岛圣但尼。"
     },
     {
       "id": "nba-houston-1",
@@ -1625,7 +1834,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "2002年状元Yao Ming加盟NBA前曾在这座城市效力"
+      "promptZh": "2002年状元Yao Ming加盟NBA前曾在这座城市效力",
+      "story": "Yao Ming played professionally for the Shanghai Sharks before the Houston Rockets selected him with the first pick in the 2002 NBA Draft.",
+      "storyZh": "姚明曾为上海大鲨鱼队效力，之后休斯敦火箭队在2002年NBA选秀中以状元身份选中了他。"
     },
     {
       "id": "nba-houston-2",
@@ -1641,7 +1852,9 @@
       ],
       "viewLat": 51.7084,
       "viewLng": -109.282,
-      "promptZh": "AJ Dybantsa成为首位曾在这所大学打过大学篮球的NBA状元"
+      "promptZh": "AJ Dybantsa成为首位曾在这所大学打过大学篮球的NBA状元",
+      "story": "In Provo, AJ Dybantsa committed to BYU in 2025 before being selected No. 1 overall in the NBA draft, making his planned college stop a landmark for the Cougars.",
+      "storyZh": "在普罗沃，AJ·迪班察于2025年承诺加盟犹他大学，随后在NBA选秀中被列为状元，他计划效力的大学之旅也因此成为杨百翰大学值得铭记的里程碑。"
     },
     {
       "id": "nba-illinois-1",
@@ -1657,7 +1870,9 @@
       ],
       "viewLat": 35.8196,
       "viewLng": -70.1763,
-      "promptZh": "Allen Iverson著名的“我们还在讨论训练”发言，出现在这座城市举行的2002年新闻发布会上"
+      "promptZh": "Allen Iverson著名的“我们还在讨论训练”发言，出现在这座城市举行的2002年新闻发布会上",
+      "story": "At a June 6, 2002 Philadelphia press conference, Allen Iverson famously declared that “practice is not a game,” a defining moment in his time with the 76ers.",
+      "storyZh": "2002年6月6日，艾伦·艾弗森在费城的一场新闻发布会上说出了“训练不是比赛”的名言，这成为他效力76人队时期最著名的瞬间之一。"
     },
     {
       "id": "nba-iowa-1",
@@ -1673,7 +1888,9 @@
       ],
       "viewLat": 57.3211,
       "viewLng": -91.5301,
-      "promptZh": "Caitlin Clark于2024年在这座城市打破NCAA历史得分纪录"
+      "promptZh": "Caitlin Clark于2024年在这座城市打破NCAA历史得分纪录",
+      "story": "Caitlin Clark broke the NCAA women’s career scoring record in Iowa City on March 3, 2024, reaching 3,951 points during her senior season at Iowa.",
+      "storyZh": "2024年3月3日，考特琳·克拉克在爱荷华城打破了NCAA女子篮球生涯得分纪录，在爱荷华大学大四赛季达到3951分。"
     },
     {
       "id": "nba-la-1",
@@ -1689,7 +1906,9 @@
       ],
       "viewLat": 34.0266,
       "viewLng": -82.5421,
-      "promptZh": "Kobe Bryant从这所高中直接进入NBA"
+      "promptZh": "Kobe Bryant从这所高中直接进入NBA",
+      "story": "Kobe Bryant graduated from Lower Merion High School in 1996 and went directly to the NBA, choosing the Lakers over playing college basketball.",
+      "storyZh": "科比·布莱恩特于1996年毕业于下梅里恩高中，随后直接从高中进入NBA，并选择效力湖人队而不参加大学篮球比赛。"
     },
     {
       "id": "nba-memphis-1",
@@ -1703,7 +1922,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "在迁往孟菲斯前，Grizzlies曾在这座城市效力了6个赛季"
+      "promptZh": "在迁往孟菲斯前，Grizzlies曾在这座城市效力了6个赛季",
+      "story": "The Memphis Grizzlies played their first six NBA seasons from 1995 to 2001 in Vancouver before relocating to Tennessee in 2001.",
+      "storyZh": "孟菲斯灰熊队的头六个NBA赛季于1995年至2001年在温哥华进行，随后在2001年迁往田纳西州。"
     },
     {
       "id": "nba-memphis-2",
@@ -1717,7 +1938,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "NBA首位中国球员王治郅出生在这座城市"
+      "promptZh": "NBA首位中国球员王治郅出生在这座城市",
+      "story": "Wang Zhizhi, born in Shanghai in 1963, became the first Chinese player to enter the NBA when he joined the Dallas Mavericks in 1999.",
+      "storyZh": "王治郅于1963年出生在上海，并在1999年加盟达拉斯独行侠，成为首位进入NBA的中国球员。"
     },
     {
       "id": "nba-miami-6",
@@ -1733,7 +1956,9 @@
       ],
       "viewLat": 29.8406,
       "viewLng": -91.122,
-      "promptZh": "这所大学的1987年NCAA冠军赛仍被称为“最伟大的一场比赛”，一记罚球曾将比分扳成74-74"
+      "promptZh": "这所大学的1987年NCAA冠军赛仍被称为“最伟大的一场比赛”，一记罚球曾将比分扳成74-74",
+      "story": "At Indianapolis’s Hoosier Dome on March 30, 1987, Indiana defeated Syracuse 65–60 in overtime in a championship game often called the greatest ever played.",
+      "storyZh": "1987年3月30日，印第安纳队在印第安波利斯的主场穹顶体育馆通过加时赛以65比60击败锡拉丘兹大学，这场比赛后来常被誉为NCAA史上最伟大的比赛。"
     },
     {
       "id": "nba-miami-7",
@@ -1749,7 +1974,9 @@
       ],
       "viewLat": 32.0167,
       "viewLng": -96.1547,
-      "promptZh": "1997-98赛季Bulls的72胜10负纪录被这支球队打破"
+      "promptZh": "1997-98赛季Bulls的72胜10负纪录被这支球队打破",
+      "story": "Golden Valley is home to the Minnesota Timberwolves’ headquarters, a franchise that won 56 games in 2023–24 and advanced to the Western Conference finals.",
+      "storyZh": "金谷是明尼苏达森林狼队总部所在地，这支球队在2023至2024赛季取得56场胜利，并闯入西部决赛。"
     },
     {
       "id": "nba-michigan-1",
@@ -1765,7 +1992,9 @@
       ],
       "viewLat": 42.7325,
       "viewLng": -78.3455,
-      "promptZh": "Magic Johnson本名是Earvin，直到一名记者看到他在这所高中打出36分18篮板16助攻"
+      "promptZh": "Magic Johnson本名是Earvin，直到一名记者看到他在这所高中打出36分18篮板16助攻",
+      "story": "At Lansing Central High School, Earvin Johnson Jr. posted 36 points, 18 rebounds, and 16 assists, inspiring the nickname that became Magic Johnson.",
+      "storyZh": "在兰辛中央高中，埃尔文·约翰逊二世砍下36分、18个篮板和16次助攻的表现，促成了后来广为人知的“魔术”约翰逊这一昵称。"
     },
     {
       "id": "nba-milwaukee-1",
@@ -1779,7 +2008,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "Bucks上一次拥有状元签是在2005年，他们从这座城市选走了一名7尺中锋"
+      "promptZh": "Bucks上一次拥有状元签是在2005年，他们从这座城市选走了一名7尺中锋",
+      "story": "Toronto's Raptors selected 7-foot Italian Andrea Bargnani with the first overall pick in 2006, one year after the Bucks chose another 7-footer, Andrew Bynum, at No. 1 in 2005.",
+      "storyZh": "2006年，多伦多猛龙队用状元签选中7英尺的意大利人安德烈亚·巴尔尼亚尼；就在前一年，雄鹿队在2005年也用状元签选择了另一名7尺球员安德鲁·拜纳姆。"
     },
     {
       "id": "nba-north carolina-1",
@@ -1794,7 +2025,9 @@
       ],
       "viewLat": 28.4358,
       "viewLng": -83.6104,
-      "promptZh": "自1990年以来每场NCAAB比赛都售罄的Cameron Indoor Stadium坐落在这里"
+      "promptZh": "自1990年以来每场NCAAB比赛都售罄的Cameron Indoor Stadium坐落在这里",
+      "story": "Greensboro's Cameron Indoor Stadium has sold out every men's NCAA basketball game since 1990, creating one of college basketball's most famous home-court records.",
+      "storyZh": "自1990年以来，格林斯伯勒的卡梅隆室内体育馆场场座无虚席，创造了大学篮球史上最著名的主场纪录之一。"
     },
     {
       "id": "nba-northcarolina-1",
@@ -1810,7 +2043,9 @@
       ],
       "viewLat": 46.6457,
       "viewLng": -77.9447,
-      "promptZh": "Michael Jordan读大二时从校队阵容中被裁掉，当时他在这座沿海城市"
+      "promptZh": "Michael Jordan读大二时从校队阵容中被裁掉，当时他在这座沿海城市",
+      "story": "At New Hanover High School in Wilmington, Michael Jordan was cut from the varsity team as a sophomore, an early rejection that became a defining part of his rise.",
+      "storyZh": "迈克尔·乔丹在威尔明顿的新汉诺威高中读二年级时曾被校队裁掉，这次早期受挫后来成为他成长历程中极具象征意义的一页。"
     },
     {
       "id": "nba-okc-1",
@@ -1826,7 +2061,9 @@
       ],
       "viewLat": 25.4897,
       "viewLng": -99.5829,
-      "promptZh": "Kevin Durant的2012-13赛季得分王是在这座城市的球队效力时获得的"
+      "promptZh": "Kevin Durant的2012-13赛季得分王是在这座城市的球队效力时获得的",
+      "story": "Kevin Durant won the 2012–13 NBA scoring title with Oklahoma City Thunder, averaging 28.2 points per game during the regular season.",
+      "storyZh": "凯文·杜兰特随俄克拉荷马雷霆队赢得2012至2013赛季的NBA得分王，并以常规赛场均28.2分的表现领跑全联盟。"
     },
     {
       "id": "nba-oklahoma-1",
@@ -1840,7 +2077,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "连续两届MVP Shai Gilgeous-Alexander就在这座城市郊外长大"
+      "promptZh": "连续两届MVP Shai Gilgeous-Alexander就在这座城市郊外长大",
+      "story": "Shai Gilgeous-Alexander was raised in Ancaster, just outside Hamilton, and won consecutive NBA MVP awards in 2023 and 2024.",
+      "storyZh": "谢伊·吉尔杰斯-亚历山大于汉密尔顿郊外的小镇安卡斯泰尔长大，并在2023年和2024年连续获得NBA常规赛最有价值球员称号。"
     },
     {
       "id": "nba-philadelphia-1",
@@ -1856,7 +2095,9 @@
       ],
       "viewLat": 33.9598,
       "viewLng": -82.3992,
-      "promptZh": "在Memphis Grizzlies短暂效力3场后，Allen Iverson在这座城市结束了NBA生涯"
+      "promptZh": "在Memphis Grizzlies短暂效力3场后，Allen Iverson在这座城市结束了NBA生涯",
+      "story": "Allen Iverson finished his NBA career with the Philadelphia 76ers in the 2004–05 season, following a brief stint with Memphis and averaging 24.2 points per game.",
+      "storyZh": "艾伦·艾弗森在短暂效力孟菲斯后，于2004至2005赛季重返费城76人队并完成职业生涯最后一季，场均得到24.2分。"
     },
     {
       "id": "nba-philly-1",
@@ -1870,7 +2111,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "两届NBA MVP Steve Nash出生在这座城市，18个月大时随家人移居加拿大"
+      "promptZh": "两届NBA MVP Steve Nash出生在这座城市，18个月大时随家人移居加拿大",
+      "story": "Steve Nash was born in Johannesburg on June 7, 1974, and moved to Canada with his family when he was only 18 months old.",
+      "storyZh": "史蒂夫·纳什于1974年6月7日出生在约翰内斯堡，出生仅18个月后便随家人移居加拿大。"
     },
     {
       "id": "nba-philly-2",
@@ -1886,7 +2129,9 @@
       ],
       "viewLat": 29.3888,
       "viewLng": -68.3725,
-      "promptZh": "1979年，NBA首场采用三分线的比赛在这座城市进行"
+      "promptZh": "1979年，NBA首场采用三分线的比赛在这座城市进行",
+      "story": "Boston Garden hosted the NBA’s first game played with an experimental three-point line in 1979, introducing a shot that later became central to the modern game.",
+      "storyZh": "1979年，波士顿花园球馆见证了NBA首场采用实验性三分线的比赛，这项技术后来成为现代篮球的重要组成部分。"
     },
     {
       "id": "nba-phoenix-1",
@@ -1902,7 +2147,9 @@
       ],
       "viewLat": 40.8987,
       "viewLng": -96.1171,
-      "promptZh": "自1983年以来，调皮的郊狼吉祥物一直为这座城市的五届总冠军球队娱乐现场观众"
+      "promptZh": "自1983年以来，调皮的郊狼吉祥物一直为这座城市的五届总冠军球队娱乐现场观众",
+      "story": "The Coyote has been an unofficial entertainer at San Antonio Spurs games since 1983, appearing during the franchise’s run to five NBA championships.",
+      "storyZh": "自1983年起，狐狸“The Coyote”一直是圣安东尼奥马刺队场边的非官方表演者，见证了球队五夺NBA总冠军的历程。"
     },
     {
       "id": "nba-phoenix-2",
@@ -1918,7 +2165,9 @@
       ],
       "viewLat": 45.7754,
       "viewLng": -86.5211,
-      "promptZh": "Charles Barkley 出生在这座阿拉巴马州城市"
+      "promptZh": "Charles Barkley 出生在这座阿拉巴马州城市",
+      "story": "Charles Barkley was born in Leeds, Alabama, on February 20, 1963, before becoming one of the NBA’s most dominant power forwards.",
+      "storyZh": "查尔斯·巴克利于1963年2月20日出生在阿拉巴马州利兹，后来成为NBA最具统治力的内线球员之一。"
     },
     {
       "id": "nba-portland-1",
@@ -1934,7 +2183,9 @@
       ],
       "viewLat": 45.5152,
       "viewLng": -114.8484,
-      "promptZh": "1977年，Bill Walton 带领这座城市的球队赢得队史唯一的 NBA 总冠军"
+      "promptZh": "1977年，Bill Walton 带领这座城市的球队赢得队史唯一的 NBA 总冠军",
+      "story": "Bill Walton led the Portland Trail Blazers to their only NBA championship in 1977 and was named Finals MVP after the Blazers defeated the Philadelphia 76ers.",
+      "storyZh": "1977年，比尔·沃尔顿带领波特兰开拓者队赢得队史唯一一次NBA总冠军，并在击败费城76人后当选总决赛最有价值球员。"
     },
     {
       "id": "nba-portland-2",
@@ -1950,7 +2201,9 @@
       ],
       "viewLat": 51.508,
       "viewLng": -115.4444,
-      "promptZh": "Clyde “The Glide” Drexler 的22号球衣悬挂在这座城市的球馆里"
+      "promptZh": "Clyde “The Glide” Drexler 的22号球衣悬挂在这座城市的球馆里",
+      "story": "Clyde “The Glide” Drexler’s No. 22 was retired by the Portland Trail Blazers in 2004 and hangs in the arena as a tribute to the franchise’s celebrated forward.",
+      "storyZh": "克莱德“The Glide”德雷克勒的22号球衣于2004年被波特兰开拓者队退役，并悬挂球馆上空，以纪念这位球队传奇前锋。"
     },
     {
       "id": "nba-sacramento-1",
@@ -1966,7 +2219,9 @@
       ],
       "viewLat": 47.9095,
       "viewLng": -71.8715,
-      "promptZh": "1951年，Royals 队为这座城市赢得了唯一的 NBA 总冠军，当时球队尚未更名为 Sacramento Kings"
+      "promptZh": "1951年，Royals 队为这座城市赢得了唯一的 NBA 总冠军，当时球队尚未更名为 Sacramento Kings",
+      "story": "The Rochester Royals captured the city’s only NBA title in 1951 by defeating the New York Knicks four games to two in the Finals.",
+      "storyZh": "1951年，罗切斯特皇家队以总比分4比2击败纽约尼克斯队，为这座城市赢得了唯一一次NBA总冠军。"
     },
     {
       "id": "nba-sacramento-2",
@@ -1979,7 +2234,9 @@
       "tags": [
         "international"
       ],
-      "promptZh": "Kobe Bryant 的第一支职业球队位于这座意大利城市"
+      "promptZh": "Kobe Bryant 的第一支职业球队位于这座意大利城市",
+      "story": "Siena unveiled a bronze statue honoring Kobe Bryant in 2022; Bryant had played his first professional season in Italy in 1985–86 before entering the NBA.",
+      "storyZh": "2022年，锡耶纳为科比·布莱恩特揭幕了一座青铜雕像；科比在1985至1986赛季于意大利开启职业生涯，随后才进入NBA。"
     },
     {
       "id": "nba-syracuse-1",
@@ -1995,7 +2252,9 @@
       ],
       "viewLat": 31.5735,
       "viewLng": -73.7709,
-      "promptZh": "Jim Brown 在这座城市的橄榄球和长曲棍球项目中都曾入选全美最佳阵容"
+      "promptZh": "Jim Brown 在这座城市的橄榄球和长曲棍球项目中都曾入选全美最佳阵容",
+      "story": "Jim Brown starred in both football and lacrosse at Syracuse, winning the Heisman Trophy in 1957 as the first Black recipient of college football’s greatest individual honor.",
+      "storyZh": "吉姆·布朗在锡拉丘兹同时效力于橄榄球队和长曲棍球队，并于1957年成为首位赢得海斯曼奖的黑人大学橄榄球运动员。"
     },
     {
       "id": "nba-toronto-1",
@@ -2009,7 +2268,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "Raptors 队的首位建队球员是1995年扩军选秀选中的，他出自这所大学"
+      "promptZh": "Raptors 队的首位建队球员是1995年扩军选秀选中的，他出自这所大学",
+      "story": "The Toronto Raptors began play in the 1995-96 season, and their first season was played at SkyDome, the domed stadium that made them the first NBA franchise to take its entire home schedule under a roof.",
+      "storyZh": "多伦多猛龙队在1995-96赛季开始征战，他们的第一个赛季在天空穹顶球场进行，因此成为第一支把整个主场赛程都放在室内的NBA球队。"
     },
     {
       "id": "nba-turkey-1",
@@ -2023,7 +2284,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "2011年 NBA 停摆期间，Deron Williams 成为首位赴海外效应的全明星球员，加盟了位于这座城市的 Besiktas"
+      "promptZh": "2011年 NBA 停摆期间，Deron Williams 成为首位赴海外效应的全明星球员，加盟了位于这座城市的 Besiktas",
+      "story": "When the NBA locked out players in July 2011, Deron Williams became the first All-Star to take his talents overseas, signing with Besiktas in Istanbul while the league stalled.",
+      "storyZh": "2011年7月NBA停摆时，德隆·威廉姆斯成为首位赴海外效力的全明星，他加盟了伊斯坦布尔的贝西克塔斯篮球俱乐部。"
     },
     {
       "id": "nba-wisconsin-1",
@@ -2039,7 +2302,9 @@
       ],
       "viewLat": 25.3004,
       "viewLng": -89.1545,
-      "promptZh": "2015年，Wisconsin 在这座城市一座由 NFL 球场改建而成的体育场以71比64击败 Kentucky，终结其38连胜并闯入最终四强"
+      "promptZh": "2015年，Wisconsin 在这座城市一座由 NFL 球场改建而成的体育场以71比64击败 Kentucky，终结其38连胜并闯入最终四强",
+      "story": "On April 4, 2015, Frank Kaminsky's Wisconsin beat Kentucky 71-64 at Lucas Oil Stadium in Indianapolis, snapping the Wildcats' 38-game winning streak on the same field where the Indianapolis Colts play.",
+      "storyZh": "2015年4月4日弗兰克·卡明斯基领衔的威斯康星队在印第安纳波利斯的卢卡斯油橄榄球场以71比64击败肯塔基，终结对手38连胜，而这座球场正是印第安纳波利斯小马队的主场。"
     },
     {
       "id": "nca-memphis-1",
@@ -2054,7 +2319,9 @@
       ],
       "viewLat": 28.9049,
       "viewLng": -101.7212,
-      "promptZh": "“Shockers”队以9号种子身份上演黑马之旅，代表这座城市闯入2013年最终四强"
+      "promptZh": "“Shockers”队以9号种子身份上演黑马之旅，代表这座城市闯入2013年最终四强",
+      "story": "A 9-seed Wichita State shock the 2013 NCAA tournament by reaching the Final Four, where the Shockers fell to Louisville, 78-68, after rising from 6-20 the previous season.",
+      "storyZh": "作为9号种子的威奇托州立大学在2013年NCAA锦标赛中制造了灰姑娘奇迹闯入四强，但在决赛圈以68比78不敌路易斯维尔，而他们此前一季战绩仅6胜20负。"
     },
     {
       "id": "nca-michigan-1",
@@ -2070,7 +2337,9 @@
       ],
       "viewLat": 47.0337,
       "viewLng": -78.0057,
-      "promptZh": "这座Big Ten球场的奇特名称源自南北战争期间使用过的联邦军训练营"
+      "promptZh": "这座Big Ten球场的奇特名称源自南北战争期间使用过的联邦军训练营",
+      "story": "Michigan Stadium in Ann Arbor has been nicknamed the Big House since 1927, a name that came from the massive wooden barracks built by Union Army troops training on that ground during the Civil War.",
+      "storyZh": "安娜堡的密歇根大学体育场自1927年起便被称为Big House（大屋），这一名字源于南北战争期间在此驻扎训练、修建起巨大木制营房的北方联邦军士兵。"
     },
     {
       "id": "nca-west-point-1",
@@ -2086,7 +2355,9 @@
       ],
       "viewLat": 47.3843,
       "viewLng": -81.1956,
-      "promptZh": "Mike Krzyzewski于1965年至1969年在这所军校为Bobby Knight效力"
+      "promptZh": "Mike Krzyzewski于1965年至1969年在这所军校为Bobby Knight效力",
+      "story": "Mike Krzyzewski played point guard for the Army Black Knights at West Point from 1965 to 1969 under Bobby Knight, the same partnership that later defined Duke basketball.",
+      "storyZh": "1965年至1969年迈克·沙舍夫斯基在西点军校为陆军黑骑士队担任控球后卫，主教练正是博比·奈特，这段师徒组合后来定义了杜克大学的篮球传奇。"
     },
     {
       "id": "nfl-miami-1",
@@ -2102,7 +2373,9 @@
       ],
       "viewLat": 27.4593,
       "viewLng": -81.6944,
-      "promptZh": "2010年，LeBron James在一家俱乐部现场直播中宣布“The Decision”，宣布将加盟新东家"
+      "promptZh": "2010年，LeBron James在一家俱乐部现场直播中宣布“The Decision”，宣布将加盟新东家",
+      "story": "On December 23, 2010, LeBron James told ESPN viewers in Cleveland that he was taking his talents to South Beach, and The Decision instantly reshaped the NBA.",
+      "storyZh": "2010年12月23日，勒布朗·詹姆斯在克利夫兰通过ESPN向全世界宣布自己将加盟迈阿密热火，这段被称为The Decision的宣言瞬间重塑了NBA格局。"
     },
     {
       "id": "nfl-sf-1",
@@ -2116,7 +2389,9 @@
         "NCAA",
         "West Virginia"
       ],
-      "promptZh": "Kyle MVP和绰号“The Logo”的Jerry West曾是这所大学的5届全美最佳阵容球员，而这所大学所在的州与他的名字相同"
+      "promptZh": "Kyle MVP和绰号“The Logo”的Jerry West曾是这所大学的5届全美最佳阵容球员，而这所大学所在的州与他的名字相同",
+      "story": "Jerry West was a five-time All-American at West Virginia from 1953 to 1959, and his dribbling silhouette became the NBA's official logo from 1969 until 1978.",
+      "storyZh": "杰里·韦斯特在1953年至1959年间为西弗吉尼亚大学效力并五次入选全美最佳阵容，他运球的剪影从1969年到1978年一直被用作NBA官方标志。"
     },
     {
       "id": "olympics-phoenix-1",
@@ -2132,7 +2407,9 @@
       ],
       "viewLat": 33.4484,
       "viewLng": -106.674,
-      "promptZh": "Stephen Curry在最后3分钟命中4记三分球，帮助美国队在这座城市击败法国队夺得金牌"
+      "promptZh": "Stephen Curry在最后3分钟命中4记三分球，帮助美国队在这座城市击败法国队夺得金牌",
+      "story": "Phoenix remembers the 1993 NBA Finals, when the Suns reached the championship series and pushed Michael Jordan’s Chicago Bulls to seven games before losing in Game 4.",
+      "storyZh": "凤凰城让人铭记1993年NBA总决赛，当时太阳队闯入冠军系列赛，将迈克尔·乔丹的芝加哥公牛逼入抢七，才在第四场落败。"
     },
     {
       "id": "us-nba-memphis-1",
@@ -2148,7 +2425,9 @@
       ],
       "viewLat": 24.3495,
       "viewLng": -90.049,
-      "promptZh": "这位后卫在成为NBA首位全票MVP之前，曾率领当地一所小学校打进2008年精英八强"
+      "promptZh": "这位后卫在成为NBA首位全票MVP之前，曾率领当地一所小学校打进2008年精英八强",
+      "story": "Memphis State reached the 1973 NCAA championship game and faced John Wooden’s UCLA, a landmark achievement in the school’s basketball history.",
+      "storyZh": "孟菲斯州立大学曾闯入1973年NCAA冠军赛，与约翰·伍登执教的UCLA正面对决，这是校史篮球最辉煌的篇章之一。"
     },
     {
       "id": "olympics-toronto-1",
@@ -2162,7 +2441,9 @@
         "Olympics",
         "1988"
       ],
-      "promptZh": "这支来自这座热带城市的雪车队尽管从未见过雪，仍成功获得1988年冬季奥运会参赛资格"
+      "promptZh": "这支来自这座热带城市的雪车队尽管从未见过雪，仍成功获得1988年冬季奥运会参赛资格",
+      "story": "Kingston is the base of Jamaica’s celebrated bobsled program, whose two-man crew of Dudley Stokes and Michael White represented the island nation at the 1988 Calgary Winter Olympics.",
+      "storyZh": "金斯敦是牙买加著名雪车项目的基地，达德利·斯托克斯与迈克尔·怀特组成的两人车队曾代表牙买加参加1988年卡尔加里冬奥会。"
     },
     {
       "id": "boxing-dr Congo-1",
@@ -2175,7 +2456,9 @@
       "tags": [
         "international"
       ],
-      "promptZh": "Muhammad Ali在“丛林之战”中击败George Foreman的著名胜利发生在这座非洲首都"
+      "promptZh": "Muhammad Ali在“丛林之战”中击败George Foreman的著名胜利发生在这座非洲首都",
+      "story": "On October 30, 1974, Muhammad Ali defeated George Foreman in Kinshasa’s famous Rumble in the Jungle, knocking Foreman down in the eighth round.",
+      "storyZh": "1974年10月30日，穆罕默德·阿里在金沙哈的“丛林之战”中击败乔治·福尔曼，并在第八回合将对手击倒。"
     },
     {
       "id": "boxing-europe-1",
@@ -2188,7 +2471,9 @@
       "tags": [
         "international"
       ],
-      "promptZh": "《Rocky IV》中的反派Ivan Drago曾在这座欧洲首都接受训练"
+      "promptZh": "《Rocky IV》中的反派Ivan Drago曾在这座欧洲首都接受训练",
+      "story": "Saint Petersburg, known as Leningrad from 1924 to 1991, supplies the bleak Soviet atmosphere that heightens Ivan Drago’s formidable presence in Rocky IV.",
+      "storyZh": "圣彼得堡在1924年至1991年间以列宁格勒之名存在，其阴冷的苏联氛围强化了《洛奇四世》中伊万·德拉戈令人畏惧的形象。"
     },
     {
       "id": "boxing-mexico-1",
@@ -2201,7 +2486,9 @@
       "tags": [
         "international"
       ],
-      "promptZh": "这位拥有4条金腰带、 undisputed超中量级拳王Canelo Álvarez于1990年出生在这座城市的郊区"
+      "promptZh": "这位拥有4条金腰带、 undisputed超中量级拳王Canelo Álvarez于1990年出生在这座城市的郊区",
+      "story": "Canelo Álvarez was born in Guadalajara on July 17, 1990, beginning his rise from the western Mexican city to world boxing champion.",
+      "storyZh": "卡内洛·阿尔瓦雷斯于1990年7月17日出生在瓜达拉哈拉，从这座墨西哥西部城市踏上通往世界拳坛冠军的征程。"
     },
     {
       "id": "boxing-uk-1",
@@ -2214,7 +2501,9 @@
       "tags": [
         "international"
       ],
-      "promptZh": "2024年，Oleksandr Usyk在这座城市击败Tyson Fury，成为 undisputed重量级拳王"
+      "promptZh": "2024年，Oleksandr Usyk在这座城市击败Tyson Fury，成为 undisputed重量级拳王",
+      "story": "On May 18, 2024, Oleksandr Usyk defeated Tyson Fury in Riyadh to become the first undisputed heavyweight champion in the modern boxing era.",
+      "storyZh": "2024年5月18日，奥列克桑德·乌西克在利雅得击败泰森·弗瑞，成为现代拳击史上首位公认重量级冠军。"
     },
     {
       "id": "cycling-france-1",
@@ -2227,7 +2516,9 @@
       "tags": [
         "Tour de France"
       ],
-      "promptZh": "在被剥夺全部冠军头衔之前，Lance Armstrong曾7次赢得自行车赛这项最大赛事，而终点都在这座城市"
+      "promptZh": "在被剥夺全部冠军头衔之前，Lance Armstrong曾7次赢得自行车赛这项最大赛事，而终点都在这座城市",
+      "story": "Lance Armstrong won the Tour de France seven times, with every edition finishing in Paris, before his titles were stripped in 2012.",
+      "storyZh": "兰斯·阿姆斯特朗曾七次赢得环法自行车赛，所有赛段都在巴黎收官，但他的冠军头衔于2012年被剥夺。"
     },
     {
       "id": "golf-california-1",
@@ -2242,7 +2533,9 @@
       ],
       "viewLat": 39.1924,
       "viewLng": -124.5212,
-      "promptZh": "Tiger Woods 于1975年出生在这座城市"
+      "promptZh": "Tiger Woods 于1975年出生在这座城市",
+      "story": "Tiger Woods was born in Cypress, California, on December 30, 1975, and grew up to become one of golf’s most celebrated champions.",
+      "storyZh": "老虎·伍兹于1975年12月30日出生在加利福尼亚州赛普里斯，后来成长为高尔夫史上最著名的冠军之一。"
     },
     {
       "id": "golf-california-2",
@@ -2258,7 +2551,9 @@
       ],
       "viewLat": 33.4715,
       "viewLng": -88.9948,
-      "promptZh": "Bobby Jones 和 Alister MacKenzie 将一座旧苗圃改造成了这座城市的传奇球场"
+      "promptZh": "Bobby Jones 和 Alister MacKenzie 将一座旧苗圃改造成了这座城市的传奇球场",
+      "story": "Bobby Jones and Alister MacKenzie converted a former plant nursery into Augusta National, whose first Masters Tournament was held in 1934.",
+      "storyZh": "鲍比·琼斯和阿利斯特·麦肯齐把一座旧苗圃改造成了奥古斯塔国家高尔夫俱乐部，首届美国大师赛于1934年在这里举行。"
     },
     {
       "id": "golf-michigan-1",
@@ -2271,7 +2566,9 @@
       "tags": [
         "PGA"
       ],
-      "promptZh": "Phil Mickelson 在这座城市赢得2021年PGA锦标赛，成为高尔夫史上最年长的大满贯冠军"
+      "promptZh": "Phil Mickelson 在这座城市赢得2021年PGA锦标赛，成为高尔夫史上最年长的大满贯冠军",
+      "story": "At age 51, Phil Mickelson won the 2021 PGA Championship at Kailua-Kona, becoming the oldest major champion in men’s golf at the time.",
+      "storyZh": "2021年，51岁的菲尔·米克尔森在科纳卢阿赢得PGA锦标赛，并成为当时男子高尔夫史上最年长的大满贯冠军。"
     },
     {
       "id": "golf-north Carolina-1",
@@ -2287,7 +2584,9 @@
       ],
       "viewLat": 44.9461,
       "viewLng": -84.3513,
-      "promptZh": "自1934年以来，“美国大师赛”每年都在这座城市举行"
+      "promptZh": "自1934年以来，“美国大师赛”每年都在这座城市举行",
+      "story": "Augusta, Georgia, has hosted the Masters Tournament every year since its inaugural edition in 1934.",
+      "storyZh": "自1934年首届赛事以来，佐治亚州奥古斯塔每年都会举办美国大师赛。"
     },
     {
       "id": "golf-ohio-1",
@@ -2302,7 +2601,9 @@
       ],
       "viewLat": 24.1458,
       "viewLng": -113.4365,
-      "promptZh": "Donald Ross 设计了这里的2号球场，它承办的高尔夫锦标赛比美国任何其他场地都多"
+      "promptZh": "Donald Ross 设计了这里的2号球场，它承办的高尔夫锦标赛比美国任何其他场地都多",
+      "story": "Donald Ross designed the celebrated No. 2 course at Beverly Hills Golf Club, which has hosted numerous professional championships.",
+      "storyZh": "唐纳德·罗斯设计了在比佛利山高尔夫俱乐部久负盛名的2号球场，这座球场曾举办过多项职业赛事。"
     },
     {
       "id": "nfl-southcarolina-1",
@@ -2315,7 +2616,9 @@
       "tags": [
         "PGA"
       ],
-      "promptZh": "在连续参加99场大满贯赛事之前，Adam Scott 出生在这座南半球城市"
+      "promptZh": "在连续参加99场大满贯赛事之前，Adam Scott 出生在这座南半球城市",
+      "story": "Adam Scott was born in Montrose, Victoria, in 1980 and became the first Australian since Peter Thomson to win the Masters in 2013.",
+      "storyZh": "亚当·斯科特于1980年出生在维多利亚州蒙特罗斯，并在2013年成为继彼得·汤姆森后首位赢得美国大师赛的澳大利亚人。"
     },
     {
       "id": "soccer-brazil-3",
@@ -2329,7 +2632,9 @@
         "PGA",
         "The Open"
       ],
-      "promptZh": "英国公开赛经常重返这座城市的 The Old Course，自1552年以来这里便一直有人打高尔夫"
+      "promptZh": "英国公开赛经常重返这座城市的 The Old Course，自1552年以来这里便一直有人打高尔夫",
+      "story": "Golf has been played at the Old Course in St Andrews since at least 1552, and it is closely associated with The Open Championship.",
+      "storyZh": "至少从1552年起，人们便在圣安德鲁斯的老球场打球，这座球场也与英国公开赛紧密相连。"
     },
     {
       "id": "nba-detroit-7",
@@ -2345,7 +2650,9 @@
       ],
       "viewLat": 52.9585,
       "viewLng": -85.0826,
-      "promptZh": "拿到10.0分并结束1996年征程的体操运动员 Kerri Strug，出生在密歇根州这座城市"
+      "promptZh": "拿到10.0分并结束1996年征程的体操运动员 Kerri Strug，出生在密歇根州这座城市",
+      "story": "Kerri Strug was born in Bellaire, Michigan, on October 10, 1976, and received a perfect 10.0 for her final vault at the 1996 Atlanta Olympics.",
+      "storyZh": "凯莉·斯特鲁格于1976年10月10日出生在密歇根州贝莱尔，并在1996年亚特兰大奥运会的最后一次跳马中获得满分10.0。"
     },
     {
       "id": "mlb-arizona-1",
@@ -2361,7 +2668,9 @@
       ],
       "viewLat": 22.3522,
       "viewLng": -117.4766,
-      "promptZh": "刚赢得2024年Cup后，Panthers 在这座城市的 Nokia Arena 与 Stars 进行了2场NHL Global Series比赛"
+      "promptZh": "刚赢得2024年Cup后，Panthers 在这座城市的 Nokia Arena 与 Stars 进行了2场NHL Global Series比赛",
+      "story": "Tempe is home to Arizona State University’s Sun Devils, whose program was founded in 1885 and became a major force in college sports.",
+      "storyZh": "坦佩是亚利桑那州立大学太阳 Devil 队的所在地，这支球队创立于1885年，后来成为大学体育的重要力量。"
     },
     {
       "id": "nfl-michigan-1",
@@ -2377,7 +2686,9 @@
       ],
       "viewLat": 36.3929,
       "viewLng": -79.159,
-      "promptZh": "在这里效力18个赛季后，NHL的 Whalers 于1997年加盟 Hurricanes"
+      "promptZh": "在这里效力18个赛季后，NHL的 Whalers 于1997年加盟 Hurricanes",
+      "story": "The Hartford Whalers played in Connecticut from 1979 through 1997 before moving to North Carolina and becoming the Carolina Hurricanes in 1997.",
+      "storyZh": "哈特福德鲸鱼队从1979年到1997年在康涅狄格州效力，随后迁往北卡罗来纳州，并于1997年改名为卡罗来纳飓风队。"
     },
     {
       "id": "nhl-boston-1",
@@ -2393,7 +2704,9 @@
       ],
       "viewLat": 28.8464,
       "viewLng": -78.8784,
-      "promptZh": "1999年斯坦利杯决赛三加时赛中的争议“零进球”，至今仍让这座城市的蓝金球衣球迷心中刺痛"
+      "promptZh": "1999年斯坦利杯决赛三加时赛中的争议“零进球”，至今仍让这座城市的蓝金球衣球迷心中刺痛",
+      "story": "On May 14, 1999, Dallas defeated Buffalo 3-2 when Brett Hull scored at 14:32 of the third overtime in Game 6 of the Stanley Cup Final; Hull’s disputed no-goal non-call in Game 5 remains equally infamous.",
+      "storyZh": "1999年5月14日，斯坦利杯总决赛第六场，布雷特·赫尔在第三个加时赛第14分32秒进球，以3比2击败布法罗；第五场那次有争议的“无效进球”同样令人难忘。"
     },
     {
       "id": "nhl-calgary-1",
@@ -2407,7 +2720,9 @@
         "NHL",
         "Olympics"
       ],
-      "promptZh": "Flames 为这座城市赢得了1989年斯坦利杯，而这里刚刚主办过1988年冬奥会"
+      "promptZh": "Flames 为这座城市赢得了1989年斯坦利杯，而这里刚刚主办过1988年冬奥会",
+      "story": "Calgary hosted the 1988 Winter Olympics, and the Calgary Flames responded the following year by winning the 1989 Stanley Cup.",
+      "storyZh": "卡尔加里主办了1988年冬季奥运会，次年的1989年，卡尔加里火焰队便夺得了斯坦利杯。"
     },
     {
       "id": "nhl-dday-1",
@@ -2421,7 +2736,9 @@
         "NHL",
         "WWII"
       ],
-      "promptZh": "年仅19岁的 Yogi Berra 在诺曼底登陆日从一艘海军舰船上向这座欧洲海滩发射火箭弹"
+      "promptZh": "年仅19岁的 Yogi Berra 在诺曼底登陆日从一艘海军舰船上向这座欧洲海滩发射火箭弹",
+      "story": "On D-Day, June 6, 1944, 19-year-old Yogi Berra served in the U.S. Navy and fired rockets from a landing craft toward German positions off Normandy.",
+      "storyZh": "1944年6月6日登陆日当天，19岁的耶奇·贝拉服役于美国海军，从登陆艇上向诺曼底外海的德军阵地发射火箭。"
     },
     {
       "id": "nhl-detroit-2",
@@ -2434,7 +2751,9 @@
       "tags": [
         "NHL"
       ],
-      "promptZh": "Bobby Orr 革新了冰球运动，并连续8次当选 Norris Trophy 最佳防守球员，他来自这座小镇"
+      "promptZh": "Bobby Orr 革新了冰球运动，并连续8次当选 Norris Trophy 最佳防守球员，他来自这座小镇",
+      "story": "Bobby Orr was born in Parry Sound on March 6, 1948, and won eight consecutive Norris Trophies from 1968 through 1975.",
+      "storyZh": "鲍比·奥尔于1948年3月6日出生在帕里桑德，并在1968年至1975年间连续八次获得诺里斯奖。"
     },
     {
       "id": "nhl-edmonton-1",
@@ -2448,7 +2767,9 @@
         "NHL",
         "Oilers"
       ],
-      "promptZh": "在这座城市效力的 NHL 球队于1992年复兴，并于2007年首次打进 Stanley Cup 总决赛"
+      "promptZh": "在这座城市效力的 NHL 球队于1992年复兴，并于2007年首次打进 Stanley Cup 总决赛",
+      "story": "The modern Edmonton Oilers joined the NHL in 1992 and reached their first Stanley Cup Final in 2007, losing to San Jose in six games.",
+      "storyZh": "现代埃德蒙顿油人队于1992年加入 NHL，并在2007年首次打进斯坦利杯总决赛，最终以四比六负于圣何塞。"
     },
     {
       "id": "nhl-edmonton-2",
@@ -2461,7 +2782,9 @@
       "tags": [
         "NHL"
       ],
-      "promptZh": "在首个11个 NHL 赛季中赢得3座 Hart Trophy 之前，Connor McDavid 在这里长大"
+      "promptZh": "在首个11个 NHL 赛季中赢得3座 Hart Trophy 之前，Connor McDavid 在这里长大",
+      "story": "Connor McDavid was born in New Westminster on April 13, 1997, and won three consecutive Hart Trophies in 2015, 2016 and 2017.",
+      "storyZh": "康纳·麦克戴维德于1997年4月13日出生在新威斯敏斯特，并在2015年、2016年和2017年连续三次获得哈特奖。"
     },
     {
       "id": "nhl-hamilton-1",
@@ -2474,7 +2797,9 @@
       "tags": [
         "NHL"
       ],
-      "promptZh": "Wayne Gretzky 在21岁生日之前得到1,016分，并在这座小城长大"
+      "promptZh": "Wayne Gretzky 在21岁生日之前得到1,016分，并在这座小城长大",
+      "story": "Wayne Gretzky’s hometown became synonymous with hockey greatness after he recorded 1,016 NHL points before turning 21, a record that still stands.",
+      "storyZh": "韦恩·格雷茨基的家乡因一段非凡的青年时期载入史册：他在年满21岁前就收获了1,016个NHL积分，这一纪录至今仍未被打破。"
     },
     {
       "id": "nhl-losangeles-1",
@@ -2490,7 +2815,9 @@
       ],
       "viewLat": 24.7063,
       "viewLng": -73.1016,
-      "promptZh": "连续赢得1994年和1995年冠军后，这支球队的主场被称为“Clutch City”"
+      "promptZh": "连续赢得1994年和1995年冠军后，这支球队的主场被称为“Clutch City”",
+      "story": "Raleigh earned the nickname “Clutch City” after the Carolina Hurricanes won consecutive Stanley Cups in 1994 and 1995.",
+      "storyZh": "卡罗来纳飓风队在1994年和1995年连续夺得斯坦利杯，正是在这两次夺冠之后，罗利赢得了“关键之城”的称号。"
     },
     {
       "id": "nhl-losangeles-2",
@@ -2504,7 +2831,9 @@
         "NHL",
         "Canucks"
       ],
-      "promptZh": "这座城市在2011年 Stanley Cup 总决赛第七场落败后，市中心发生烧车和哄抢事件"
+      "promptZh": "这座城市在2011年 Stanley Cup 总决赛第七场落败后，市中心发生烧车和哄抢事件",
+      "story": "Vancouver’s composure broke after the Canucks lost Game 7 of the 2011 Stanley Cup Final, prompting fans to set cars ablaze and loot downtown streets.",
+      "storyZh": "2011年斯坦利杯总决赛抢七战中，温哥华Canucks队败北，看台上的愤怒随后蔓延到市中心，部分球迷焚烧汽车并实施洗劫。"
     },
     {
       "id": "nhl-nashville-1",
@@ -2520,7 +2849,9 @@
       ],
       "viewLat": 41.235,
       "viewLng": -92.9933,
-      "promptZh": "迁往 Tennessee 之前，Titans 球队使用着另一个名字，并在这座城市效力"
+      "promptZh": "迁往 Tennessee 之前，Titans 球队使用着另一个名字，并在这座城市效力",
+      "story": "The franchise known as the Houston Oilers played in Texas from 1979 until 1997, when it moved to Nashville and became the Tennessee Titans.",
+      "storyZh": "曾以休斯敦油人队闻名的球队自1979年至1997年在得州效力，随后迁往纳什维尔并更名为田纳西泰坦队。"
     },
     {
       "id": "nhl-newyork-1",
@@ -2534,7 +2865,9 @@
         "NHL",
         "Rangers"
       ],
-      "promptZh": "在成为“One-Two Three, Four, Five”Henrik 之前，Rangers 的长期守门员 Henrik Lundqvist 出生在这里"
+      "promptZh": "在成为“One-Two Three, Four, Five”Henrik 之前，Rangers 的长期守门员 Henrik Lundqvist 出生在这里",
+      "story": "Future Rangers goaltender Henrik Lundqvist was born in Stockholm on June 3, 1975, beginning his journey toward the nickname “The King.”",
+      "storyZh": "后来成为纽约游骑兵队守门员的亨利克·伦德奎斯特于1975年6月3日出生在斯德哥尔摩，并由此开启了他“国王”的传奇生涯。"
     },
     {
       "id": "nhl-pittsburgh-1",
@@ -2548,7 +2881,9 @@
         "NHL",
         "Penguins"
       ],
-      "promptZh": "Sidney Crosby 在这座拥有约25,000人口的 Nova Scotia 小镇长大"
+      "promptZh": "Sidney Crosby 在这座拥有约25,000人口的 Nova Scotia 小镇长大",
+      "story": "Cole Harbour nurtured Sidney Crosby, who was born there in 1987 and became the first player recorded as scoring a point in every season of an NHL career.",
+      "storyZh": "科尔港是悉尼·克罗斯比的成长摇篮；他于1987年出生在那里，后来成为首位在每个NXL生涯赛季都至少得到1分的球员。"
     },
     {
       "id": "nhl-pittsburgh-2",
@@ -2562,7 +2897,9 @@
         "NHL",
         "international"
       ],
-      "promptZh": "1955年，NHL 停赛 Canadiens 球星 Maurice “Rocket” Richard 后，这座城市的球迷发生骚乱"
+      "promptZh": "1955年，NHL 停赛 Canadiens 球星 Maurice “Rocket” Richard 后，这座城市的球迷发生骚乱",
+      "story": "A furious crowd rioted in Montreal on March 17, 1955, after the NHL suspended Canadiens star Maurice “Rocket” Richard for on-ice violence.",
+      "storyZh": "1955年3月17日，NHL因场上冲突停赛了蒙特利尔Canadiens队球星莫里斯“火箭”理查德，引发当地球迷愤怒并发生骚乱。"
     },
     {
       "id": "nhl-tampa-1",
@@ -2578,7 +2915,9 @@
       ],
       "viewLat": 25.2699,
       "viewLng": -122.6348,
-      "promptZh": "1993年，Disney 工作室在这里创立了一支最初以一部 Disney 电影命名的 NHL 球队"
+      "promptZh": "1993年，Disney 工作室在这里创立了一支最初以一部 Disney 电影命名的 NHL 球队",
+      "story": "The Los Angeles Kings were founded in 1993 by the Walt Disney Company, whose organizers initially called the club “Disney’s Kings” in reference to The King and I.",
+      "storyZh": "洛杉矶国王队由华特迪士尼公司在1993年创立，创办者最初将其称为“迪士尼国王队”，名称灵感来自电影《国王与我》。"
     },
     {
       "id": "nhl-utah-1",
@@ -2592,7 +2931,9 @@
         "NHL",
         "international"
       ],
-      "promptZh": "这里的球队于1979年迁往Utah，并沿用了音乐名称和音符形标志"
+      "promptZh": "这里的球队于1979年迁往Utah，并沿用了音乐名称和音符形标志",
+      "story": "The Colorado Rockies adopted the name Montreal Canadiens and its distinctive note-shaped logo when the franchise moved from Montreal to Utah in 1979.",
+      "storyZh": "1979年，球队从蒙特利尔迁往犹他州科罗拉多时，沿用了蒙特利尔加拿大人队的队名和独特的音符形标志。"
     },
     {
       "id": "nhl-whitehorse-1",
@@ -2606,7 +2947,9 @@
         "NHL",
         "draft"
       ],
-      "promptZh": "预计成为2026年NHL选秀状元秀的Gavin McKenna出生在这座Yukon首府"
+      "promptZh": "预计成为2026年NHL选秀状元秀的Gavin McKenna出生在这座Yukon首府",
+      "story": "Whitehorse is Gavin McKenna’s hometown; the Yukon-born winger was widely projected to be the No. 1 pick in the 2026 NHL Draft.",
+      "storyZh": "加文·麦肯纳出生于白马市，这位育空省出生的边锋被广泛预测将成为2026年NHL选秀大会状元。"
     },
     {
       "id": "olympics-nashville-1",
@@ -2622,7 +2965,9 @@
       ],
       "viewLat": 21.6947,
       "viewLng": -89.778,
-      "promptZh": "2020年，超过85,000名球迷在这座城市的大学体育场观看了Stars与Predators的户外比赛"
+      "promptZh": "2020年，超过85,000名球迷在这座城市的大学体育场观看了Stars与Predators的户外比赛",
+      "story": "On January 1, 2020, 85,592 fans watched the Dallas Stars defeat the Nashville Predators 4-3 in an outdoor NHL game at Nissan Stadium.",
+      "storyZh": "2020年1月1日，共有85,592名球迷在尼桑体育场观看达拉斯星队以4比3击败纳什维尔-predators的户外NHL比赛。"
     },
     {
       "id": "olympics-saltlake-2",
@@ -2636,7 +2981,9 @@
         "Olympics",
         "2014"
       ],
-      "promptZh": "在“金球”4年后，Sidney Crosby在这座城市赢得了个人第二枚奥运金牌"
+      "promptZh": "在“金球”4年后，Sidney Crosby在这座城市赢得了个人第二枚奥运金牌",
+      "story": "Sochi hosted the 2014 Winter Olympics, where Sidney Crosby scored the Golden Goal to give Canada its second consecutive men’s Olympic hockey gold, four years after his 2010 triumph.",
+      "storyZh": "2014年，索契举办了冬季奥运会；锡尼·克罗斯比在男子冰球决赛中打进“金球”，继2010年夺冠后为加拿大队连续第二度夺得奥运金牌。"
     },
     {
       "id": "nba-cle-1",
@@ -2651,7 +2998,9 @@
       ],
       "viewLat": 41.6717,
       "viewLng": -65.9293,
-      "promptZh": "ESPN自1979年起一直在其位于这座城市的总部播出SportsCenter"
+      "promptZh": "ESPN自1979年起一直在其位于这座城市的总部播出SportsCenter",
+      "story": "ESPN has produced SportsCenter from its Bristol headquarters since 1979, making the Connecticut town one of the program’s most recognizable homes.",
+      "storyZh": "自1979年以来，ESPN一直在康涅狄格州布里斯托尔总部制作《体育中心》，这座城市因此成为该节目的标志性驻地。"
     },
     {
       "id": "soccer-nepal-1",
@@ -2664,7 +3013,9 @@
       "tags": [
         "Everest"
       ],
-      "promptZh": "帮助登山者攀登世界最高峰的夏尔巴向导，行程常从这座首都城市开始"
+      "promptZh": "帮助登山者攀登世界最高峰的夏尔巴向导，行程常从这座首都城市开始",
+      "story": "Kathmandu is the traditional launch point for Everest expeditions, with Sherpa mountaineers commonly helping climbers begin their journeys to the world’s highest mountain.",
+      "storyZh": "加德满都是珠穆朗玛峰探险的传统出发点，夏尔巴登山者经常协助攀登者从这里启程前往世界最高峰。"
     },
     {
       "id": "nba-france-3",
@@ -2677,7 +3028,9 @@
       "tags": [
         "Olympics"
       ],
-      "promptZh": "每届奥运会的火炬接力都会从这座欧洲城市的古老体育场启程"
+      "promptZh": "每届奥运会的火炬接力都会从这座欧洲城市的古老体育场启程",
+      "story": "Olympic torch relays traditionally begin at Athens’ Panathenaic Stadium, the marble venue rebuilt for the first modern Games in 1896.",
+      "storyZh": "奥运火炬接力传统上从雅典的泛雅典体育场开始，这座大理石场馆曾为1896年首届现代奥运会而重建。"
     },
     {
       "id": "olympics-norway-1",
@@ -2691,7 +3044,9 @@
         "Olympics",
         "1994"
       ],
-      "promptZh": "1994年冬奥会首次与夏季奥运会分开举办，举办地就是这座小镇"
+      "promptZh": "1994年冬奥会首次与夏季奥运会分开举办，举办地就是这座小镇",
+      "story": "Lillehammer hosted the 1994 Winter Olympics, the first Winter Games held independently from the Summer Olympics since the modern movement began.",
+      "storyZh": "利勒哈默尔举办了1994年冬季奥运会，这是现代奥林匹克运动会开始以来首次独立于夏季奥运会举办的冬季赛事。"
     },
     {
       "id": "olympics-saltlake-1",
@@ -2707,7 +3062,9 @@
       ],
       "viewLat": 28.3408,
       "viewLng": -111.891,
-      "promptZh": "2002年冬季，美国最后一次举办奥运会的地方就在这里"
+      "promptZh": "2002年冬季，美国最后一次举办奥运会的地方就在这里",
+      "story": "Salt Lake City hosted the 2002 Winter Olympics, the last time the United States staged an Olympic Games until Paris 2024.",
+      "storyZh": "盐湖城举办了2002年冬奥会，这是美国继2024年巴黎奥运会之前最后一次举办奥运会。"
     },
     {
       "id": "olympics-us-1",
@@ -2724,7 +3081,9 @@
       ],
       "viewLat": 55.7541,
       "viewLng": -76.3564,
-      "promptZh": "1980年，一支美国大学队在这座小镇的奥运会上击败了保持不败的苏联队"
+      "promptZh": "1980年，一支美国大学队在这座小镇的奥运会上击败了保持不败的苏联队",
+      "story": "On February 22, 1980, the U.S. hockey team beat the undefeated Soviet Union 4–3 in Lake Placid in the famed Miracle on Ice.",
+      "storyZh": "1980年2月22日，美国冰球队在普莱西德湖以4比3击败保持不败的苏联队，创造了著名的“冰上奇迹”。"
     },
     {
       "id": "f1-monaco-1",
@@ -2737,7 +3096,9 @@
       "tags": [
         "Formula 1"
       ],
-      "promptZh": "Charles Leclerc终于在2024年的家乡之战中获胜，多年心碎终告结束，赛街道穿过这座城市"
+      "promptZh": "Charles Leclerc终于在2024年的家乡之战中获胜，多年心碎终告结束，赛街道穿过这座城市",
+      "story": "Charles Leclerc finally won his hometown Grand Prix on May 26, 2024, ending years of near misses on Monaco’s streets.",
+      "storyZh": "夏尔·勒克莱尔终于在2024年5月26日的家乡大奖赛中夺冠，结束了多年来在摩纳哥街道上的遗憾。"
     },
     {
       "id": "f1-monaco-2",
@@ -2750,7 +3111,9 @@
       "tags": [
         "Formula 1"
       ],
-      "promptZh": "F1最具声望的比赛每年都会穿过这个principality的赌场与港湾街道"
+      "promptZh": "F1最具声望的比赛每年都会穿过这个principality的赌场与港湾街道",
+      "story": "Formula 1’s flagship Monaco Grand Prix winds around Monte Carlo’s casino, harbor, and narrow streets, with the race first held in 1929.",
+      "storyZh": "一级方程式旗舰级的摩纳哥大奖赛蜿蜒穿过蒙特卡洛的赌场、海港和狭窄街道，这项比赛最早于1929年举行。"
     },
     {
       "id": "nascar-fl-1",
@@ -2765,7 +3128,9 @@
       ],
       "viewLat": 42.1618,
       "viewLng": -78.3374,
-      "promptZh": "这座佛罗里达州城市拥有 NASCAR 最著名的赛道"
+      "promptZh": "这座佛罗里达州城市拥有 NASCAR 最著名的赛道",
+      "story": "Daytona Beach is home to Daytona International Speedway, where NASCAR’s most famous race, the Daytona 500, has been held since 1959.",
+      "storyZh": "代托纳比奇是代托纳国际赛道的所在地， NASCAR最著名的达代托纳500自1959年起就在这里举行。"
     },
     {
       "id": "nfl-philadelphia-1",
@@ -2779,7 +3144,9 @@
         "NFL",
         "international"
       ],
-      "promptZh": "超级碗冠军 Jordan Mailata 在被 Eagles 选中前曾在这里打橄榄球"
+      "promptZh": "超级碗冠军 Jordan Mailata 在被 Eagles 选中前曾在这里打橄榄球",
+      "story": "Jordan Mailata played rugby in Auckland before the Philadelphia Eagles drafted the 6-foot-8 New Zealander in 2018.",
+      "storyZh": "乔丹·迈拉塔曾在奥克兰打橄榄球，之后这位身高6英尺8英寸的新西兰人被费城老鹰队于2018年选中。"
     },
     {
       "id": "rugby-newzealand-1",
@@ -2792,7 +3159,9 @@
       "tags": [
         "All Blacks"
       ],
-      "promptZh": "表演“Haka”的 All Blacks 代表这个国家，其首都位于北岛最南端"
+      "promptZh": "表演“Haka”的 All Blacks 代表这个国家，其首都位于北岛最南端",
+      "story": "Wellington has been New Zealand’s capital since 1865, and the city is a major home of the All Blacks, famous for performing the haka before matches.",
+      "storyZh": "惠灵顿自1865年起一直是新西兰首都，也是以赛前表演哈卡舞而闻名的全黑队的重要基地。"
     },
     {
       "id": "rugby-southafrica-1",
@@ -2805,7 +3174,9 @@
       "tags": [
         "rugby sevens"
       ],
-      "promptZh": "橄榄球七人制系列赛曾在这里的体育场停办25年，其南看台还曾向球场倾倒啤酒等液体"
+      "promptZh": "橄榄球七人制系列赛曾在这里的体育场停办25年，其南看台还曾向球场倾倒啤酒等液体",
+      "story": "After being staged annually from 1979 through 2004, the Hong Kong Sevens returned to the stadium in 2011, while its notorious South Stand was known for throwing beer and debris onto the pitch.",
+      "storyZh": "香港七人制橄榄球赛在1979年至2004年间每年举办，2011年重返赛场，而以向球场投掷啤酒和其他杂物闻名的南看台也长期令人难忘。"
     },
     {
       "id": "marathon-kenya-1",
@@ -2818,7 +3189,9 @@
       "tags": [
         "marathon"
       ],
-      "promptZh": "Eliud Kipchoge 成为首位突破马拉松两小时大关的人。他在这座城市训练"
+      "promptZh": "Eliud Kipchoge 成为首位突破马拉松两小时大关的人。他在这座城市训练",
+      "story": "Kaptagat was the training base for Eliud Kipchoge, who ran the 2019 Berlin Marathon in 1 hour 59 minutes 40.2 seconds in the first officially recorded sub-two-hour marathon.",
+      "storyZh": "埃利乌德·基普乔格在卡普塔加特训练，并于2019年柏林马拉松以1小时59分40秒2秒完赛，完成了首场官方记录的突破两小时马拉松。"
     },
     {
       "id": "olympics-torrance-1",
@@ -2834,7 +3207,9 @@
       ],
       "viewLat": 37.9688,
       "viewLng": -113.3517,
-      "promptZh": "奥运纪录保持者 Louis Zamperini 曾在二战期间于这座城市附近海上漂流47天，并遭受两年战俘折磨"
+      "promptZh": "奥运纪录保持者 Louis Zamperini 曾在二战期间于这座城市附近海上漂流47天，并遭受两年战俘折磨",
+      "story": "Torrance is home to Zamperini Middle School, named for the 1936 Olympic 5,000-meter silver medalist who survived 47 days at sea and two years as a Japanese prisoner of war.",
+      "storyZh": "托伦斯拥有以扎姆佩里尼命名的中学，以纪念这位在海上漂流47天、并在日本战俘营中度过两年的1936年奥运会5000米银牌得主。"
     },
     {
       "id": "nfl-pittsburgh-3",
@@ -2848,7 +3223,9 @@
         "Olympics",
         "2010"
       ],
-      "promptZh": "2010年奥运会上，Lindsey Vonn 成为首位夺得速降金牌的美国女性，她在这座度假胜地比赛"
+      "promptZh": "2010年奥运会上，Lindsey Vonn 成为首位夺得速降金牌的美国女性，她在这座度假胜地比赛",
+      "story": "At Whistler Blackcomb on February 18, 2010, Lindsey Vonn became the first American woman to win Olympic downhill skiing gold.",
+      "storyZh": "2010年2月18日，琳赛·冯在惠斯勒黑梳峰夺得冬奥会高山滑雪速降金牌，成为首位赢得该项目奥运金牌的美国女性。"
     },
     {
       "id": "football-london-1",
@@ -2862,7 +3239,9 @@
         "FIFA",
         "2002"
       ],
-      "promptZh": "2002年世界杯四分之一决赛中，一次未被判罚的手球让 USMNT 错失扳平机会，比赛在这座城市举行"
+      "promptZh": "2002年世界杯四分之一决赛中，一次未被判罚的手球让 USMNT 错失扳平机会，比赛在这座城市举行",
+      "story": "Daegu hosted the June 21, 2002 World Cup quarterfinal in which Brazil defeated the United States 2–1, including Brazil’s controversial second goal after an alleged handball.",
+      "storyZh": "2002年6月21日，世界杯四分之一决赛在大邱举行巴西对美国的比赛，最终巴西以2比1获胜，其中第二个进球因疑似手球未判罚而引发争议。"
     },
     {
       "id": "nba-france-1",
@@ -2877,7 +3256,9 @@
       ],
       "viewLat": 35.6229,
       "viewLng": -68.6232,
-      "promptZh": "USMNT 前锋 Folarin Balogun 生于美国，离开时年仅2个月，并在这座城市长大"
+      "promptZh": "USMNT 前锋 Folarin Balogun 生于美国，离开时年仅2个月，并在这座城市长大",
+      "story": "Folarin Balogun moved from the United States to Old Bridge only two months after his birth, grew up there, and went on to become a professional footballer.",
+      "storyZh": "福拉林·巴洛贡出生仅两个月便从美国移居旧大桥，在那里成长并最终成为职业足球运动员。"
     },
     {
       "id": "nba-miami-1",
@@ -2891,7 +3272,9 @@
         "football",
         "international"
       ],
-      "promptZh": "Lionel Messi 13岁时离开阿根廷，前往这座城市的青训营加盟"
+      "promptZh": "Lionel Messi 13岁时离开阿根廷，前往这座城市的青训营加盟",
+      "story": "Barcelona took Lionel Messi into its La Masia academy when he was 13, and he made his official Barça debut there on October 16, 2004.",
+      "storyZh": "巴塞罗那在梅西13岁时将他纳入拉马西亚青训营，他于2004年10月16日在那里完成了巴萨一线队正式首秀。"
     },
     {
       "id": "nba-nashville-1",
@@ -2905,7 +3288,9 @@
         "FIFA",
         "2026"
       ],
-      "promptZh": "世界杯将在30天后于这座历史悠久的体育场开幕，它位于三个主办国之一的首都"
+      "promptZh": "世界杯将在30天后于这座历史悠久的体育场开幕，它位于三个主办国之一的首都",
+      "story": "The 2026 FIFA World Cup will begin in Mexico City at the Estadio Azteca on June 11, with the tournament also staged in Guadalajara and Monterrey.",
+      "storyZh": "2026年国际足联世界杯将于6月11日在墨西哥城的阿兹特克体育场揭幕，赛事还将在瓜达拉哈拉和蒙特雷举行。"
     },
     {
       "id": "soccer-argentina-1",
@@ -2919,7 +3304,9 @@
         "football",
         "international"
       ],
-      "promptZh": "Lionel Messi 出生在这座阿根廷城市，俱乐部无法治疗他的生长激素缺乏症"
+      "promptZh": "Lionel Messi 出生在这座阿根廷城市，俱乐部无法治疗他的生长激素缺乏症",
+      "story": "Lionel Messi was born in Rosario on June 24, 1987, and began his youth career with Newell’s Old Boys, where doctors treated his childhood growth-hormone deficiency.",
+      "storyZh": "梅西于1987年6月24日出生在罗萨里奥，并在纽维尔老男孩开始青训生涯，俱乐部医生曾治疗他幼年时的生长激素缺乏症。"
     },
     {
       "id": "soccer-brazil-1",
@@ -2933,7 +3320,9 @@
         "football",
         "international"
       ],
-      "promptZh": "Pelé于1940年出生在明纳斯吉拉斯州这座巴西小镇"
+      "promptZh": "Pelé于1940年出生在明纳斯吉拉斯州这座巴西小镇",
+      "story": "Pelé was born in Três Corações on October 23, 1940, before becoming Brazil’s three-time World Cup champion. The town remains closely tied to the famous “Black Pearl.”",
+      "storyZh": "贝利于1940年10月23日出生在特雷斯科拉松斯，后来成为三届世界杯冠军。这座小镇至今仍与“黑珍珠”的传奇紧密相连。"
     },
     {
       "id": "soccer-brazil-2",
@@ -2947,7 +3336,9 @@
         "football",
         "international"
       ],
-      "promptZh": "这位西非首都出生的球员是唯一获评金球奖的非洲球员，后来成为祖国总统，他的儿子效力于USMNT"
+      "promptZh": "这位西非首都出生的球员是唯一获评金球奖的非洲球员，后来成为祖国总统，他的儿子效力于USMNT",
+      "story": "George Weah was born in Dakar in 1966, won the 1995 Ballon d’Or, and served as Liberia’s president from 2018 to 2024. His son Timothy Weah has represented the United States men’s national team.",
+      "storyZh": "乔治·维阿于1966年出生在达喀尔，获得1995年金球奖，并于2018年至2024年担任利比里亚总统。他的儿子蒂莫西·维阿曾代表美国男足国家队出场。"
     },
     {
       "id": "soccer-brazil-4",
@@ -2961,7 +3352,9 @@
         "FIFA",
         "2014"
       ],
-      "promptZh": "2014年世界杯揭幕战在这座巴西城市举行"
+      "promptZh": "2014年世界杯揭幕战在这座巴西城市举行",
+      "story": "São Paulo hosted the opening match of the 2014 FIFA World Cup on June 12, when Brazil defeated Croatia 3–1 at Arena Corinthians. It was the tournament’s first match and the country’s first World Cup opening in 64 years.",
+      "storyZh": "2014年6月12日，圣保罗在科林蒂安竞技场主办国际足联世界杯揭幕战，巴西以3比1战胜克罗地亚。这是该届赛事的首场比赛，也是巴西时隔64年再次主办世界杯揭幕战。"
     },
     {
       "id": "soccer-brazil-5",
@@ -2975,7 +3368,9 @@
         "FIFA",
         "1950"
       ],
-      "promptZh": "1950年的“马拉卡纳惨案”就发生在这座巴西城市"
+      "promptZh": "1950年的“马拉卡纳惨案”就发生在这座巴西城市",
+      "story": "Rio de Janeiro witnessed the “Maracanazo” on July 16, 1950, when Uruguay defeated Brazil 2–1 before a crowd of nearly 200,000. The result remains one of football’s most famous shocks.",
+      "storyZh": "1950年7月16日，近20万名观众在里约见证了“马拉卡纳打击”，乌拉圭以2比1击败巴西。这个结果至今仍是足球史上最著名的冷门之一。"
     },
     {
       "id": "soccer-durban-1",
@@ -2989,7 +3384,9 @@
         "FIFA",
         "2010"
       ],
-      "promptZh": "2014年，美国门将Tim Howard在一场于此举行的淘汰赛中扑出16次，创下世界杯纪录"
+      "promptZh": "2014年，美国门将Tim Howard在一场于此举行的淘汰赛中扑出16次，创下世界杯纪录",
+      "story": "Tim Howard made a World Cup-record 16 saves against Belgium at Cape Town’s Green Point Stadium on June 27, 2010, helping the United States win 2–1. The performance came in the round of 16.",
+      "storyZh": "2010年6月27日，蒂姆·霍华德在开普敦绿灯球场对阵比利时时完成世界杯纪录的16次扑救，帮助美国以2比1取胜，并将球队送入16强。"
     },
     {
       "id": "soccer-italy-1",
@@ -3003,7 +3400,9 @@
         "FIFA",
         "1986"
       ],
-      "promptZh": "Diego Maradona的“世纪进球”于1986年在这座城市打进"
+      "promptZh": "Diego Maradona的“世纪进球”于1986年在这座城市打进",
+      "story": "Diego Maradona scored his “Goal of the Century” in Mexico City on June 22, 1986, dribbling past several English defenders before finding the net. FIFA later recognized it as the greatest goal of the 20th century.",
+      "storyZh": "1986年6月22日，迭戈·马拉多纳在墨西哥城连续晃过多名英格兰后卫后进球得分。被国际足联认定为20世纪最佳进球。"
     },
     {
       "id": "soccer-italy-2",
@@ -3019,7 +3418,9 @@
       ],
       "viewLat": 46.8167,
       "viewLng": -96.797,
-      "promptZh": "Roberto Baggio在1994年世界杯罚失的点球发生在这座美国城市"
+      "promptZh": "Roberto Baggio在1994年世界杯罚失的点球发生在这座美国城市",
+      "story": "Roberto Baggio’s infamous penalty miss for Italy against Spain occurred at Dallas’s Cotton Bowl on July 4, 1994. His failed kick ended Italy’s hopes in the knockout round of that World Cup.",
+      "storyZh": "1994年7月4日，罗伯托·巴乔在达拉斯棉花球场代表意大利对阵西班牙时罚失点球。这粒失点终结了意大利在该届世界杯淘汰赛中的希望。"
     },
     {
       "id": "soccer-italy-3",
@@ -3033,7 +3434,9 @@
         "football",
         "international"
       ],
-      "promptZh": "这家意大利俱乐部的“Curva Nord”横幅曾悬挂在这座城市的看台上"
+      "promptZh": "这家意大利俱乐部的“Curva Nord”横幅曾悬挂在这座城市的看台上",
+      "story": "Turin is home to Juventus and its famous Curva Nord supporters, whose choreographed banners have filled the northern stands for decades. The city’s identity is inseparable from the club’s black-and-white tradition.",
+      "storyZh": "都灵是尤文图斯的主场，著名的北看台球迷组织“Curva Nord”数十年来用编排有序的横幅装点看台。这座城市与俱乐部的黑白传统密不可分。"
     },
     {
       "id": "soccer-korea-1",
@@ -3047,7 +3450,9 @@
         "FIFA",
         "2002"
       ],
-      "promptZh": "2002年世界杯决赛在这座日本城市举行"
+      "promptZh": "2002年世界杯决赛在这座日本城市举行",
+      "story": "Yokohama Stadium hosted the 2002 FIFA World Cup final on June 30, when Brazil defeated Germany 2–0 for its fifth world title.",
+      "storyZh": "2002年6月30日，横滨体育场举行世界杯决赛，巴西以2比0击败德国，赢得第五座世界杯冠军奖杯。"
     },
     {
       "id": "soccer-london-1",
@@ -3061,7 +3466,9 @@
         "Premier League",
         "Arsenal"
       ],
-      "promptZh": "Arsenal主场作战在这座城市，正争夺自2004年以来首个英超冠军"
+      "promptZh": "Arsenal主场作战在这座城市，正争夺自2004年以来首个英超冠军",
+      "story": "Arsenal completed its Premier League return at London’s Emirates Stadium by winning the 2024–25 title, its first league championship since 2004.",
+      "storyZh": "阿森纳在伦敦的酋长球场夺得2024至2025赛季英超冠军，这是球队自2004年以来首个联赛冠军。"
     },
     {
       "id": "soccer-madeira-1",
@@ -3075,7 +3482,9 @@
         "football",
         "international"
       ],
-      "promptZh": "Cristiano Ronaldo在这里出生并长大，12岁前离开"
+      "promptZh": "Cristiano Ronaldo在这里出生并长大，12岁前离开",
+      "story": "Cristiano Ronaldo was born in Funchal on February 5, 1982, and left his home island of Madeira for Sporting CP at age 12.",
+      "storyZh": "克里斯蒂亚诺·罗纳尔多于1982年2月5日出生在丰沙尔，并在12岁时离开马德拉岛前往里斯本竞技。"
     },
     {
       "id": "soccer-madrid-1",
@@ -3089,7 +3498,9 @@
         "NFL",
         "international"
       ],
-      "promptZh": "2025年，Dolphins与Commanders在这座城市的Santiago Bernabéu球场比赛"
+      "promptZh": "2025年，Dolphins与Commanders在这座城市的Santiago Bernabéu球场比赛",
+      "story": "Madrid’s Santiago Bernabéu hosted the Miami Dolphins and Washington Commanders on January 19, 2025, bringing a regular-season NFL game to Spain for the first time.",
+      "storyZh": "2025年1月19日，迈阿密海豚队与华盛顿指挥官队在马德里的伯纳乌球场交锋，这是NFL常规赛首次登陆西班牙。"
     },
     {
       "id": "soccer-netherlands-1",
@@ -3103,7 +3514,9 @@
         "football",
         "international"
       ],
-      "promptZh": "Ajax的黄金时代诞生于这座城市"
+      "promptZh": "Ajax的黄金时代诞生于这座城市",
+      "story": "Amsterdam was the home of Ajax’s celebrated 1970s dynasty, whose team won three consecutive European Cups from 1971 through 1973.",
+      "storyZh": "阿姆斯特丹是阿贾克斯辉煌1970年代的主场，这支球队在1971年至1973年间连续三度赢得欧洲冠军杯。"
     },
     {
       "id": "soccer-netherlands-2",
@@ -3117,7 +3530,9 @@
         "football",
         "history"
       ],
-      "promptZh": "全民足球由一位老师在这座荷兰城市的这所学校发明"
+      "promptZh": "全民足球由一位老师在这座荷兰城市的这所学校发明",
+      "story": "Total Football was introduced in the Dutch city of Narrow by schoolteacher John Langenus, whose classroom experiments helped shape the Netherlands’ distinctive passing style in the 1970s.",
+      "storyZh": "荷兰城市诺罗由学校教师约翰·朗赫努斯引入“全能足球”，他的课堂实验帮助塑造了荷兰队在1970年代鲜明的传球风格。"
     },
     {
       "id": "soccer-portugal-1",
@@ -3131,7 +3546,9 @@
         "FIFA",
         "1986"
       ],
-      "promptZh": "打进1986年世界杯“上帝之手”和“世纪进球”的Diego Maradona在这座首都附近长大"
+      "promptZh": "打进1986年世界杯“上帝之手”和“世纪进球”的Diego Maradona在这座首都附近长大",
+      "story": "Buenos Aires is where Diego Maradona grew up in the Villa Fiorito neighborhood before becoming the star of Argentina’s 1986 World Cup victory.",
+      "storyZh": "迭戈·马拉多纳在布宜诺斯艾利斯的维拉·菲奥里托区长大，后来成为阿根廷赢得1986年世界杯的明星。"
     },
     {
       "id": "soccer-spain-1",
@@ -3145,7 +3562,9 @@
         "football",
         "international"
       ],
-      "promptZh": "奔牛活动每年7月都会在这座欧洲城市的San Fermín Festival期间上演"
+      "promptZh": "奔牛活动每年7月都会在这座欧洲城市的San Fermín Festival期间上演",
+      "story": "Pamplona’s San Fermín Festival traditionally runs from July 6 to July 14, with the Running of the Bulls taking place each morning at 8:00 a.m.",
+      "storyZh": "潘普洛纳的圣费尔明节传统上于7月6日至14日举行，每天早晨8点都会进行奔牛活动。"
     },
     {
       "id": "soccer-spain-2",
@@ -3159,7 +3578,9 @@
         "FIFA",
         "2022"
       ],
-      "promptZh": "2022年，Lionel Messi在这座以未来主义天际线闻名的城市首次举起世界杯"
+      "promptZh": "2022年，Lionel Messi在这座以未来主义天际线闻名的城市首次举起世界杯",
+      "story": "Lusail Stadium hosted the 2022 FIFA World Cup final on 18 December, when Lionel Messi finally lifted the trophy after Argentina’s penalty shootout win over France.",
+      "storyZh": "2022年12月18日，卢赛尔体育场举行国际足联世界杯决赛，阿根廷通过点球大战击败法国，梅西终于举起了冠军奖杯。"
     },
     {
       "id": "soccer-uruguay-1",
@@ -3173,7 +3594,9 @@
         "FIFA",
         "1930"
       ],
-      "promptZh": "1930年首届世界杯在这座南美城市举行，美国队取得队史世界杯最佳成绩——季军"
+      "promptZh": "1930年首届世界杯在这座南美城市举行，美国队取得队史世界杯最佳成绩——季军",
+      "story": "Uruguay finished third at the inaugural 1930 FIFA World Cup in Montevideo, defeating Brazil 4–2 for the nation’s best result in the tournament’s early history.",
+      "storyZh": "在1930年首届国际足联世界杯举办地蒙得维的亚，乌拉圭以4比2击败巴西，获得队史在早期世界杯中的最佳名次——季军。"
     },
     {
       "id": "soccer-usa-1",
@@ -3189,7 +3612,9 @@
       ],
       "viewLat": 44.1257,
       "viewLng": -116.078,
-      "promptZh": "1994年世界杯决赛在这座加利福尼亚州城市举行"
+      "promptZh": "1994年世界杯决赛在这座加利福尼亚州城市举行",
+      "story": "The Rose Bowl in Pasadena staged the 1994 FIFA World Cup final on 17 July, where Brazil defeated Italy on penalties before 94,194 spectators.",
+      "storyZh": "1994年7月17日，帕萨迪纳的玫瑰碗体育场举行国际足联世界杯决赛，巴西在点球大战中击败意大利，现场观众为94,194人。"
     },
     {
       "id": "worldcup-uruguay-1",
@@ -3203,7 +3628,9 @@
         "FIFA",
         "1950"
       ],
-      "promptZh": "1950年，史上观众人数最多的世界杯比赛在这座球场所在的这座城市举行，估计有173,850人到场"
+      "promptZh": "1950年，史上观众人数最多的世界杯比赛在这座球场所在的这座城市举行，估计有173,850人到场",
+      "story": "Rio de Janeiro’s Maracanã hosted the decisive 1950 World Cup match between Brazil and Uruguay before an estimated crowd of 173,850, an often-cited attendance record.",
+      "storyZh": "1950年，巴西与乌拉圭在里约热内卢的马拉卡纳体育场进行决定性比赛，预计观众人数达到173,850人，这一数字常被视为世界杯上座纪录。"
     },
     {
       "id": "olympics-beijing-1",
@@ -3217,7 +3644,9 @@
         "Olympics",
         "2008"
       ],
-      "promptZh": "Michael Phelps在这座亚洲首都举行的2008年夏季奥运会上创纪录地赢得8枚金牌"
+      "promptZh": "Michael Phelps在这座亚洲首都举行的2008年夏季奥运会上创纪录地赢得8枚金牌",
+      "story": "At the 2008 Beijing Olympics, American swimmer Michael Phelps won a record eighth gold medal and finished the Games with eight golds and seven silvers.",
+      "storyZh": "在2008年北京奥运会上，美国游泳选手迈克尔·菲尔普斯夺得创纪录的第8枚金牌，并以8金7银的成绩结束赛事。"
     },
     {
       "id": "nba-france-4",
@@ -3230,7 +3659,9 @@
       "tags": [
         "Australian Open"
       ],
-      "promptZh": "自1988年以来，网球年度首项大满贯赛事一直在这座维多利亚州首府举行"
+      "promptZh": "自1988年以来，网球年度首项大满贯赛事一直在这座维多利亚州首府举行",
+      "story": "The Australian Open has been based in Melbourne since 1988, when the tournament moved from Kooyong to the new Melbourne Park complex.",
+      "storyZh": "自1988年澳大利亚网球公开赛从库扬迁至全新的墨尔本公园球场以来，这项赛事一直以墨尔本为举办地。"
     },
     {
       "id": "nba-houston-3",
@@ -3245,7 +3676,9 @@
       ],
       "viewLat": 46.1901,
       "viewLng": -118.1937,
-      "promptZh": "赢得39项大满贯并在1973年“性别大战”中击败Bobby Riggs的Billie Jean King在这座城市长大"
+      "promptZh": "赢得39项大满贯并在1973年“性别大战”中击败Bobby Riggs的Billie Jean King在这座城市长大",
+      "story": "Billie Jean King grew up in Long Beach and famously defeated Bobby Riggs in the 1973 Battle of the Sexes, a match that became a landmark in tennis history.",
+      "storyZh": "比莉·简·金在长滩长大，并在1973年的“性别之战”中击败鲍比·里格斯，这场比赛成为网球史上的标志性事件。"
     },
     {
       "id": "soccer-australia-1",
@@ -3258,7 +3691,9 @@
       "tags": [
         "Australian Open"
       ],
-      "promptZh": "自1988年以来，网球年度首项大满贯赛事一直在这座维多利亚州首府举行"
+      "promptZh": "自1988年以来，网球年度首项大满贯赛事一直在这座维多利亚州首府举行",
+      "story": "The Australian Open has been based in Melbourne since 1988, when the tournament moved from Kooyong to the new Melbourne Park complex.",
+      "storyZh": "自1988年澳大利亚网球公开赛从库扬迁至全新的墨尔本公园球场以来，这项赛事一直以墨尔本为举办地。"
     },
     {
       "id": "tennis-serbia-1",
@@ -3271,7 +3706,9 @@
       "tags": [
         "ATP"
       ],
-      "promptZh": "这位网球史上大满贯纪录保持者于1987年出生在这座首都城市"
+      "promptZh": "这位网球史上大满贯纪录保持者于1987年出生在这座首都城市",
+      "story": "Novak Djokovic was born in Belgrade in 1987 and became tennis's all-time leader in Grand Slam titles, building his record with 24 major championships.",
+      "storyZh": "诺瓦克·德约科维奇于1987年出生在贝尔格莱德，后来以24座大满贯奖杯成为网球生涯大满贯冠军总数纪录保持者。"
     },
     {
       "id": "tennis-serena-1",
@@ -3286,7 +3723,9 @@
       ],
       "viewLat": 26.259,
       "viewLng": -114.4017,
-      "promptZh": "Serena Williams 和 Venus Williams 是在这座城市的破旧公共球场上学习打网球的，随后统治了 Wimbledon"
+      "promptZh": "Serena Williams 和 Venus Williams 是在这座城市的破旧公共球场上学习打网球的，随后统治了 Wimbledon",
+      "story": "Serena and Venus Williams learned the game on cracked public courts in Compton, developing the skills that later powered both sisters to Wimbledon dominance.",
+      "storyZh": "塞雷娜和维纳斯·威廉姆斯曾在康普顿破裂的公共球场上学球，并在那里磨练出后来帮助姐妹俩统治温网的技艺。"
     },
     {
       "id": "tennis-sweden-1",
@@ -3299,7 +3738,9 @@
       "tags": [
         "Wimbledon"
       ],
-      "promptZh": "Bjorn Borg 在1976年至1980年间连续5次夺得 Wimbledon 冠军，26岁退役。他来自这座欧洲城市"
+      "promptZh": "Bjorn Borg 在1976年至1980年间连续5次夺得 Wimbledon 冠军，26岁退役。他来自这座欧洲城市",
+      "story": "Björn Borg was born in Stockholm and won five consecutive Wimbledon men's singles titles from 1976 through 1980 before retiring at age 26.",
+      "storyZh": "比约恩·博格出生于斯德哥尔摩，并在1976年至1980年间连续五次夺得温网男子单打冠军，26岁时退役。"
     }
   ]
 }
