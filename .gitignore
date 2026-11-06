@@ -6,6 +6,7 @@ next-env.d.ts
 
 # local scratch
 tmp-*.png
+shot-*.png
 tmp-*.cjs
 tmp-*.js
 tmp-*.log
