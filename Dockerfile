@@ -25,8 +25,11 @@ COPY --from=build /app/out ./out
 COPY --from=build /app/scripts/static-server.cjs ./scripts/static-server.cjs
 
 ENV NODE_ENV=production
-ENV PORT=3000
+
+# Do NOT set ENV PORT here: Railway injects the port its proxy expects and an
+# ENV in the Dockerfile would override it, so the app would listen on the wrong
+# port and every request would return 502.
 
 EXPOSE 3000
 
-CMD ["node", "scripts/static-server.cjs", "out", "3000"]
+CMD ["sh", "-c", "node scripts/static-server.cjs out $PORT"]

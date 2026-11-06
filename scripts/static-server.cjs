@@ -5,7 +5,9 @@ const fs = require("fs");
 const path = require("path");
 
 const ROOT = path.resolve(process.argv[2] || ".");
-const PORT = Number(process.argv[3] || 3989);
+// PORT: prefer the environment variable the platform injects (Railway sets it
+// to whatever port its proxy expects), then the argv value, then a default.
+const PORT = Number(process.env.PORT || process.argv[3] || 3989);
 
 const TYPES = {
   ".html": "text/html; charset=utf-8",
