@@ -15,3 +15,7 @@ tmp-*.log
 *.local
 .env*.local
 .DS_Store
+
+# generated Chinese rewrite worksheet (regenerate with scripts/export-zh-worksheet.cjs)
+zh-worksheet.json
+zh-rewrite.json

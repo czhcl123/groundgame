@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": 1,
+    "version": 5,
     "note": "GroundGame 题库。每题含真实坐标，按四大体育联盟/国际赛事分类。难度由 groundgame 的评分算法决定，不在数据里写死。",
     "fields": {
       "id": "稳定唯一 id",
@@ -230,7 +230,7 @@
     },
     {
       "id": "nfl-chicago-1",
-      "prompt": "The Chicago Bears began as the 'Decatur Staleys' in 1919 in this small Illinois manufacturing city",
+      "prompt": "The NFL franchise that began in 1919 as the Staleys of a small Illinois manufacturing city played its home games in this city",
       "answer": "Decatur, Illinois",
       "lat": 39.8403,
       "lng": -88.9548,
@@ -240,11 +240,11 @@
         "NFL",
         "Bears"
       ],
-      "viewLat": 54.3083,
-      "viewLng": -91.9512,
-      "promptZh": "Chicago Bears 于1919年以“Decatur Staleyes”之名创立于伊利诺伊州这座小型工业城市",
-      "story": "The football franchise now known as the Chicago Bears began in Decatur in 1919 as the Decatur Staleys.",
-      "storyZh": "如今以芝加哥熊队闻名的橄榄球俱乐部，1919年在伊利诺伊州迪凯特以“迪凯特史泰利队”的名字创立。"
+      "viewLat": 36.6528,
+      "viewLng": -90.1852,
+      "promptZh": "1919年在伊利诺伊州一座小工业城市以“斯泰利队”之名创立的NFL球队，主场在这座城市",
+      "story": "The franchise was founded in 1919 by the Staley family, who ran a starch and animal-feed business in Decatur, and moved to Chicago in 1921 to play at Normal Park.",
+      "storyZh": "该球队1919年由经营淀粉和饲料生意的斯泰利家族在迪凯特创立，1921年迁至芝加哥，在诺马公园球场比赛。"
     },
     {
       "id": "nfl-chicago-2",
@@ -281,24 +281,6 @@
       "promptZh": "1985年，这支球队的全体成员在一场超级碗惨败前录制了一支说唱视频，并成为流行文化爆款",
       "story": "The Irving-based Dallas Cowboys’ 1985 rap video featured the roster before its 46–10 Super Bowl XX victory and became a pop-culture hit.",
       "storyZh": "以欧文为主场的达拉斯牛仔队在1985年与全体队员共同出演了一支说唱音乐录影带，内容出现在他们以46比10赢得第20届超级碗之前，后来成为流行文化热门作品。"
-    },
-    {
-      "id": "nfl-dallas-1",
-      "prompt": "Emmitt Smith, the NFL's all-time rushing leader, was born in this Georgia city",
-      "answer": "Savannah, Georgia",
-      "lat": 32.0809,
-      "lng": -81.0912,
-      "scope": "city",
-      "sport": "american football",
-      "tags": [
-        "NFL",
-        "born"
-      ],
-      "viewLat": 21.2809,
-      "viewLng": -81.0912,
-      "promptZh": "NFL 历史 rushing 纪录保持者 Emmitt Smith 出生于佐治亚州这座城市",
-      "story": "Emmitt Smith, born in Savannah on May 15, 1969, finished his career with an NFL-record 18,928 rushing yards.",
-      "storyZh": "埃米特·史密斯于1969年5月15日出生在萨凡纳，职业生涯累计冲球18,928码，至今仍保持着NFL纪录。"
     },
     {
       "id": "nfl-dallas-2",
@@ -582,24 +564,6 @@
       "promptZh": "唯一完成全胜赛季的NFL球队曾在这座城市进行主场比赛",
       "story": "The 1967 Oakland Raiders finished the regular season 15–0, then defeated the Houston Oilers 14–10 in Super Bowl II, becoming the only NFL team to complete a perfect season.",
       "storyZh": "1967年的奥克兰突袭者队以15胜0负完成常规赛，并在第2届超级碗中以14比10击败休斯敦油人队，成为唯一一支取得全胜赛季的NFL球队。"
-    },
-    {
-      "id": "nfl-ohio-1",
-      "prompt": "A Thanksgiving football game has been an unbroken tradition since 1934 for the franchise in this city",
-      "answer": "Detroit, Michigan",
-      "lat": 42.3314,
-      "lng": -83.0458,
-      "scope": "city",
-      "sport": "american football",
-      "tags": [
-        "NFL",
-        "Lions"
-      ],
-      "viewLat": 29.9114,
-      "viewLng": -83.0458,
-      "promptZh": "自1934年以来，感恩节橄榄球赛一直是这座城市球队的悠久传统",
-      "story": "The Detroit Lions’ Thanksgiving Day tradition dates to 1934, making their holiday game one of pro football’s oldest fixtures.",
-      "storyZh": "底特律雄狮队的感恩节比赛传统始于1934年，使其节日赛程成为职业橄榄球历史最悠久的固定对决之一。"
     },
     {
       "id": "nfl-pennsylvania-1",
@@ -1196,8 +1160,8 @@
         "international"
       ],
       "promptZh": "10 次金手套奖得主 Xander Bogaerts,出生在这座荷兰加勒比小岛的首府",
-      "viewLat": 12.1091,
-      "viewLng": -68.94,
+      "viewLat": 15.5,
+      "viewLng": -65,
       "story": "Oranjestad, the capital of Curaçao, was the birthplace of Xander Bogaerts, the MLB center fielder who won 10 Gold Glove Awards.",
       "storyZh": "库拉索首都奥拉涅斯塔德是 MLB 中外野手 Xander Bogaerts 的出生地，他曾获得 10 次金手套奖。"
     },
@@ -1304,7 +1268,7 @@
       "storyZh": "阿罗尔迪斯·查普曼出生于哈瓦那，他投出的105.1英里速球创造了MLB最快球速纪录。"
     },
     {
-      "id": "nba-orlando-1",
+      "id": "mlb-chicago-spalding-1",
       "prompt": "In 1905, Honus Wagner became the first baseball player to sign a bat endorsement deal with a company from this city",
       "answer": "Chicago, Illinois",
       "lat": 41.8781,
@@ -1391,24 +1355,6 @@
       "promptZh": "在NFL选秀中成为状元前，Kyler Murray在2018年MLB选秀中以第9顺位被一支效力于此城的球队选中",
       "story": "The Oakland Athletics selected Kyler Murray ninth overall in the 2018 MLB Draft, and he became the first overall NFL Draft pick in 2019.",
       "storyZh": "奥克兰运动家队在2018年MLB选秀大会中以第9顺位选中凯勒·穆雷，而他随后在2019年NFL选秀大会中成为状元。"
-    },
-    {
-      "id": "nfl-greenbay-2",
-      "prompt": "In 1905, Honus Wagner became the first baseball player to sign a bat endorsement deal with a company from this city",
-      "answer": "Chicago, Illinois",
-      "lat": 41.8781,
-      "lng": -87.6298,
-      "scope": "city",
-      "sport": "baseball",
-      "tags": [
-        "MLB",
-        "Spalding"
-      ],
-      "viewLat": 53.3527,
-      "viewLng": -90.0063,
-      "promptZh": "1905年，Honus Wagner成为首位与一家来自这座城市的公司签署球棒代言协议的棒球运动员",
-      "story": "Honus Wagner became the first baseball player to endorse bats for Chicago-based Spalding in 1905.",
-      "storyZh": "1905年，霍努斯·瓦格纳成为首位为芝加哥斯伯丁公司代言球棒的职业棒球运动员。"
     },
     {
       "id": "nfl-miami-4",
@@ -1567,7 +1513,7 @@
     },
     {
       "id": "nba-boston-3",
-      "prompt": "Bob Cousy starred at Holy Cross in this 'City of Seven Hills'",
+      "prompt": "Bob Cousy starred at Holy Cross in this Massachusetts city, the 'City of Seven Hills'",
       "answer": "Worcester, Massachusetts",
       "lat": 42.2626,
       "lng": -71.8023,
@@ -1577,11 +1523,11 @@
         "NCAA",
         "Holy Cross"
       ],
-      "viewLat": 53.7372,
-      "viewLng": -69.4258,
-      "promptZh": "Bob Cousy曾在这座“七丘之城”的Holy Cross效力",
-      "story": "Bob Cousy starred at Holy Cross in Worcester and was named Most Outstanding Player as the Crusaders won the 1947 NCAA championship.",
-      "storyZh": "鲍勃·库西在伍斯特的圣十字学院效力，并作为全美最具杰出球员帮助球队赢得1947年NCAA冠军。"
+      "viewLat": 38.4,
+      "viewLng": -75.2,
+      "promptZh": "鲍勃·库西在马萨诸塞州这座“七丘之城”的霍利克罗斯大学成名",
+      "story": "Worcester's Holy Cross Crusaders, where Bob Cousy played, reached the 1947 NCAA final and lost in overtime to Kentucky.",
+      "storyZh": "鲍勃·库西效力于沃切斯特霍利克罗斯大学队，该队闯入1947年NCAA决赛并加时负于肯塔基大学。"
     },
     {
       "id": "nba-boston-4",
@@ -1774,7 +1720,7 @@
     },
     {
       "id": "nba-detroit-24",
-      "prompt": "This city's team won the 1940 NBL title as the Fort Wayne Zollner Pistons",
+      "prompt": "This Indiana city's team won the 1940 NBL title under a name taken from the piston-making business that owned it",
       "answer": "Fort Wayne, Indiana",
       "lat": 41.0793,
       "lng": -85.1394,
@@ -1784,11 +1730,11 @@
         "NBA",
         "Pistons"
       ],
-      "viewLat": 56.7393,
-      "viewLng": -85.1394,
-      "promptZh": "这座城市的球队以Zollner活塞队的身份赢得了1940年NBL总冠军",
-      "story": "The Fort Wayne Zollner Pistons won the 1940 National Basketball League championship, securing the franchise's first major professional basketball title.",
-      "storyZh": "韦恩堡佐尔纳活塞队赢得了1940年全国篮球联盟冠军，夺得队史首个重要职业篮球冠军。"
+      "viewLat": 37.3,
+      "viewLng": -89,
+      "promptZh": "这座印第安纳城市的球队以东家活塞制造企业的名字，拿下了1940年NBL总冠军",
+      "story": "The Fort Wayne Zollner Pistons, founded by Fred and Louis Zollner who owned a piston manufacturing company, won the 1940 National Basketball League title.",
+      "storyZh": "韦恩堡佐尔纳活塞队由活塞机制造商企业的弗雷德与路易斯·佐尔纳兄弟创立，夺得了1940年美国国家篮球联赛总冠军。"
     },
     {
       "id": "nba-europe-1",
@@ -2049,7 +1995,7 @@
     },
     {
       "id": "nba-okc-1",
-      "prompt": "Kevin Durant's 2012-13 scoring title came with this Oklahoma City team",
+      "prompt": "Kevin Durant's 2012-13 scoring title came with a team based in this Sooner State city",
       "answer": "Oklahoma City, Oklahoma",
       "lat": 35.4676,
       "lng": -97.5164,
@@ -2059,11 +2005,11 @@
         "NBA",
         "Thunder"
       ],
-      "viewLat": 25.4897,
-      "viewLng": -99.5829,
-      "promptZh": "Kevin Durant的2012-13赛季得分王是在这座城市的球队效力时获得的",
-      "story": "Kevin Durant won the 2012–13 NBA scoring title with Oklahoma City Thunder, averaging 28.2 points per game during the regular season.",
-      "storyZh": "凯文·杜兰特随俄克拉荷马雷霆队赢得2012至2013赛季的NBA得分王，并以常规赛场均28.2分的表现领跑全联盟。"
+      "viewLat": 31.3,
+      "viewLng": -101,
+      "promptZh": "凯文·杜兰特2012-13赛季的得分王，是在这座俄克拉荷马州城市效力时拿到的",
+      "story": "The team moved to Oklahoma City in 2008 and, with Durant as its leading scorer, won the 2012-13 scoring title before trading him to the Warriors.",
+      "storyZh": "该球队2008年迁至俄克拉荷马城，杜兰特成为球队核心后拿下2012-13赛季得分王，之后被球队交易至勇士。"
     },
     {
       "id": "nba-oklahoma-1",
@@ -3649,7 +3595,7 @@
       "storyZh": "在2008年北京奥运会上，美国游泳选手迈克尔·菲尔普斯夺得创纪录的第8枚金牌，并以8金7银的成绩结束赛事。"
     },
     {
-      "id": "nba-france-4",
+      "id": "tennis-melbourne-australian-open-1",
       "prompt": "Tennis's 1st major of the year has been held in this Victorian capital since 1988",
       "answer": "Melbourne, Australia",
       "lat": -37.8136,
@@ -3679,21 +3625,6 @@
       "promptZh": "赢得39项大满贯并在1973年“性别大战”中击败Bobby Riggs的Billie Jean King在这座城市长大",
       "story": "Billie Jean King grew up in Long Beach and famously defeated Bobby Riggs in the 1973 Battle of the Sexes, a match that became a landmark in tennis history.",
       "storyZh": "比莉·简·金在长滩长大，并在1973年的“性别之战”中击败鲍比·里格斯，这场比赛成为网球史上的标志性事件。"
-    },
-    {
-      "id": "soccer-australia-1",
-      "prompt": "Tennis's 1st major of the year has been held in this Victorian capital since 1988",
-      "answer": "Melbourne, Australia",
-      "lat": -37.8136,
-      "lng": 144.9631,
-      "scope": "world",
-      "sport": "tennis",
-      "tags": [
-        "Australian Open"
-      ],
-      "promptZh": "自1988年以来，网球年度首项大满贯赛事一直在这座维多利亚州首府举行",
-      "story": "The Australian Open has been based in Melbourne since 1988, when the tournament moved from Kooyong to the new Melbourne Park complex.",
-      "storyZh": "自1988年澳大利亚网球公开赛从库扬迁至全新的墨尔本公园球场以来，这项赛事一直以墨尔本为举办地。"
     },
     {
       "id": "tennis-serbia-1",
@@ -3741,6 +3672,4836 @@
       "promptZh": "Bjorn Borg 在1976年至1980年间连续5次夺得 Wimbledon 冠军，26岁退役。他来自这座欧洲城市",
       "story": "Björn Borg was born in Stockholm and won five consecutive Wimbledon men's singles titles from 1976 through 1980 before retiring at age 26.",
       "storyZh": "比约恩·博格出生于斯德哥尔摩，并在1976年至1980年间连续五次夺得温网男子单打冠军，26岁时退役。"
+    },
+    {
+      "id": "nfl-kansas-city-missouri",
+      "prompt": "This city is home to the Chiefs, whose general manager helped build the team that won three Super Bowls.",
+      "answer": "Kansas City, Missouri",
+      "lat": 39.0997,
+      "lng": -94.5786,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Chiefs"
+      ],
+      "viewLat": 37.9635,
+      "viewLng": -99.3804,
+      "promptZh": "这座城市是酋长队主场，其GM曾协助球队赢得三座超级碗。",
+      "story": "Lamar Hunt founded the Dallas Texans in 1960, and the franchise relocated to Kansas City in 1963.",
+      "storyZh": "拉马尔·亨特于1960年创建达拉斯突袭者队，球队在1963年迁至堪萨斯城。"
+    },
+    {
+      "id": "nfl-kansas-city-missouri-2",
+      "prompt": "This city lost the longest game in NFL postseason history, a 73-minute snow thriller decided in overtime.",
+      "answer": "Kansas City, Missouri",
+      "lat": 39.0997,
+      "lng": -94.5786,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Chiefs"
+      ],
+      "viewLat": 37.9635,
+      "viewLng": -99.3804,
+      "promptZh": "这座城市雪战创下NFL最长纪录，73分钟后加时告负。",
+      "story": "Baltimore defeated Kansas City 23-7 in overtime and advanced to Super Bowl LIV.",
+      "storyZh": "巴尔的摩在加时赛中以23比7击败堪萨斯城，并晋级第54届超级碗。"
+    },
+    {
+      "id": "nfl-buffalo-new-york",
+      "prompt": "This city is home to the Bills, who went 17 years without reaching the playoffs from 1996 to 2012.",
+      "answer": "Buffalo, New York",
+      "lat": 42.8864,
+      "lng": -78.8784,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Bills"
+      ],
+      "viewLat": 47.6988,
+      "viewLng": -72.2402,
+      "promptZh": "这座城市是比尔队主场，1996年起17年无缘季后赛。",
+      "story": "The drought ended on January 8, 2017, when Buffalo defeated Jacksonville 10-3 in overtime and reached the divisional round.",
+      "storyZh": "2017年1月8日，比尔队加时赛以10比3击败杰克逊维尔队，终于晋级季后赛。"
+    },
+    {
+      "id": "nfl-buffalo-new-york-2",
+      "prompt": "This city was buried under the Great Blizzard of 2014, which shut down the NFL Wild Card weekend.",
+      "answer": "Buffalo, New York",
+      "lat": 42.8864,
+      "lng": -78.8784,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Bills"
+      ],
+      "viewLat": 47.6988,
+      "viewLng": -72.2402,
+      "promptZh": "2014年大暴雪令这座城市瘫痪，NFL首轮被迫延期。",
+      "story": "October 2014 lake-effect storm brought more than 60 inches of snow to parts of western New York and forced two Wild Card games to be postponed.",
+      "storyZh": "2014年10月的湖效应风暴给纽约州西部部分地区带来超过60英寸降雪，并迫使两场外卡赛延期。"
+    },
+    {
+      "id": "nfl-cleveland-ohio",
+      "prompt": "This city is home to the Browns, whose retired number 14 honors football pioneer Jim Thorpe.",
+      "answer": "Cleveland, Ohio",
+      "lat": 41.4993,
+      "lng": -81.6944,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Browns"
+      ],
+      "viewLat": 36.1385,
+      "viewLng": -75.0258,
+      "promptZh": "这座城市是布朗斯队主场，14号退役以纪念吉姆·索普。",
+      "story": "The Browns retired number 14 in 1994 to honor Jim Thorpe, who played halfback for the Cleveland Indians and the Los Angeles Rams.",
+      "storyZh": "布朗斯队于1994年为吉姆·索普退役14号，他曾效力克利夫兰印第安人队和洛杉矶公羊队。"
+    },
+    {
+      "id": "nfl-cleveland-ohio-2",
+      "prompt": "This city once had the world's busiest lakefront terminal, and its Browns lost the 1946 NFL title game.",
+      "answer": "Cleveland, Ohio",
+      "lat": 41.4993,
+      "lng": -81.6944,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Browns"
+      ],
+      "viewLat": 36.1385,
+      "viewLng": -75.0258,
+      "promptZh": "此城有世界最繁忙的湖滨站，球队输掉1946年决赛。",
+      "story": "Cleveland's Union Terminal opened in 1930 and once handled more passengers than any other bus station in the world.",
+      "storyZh": "克利夫兰联合车站于1930年启用，一度比世界上任何其他公共汽车站接待的乘客都多。"
+    },
+    {
+      "id": "nfl-tampa-florida",
+      "prompt": "This city is home to the Buccaneers, who won Super Bowl XXXVII after the 2002 regular season.",
+      "answer": "Tampa, Florida",
+      "lat": 27.9506,
+      "lng": -82.4572,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Buccaneers"
+      ],
+      "viewLat": 30.0085,
+      "viewLng": -85.3364,
+      "promptZh": "这座城市海盗队赢得2002赛季后的超级碗。",
+      "story": "Tampa's Buccaneers won Super Bowl XXXVII in January 2003, defeating the Oakland Raiders 48-21.",
+      "storyZh": "坦帕海盗队在2003年1月赢得第37届超级碗，以48比21击败奥克兰突袭者队。"
+    },
+    {
+      "id": "nfl-charlotte-north-carolina",
+      "prompt": "This city is home to the Carolina Panthers and has hosted every NFL Draft since 2019.",
+      "answer": "Charlotte, North Carolina",
+      "lat": 35.2271,
+      "lng": -80.8431,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Panthers"
+      ],
+      "viewLat": 33.5292,
+      "viewLng": -86.1585,
+      "promptZh": "这座城市是黑豹队主场，2019年起连续承办NFL选秀。",
+      "story": "Charlotte's Bank of America Corporate Center, completed in 1992, became the city's tallest building.",
+      "storyZh": "夏洛特美国银行企业中心于1992年建成，后来成为该市最高的建筑。"
+    },
+    {
+      "id": "nfl-cincinnati-ohio",
+      "prompt": "This city is home to the Bengals, whose quarterback achieved the only perfect passer rating in Super Bowl history.",
+      "answer": "Cincinnati, Ohio",
+      "lat": 39.1031,
+      "lng": -84.512,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Bengals"
+      ],
+      "viewLat": 37.4675,
+      "viewLng": -88.2148,
+      "promptZh": "这座城市猛虎队四分卫曾在超级碗保持唯一完美传球效率。",
+      "story": "Cincinnati's Ken Anderson completed 25 of 35 passes for 299 yards, two touchdowns, and no interceptions in Super Bowl XVI, earning a 127.6 passer rating.",
+      "storyZh": "辛辛那提的肯·安德森在第16届超级碗中完成25次接球，出手35次，共推进299码并传出2次达阵，且没有被抄截。"
+    },
+    {
+      "id": "nfl-baltimore-maryland",
+      "prompt": "This city is home to the Ravens, whose Super Bowl XLVII victory featured the infamous Joe Flacco diaper moment.",
+      "answer": "Baltimore, Maryland",
+      "lat": 39.2904,
+      "lng": -76.6122,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Ravens"
+      ],
+      "viewLat": 38.3063,
+      "viewLng": -75.88,
+      "promptZh": "这座城市曾见证第47届超级碗的乔·弗拉科尿布时刻。",
+      "story": "Joe Flacco threw three touchdown passes and won Super Bowl XLVII MVP in Baltimore's 34-31 victory over the San Francisco 49ers.",
+      "storyZh": "乔·弗拉科在2013年第47届超级碗中传出3次达阵并当选最有价值球员，乌鸦队以34比31击败旧金山49人队。"
+    },
+    {
+      "id": "nfl-seattle-washington",
+      "prompt": "This city is home to the Seahawks, whose home stadium is widely recognized as the loudest in the NFL.",
+      "answer": "Seattle, Washington",
+      "lat": 47.6062,
+      "lng": -122.3321,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Seahawks"
+      ],
+      "viewLat": 43.2683,
+      "viewLng": -129.7519,
+      "promptZh": "这座城市是海鹰队主场，其球场以NFL最高音量闻名。",
+      "story": "Seattle won Super Bowl XLVIII in February 2014, defeating the New England Patriots 43-8.",
+      "storyZh": "西雅图海鹰队在2014年2月赢得第48届超级碗，以43比8击败新英格兰爱国者队。"
+    },
+    {
+      "id": "nfl-indianapolis-indiana",
+      "prompt": "The American football team that won Super Bowl XLI has its home in this city, also famous for an annual 500-mile race.",
+      "answer": "Indianapolis, Indiana",
+      "lat": 39.7684,
+      "lng": -86.1581,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Colts"
+      ],
+      "viewLat": 38.8674,
+      "viewLng": -87.656,
+      "promptZh": "第XLI届超级碗冠军球队主场在这座城市，亦以五百英里车赛闻名。",
+      "story": "The local professional football franchise joined the NFL under its current name in 1953 and relocated to Indiana in 1984.",
+      "storyZh": "当地职业橄榄球队于1953年以现用队名加入NFL，并于1984年迁至印第安纳州。"
+    },
+    {
+      "id": "nfl-denver-colorado",
+      "prompt": "This city hosts the Broncos, whose stadium sits a full mile above sea level.",
+      "answer": "Denver, Colorado",
+      "lat": 39.7392,
+      "lng": -104.9903,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Broncos"
+      ],
+      "viewLat": 34.7392,
+      "viewLng": -97.9903,
+      "promptZh": "这座城市是野马队主场，其球场海拔整整一英里。",
+      "story": "The Broncos hosted Super Bowl 50 in February 2016 and lost 24–10 to the Carolina Panthers.",
+      "storyZh": "2016年2月，野马队主办了第50届超级碗，最终以10比24负于卡罗来纳黑豹队。"
+    },
+    {
+      "id": "nfl-atlanta-georgia",
+      "prompt": "This city hosts the Falcons, whose ownership once included an NFL commissioner.",
+      "answer": "Atlanta, Georgia",
+      "lat": 33.749,
+      "lng": -84.388,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Falcons"
+      ],
+      "viewLat": 32.9039,
+      "viewLng": -83.3306,
+      "promptZh": "这座城市是猎鹰队主场，老板曾兼任美国橄榄球联盟总监。",
+      "story": "Pete Rozelle, who served as NFL commissioner from 1970 to 1989, was once part of the Falcons' ownership group.",
+      "storyZh": "曾于1970年至1989年担任NFL总监的皮特·罗泽尔，一度是猎鹰队的股东之一。"
+    },
+    {
+      "id": "nfl-new-orleans-louisiana",
+      "prompt": "This city hosts the Saints, who won Super Bowl XLIV here after Hurricane Katrina closed the city.",
+      "answer": "New Orleans, Louisiana",
+      "lat": 29.9511,
+      "lng": -90.0715,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Saints"
+      ],
+      "viewLat": 34.9511,
+      "viewLng": -97.0715,
+      "promptZh": "这座城市是圣徒队主场，飓风封城后球队在此赢得超级碗。",
+      "story": "The Saints defeated the Indianapolis Colts 31–17 in Super Bowl XLIV on February 7, 2010.",
+      "storyZh": "2010年2月7日，圣徒队在第XLIV届超级碗中以31比17击败印第安波利斯小马队。"
+    },
+    {
+      "id": "nfl-pittsburgh-pennsylvania",
+      "prompt": "This city hosts the Steelers, who have won six Super Bowls and are tied for the most.",
+      "answer": "Pittsburgh, Pennsylvania",
+      "lat": 40.4406,
+      "lng": -79.9959,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Steelers"
+      ],
+      "viewLat": 39.7428,
+      "viewLng": -84.3005,
+      "promptZh": "这座城市是钢人队主场，球队已赢六次超级碗并列历史最多。",
+      "story": "The Steelers won their sixth championship in Super Bowl LVI on February 11, 2024.",
+      "storyZh": "2024年2月11日，钢人队赢得第LVI届超级碗，拿到队史第六座总冠军。"
+    },
+    {
+      "id": "nfl-green-bay-wisconsin",
+      "prompt": "This city hosts the Packers, whose championship belt is the only trophy not handed out on a stage.",
+      "answer": "Green Bay, Wisconsin",
+      "lat": 44.5133,
+      "lng": -88.0133,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Packers"
+      ],
+      "viewLat": 44.7518,
+      "viewLng": -82.0896,
+      "promptZh": "这座城市是包装工队主场，腰带是唯一不在舞台颁发的奖杯。",
+      "story": "The Packers won the first Super Bowl at City Stadium on January 15, 1961, defeating the New York Giants 37–14.",
+      "storyZh": "1961年1月15日，包装工队在城市体育场赢得首届超级碗，以37比14击败纽约巨人队。"
+    },
+    {
+      "id": "nfl-houston-texas",
+      "prompt": "This city hosts the Texans, whose stadium was the first NFL venue with a retractable roof.",
+      "answer": "Houston, Texas",
+      "lat": 29.7604,
+      "lng": -95.3698,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Texans"
+      ],
+      "viewLat": 28.9939,
+      "viewLng": -97.2988,
+      "promptZh": "这座城市是德州人队主场，其球场拥有NFL首个可开合屋顶。",
+      "story": "NRG Stadium hosted Super Bowl XLII in February 2008, when the Giants defeated the Patriots 17–14.",
+      "storyZh": "2008年2月，NRG球场举办了第XLII届超级碗，巨人队以17比14击败新英格兰爱国者队。"
+    },
+    {
+      "id": "nfl-dallas-texas",
+      "prompt": "This city is home to the Cowboys, the NFL’s most valuable franchise, whose name evokes a starry sky.",
+      "answer": "Dallas, Texas",
+      "lat": 32.7767,
+      "lng": -96.797,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Cowboys"
+      ],
+      "viewLat": 37.0762,
+      "viewLng": -97.3293,
+      "promptZh": "这座城市是牛仔队的家园，该队估值位居全联盟之首。",
+      "story": "The Dallas Cowboys began play in 1960 and have called AT&T Stadium in nearby Arlington home since 2009.",
+      "storyZh": "达拉斯牛仔队于1960年开始参赛，自2009年以来一直以附近的阿灵顿AT&T球场为主场。"
+    },
+    {
+      "id": "nfl-philadelphia-pennsylvania",
+      "prompt": "This city is home to the Eagles, whose 2017 championship squad was nicknamed the “Jolly Rogers” after The Pirate Movie’s skull logo.",
+      "answer": "Philadelphia, Pennsylvania",
+      "lat": 39.9526,
+      "lng": -75.1652,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Eagles"
+      ],
+      "viewLat": 36.3757,
+      "viewLng": -76.3409,
+      "promptZh": "这座城市是雄鹰队主场，冠军队被称为“欢乐罗杰”。",
+      "story": "The Eagles defeated the New England Patriots 41–33 to win Super Bowl LII on February 4, 2018.",
+      "storyZh": "2018年2月4日，雄鹰队以41比33击败新英格兰爱国者队，赢得第52届超级碗。"
+    },
+    {
+      "id": "nfl-tennessee",
+      "prompt": "This state hosts the Titans and the Volunteers, whose football program claims nine national championships.",
+      "answer": "Tennessee",
+      "lat": 36.1627,
+      "lng": -86.7816,
+      "scope": "country",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Titans"
+      ],
+      "promptZh": "这个州有泰坦队，志愿者队宣称赢得九次全国冠军。",
+      "story": "The Tennessee Titans have played their home games at Nissan Stadium in Nashville since 2015.",
+      "storyZh": "自2015年以来，田纳西泰坦队一直以纳西体育场为主场。"
+    },
+    {
+      "id": "nfl-lambeau-field-wisconsin",
+      "prompt": "This stadium hosts the Packers and has hosted the NFL Draft annually since 2016.",
+      "answer": "Lambeau Field, Wisconsin",
+      "lat": 44.5013,
+      "lng": -88.0622,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Packers"
+      ],
+      "viewLat": 43.3141,
+      "viewLng": -93.9347,
+      "promptZh": "这座球场是包装工队主场，自2016年起承办NFL选秀。",
+      "story": "Lambeau Field opened in 1957, and the Packers played their first home game there in 1959.",
+      "storyZh": "兰博球场于1957年开放，包装工队于1959年在那里进行了首场主场比赛。"
+    },
+    {
+      "id": "nfl-sofi-stadium-california",
+      "prompt": "This stadium is shared by two NFL teams and hosted Super Bowl LVI in 2022.",
+      "answer": "SoFi Stadium, California",
+      "lat": 33.9535,
+      "lng": -118.3392,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Rams"
+      ],
+      "viewLat": 36.5587,
+      "viewLng": -118.0571,
+      "promptZh": "这座球场由两支NFL球队共用，并举办了2022年第56届超级碗。",
+      "story": "Super Bowl LVI was played there on February 13, 2022, and the Rams defeated the Bengals 23–20.",
+      "storyZh": "2022年2月13日，第56届超级碗在该球场举行，洛杉矶公羊队以23比20击败辛辛那提猛虎队。"
+    },
+    {
+      "id": "nfl-allegheny-county-pennsylvania",
+      "prompt": "This western Pennsylvania county contains the Steelers’ home city, site of the first football game in 1892.",
+      "answer": "Allegheny County, Pennsylvania",
+      "lat": 40.4608,
+      "lng": -79.9959,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Steelers"
+      ],
+      "viewLat": 37.5271,
+      "viewLng": -75.6085,
+      "promptZh": "该县含钢人队主场城市，1892年首场橄榄球赛在此举行。",
+      "story": "The November 5, 1892 game at Union Park in Pittsburgh is often cited as the first organized American football game.",
+      "storyZh": "1892年11月5日在匹兹堡联合公园举行的比赛，通常被认为是有组织的美式橄榄球首场比赛。"
+    },
+    {
+      "id": "nfl-canton-ohio",
+      "prompt": "This Ohio city is home to the Pro Football Hall of Fame, where every inductee is honored for American football.",
+      "answer": "Canton, Ohio",
+      "lat": 40.7982,
+      "lng": -81.3785,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Hall of Fame"
+      ],
+      "viewLat": 45.1298,
+      "viewLng": -79.1573,
+      "promptZh": "这座俄亥俄州城市是橄榄球名人堂的所在地。",
+      "story": "The Pro Football Hall of Fame was dedicated in Canton in 1963, and the city has hosted its annual enshrinement festival every summer since.",
+      "storyZh": "橄榄球名人堂于1963年在坎顿正式落成，此后每年夏天这座城市都会举办入选者庆典。"
+    },
+    {
+      "id": "nfl-terre-haute-indiana",
+      "prompt": "This Indiana city was the setting of a famous novel about a gifted quarterback.",
+      "answer": "Terre Haute, Indiana",
+      "lat": 39.4667,
+      "lng": -87.4139,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "College"
+      ],
+      "viewLat": 41.323,
+      "viewLng": -94.4222,
+      "promptZh": "这座印第安纳州城市是一部讲述天才四分卫的名著的背景地。",
+      "story": "Kurt Vonnegut was born in Terre Haute in 1922 and grew up in Indianapolis before studying chemical engineering at the University of Chicago.",
+      "storyZh": "库尔特·冯内格特于1922年出生在特雷霍特，童年在印第安纳波利斯度过，后来进入芝加哥大学学习。"
+    },
+    {
+      "id": "nfl-notre-dame-indiana",
+      "prompt": "This Indiana town is home of the Fighting Irish football team, whose campus is dominated by the Golden Dome.",
+      "answer": "Notre Dame, Indiana",
+      "lat": 41.7003,
+      "lng": -86.2389,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "college",
+        "Fighting Irish"
+      ],
+      "viewLat": 45.4518,
+      "viewLng": -88.5456,
+      "promptZh": "这座印第安纳州小镇是圣母大学传奇橄榄球队的主场。",
+      "story": "The university fielded its first football team in 1887 and won the national championship in the 1988 season with an 11-1 record.",
+      "storyZh": "这所大学在1887年组建了第一支橄榄球队，并在1988赛季以11胜1负战绩夺得全国冠军。"
+    },
+    {
+      "id": "nfl-ann-arbor-michigan",
+      "prompt": "This Michigan city is home of the Wolverines football team, whose stadium is the largest college football stadium in the world.",
+      "answer": "Ann Arbor, Michigan",
+      "lat": 42.2808,
+      "lng": -83.743,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "college",
+        "Wolverines"
+      ],
+      "viewLat": 43.2314,
+      "viewLng": -82.729,
+      "promptZh": "这座密歇根州城市是狼队主场，球场是全球最大大学橄榄球场。",
+      "story": "Michigan Stadium opened in 1927, and a major expansion in 2003 raised its seating capacity to 107,601 spectators.",
+      "storyZh": "密歇根体育场于1927年启用，2003年的扩建工程将座位数提升至107,601个。"
+    },
+    {
+      "id": "nfl-state-college-pennsylvania",
+      "prompt": "This Pennsylvania town is home of the Nittany Lions football team, whose stadium is called Beaver Stadium.",
+      "answer": "State College, Pennsylvania",
+      "lat": 40.7934,
+      "lng": -77.8599,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "college",
+        "Nittany Lions"
+      ],
+      "viewLat": 40.0825,
+      "viewLng": -74.4813,
+      "promptZh": "这座宾夕法尼亚州小镇是尼塔尼雄狮队的主场。",
+      "story": "Penn State played its first football game in 1887, and Beaver Stadium has hosted crowds of more than 106,000 fans.",
+      "storyZh": "宾州州立大学在1887年踢了队史第一场橄榄球比赛，海狸体育场曾接待超过106,000名观众。"
+    },
+    {
+      "id": "nfl-austin-texas",
+      "prompt": "This Texas city is home of the Longhorns football team, whose orange-clad crowds fill Darrell K Royal Stadium.",
+      "answer": "Austin, Texas",
+      "lat": 30.2672,
+      "lng": -97.7431,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "college",
+        "Longhorns"
+      ],
+      "viewLat": 31.7508,
+      "viewLng": -103.4011,
+      "promptZh": "这座得克萨斯州城市是长角牛橄榄球队的主场。",
+      "story": "The Longhorns finished the 2005 season undefeated at 13-0 and claimed the national championship under head coach Mack Brown.",
+      "storyZh": "长角牛队在2005赛季以13胜0负的不败战绩在主教练迈克·布朗带领下夺得全国冠军。"
+    },
+    {
+      "id": "nfl-tuscaloosa-alabama",
+      "prompt": "This city hosts a college football dynasty that captured 18 national championships, the most of any school in the sport.",
+      "answer": "Tuscaloosa, Alabama",
+      "lat": 33.2098,
+      "lng": -87.5692,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "college",
+        "Crimson Tide"
+      ],
+      "viewLat": 36.0268,
+      "viewLng": -88.8328,
+      "promptZh": "这座城市拥有赢得18次全国冠军的大学橄榄球队。",
+      "story": "Bryant-Denny Stadium opened in 1929 on the University of Alabama campus and has been expanded repeatedly since, including major additions in 1997 and 2006.",
+      "storyZh": "布莱恩特-丹尼体育场于1929年在阿拉巴马大学校园内启用，此后多次扩建，包括1997年和2006年的扩建工程。"
+    },
+    {
+      "id": "nfl-norman-oklahoma",
+      "prompt": "This city is home to a college football program that led the nation in rushing for three consecutive seasons.",
+      "answer": "Norman, Oklahoma",
+      "lat": 35.2226,
+      "lng": -97.4395,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "college",
+        "Sooners"
+      ],
+      "viewLat": 35.0104,
+      "viewLng": -96.7565,
+      "promptZh": "这座城市有一支连续三个赛季冲球排名第一的大学橄榄球队。",
+      "story": "Gaylord Family Oklahoma Memorial Stadium opened in 1925 and was fully renovated in 2016, giving the venue a capacity of roughly 80,000 seats.",
+      "storyZh": "盖伊洛德家族俄克拉何马纪念体育场于1925年启用，2016年完成全面翻新后可容纳约8万名观众。"
+    },
+    {
+      "id": "nfl-columbus-ohio",
+      "prompt": "This city is home to a marching band nicknamed the Brass that spells out its state's abbreviation with its formations.",
+      "answer": "Columbus, Ohio",
+      "lat": 39.9612,
+      "lng": -82.9988,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "college",
+        "Buckeyes"
+      ],
+      "viewLat": 34.8391,
+      "viewLng": -83.915,
+      "promptZh": "这座城市的乐队被称为“铜管乐队”，用队形拼出所在州缩写。",
+      "story": "The Ohio State University marching band, known as The Brass, was founded in 1906, and its Script Ohio tradition dates back to 1938.",
+      "storyZh": "俄亥俄州立大学行进乐队被称为“铜管乐队”，成立于1906年，而其书写俄亥俄州缩写的传统可追溯至1938年。"
+    },
+    {
+      "id": "nfl-gainesville-florida",
+      "prompt": "This city hosts a Southeastern Conference college football team whose orange and blue colors echo its state's agriculture and waterways.",
+      "answer": "Gainesville, Florida",
+      "lat": 29.6516,
+      "lng": -82.3248,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "college",
+        "Gators"
+      ],
+      "viewLat": 34.8951,
+      "viewLng": -88.7939,
+      "promptZh": "这座城市拥有一支身披橙蓝战袍的东南联盟大学橄榄球队。",
+      "story": "Ben Hill Griffin Stadium, nicknamed The Swamp, opened in 1930 and its capacity grew past 90,000 after expansions in 1995 and 2006.",
+      "storyZh": "本-希尔·格里芬体育场绰号“沼泽”，1930年启用，并在1995年和2006年的扩建后将容量提升至9万以上。"
+    },
+    {
+      "id": "nfl-los-angeles-california",
+      "prompt": "This city was the home of an NFL franchise that played its games at the Memorial Coliseum from 1946 to 1979.",
+      "answer": "Los Angeles, California",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Rams"
+      ],
+      "viewLat": 34.9212,
+      "viewLng": -115.4818,
+      "promptZh": "这座城市曾有支NFL球队在1946至1979年间于此的主场作战。",
+      "story": "The Rams relocated from Cleveland to Los Angeles in 1946 and played at the Coliseum for three decades before moving to Anaheim in 1980.",
+      "storyZh": "公羊队于1946年从克利夫兰迁至洛杉矶，在纪念体育场征战三个十年，之后于1980年迁往阿纳海姆。"
+    },
+    {
+      "id": "nfl-new-orleans-louisiana-2",
+      "prompt": "This city is home to a college football team that recorded the only undefeated, untied season in Southern Conference history.",
+      "answer": "New Orleans, Louisiana",
+      "lat": 29.9511,
+      "lng": -90.0715,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Saints"
+      ],
+      "viewLat": 24.9511,
+      "viewLng": -83.0715,
+      "promptZh": "这座城市有支大学队创下南方联盟史上唯一不败无平的赛季。",
+      "story": "The Tulane Green Wave finished the 1931 season 11-0, earned a Rose Bowl berth and lost 20-14 to Alabama on January 1, 1932.",
+      "storyZh": "杜兰大学绿浪队1931赛季以11胜0负收官，并获得玫瑰碗资格，最终在1932年1月1日以14比20负于阿拉巴马队。"
+    },
+    {
+      "id": "nfl-philadelphia-pennsylvania-2",
+      "prompt": "This city hosted the world premiere of the 1939 film \"The Wizard of Oz\".",
+      "answer": "Philadelphia, Pennsylvania",
+      "lat": 39.9526,
+      "lng": -75.1652,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Eagles"
+      ],
+      "viewLat": 36.3757,
+      "viewLng": -76.3409,
+      "promptZh": "这座城市举办了1939年电影《绿野仙踪》的世界首映。",
+      "story": "The world premiere of The Wizard of Oz took place at the Cape May Theatre on December 12, 1939.",
+      "storyZh": "《绿野仙踪》的世界首映于1939年12月12日在卡普梅剧院举行。"
+    },
+    {
+      "id": "nfl-green-bay-wisconsin-2",
+      "prompt": "This city hosted the NFL's first championship game in 1933, won by the home Packers.",
+      "answer": "Green Bay, Wisconsin",
+      "lat": 44.5133,
+      "lng": -88.0133,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Packers"
+      ],
+      "viewLat": 44.7518,
+      "viewLng": -82.0896,
+      "promptZh": "这座城市曾举办1933年NFL首场冠军赛。",
+      "story": "The inaugural NFL championship game took place at Fox River Park on January 10, 1933.",
+      "storyZh": "首届NFL冠军赛于1933年1月10日在福克斯河公园举行。"
+    },
+    {
+      "id": "nfl-lubbock-texas",
+      "prompt": "This city is home to the Texas Tech Red Raiders, a collegiate American football team.",
+      "answer": "Lubbock, Texas",
+      "lat": 33.5779,
+      "lng": -101.8552,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "college",
+        "Red Raiders"
+      ],
+      "viewLat": 34.419,
+      "viewLng": -102.2382,
+      "promptZh": "这座城市是得州理工大学红突袭者橄榄球队的所在地。",
+      "story": "Jones Stadium opened in 1940 and now has a seating capacity of 60,000.",
+      "storyZh": "琼斯体育场始建于1940年，如今可容纳6万名观众。"
+    },
+    {
+      "id": "nfl-eugene-oregon",
+      "prompt": "This city is home to the Oregon Ducks collegiate American football team.",
+      "answer": "Eugene, Oregon",
+      "lat": 44.0521,
+      "lng": -123.0868,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "college",
+        "Ducks"
+      ],
+      "viewLat": 45.0699,
+      "viewLng": -127.6089,
+      "promptZh": "这座城市是俄勒冈鸭队美式橄榄球队的所在地。",
+      "story": "Autzen Stadium opened in 1967 near the University of Oregon campus.",
+      "storyZh": "奥岑体育场于1967年在俄勒冈大学校园附近建成。"
+    },
+    {
+      "id": "nfl-moscow-idaho",
+      "prompt": "This small city, home of the University of Idaho Vandals, is known as a birthplace of the Appaloosa horse.",
+      "answer": "Moscow, Idaho",
+      "lat": 46.7321,
+      "lng": -117.0003,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "college"
+      ],
+      "viewLat": 44.8921,
+      "viewLng": -116.9202,
+      "promptZh": "这座小镇是爱达荷大学队所在地，也是阿帕卢萨马繁育地。",
+      "story": "The Appaloosa Horse Club was founded in Moscow in 1938.",
+      "storyZh": "阿帕卢萨马马术俱乐部于1938年在莫斯科成立。"
+    },
+    {
+      "id": "nfl-missoula-montana",
+      "prompt": "This city is home to the Montana Grizzlies collegiate American football team.",
+      "answer": "Missoula, Montana",
+      "lat": 46.8721,
+      "lng": -113.994,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "college"
+      ],
+      "viewLat": 48.6411,
+      "viewLng": -114.2546,
+      "promptZh": "这座城市是蒙大拿灰熊队美式橄榄球队的所在地。",
+      "story": "Washington-Grizzly Stadium opened in 1927 on the University of Montana campus.",
+      "storyZh": "华盛顿灰熊体育场于1927年在蒙大拿大学校园内建成。"
+    },
+    {
+      "id": "mlb-los-angeles-california",
+      "prompt": "This city is home to the baseball club that won the 1981 World Series on a walk-off error.",
+      "answer": "Los Angeles, California",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Dodgers"
+      ],
+      "viewLat": 34.9212,
+      "viewLng": -115.4818,
+      "promptZh": "这座城市的球队以决胜局失误赢得1981年世界大赛。",
+      "story": "Dodger Stadium opened in 1962, and the Dodgers have played every home game there since.",
+      "storyZh": "道奇体育场于1962年开放，此后道奇队的每一场主场比赛都在这里进行。"
+    },
+    {
+      "id": "mlb-new-york-city-new-york",
+      "prompt": "This city is home to the Miracle Mets, who won the 1969 World Series.",
+      "answer": "New York City, New York",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Mets"
+      ],
+      "viewLat": 38.5025,
+      "viewLng": -75.0334,
+      "promptZh": "“奇迹队”所在的这座城市曾赢得1969年世界大赛。",
+      "story": "The Mets played at Shea Stadium from 1964 through 2008 before moving to their current ballpark.",
+      "storyZh": "大都会队从1964年到2008年在谢亚球场比赛，之后迁入现在的棒球场。"
+    },
+    {
+      "id": "mlb-new-york-city-new-york-2",
+      "prompt": "This city is home to the baseball club that has won a record 27 World Series titles.",
+      "answer": "New York City, New York",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Yankees"
+      ],
+      "viewLat": 38.5025,
+      "viewLng": -75.0334,
+      "promptZh": "这座城市的球队共赢得27次世界大赛冠军。",
+      "story": "Yankee Stadium has hosted the All-Star Game four times, most recently in 2009.",
+      "storyZh": "洋基体育场曾四次举办全明星赛，最近一次是在2009年。"
+    },
+    {
+      "id": "mlb-chicago-illinois",
+      "prompt": "This city is home to the baseball club that won the 2016 World Series after a 108-year wait.",
+      "answer": "Chicago, Illinois",
+      "lat": 41.8781,
+      "lng": -87.6298,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Cubs"
+      ],
+      "viewLat": 42.0063,
+      "viewLng": -81.7332,
+      "promptZh": "这座城市结束108年等待后，赢得2016年世界大赛。",
+      "story": "The Cubs won three consecutive World Series titles from 2016 through 2018.",
+      "storyZh": "小熊队在2016年至2018年间连续三次赢得世界大赛冠军。"
+    },
+    {
+      "id": "mlb-houston-texas",
+      "prompt": "This city is home to the baseball club that won the 2017 World Series in the first year its ballpark had a roof.",
+      "answer": "Houston, Texas",
+      "lat": 29.7604,
+      "lng": -95.3698,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Astros"
+      ],
+      "viewLat": 28.9939,
+      "viewLng": -97.2988,
+      "promptZh": "这座城市的球队赢得2017年世界大赛，球场当年首次启用屋顶。",
+      "story": "The Astros won their next World Series championship in 2022, five years after the 2017 title.",
+      "storyZh": "太空人队在2022年再次夺得世界大赛冠军，距离2017年的胜利相隔五年。"
+    },
+    {
+      "id": "mlb-philadelphia-pennsylvania",
+      "prompt": "This city is home to the baseball club that won the 2008 World Series.",
+      "answer": "Philadelphia, Pennsylvania",
+      "lat": 39.9526,
+      "lng": -75.1652,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Phillies"
+      ],
+      "viewLat": 36.3757,
+      "viewLng": -76.3409,
+      "promptZh": "这座城市的球队曾赢得2008年世界大赛冠军。",
+      "story": "The Phillies have won World Series championships in 1955, 1980, and 2008.",
+      "storyZh": "费城人队分别在1955年、1980年和2008年赢得过世界大赛冠军。"
+    },
+    {
+      "id": "mlb-san-francisco-california",
+      "prompt": "This city is home to a baseball club whose 2010 and 2012 World Series were won at the same park.",
+      "answer": "San Francisco, California",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Giants"
+      ],
+      "viewLat": 37.74,
+      "viewLng": -121.8517,
+      "promptZh": "这座城市的球队在同一球场两度夺得世界大赛冠军。",
+      "story": "The Giants won World Series titles in 2010 and 2012 at the same ballpark.",
+      "storyZh": "该队在2010年和2012年于同一座球场两度夺得世界大赛冠军。"
+    },
+    {
+      "id": "mlb-atlanta-georgia",
+      "prompt": "This city is home to a baseball club that tied the record with 14 consecutive division titles.",
+      "answer": "Atlanta, Georgia",
+      "lat": 33.749,
+      "lng": -84.388,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Braves"
+      ],
+      "viewLat": 32.9039,
+      "viewLng": -83.3306,
+      "promptZh": "这座城市的球队曾连续14次夺得分区冠军，并追平纪录。",
+      "story": "The Braves won 14 consecutive division titles from 1991 through 2005, matching a major-league record.",
+      "storyZh": "该队从1991年至2005年连续14次夺得分区冠军，追平了大联盟纪录。"
+    },
+    {
+      "id": "mlb-seattle-washington",
+      "prompt": "This city is home to a baseball club that drew 3.4 million fans in its inaugural season, setting an MLB record.",
+      "answer": "Seattle, Washington",
+      "lat": 47.6062,
+      "lng": -122.3321,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Mariners"
+      ],
+      "viewLat": 43.2683,
+      "viewLng": -129.7519,
+      "promptZh": "这座城市的球队首季吸引340万球迷，创下大联盟纪录。",
+      "story": "In their inaugural 1977 season, the Mariners drew 3.4 million fans and set an MLB attendance record.",
+      "storyZh": "该队在1977年的首个赛季吸引340万名球迷，创下大联盟观众人数纪录。"
+    },
+    {
+      "id": "mlb-st-louis-missouri",
+      "prompt": "This city is home to a baseball club whose teams won the 1967 and 1968 World Series.",
+      "answer": "St. Louis, Missouri",
+      "lat": 38.627,
+      "lng": -90.1994,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Cardinals"
+      ],
+      "viewLat": 36.613,
+      "viewLng": -89.0853,
+      "promptZh": "这座城市的球队曾赢得1967、1968年世界大赛冠军。",
+      "story": "The Cardinals won consecutive World Series championships in 1967 and 1968.",
+      "storyZh": "该队在1967年和1968年连续两届夺得世界大赛冠军。"
+    },
+    {
+      "id": "mlb-san-diego-california",
+      "prompt": "This city is home to a baseball club whose Hall of Fame hitter recorded a .394 batting average in 1994.",
+      "answer": "San Diego, California",
+      "lat": 32.7157,
+      "lng": -117.1611,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Padres"
+      ],
+      "viewLat": 35.3092,
+      "viewLng": -109.9625,
+      "promptZh": "这座城市的球队有一位名人堂击球手在1994年打出.394的打击率。",
+      "story": "Tony Gwynn batted .394 during the strike-shortened 1994 season and finished his career with a .354 average.",
+      "storyZh": "托尼· Gwynn在1994年的缩短赛季中打出.394的打击率，职业生涯平均打击率为.354。"
+    },
+    {
+      "id": "mlb-detroit-michigan",
+      "prompt": "This city is home to a baseball club whose 1935 and 1937 teams won consecutive World Series titles.",
+      "answer": "Detroit, Michigan",
+      "lat": 42.3314,
+      "lng": -83.0458,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Tigers"
+      ],
+      "viewLat": 44.5037,
+      "viewLng": -77.07,
+      "promptZh": "这座城市的球队两夺1935、1937年世界大赛冠军。",
+      "story": "The Tigers won World Series championships in 1935 and 1937, becoming the first club to achieve the feat twice.",
+      "storyZh": "该队在1935年和1937年两度夺得世界大赛冠军，成为首支两次实现这一壮举的球队。"
+    },
+    {
+      "id": "mlb-chicago-illinois-2",
+      "prompt": "This city is home to the White Sox, whose 2005 World Series victory was completed in 99 games.",
+      "answer": "Chicago, Illinois",
+      "lat": 41.8781,
+      "lng": -87.6298,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "White Sox"
+      ],
+      "viewLat": 42.0063,
+      "viewLng": -81.7332,
+      "promptZh": "这座城市的球队鏖战99场，赢得2005年世界大赛冠军。",
+      "story": "The White Sox won their first championship since 1917 and swept the Houston Astros in four games.",
+      "storyZh": "白袜队获得了自1917年以来的首个冠军，并以四连胜击败休斯敦太空人。"
+    },
+    {
+      "id": "mlb-boston-massachusetts",
+      "prompt": "This city is home to the Red Sox, whose 2004 championship ended an 86-year championship curse.",
+      "answer": "Boston, Massachusetts",
+      "lat": 42.3601,
+      "lng": -71.0589,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Red Sox"
+      ],
+      "viewLat": 40.1202,
+      "viewLng": -69.0567,
+      "promptZh": "这座城市赢得2004年世界大赛，终结86年冠军诅咒。",
+      "story": "The Red Sox won Game 4 of the 2004 World Series and celebrated their first championship season since 1918.",
+      "storyZh": "红袜队赢下2004年世界大赛第四场后，庆祝了自1918年以来的首个冠军赛季。"
+    },
+    {
+      "id": "mlb-seattle-washington-2",
+      "prompt": "This city’s most famous baseball moment came when a player nicknamed “The Kid” hit a walk-off home run.",
+      "answer": "Seattle, Washington",
+      "lat": 47.6062,
+      "lng": -122.3321,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Mariners"
+      ],
+      "viewLat": 43.2683,
+      "viewLng": -129.7519,
+      "promptZh": "这座城市最著名的棒球瞬间，是“小子”击出再见全垒打。",
+      "story": "Ken Griffey Jr. hit a walk-off home run in Game 3 of the 1995 ALDS at the Kingdome.",
+      "storyZh": "1995年联盟分区赛第三场，肯·格里菲在Kingdome球场击出再见全垒打。"
+    },
+    {
+      "id": "mlb-miami-florida",
+      "prompt": "This city is home to the Marlins, the only MLB franchise to have held home games in two different cities.",
+      "answer": "Miami, Florida",
+      "lat": 25.7617,
+      "lng": -80.1918,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Marlins"
+      ],
+      "viewLat": 26.2729,
+      "viewLng": -79.0768,
+      "promptZh": "这座城市的球队是唯一在两座城市打过主场的MLB球队。",
+      "story": "After playing in Miami, the Marlins relocated to the Jupiter area and opened LoanDepot Park in 2012.",
+      "storyZh": "马林鱼队离开迈阿密后迁往朱庇特地区，并于2012年启用LoanDepot Park球场。"
+    },
+    {
+      "id": "mlb-tokyo-japan",
+      "prompt": "This city is home to the Yakult Swallows and the Giants, whose stadium is known as the “Cathedral of Baseball”.",
+      "answer": "Tokyo, Japan",
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "NPB",
+        "Japan"
+      ],
+      "promptZh": "这座城市有燕子队和巨人队，后者球场素称“棒球大教堂”。",
+      "story": "Tokyo Dome opened in March 1988 and has remained the Yomiuri Giants’ home venue since then.",
+      "storyZh": "东京巨蛋于1988年3月启用，此后一直是读卖巨人队的主场。"
+    },
+    {
+      "id": "mlb-kobe-japan",
+      "prompt": "This city is where a famous pitcher threw a 100-mph pitch and where Hanshin's Tigers play their home games.",
+      "answer": "Kobe, Japan",
+      "lat": 34.6901,
+      "lng": 135.1955,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "NPB",
+        "Japan"
+      ],
+      "promptZh": "这座城市有投手投出时速百英里的球，也是阪神虎队主场。",
+      "story": "The Great Hanshin Earthquake struck Kobe on January 17, 1995, causing widespread destruction.",
+      "storyZh": "阪神大地震于1995年1月17日袭击神户，造成了大范围破坏。"
+    },
+    {
+      "id": "mlb-havana-cuba",
+      "prompt": "This capital is home to the state-run academy that produced record numbers of players reaching Major League Baseball.",
+      "answer": "Havana, Cuba",
+      "lat": 23.1136,
+      "lng": -82.3666,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "Cuban baseball"
+      ],
+      "promptZh": "这座首都的棒球学院培养出创纪录的美国职棒大联盟球员。",
+      "story": "The Escuela Nacional de Béisbol was founded in Havana in 1961 and remains a central training academy for Cuban players.",
+      "storyZh": "哈瓦那国家棒球学校于1961年创办，至今仍是古巴职业球员的重要训练中心。"
+    },
+    {
+      "id": "mlb-santo-domingo-dominican-republic",
+      "prompt": "This capital is in the country that has produced more Major League Baseball players than any other country outside the United States.",
+      "answer": "Santo Domingo, Dominican Republic",
+      "lat": 18.4861,
+      "lng": -69.9312,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "Dominican baseball"
+      ],
+      "promptZh": "这座首都所在国培养的职棒大联盟球员多于美国以外其他国家。",
+      "story": "The Academia Nacional de Béisbol Dominicano was established in Santo Domingo in 1991.",
+      "storyZh": "多米尼加国家棒球学院于1991年在圣多明各成立。"
+    },
+    {
+      "id": "mlb-san-juan-puerto-rico",
+      "prompt": "This capital's winter-league clubs have become a pipeline for players advancing to Major League Baseball.",
+      "answer": "San Juan, Puerto Rico",
+      "lat": 18.4655,
+      "lng": -66.1057,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "Winter League"
+      ],
+      "promptZh": "这座首都的冬季联赛俱乐部输送美国职棒大联盟人才。",
+      "story": "Old San Juan's Spanish colonial fortifications were inscribed on the UNESCO World Heritage List in 1983.",
+      "storyZh": "圣胡安老城区的西班牙殖民时期防御工事于1983年列入联合国教科文组织世界遗产名录。"
+    },
+    {
+      "id": "mlb-mexico-city-mexico",
+      "prompt": "This capital hosts the Pacificos and Capitanes, two professional baseball clubs in the nation's premier league.",
+      "answer": "Mexico City, Mexico",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "Mexican League"
+      ],
+      "promptZh": "这座首都的太平洋人和卡皮塔内斯均参加最高级职业联赛。",
+      "story": "The Mexico City Capitanes won their first Liga Mexicana de Béisbol championship in 2016.",
+      "storyZh": "墨西哥城船长队于2016年赢得队史首个墨西哥职业棒球联赛冠军。"
+    },
+    {
+      "id": "mlb-monterrey-mexico",
+      "prompt": "This northern city fields the Sultanes, who have won six league championships.",
+      "answer": "Monterrey, Mexico",
+      "lat": 25.6866,
+      "lng": -100.3161,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "Mexican League"
+      ],
+      "promptZh": "这座北方城市的苏丹人队已赢得六次联赛冠军。",
+      "story": "Monterrey's Parque Fundidora opened in 1991 on the site of a former steelmaking complex.",
+      "storyZh": "蒙特雷的钢铁主题公园于1991年在原钢铁厂遗址上开放。"
+    },
+    {
+      "id": "mlb-seoul-south-korea",
+      "prompt": "This capital's KBO league draws the loudest crowds in Asia, reflecting the country's deep love of baseball.",
+      "answer": "Seoul, South Korea",
+      "lat": 37.5665,
+      "lng": 126.978,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "KBO",
+        "Korea"
+      ],
+      "promptZh": "这座首都的职棒联赛以亚洲最热烈的球迷闻名。",
+      "story": "The first KBO game was played in Seoul on April 23, 1982, when the OB Bears defeated the Haitai Eagles 3–0.",
+      "storyZh": "1982年4月23日，首场韩国职业棒球联赛比赛在首尔举行，OB熊队以3比0击败斗山熊队。"
+    },
+    {
+      "id": "mlb-taipei-taiwan",
+      "prompt": "This capital's professional baseball league is regarded as one of Asia's toughest competitions for players.",
+      "answer": "Taipei, Taiwan",
+      "lat": 25.033,
+      "lng": 121.5654,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "CPBL",
+        "Taiwan"
+      ],
+      "promptZh": "这座首都的职棒联赛被视为亚洲最具竞争力的赛事之一。",
+      "story": "The Chinese Professional Baseball League was founded in 1990 with four teams, and the Taipei-based Uni-President Lions won its first three championships.",
+      "storyZh": "中华职业棒球联赛于1990年成立，初期共有四支球队，总裁狮队随后夺得联盟前三个总冠军。"
+    },
+    {
+      "id": "mlb-tokyo-dome-japan",
+      "prompt": "This domed stadium has hosted three Major League Baseball opening-day games, beginning with an interleague matchup in 1993.",
+      "answer": "Tokyo Dome, Japan",
+      "lat": 35.7056,
+      "lng": 139.7519,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "NPB",
+        "Japan"
+      ],
+      "promptZh": "这座穹顶球场曾举办三场美国职业棒球大联盟揭幕战。",
+      "story": "The dome became the first stadium outside the United States to host an MLB opening-day game in 1993, then hosted others in 2000 and 2004.",
+      "storyZh": "这座穹顶球场于1993年成为美国境外首座举办美国职业棒球大联盟揭幕战的球场，并于2000年和2004年再次承办。"
+    },
+    {
+      "id": "mlb-cubs-arizona",
+      "prompt": "This Arizona town hosts the Chicago club of the National League during spring training.",
+      "answer": "Cubs, Arizona",
+      "lat": 33.2987,
+      "lng": -111.8873,
+      "scope": "world",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Spring Training"
+      ],
+      "promptZh": "这个亚利桑那小镇是芝加哥国联球队进行春训的所在地。",
+      "story": "The Cubs have held their spring-training camp in Mesa since 1994, and their current home, Sloan Park, opened for the 2015 season.",
+      "storyZh": "芝加哥小熊队自1994年起在梅萨进行春训，目前使用的主场斯隆公园于2015赛季启用。"
+    },
+    {
+      "id": "mlb-cuba",
+      "prompt": "This island nation has produced more Major League Baseball players than any country except the United States.",
+      "answer": "Cuba",
+      "lat": 21.5218,
+      "lng": -77.7812,
+      "scope": "country",
+      "sport": "baseball",
+      "tags": [
+        "Cuban baseball"
+      ],
+      "promptZh": "这个加勒比岛屿国家培养的职棒大联盟球员数量仅次于美国。",
+      "story": "Cuba's national team won the 1939, 1941, 1942, and 1946 Amateur World Series, establishing its historic international dominance.",
+      "storyZh": "古巴国家队曾赢得1939年、1941年、1942年和1946年四届业余世界棒球锦标赛，奠定了其国际棒球霸主的地位。"
+    },
+    {
+      "id": "mlb-dominican-republic",
+      "prompt": "This Caribbean nation has the world's highest number of Major League Baseball players relative to its population.",
+      "answer": "Dominican Republic",
+      "lat": 18.7357,
+      "lng": -70.1627,
+      "scope": "country",
+      "sport": "baseball",
+      "tags": [
+        "Dominican baseball"
+      ],
+      "promptZh": "这个加勒比国家按人口计算的职棒大联盟球员数量居世界首位。",
+      "story": "More than 300 players from the Dominican Republic have reached Major League Baseball since international amateur signing began in 1996.",
+      "storyZh": "自1996年国际业余球员签约制度启动以来，已有超过300名多米尼加球员进入美国职业棒球大联盟。"
+    },
+    {
+      "id": "mlb-venezuela",
+      "prompt": "This South American country has produced more than 400 players who later appeared in Major League Baseball.",
+      "answer": "Venezuela",
+      "lat": 6.4238,
+      "lng": -66.5897,
+      "scope": "country",
+      "sport": "baseball",
+      "tags": [
+        "Venezuelan baseball"
+      ],
+      "promptZh": "这个南美国家已输送超过400名MLB球员。",
+      "story": "More than 400 Venezuelan players have appeared in Major League Baseball, making the country one of baseball's leading talent sources.",
+      "storyZh": "超过400名委内瑞拉球员曾出现在美国职业棒球大联盟，使该国成为棒球人才的重要来源。"
+    },
+    {
+      "id": "mlb-japan",
+      "prompt": "This country is home to the world's second-oldest professional baseball league, founded in 1950.",
+      "answer": "Japan",
+      "lat": 36.2048,
+      "lng": 138.2529,
+      "scope": "country",
+      "sport": "baseball",
+      "tags": [
+        "NPB"
+      ],
+      "promptZh": "这个国家拥有全球第二古老的职业棒球联赛。",
+      "story": "Founded in 1950, Nippon Professional Baseball is the world's second-oldest professional baseball league.",
+      "storyZh": "日本职业棒球联赛成立于1950年，是全球历史第二悠久的职业棒球联赛。"
+    },
+    {
+      "id": "nba-los-angeles-california",
+      "prompt": "This city is home to the Lakers, who won multiple championships in the 1980s behind Magic Johnson and Kareem Abdul-Jabbar.",
+      "answer": "Los Angeles, California",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Lakers"
+      ],
+      "viewLat": 34.9212,
+      "viewLng": -115.4818,
+      "promptZh": "这座城市是湖人队主场，1980年代有魔术约翰逊和贾巴尔。",
+      "story": "The Lakers won five NBA championships during the 1980s, with Magic Johnson and Kareem Abdul-Jabbar leading the franchise.",
+      "storyZh": "湖人队在1980年代赢得五次NBA总冠军，魔术约翰逊和贾巴尔是球队的核心。"
+    },
+    {
+      "id": "nba-chicago-illinois",
+      "prompt": "This city is home to the Bulls, who won six titles in the 1990s with Michael Jordan.",
+      "answer": "Chicago, Illinois",
+      "lat": 41.8781,
+      "lng": -87.6298,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Bulls"
+      ],
+      "viewLat": 42.0063,
+      "viewLng": -81.7332,
+      "promptZh": "这座城市是公牛队主场，乔丹时代赢下六个总冠军。",
+      "story": "The Bulls captured six NBA championships in the 1990s, winning three consecutive titles from 1991 through 1993.",
+      "storyZh": "公牛队在1990年代赢得六次NBA总冠军，并在1991年至1993年连续三次夺冠。"
+    },
+    {
+      "id": "nba-boston-massachusetts",
+      "prompt": "This city is home to the Celtics, whose 18 championships are the most in NBA history.",
+      "answer": "Boston, Massachusetts",
+      "lat": 42.3601,
+      "lng": -71.0589,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Celtics"
+      ],
+      "viewLat": 40.1202,
+      "viewLng": -69.0567,
+      "promptZh": "这座城市是凯尔特人队主场，拥有NBA历史最多的18次总冠军。",
+      "story": "The Celtics earned their record-extending 18th NBA championship in 2024, surpassing the league's previous mark.",
+      "storyZh": "凯尔特人队在2024年获得队史第18个NBA总冠军，超越了联盟此前的纪录。"
+    },
+    {
+      "id": "nba-miami-florida",
+      "prompt": "This city is home to the Heat, who won three consecutive titles from 2012 to 2014.",
+      "answer": "Miami, Florida",
+      "lat": 25.7617,
+      "lng": -80.1918,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Heat"
+      ],
+      "viewLat": 26.2729,
+      "viewLng": -79.0768,
+      "promptZh": "这座城市是热火队主场，2012至2014年三夺总冠军。",
+      "story": "Miami became the first team since the Chicago Bulls in the 1990s to win three consecutive NBA championships from 2012 through 2014.",
+      "storyZh": "迈阿密热火队在2012年至2014年连续三次夺得NBA总冠军，成为1990年代公牛队后首支实现这一壮举的球队。"
+    },
+    {
+      "id": "nba-dallas-texas",
+      "prompt": "This city is home to the team that won the 2011 NBA title by beating Miami in a six-game Finals.",
+      "answer": "Dallas, Texas",
+      "lat": 32.7767,
+      "lng": -96.797,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Mavericks"
+      ],
+      "viewLat": 37.0762,
+      "viewLng": -97.3293,
+      "promptZh": "这座城市球队2011年以六场击败迈阿密，赢得NBA总冠军。",
+      "story": "The Dallas Mavericks won their first NBA championship in 2011, beating the Miami Heat in six games, with Dirk Nowitzki named Finals MVP.",
+      "storyZh": "达拉斯独行侠在2011年赢得队史首个NBA总冠军，六场击败迈阿密热火，德克·诺维茨基当选总决赛最有价值球员。"
+    },
+    {
+      "id": "nba-toronto-ontario",
+      "prompt": "This city is home to the franchise that won the 2019 NBA title, its first championship in team history.",
+      "answer": "Toronto, Ontario",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Raptors"
+      ],
+      "viewLat": 42.0094,
+      "viewLng": -86.3243,
+      "promptZh": "这座城市球队2019年赢得NBA总冠军，是队史首个冠军。",
+      "story": "The Toronto Raptors won their first NBA championship in 2019, with Kawhi Leonard earning Finals MVP in a six-game series against Golden State.",
+      "storyZh": "多伦多猛龙在2019年赢得队史首个NBA总冠军，考瓦伊·伦纳德在六场系列赛中当选总决赛最有价值球员。"
+    },
+    {
+      "id": "nba-san-antonio-texas",
+      "prompt": "This city is home to the team that won five NBA titles built on a passing offense.",
+      "answer": "San Antonio, Texas",
+      "lat": 29.4241,
+      "lng": -98.4936,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Spurs"
+      ],
+      "viewLat": 34.5259,
+      "viewLng": -101.8443,
+      "promptZh": "这座城市球队以传球体系五次夺得NBA总冠军。",
+      "story": "The San Antonio Spurs won five NBA championships between 1999 and 2014, with Tim Duncan taking Finals MVP honors three times.",
+      "storyZh": "圣安东尼奥马刺在1999年至2014年间五次夺得NBA总冠军，其中蒂姆·邓肯三次当选总决赛最有价值球员。"
+    },
+    {
+      "id": "nba-philadelphia-pennsylvania",
+      "prompt": "This city is home to the 76ers, who won the NBA championships of 1967 and 1983.",
+      "answer": "Philadelphia, Pennsylvania",
+      "lat": 39.9526,
+      "lng": -75.1652,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "76ers"
+      ],
+      "viewLat": 36.3757,
+      "viewLng": -76.3409,
+      "promptZh": "这座城市球队曾于1967年和1983年两次夺得NBA总冠军。",
+      "story": "The Philadelphia 76ers won the 1967 title with Wilt Chamberlain as their star and the 1983 title with Moses Malone at center.",
+      "storyZh": "费城76人队1967年在威尔特·张伯伦带领下夺冠，1983年又依靠摩西·马龙再夺总冠军。"
+    },
+    {
+      "id": "nba-phoenix-arizona",
+      "prompt": "This city is home to the Suns, whose arena roof is a landmark of desert architecture.",
+      "answer": "Phoenix, Arizona",
+      "lat": 33.4484,
+      "lng": -112.074,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Suns"
+      ],
+      "viewLat": 36.505,
+      "viewLng": -113.0443,
+      "promptZh": "这座城市的球馆屋顶是沙漠建筑地标，主场球队是太阳队。",
+      "story": "The Suns have played in their downtown arena since 1992, a copper-clad building whose retractable roof was designed by Ellerbe Becket.",
+      "storyZh": "太阳队自1992年起在这座城市市中心的一座球馆主场作战，该建筑由埃勒比·贝克特设计，铜色可开合屋顶很有名。"
+    },
+    {
+      "id": "nba-portland-oregon",
+      "prompt": "This city is home to the Trail Blazers, whose passionate fans are known as Rip City.",
+      "answer": "Portland, Oregon",
+      "lat": 45.5152,
+      "lng": -122.6784,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Trail Blazers"
+      ],
+      "viewLat": 45.0541,
+      "viewLng": -122.0885,
+      "promptZh": "这座城市的球迷被称为Rip City，主场球队是开拓者队。",
+      "story": "The Trail Blazers' home opened in 1995 as the Rose Garden, and the Rip City nickname dates back to the team's 1978 playoff run.",
+      "storyZh": "开拓者队的主场球馆1995年以玫瑰园之名开放，而Rip City这一昵称源自球队1978年的季后赛之旅。"
+    },
+    {
+      "id": "nba-oklahoma-city-oklahoma",
+      "prompt": "The basketball team based in this city reached four consecutive NBA Finals and now plays beneath the Thunder name.",
+      "answer": "Oklahoma City, Oklahoma",
+      "lat": 35.4676,
+      "lng": -97.5164,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Thunder"
+      ],
+      "viewLat": 38.1436,
+      "viewLng": -92.0025,
+      "promptZh": "这座城市的球队曾连续四年打进NBA总决赛，现名雷霆。",
+      "story": "The Oklahoma City Thunder reached the NBA Finals in each year from 2012 through 2015.",
+      "storyZh": "俄克拉荷马城雷霆在2012年至2015年间连续闯入NBA总决赛。"
+    },
+    {
+      "id": "nba-milwaukee-wisconsin",
+      "prompt": "This city's basketball club plays under the Bucks name and belongs to a city with century-old brewing roots.",
+      "answer": "Milwaukee, Wisconsin",
+      "lat": 43.0389,
+      "lng": -87.9065,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Bucks"
+      ],
+      "viewLat": 48.0389,
+      "viewLng": -80.9065,
+      "promptZh": "这座城市的球队名为雄鹿，当地有延续百年的酿酒传统。",
+      "story": "Milwaukee's brewing tradition dates to the 19th century, and the Bucks won NBA championships in 1971 and 2021.",
+      "storyZh": "密尔沃基的啤酒酿造传统可追溯至19世纪，雄鹿队曾于1971年和2021年夺冠。"
+    },
+    {
+      "id": "nba-salt-lake-city-utah",
+      "prompt": "The basketball franchise that relocated here from New Orleans in 1979 now competes under the Jazz name.",
+      "answer": "Salt Lake City, Utah",
+      "lat": 40.7608,
+      "lng": -111.891,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Jazz"
+      ],
+      "viewLat": 41.3651,
+      "viewLng": -117.3354,
+      "promptZh": "球队于1979年从新奥尔良迁入这座城市，名为爵士。",
+      "story": "The Utah Jazz relocated to Salt Lake City from New Orleans in 1979 and have played there since.",
+      "storyZh": "犹他爵士队于1979年从新奥尔良迁至盐湖城，并一直在此比赛。"
+    },
+    {
+      "id": "nba-new-york-city-new-york",
+      "prompt": "The basketball team based in this city plays at a venue long called basketball's Mecca.",
+      "answer": "New York City, New York",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Knicks"
+      ],
+      "viewLat": 38.5025,
+      "viewLng": -75.0334,
+      "promptZh": "这座城市的球队在一座被誉为篮球麦加的球馆主场作战。",
+      "story": "The New York Knicks began playing at Madison Square Garden in 1968, a venue nicknamed the Mecca of Basketball.",
+      "storyZh": "纽约尼克斯队自1968年起在麦迪逊广场花园比赛，该场馆被誉为篮球麦加。"
+    },
+    {
+      "id": "nba-brooklyn-new-york",
+      "prompt": "The basketball franchise based in this city completed its first NBA season in 1976.",
+      "answer": "Brooklyn, New York",
+      "lat": 40.6782,
+      "lng": -73.9442,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Nets"
+      ],
+      "viewLat": 46.0914,
+      "viewLng": -77.3349,
+      "promptZh": "该队1976年进入NBA，2012年迁入这座城市。",
+      "story": "The franchise played its first NBA season in 1976-77 as the New York Nets and moved to Brooklyn in 2012.",
+      "storyZh": "该球队在1976至1977赛季以纽约网队身份征战NBA，并于2012年迁入布鲁克林。"
+    },
+    {
+      "id": "nba-golden-valley-minnesota",
+      "prompt": "The NBA team associated with this city has competed under the Timberwolves name since 1989.",
+      "answer": "Golden Valley, Minnesota",
+      "lat": 45.0067,
+      "lng": -93.466,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Timberwolves"
+      ],
+      "viewLat": 39.9419,
+      "viewLng": -94.3885,
+      "promptZh": "这座城市的球队以森林狼之名征战NBA。",
+      "story": "The Minnesota Timberwolves joined the NBA in 1989 and have trained at the Twin Cities Orthopedics Performance Center in Golden Valley since it opened in 2017.",
+      "storyZh": "森林狼队于1989年加入NBA，并自2017年起使用位于金谷的双城骨科表现中心。"
+    },
+    {
+      "id": "nba-sacramento-california",
+      "prompt": "This city became home to the Kings after their 16-year NBA playoff drought ended in 2023.",
+      "answer": "Sacramento, California",
+      "lat": 38.5816,
+      "lng": -121.4944,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Kings"
+      ],
+      "viewLat": 34.5416,
+      "viewLng": -124.2163,
+      "promptZh": "这座城市的主队在2023年结束了长达16年的季后赛荒。",
+      "story": "The Sacramento Kings reached the playoffs in 2023, ending their 16-year postseason drought.",
+      "storyZh": "萨克拉门托国王队在2023年重返季后赛，结束了长达16年的季后赛荒。"
+    },
+    {
+      "id": "nba-atlanta-georgia",
+      "prompt": "This city hosted a star point guard who wore number 23 before joining the Bulls.",
+      "answer": "Atlanta, Georgia",
+      "lat": 33.749,
+      "lng": -84.388,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Hawks"
+      ],
+      "viewLat": 32.9039,
+      "viewLng": -83.3306,
+      "promptZh": "这座城市曾迎来一位身穿23号球衣、后转投公牛的球星。",
+      "story": "Michael Jordan joined the Atlanta Hawks in 1984 and averaged 28.2 points per game as a rookie.",
+      "storyZh": "迈克尔·乔丹于1984年加盟亚特兰大老鹰，新秀赛季场均得到28.2分。"
+    },
+    {
+      "id": "nba-charlotte-north-carolina",
+      "prompt": "This city welcomed the Hornets back in 2004 after their relocation to New Orleans.",
+      "answer": "Charlotte, North Carolina",
+      "lat": 35.2271,
+      "lng": -80.8431,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Hornets"
+      ],
+      "viewLat": 33.5292,
+      "viewLng": -86.1585,
+      "promptZh": "黄蜂队迁往新奥尔良后，于2004年重返这座城市。",
+      "story": "The Charlotte Hornets returned to Charlotte in 2004, two years after the franchise had moved to New Orleans.",
+      "storyZh": "夏洛特黄蜂队在迁往新奥尔良两年后，于2004年重返夏洛特。"
+    },
+    {
+      "id": "nba-washington-district-of-columbia",
+      "prompt": "This city is home to the franchise that won the 1978 NBA championship as the Bullets.",
+      "answer": "Washington, District of Columbia",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Wizards"
+      ],
+      "viewLat": 39.6879,
+      "viewLng": -75.8266,
+      "promptZh": "这座城市的球队曾以子弹队身份夺得1978年NBA总冠军。",
+      "story": "The Washington Bullets won the 1978 NBA championship by defeating the Chicago Bulls in seven games.",
+      "storyZh": "华盛顿子弹队在七场四胜制的总决赛中击败芝加哥公牛，夺得1978年NBA总冠军。"
+    },
+    {
+      "id": "nba-indianapolis-indiana",
+      "prompt": "This city is home to the Pacers, who reached the NBA Finals in 2000.",
+      "answer": "Indianapolis, Indiana",
+      "lat": 39.7684,
+      "lng": -86.1581,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Pacers"
+      ],
+      "viewLat": 38.8674,
+      "viewLng": -87.656,
+      "promptZh": "这座城市的步行者队在2000年闯入了NBA总决赛。",
+      "story": "The Indiana Pacers reached the 2000 NBA Finals and finished one victory short of the championship.",
+      "storyZh": "印第安纳步行者队闯入2000年NBA总决赛，距离总冠军仅差一场胜利。"
+    },
+    {
+      "id": "nba-detroit-michigan",
+      "prompt": "This city is home to the Pistons, whose Bad Boys squads reached three straight NBA Finals.",
+      "answer": "Detroit, Michigan",
+      "lat": 42.3314,
+      "lng": -83.0458,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Pistons"
+      ],
+      "viewLat": 44.5037,
+      "viewLng": -77.07,
+      "promptZh": "这座城市的活塞队坏小子时期连续三次闯入NBA总决赛。",
+      "story": "The Bad Boys Pistons reached three consecutive NBA Finals from 1988 through 1990.",
+      "storyZh": "坏小子活塞队在1988年至1990年间连续三次打进NBA总决赛。"
+    },
+    {
+      "id": "nba-orlando-florida",
+      "prompt": "This city's NBA franchise, the Magic, came three years after the Virginia Beach Squires folded.",
+      "answer": "Orlando, Florida",
+      "lat": 28.5383,
+      "lng": -81.3792,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Magic"
+      ],
+      "viewLat": 23.8649,
+      "viewLng": -87.8011,
+      "promptZh": "该城的NBA魔术队比弗吉尼亚海滩雄鹿队解散时晚三年创立。",
+      "story": "The Orlando Magic began NBA play in 1989–90 and have played at the Kia Center since 2010.",
+      "storyZh": "奥兰多魔术队在1989至1990赛季开始参加NBA，自2010年以来一直在基亚中心主场比赛。"
+    },
+    {
+      "id": "nba-houston-texas",
+      "prompt": "This city's NBA team won back-to-back championship titles in 1994 and 1995.",
+      "answer": "Houston, Texas",
+      "lat": 29.7604,
+      "lng": -95.3698,
+      "scope": "city",
+      "sport": "basketball",
+      "tags": [
+        "NBA",
+        "Rockets"
+      ],
+      "viewLat": 28.9939,
+      "viewLng": -97.2988,
+      "promptZh": "这座城市的球队在1994年和1995年连续夺得总冠军。",
+      "story": "The Summit opened in Houston in 1975 and closed in 2003 after serving as the Rockets' home arena.",
+      "storyZh": "峰顶体育馆于1975年在休斯敦开放，2003年关闭，此前曾作为火箭队的主场。"
+    },
+    {
+      "id": "nba-manila-philippines",
+      "prompt": "This Asian capital hosted the 1954 FIBA World Championship at its main indoor arena.",
+      "answer": "Manila, Philippines",
+      "lat": 14.5995,
+      "lng": 120.9842,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "PBA",
+        "Asia"
+      ],
+      "promptZh": "这座亚洲首都曾举办1954年国际篮联世界锦标赛。",
+      "story": "The 1954 FIBA World Championship was the second men's world championship, and the Soviet Union won gold.",
+      "storyZh": "1954年国际篮联世界锦标赛是第二届男子篮球世界杯，苏联队夺得冠军。"
+    },
+    {
+      "id": "nba-melbourne-australia",
+      "prompt": "This city in the southern hemisphere has a National Basketball League club called the Tigers.",
+      "answer": "Melbourne, Australia",
+      "lat": -37.8136,
+      "lng": 144.9631,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "NBL"
+      ],
+      "promptZh": "这座南半球城市的NBL球队名为猛虎队。",
+      "story": "The Melbourne Tigers joined the National Basketball League during its inaugural 1979 season.",
+      "storyZh": "墨尔本猛虎队在国家篮球联赛创办的首个1979赛季加入赛事。"
+    },
+    {
+      "id": "nba-beijing-china",
+      "prompt": "This capital hosted the 2015 FIBA Asia Champions Cup, won by the national team.",
+      "answer": "Beijing, China",
+      "lat": 39.9042,
+      "lng": 116.4074,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "CBA",
+        "China"
+      ],
+      "promptZh": "这座首都的国家队赢得了2015年国际篮联亚洲冠军杯。",
+      "story": "The 2015 FIBA Asia Champions Cup was played at Beijing's Cadillac Arena from August 29 to September 12.",
+      "storyZh": "2015年国际篮联亚洲冠军杯于8月29日至9月12日在北京的凯迪拉克中心举行。"
+    },
+    {
+      "id": "nba-quezon-city-philippines",
+      "prompt": "This city contains one of the world's largest indoor arenas, known for major basketball events.",
+      "answer": "Quezon City, Philippines",
+      "lat": 14.676,
+      "lng": 121.0437,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "PBA",
+        "Asia"
+      ],
+      "promptZh": "这座城市拥有全球最大的室内篮球馆之一。",
+      "story": "The Araneta Coliseum is located in Quezon City and opened in 1960 with a seating capacity above 15,000.",
+      "storyZh": "阿兰eta体育馆位于奎松市，1960年建成，座位数超过一万五千个。"
+    },
+    {
+      "id": "nba-kaunas-lithuania",
+      "prompt": "This city’s club famously defeated a dominant Italian side to win the 1998 EuroLeague championship.",
+      "answer": "Kaunas, Lithuania",
+      "lat": 54.8985,
+      "lng": 23.9036,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "EuroLeague"
+      ],
+      "promptZh": "该城球队击败意大利劲旅，夺得1998年欧洲篮球冠军。",
+      "story": "Žalgiris Kaunas defeated Kinder Bologna 65–57 in the 1998 EuroLeague final to claim European basketball’s biggest club prize.",
+      "storyZh": "扎利吉里斯在1998年欧洲篮球联赛决赛中以65比57击败金德博洛尼亚，夺得欧洲俱乐部最高荣誉。"
+    },
+    {
+      "id": "nba-belgrade-serbia",
+      "prompt": "This capital’s Partizan side reached the 1996 EuroLeague Final Four in European basketball.",
+      "answer": "Belgrade, Serbia",
+      "lat": 44.7866,
+      "lng": 20.4489,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "EuroLeague"
+      ],
+      "promptZh": "这座首都的游击队曾闯入1996年欧洲篮球联赛四强。",
+      "story": "Partizan defeated Kinder Bologna 76–70 in the 1996 EuroLeague semifinal before reaching the Final Four.",
+      "storyZh": "游击队在1996年欧洲篮球联赛半决赛中以76比70击败金德博洛尼亚，随后闯入四强赛。"
+    },
+    {
+      "id": "nba-siena-italy",
+      "prompt": "This Tuscan city’s club won a record 14 consecutive Italian league titles.",
+      "answer": "Siena, Italy",
+      "lat": 43.3188,
+      "lng": 11.3308,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "EuroLeague"
+      ],
+      "promptZh": "该托斯卡纳城市的球队创下连续14次意大利联赛冠军纪录。",
+      "story": "Siena won 14 consecutive Italian league championships from 1991 through 2004.",
+      "storyZh": "锡耶纳在1991年至2004年间连续赢得14次意大利联赛冠军。"
+    },
+    {
+      "id": "nba-yerevan-armenia",
+      "prompt": "This capital hosted the final four of a FIBA Europe basketball championship.",
+      "answer": "Yerevan, Armenia",
+      "lat": 40.1792,
+      "lng": 44.4991,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "FIBA",
+        "Europe"
+      ],
+      "promptZh": "这座首都曾举办一项欧洲篮球锦标赛的四强赛。",
+      "story": "Yerevan’s Cascade complex underwent a major restoration between 2011 and 2015.",
+      "storyZh": "埃里温的阶梯建筑群在2011年至2015年间进行了全面修复。"
+    },
+    {
+      "id": "nba-lagos-nigeria",
+      "prompt": "This megacity produced the first African player ever selected in the NBA draft, in 1984.",
+      "answer": "Lagos, Nigeria",
+      "lat": 6.5244,
+      "lng": 3.3792,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "FIBA",
+        "Africa"
+      ],
+      "promptZh": "这座大城孕育了首位被NBA选中的非洲球员。",
+      "story": "Hakeem Olajuwon, born in Lagos in 1963, was chosen third overall in the 1984 NBA Draft.",
+      "storyZh": "奥拉朱旺1963年出生于拉各斯，并在1984年NBA选秀中以第三顺位被选中。"
+    },
+    {
+      "id": "nba-johannesburg-south-africa",
+      "prompt": "This city was where the Basketball Africa League was founded to expand professional basketball across the continent.",
+      "answer": "Johannesburg, South Africa",
+      "lat": -26.2041,
+      "lng": 28.0473,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "Basketball Africa League"
+      ],
+      "promptZh": "这座城市是非洲篮球职业联赛的创立之地。",
+      "story": "NBA Africa Games were played in Johannesburg in both 2015 and 2017.",
+      "storyZh": "NBA非洲赛曾于2015年和2017年两度在约翰内斯堡举行。"
+    },
+    {
+      "id": "nfl-kansas-city-missouri-3",
+      "prompt": "This city hosts an AFL franchise whose early leadership included a St. Louis-born scout; its general manager later built three Super Bowl-winning rosters.",
+      "answer": "Kansas City, Missouri",
+      "lat": 39.0997,
+      "lng": -94.5786,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Chiefs"
+      ],
+      "viewLat": 33.7944,
+      "viewLng": -99.076,
+      "promptZh": "这座城市球队有圣路易斯球探，总经理打造三支超级碗冠军队。",
+      "story": "Charles Ramsey, a St. Louis native and longtime scout, served as the Chiefs' first general manager in 1960. Brett Veach later oversaw the roster construction for three Super Bowl championship teams.",
+      "storyZh": "出生于圣路易斯的球探查尔斯·拉姆齐于1960年担任球队首任总经理。布雷特·维奇后来负责组建了三个超级碗冠军队的阵容。"
+    },
+    {
+      "id": "nfl-kansas-city-missouri-4",
+      "prompt": "This city's team won a 51-45 double-overtime thriller in 2019, then the NFL's longest postseason game, under wintry conditions.",
+      "answer": "Kansas City, Missouri",
+      "lat": 39.0997,
+      "lng": -94.5786,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Chiefs"
+      ],
+      "viewLat": 33.7944,
+      "viewLng": -99.076,
+      "promptZh": "这座城市球队赢下2019年NFL最长加时赛，比分51比45。",
+      "story": "On January 13, 2019, Kansas City defeated New England 51-45 in double overtime, setting the record for the longest playoff game in NFL history.",
+      "storyZh": "2019年1月13日，堪萨斯城在双加时赛中以51比45击败新英格兰队，创下当时NFL季后赛单场最长纪录。"
+    },
+    {
+      "id": "nfl-buffalo-new-york-3",
+      "prompt": "This city is home to an NFL team that endured a 17-year postseason drought before returning to the playoffs in 2018.",
+      "answer": "Buffalo, New York",
+      "lat": 42.8864,
+      "lng": -78.8784,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Bills"
+      ],
+      "viewLat": 49.4444,
+      "viewLng": -70.8361,
+      "promptZh": "这座城市的NFL队曾陷17年季后赛荒，2018年重返季后赛。",
+      "story": "The Bills finished the 2018 regular season with a 10-6 record, ending the NFL's longest active playoff drought, and then won a wild-card game in January 2019.",
+      "storyZh": "比尔队在2018赛季取得10胜6负，结束了联盟当时持续时间最长的季后赛荒，并于次年一月份赢下一场外卡赛。"
+    },
+    {
+      "id": "nfl-cleveland-ohio-3",
+      "prompt": "This city's NFL team retired jersey No. 14 for football legend Jim Thorpe, a remarkable athlete and champion.",
+      "answer": "Cleveland, Ohio",
+      "lat": 41.4993,
+      "lng": -81.6944,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Browns"
+      ],
+      "viewLat": 44.0888,
+      "viewLng": -76.1065,
+      "promptZh": "这座城市的NFL队为橄榄球传奇吉姆·索普退役14号球衣。",
+      "story": "Jim Thorpe won Olympic gold medals in 1912 and played professional football for several Cleveland clubs during the mid-1920s.",
+      "storyZh": "吉姆·索普在1912年获得奥运金牌，并在20世纪20年代中期为克利夫兰的数支球队效力。"
+    },
+    {
+      "id": "nfl-cleveland-ohio-4",
+      "prompt": "This city once had the world's busiest lakefront terminal, and its football team lost the inaugural 1946 NFL title game.",
+      "answer": "Cleveland, Ohio",
+      "lat": 41.4993,
+      "lng": -81.6944,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Browns"
+      ],
+      "viewLat": 44.0888,
+      "viewLng": -76.1065,
+      "promptZh": "这座城市曾有世界最繁忙总站，球队输掉1946年NFL冠军赛。",
+      "story": "Cleveland Union Terminal opened in 1930 as the world's largest intercity bus station. In 1946, the Browns lost 24-14 to the Los Angeles Rams in the first NFL Championship Game.",
+      "storyZh": "克利夫兰联合总站于1930年启用，曾是世界上最大的城际公交总站。1946年，布朗队在首场NFL冠军赛中以14比24负于洛杉矶公羊队。"
+    },
+    {
+      "id": "nfl-charlotte-north-carolina-2",
+      "prompt": "This city is home to the Panthers and hosted the NFL Draft in 2019.",
+      "answer": "Charlotte, North Carolina",
+      "lat": 35.2271,
+      "lng": -80.8431,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Panthers"
+      ],
+      "viewLat": 30.2829,
+      "viewLng": -85.1655,
+      "promptZh": "这座城市是黑豹队主场，并在2019年举办了NFL选秀。",
+      "story": "Charlotte hosted the 2019 NFL Draft, with all 32 teams making first-round selections from the convention center.",
+      "storyZh": "2019年NFL选秀在夏洛特举行，32支球队均从会展中心完成首轮挑选。"
+    },
+    {
+      "id": "nfl-cincinnati-ohio-2",
+      "prompt": "This city’s Bengals quarterback threw the only perfect passer rating in Super Bowl history.",
+      "answer": "Cincinnati, Ohio",
+      "lat": 39.1031,
+      "lng": -84.512,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Bengals"
+      ],
+      "viewLat": 34.1188,
+      "viewLng": -88.2435,
+      "promptZh": "这座城市的猛虎队四分卫创下超级碗唯一完美传球效率。",
+      "story": "Cincinnati's Bengals played their first season in 1946 in the American Football Conference.",
+      "storyZh": "辛辛那提猛虎队于1946年首次参加美国橄榄球联盟比赛。"
+    },
+    {
+      "id": "nfl-indianapolis-indiana-2",
+      "prompt": "This city’s Colts won Super Bowl XLI, and it hosts the annual 500-mile race each May.",
+      "answer": "Indianapolis, Indiana",
+      "lat": 39.7684,
+      "lng": -86.1581,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Colts"
+      ],
+      "viewLat": 42.6535,
+      "viewLng": -93.0973,
+      "promptZh": "这座城市的马队赢得41届超级碗，并承办五月500英里赛。",
+      "story": "The Colts defeated the Chicago Bears 29-17 in Super Bowl XLI on February 4, 2007.",
+      "storyZh": "2007年2月4日，马队在第41届超级碗中以29比17击败芝加哥熊队。"
+    },
+    {
+      "id": "nfl-baltimore-maryland-2",
+      "prompt": "This city’s Ravens won Super Bowl XLVII, featuring the infamous Joe Flacco diaper moment.",
+      "answer": "Baltimore, Maryland",
+      "lat": 39.2904,
+      "lng": -76.6122,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Ravens"
+      ],
+      "viewLat": 36.4587,
+      "viewLng": -68.9939,
+      "promptZh": "这座城市的乌鸦赢得第47届超级碗，出现乔弗拉科尿布事件。",
+      "story": "The Ravens forced three turnovers in the 2013 victory, including an interception of Colin Kaepernick.",
+      "storyZh": "乌鸦队在2013年的胜利中制造了三次失误，其中包括拦截科勒·卡佩尼克的传球。"
+    },
+    {
+      "id": "nfl-seattle-washington-2",
+      "prompt": "This city’s Seahawks play in a stadium widely recognized as the NFL’s loudest.",
+      "answer": "Seattle, Washington",
+      "lat": 47.6062,
+      "lng": -122.3321,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Seahawks"
+      ],
+      "viewLat": 44.3591,
+      "viewLng": -127.498,
+      "promptZh": "这座城市的海鹰队主场球场被公认为NFL最响亮。",
+      "story": "Seattle's stadium recorded a noise level of 137 decibels during a 2014 home game.",
+      "storyZh": "2014年的一场主场比赛中，西雅图球场记录了137分贝的噪声。"
+    },
+    {
+      "id": "mlb-anaheim-california",
+      "prompt": "this city is home to the baseball team that retired number 33 for Wally Joyner, nicknamed 'The Big Red Hammer'.",
+      "answer": "Anaheim, California",
+      "lat": 33.8366,
+      "lng": -117.9143,
+      "scope": "city",
+      "sport": "baseball",
+      "tags": [
+        "MLB",
+        "Angels"
+      ],
+      "viewLat": 40.612,
+      "viewLng": -111.5851,
+      "promptZh": "“大红重锤”沃利·乔纳的33号球衣由这座城市的球队退役。",
+      "story": "The Angels retired Wally Joyner's No. 33 on May 7, 2022.",
+      "storyZh": "洛杉矶天使队于2022年5月7日为沃利·乔纳退役了33号球衣。"
+    },
+    {
+      "id": "nba-shanghai-china",
+      "prompt": "this city was home to the basketball club that reached the 2018 CBA Finals.",
+      "answer": "Shanghai, China",
+      "lat": 31.2304,
+      "lng": 121.4737,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "CBA",
+        "China"
+      ],
+      "promptZh": "这座城市的俱乐部打进了2018年CBA总决赛。",
+      "story": "The Shanghai Sharks reached the 2018 CBA Finals and lost the championship series 4–0 to the Liaoning Flying Tigers.",
+      "storyZh": "上海鲨鱼队在2018年CBA总决赛中以0比4负于辽宁本钢队。"
+    },
+    {
+      "id": "nba-barcelona-spain",
+      "prompt": "this city was home to the club that contested the 2019 and 2021 EuroLeague Finals.",
+      "answer": "Barcelona, Spain",
+      "lat": 41.3874,
+      "lng": 2.1686,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "EuroLeague"
+      ],
+      "promptZh": "这座城市的俱乐部打进2019和2021年欧洲总决赛。",
+      "story": "FC Barcelona appeared in the 2019, 2021 and 2022 EuroLeague Finals and won the championship in both 2021 and 2022.",
+      "storyZh": "巴塞罗那篮球俱乐部参加了2019、2021和2022年欧洲联赛总决赛，并在2021年和2022年两次夺冠。"
+    },
+    {
+      "id": "nba-bayern-germany",
+      "prompt": "this city is home to the basketball club that won the 2014 German Bundesliga championship.",
+      "answer": "Bayern, Germany",
+      "lat": 48.7904,
+      "lng": 11.4967,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "EuroLeague"
+      ],
+      "promptZh": "这座城市的篮球队赢得2014年德国篮球甲级联赛冠军。",
+      "story": "FC Bayern Munich beat the Fraport Skyliners 3–1 in the 2014 Bundesliga Finals.",
+      "storyZh": "拜仁慕尼黑篮球队在2014年德国篮球甲级联赛总决赛中以3比1击败法兰克福天行者队。"
+    },
+    {
+      "id": "nba-athens-greece",
+      "prompt": "this capital hosted Panathinaikos' 2002 EuroLeague title victory in a home final.",
+      "answer": "Athens, Greece",
+      "lat": 37.9838,
+      "lng": 23.7275,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "EuroLeague"
+      ],
+      "promptZh": "这座首都见证了泛雅典尼科斯2002年欧洲联赛主场夺冠。",
+      "story": "Panathinaikos defeated Kinder Bologna 94–80 in the 2002 EuroLeague final.",
+      "storyZh": "泛雅典尼科斯队在2002年欧洲联赛决赛中以94比80击败博洛尼亚基尔德队。"
+    },
+    {
+      "id": "nba-turin-italy",
+      "prompt": "This northern Italian city was the birthplace of the Benetton company whose namesake basketball club reached the 1998 EuroLeague Final Four.",
+      "answer": "Turin, Italy",
+      "lat": 45.0703,
+      "lng": 7.6869,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "EuroLeague"
+      ],
+      "promptZh": "本尼顿源于这座城市，其同名球队打进1998年欧篮四强赛。",
+      "story": "Benetton opened its first store in Turin in 1965; its namesake club, Benetton Treviso, reached the 1998 EuroLeague Final Four.",
+      "storyZh": "本尼顿于1965年在都灵开设首家门店，其同名球队特雷维索篮球队随后打进1998年欧洲联赛四强赛。"
+    },
+    {
+      "id": "nba-limassol-cyprus",
+      "prompt": "This island's second-largest city is home to a basketball club that reached the EuroCup final.",
+      "answer": "Limassol, Cyprus",
+      "lat": 34.7071,
+      "lng": 33.0226,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "EuroCup"
+      ],
+      "promptZh": "这座岛屿的第二大城市，有俱乐部打进欧洲篮球联赛决赛。",
+      "story": "AEL Limassol defeated Herbalife Gran Canaria 88–73 in the 2012 EuroCup final, winning the club's first European title.",
+      "storyZh": "利马索尔篮球俱乐部在2012年欧洲杯决赛中以88比73击败赫拉利夫格拉纳纳利卡，赢得队史首个欧洲冠军。"
+    },
+    {
+      "id": "nba-sofia-bulgaria",
+      "prompt": "This Balkan capital is home to a basketball club that reached the 1999 EuroCup final.",
+      "answer": "Sofia, Bulgaria",
+      "lat": 42.6977,
+      "lng": 23.3219,
+      "scope": "world",
+      "sport": "basketball",
+      "tags": [
+        "EuroLeague"
+      ],
+      "promptZh": "这座巴尔干首都的球队曾打进1999年欧洲杯决赛。",
+      "story": "CSKA Sofia defeated Kinder Bologna 92–82 in the EuroCup final to claim the 1999 title.",
+      "storyZh": "索菲亚中央陆军队在欧洲杯决赛中以92比82击败金德博洛尼亚，夺得1999年冠军。"
+    },
+    {
+      "id": "nhl-detroit-michigan",
+      "prompt": "This city, nicknamed Hockeytown, is home to a team that won 11 Stanley Cups.",
+      "answer": "Detroit, Michigan",
+      "lat": 42.3314,
+      "lng": -83.0458,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Red Wings"
+      ],
+      "viewLat": 47.1921,
+      "viewLng": -76.4675,
+      "promptZh": "这座被称为冰球城的城市，其主队赢得11次斯坦利杯。",
+      "story": "The Red Wings began playing at Little Caesars Arena in 1997, reflecting Detroit's long-standing hockey tradition.",
+      "storyZh": "红翼队自1997年起在李 Caesars 竞技场比赛，这 reflects 了底特律深厚的冰球传统。"
+    },
+    {
+      "id": "nhl-montreal-quebec",
+      "prompt": "This city is home to the Canadiens, who won the 1976 Stanley Cup, their first in 41 years.",
+      "answer": "Montreal, Quebec",
+      "lat": 45.5017,
+      "lng": -73.5673,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Canadiens"
+      ],
+      "viewLat": 49.5226,
+      "viewLng": -78.0698,
+      "promptZh": "这座城市主队赢得1976年斯坦利杯，41年后再夺冠。",
+      "story": "Founded in 1909, the Montreal Canadiens have won a record 24 Stanley Cups overall.",
+      "storyZh": "蒙特利尔加拿大人队成立于1909年，共赢得创纪录的24次斯坦利杯。"
+    },
+    {
+      "id": "nhl-toronto-ontario",
+      "prompt": "This city is home to the Maple Leafs, a hockey club originally called the St. Patricks.",
+      "answer": "Toronto, Ontario",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Maple Leafs"
+      ],
+      "viewLat": 38.6742,
+      "viewLng": -84.2348,
+      "promptZh": "这座城市的主队原名圣帕特里克队，后来以枫叶队闻名。",
+      "story": "The team adopted the Maple Leafs name in 1927 and has won 13 Stanley Cups.",
+      "storyZh": "该队在1927年改名为枫叶队，此后共赢得13次斯坦利杯。"
+    },
+    {
+      "id": "nhl-new-york-city-new-york",
+      "prompt": "This city is home to the Rangers, whose home arena overlooks the city's famed public square.",
+      "answer": "New York City, New York",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Rangers"
+      ],
+      "viewLat": 45.3276,
+      "viewLng": -79.1159,
+      "promptZh": "这座城市是流浪者队主场，其球馆俯瞰市内著名公共广场。",
+      "story": "The Rangers have occupied Madison Square Garden since 1995 and hosted outdoor NHL games there in 1998, 2000, 2003, and 2012.",
+      "storyZh": "流浪者队自1995年起使用麦迪逊广场花园，并曾于1998年、2000年、2003年和2012年在那里举办户外冰球赛。"
+    },
+    {
+      "id": "nhl-chicago-illinois",
+      "prompt": "The Blackhawks ended a 49-year wait in this city by winning the 2010 Stanley Cup.",
+      "answer": "Chicago, Illinois",
+      "lat": 41.8781,
+      "lng": -87.6298,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Blackhawks"
+      ],
+      "viewLat": 45.4248,
+      "viewLng": -80.1754,
+      "promptZh": "这座城市的黑鹰队结束49年等待，夺得2010年斯坦利杯。",
+      "story": "Chicago hosted the 1996 Summer Olympics, and the city's NHL franchise began play in 1926.",
+      "storyZh": "芝加哥于1996年主办夏季奥运会，该市的NHL球队于1926年开始征战。"
+    },
+    {
+      "id": "nhl-boston-massachusetts",
+      "prompt": "The Bruins won the 2011 Stanley Cup in this city during the league's 100th season.",
+      "answer": "Boston, Massachusetts",
+      "lat": 42.3601,
+      "lng": -71.0589,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Bruins"
+      ],
+      "viewLat": 37.7643,
+      "viewLng": -67.2557,
+      "promptZh": "百周年赛季，棕熊队在这座城市夺得2011年斯坦利杯。",
+      "story": "Boston has hosted the NHL All-Star Game three times, in 1974, 1990, and 1996.",
+      "storyZh": "波士顿分别于1974年、1990年和1996年三次举办NHL全明星赛。"
+    },
+    {
+      "id": "nhl-philadelphia-pennsylvania",
+      "prompt": "The Flyers won consecutive Stanley Cups in this city in 1974 and 1975.",
+      "answer": "Philadelphia, Pennsylvania",
+      "lat": 39.9526,
+      "lng": -75.1652,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Flyers"
+      ],
+      "viewLat": 43.6889,
+      "viewLng": -79.1575,
+      "promptZh": "飞鹰队在这座城市连夺1974年和1975年斯坦利杯。",
+      "story": "Philadelphia hosted the NHL All-Star Game in 1976, 1978, 1992, and 2016.",
+      "storyZh": "费城分别于1976年、1978年、1992年和2016年举办NHL全明星赛。"
+    },
+    {
+      "id": "nhl-pittsburgh-pennsylvania",
+      "prompt": "The Penguins won the 1991 Stanley Cup in this city, sweeping the final four games without conceding a goal.",
+      "answer": "Pittsburgh, Pennsylvania",
+      "lat": 40.4406,
+      "lng": -79.9959,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Penguins"
+      ],
+      "viewLat": 37.4249,
+      "viewLng": -86.9211,
+      "promptZh": "企鹅队在这座城市赢得1991年斯坦利杯，决赛四场均未失球。",
+      "story": "Pittsburgh's Civic Arena hosted the NHL All-Star Game in 1991 and 1992.",
+      "storyZh": "匹兹堡的市政竞技场曾于1991年和1992年举办NHL全明星赛。"
+    },
+    {
+      "id": "nhl-edmonton-alberta",
+      "prompt": "This city hosts the Oilers and sits beside the vast northern oil sands.",
+      "answer": "Edmonton, Alberta",
+      "lat": 53.5461,
+      "lng": -113.4938,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Oilers"
+      ],
+      "viewLat": 48.0047,
+      "viewLng": -107.5083,
+      "promptZh": "这座城市是油人队主场，紧邻广阔的北部油砂区。",
+      "story": "Edmonton is Alberta's capital and the largest city in the province.",
+      "storyZh": "埃德蒙顿是艾伯塔省的省会，也是该省最大的城市。"
+    },
+    {
+      "id": "nhl-vancouver-british-columbia",
+      "prompt": "This city hosts an NHL franchise and was where Canada’s women won 2010 Winter Olympic hockey gold.",
+      "answer": "Vancouver, British Columbia",
+      "lat": 49.2827,
+      "lng": -123.1207,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Canucks"
+      ],
+      "viewLat": 52.8666,
+      "viewLng": -130.4607,
+      "promptZh": "这座城市有NHL球队，2010年加拿大女冰在此夺得冬奥金牌。",
+      "story": "Vancouver was the first city outside Europe to host a Winter Olympics, in 2010.",
+      "storyZh": "温哥华是首个举办冬奥会的非欧洲城市，举办年份为2010年。"
+    },
+    {
+      "id": "nhl-winnipeg-manitoba",
+      "prompt": "This city became the home of a team that returned to the NHL in 2011 after a fifteen-year absence.",
+      "answer": "Winnipeg, Manitoba",
+      "lat": 49.8951,
+      "lng": -97.1384,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Jets"
+      ],
+      "viewLat": 44.7406,
+      "viewLng": -100.5673,
+      "promptZh": "球队在结束15年空窗后，于2011年重返NHL并来到这座城市。",
+      "story": "The current Winnipeg Jets franchise was based in Atlanta from 1997 until moving to Winnipeg in 2011. The club's original Winnipeg incarnation played in the NHL from 1979 to 1996.",
+      "storyZh": "现温尼伯喷气机队曾在亚特兰大停留至2011年，随后迁回温尼伯。最初的温尼伯喷气机队曾于1979年至1996年在NHL效力。"
+    },
+    {
+      "id": "nhl-ottawa-ontario",
+      "prompt": "This city is home to a hockey club whose predecessor won the Stanley Cup in 1920.",
+      "answer": "Ottawa, Ontario",
+      "lat": 45.4215,
+      "lng": -75.6972,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Senators"
+      ],
+      "viewLat": 39.6764,
+      "viewLng": -72.0186,
+      "promptZh": "球队前身在1920年赢得斯坦利杯，这座城市是其主场。",
+      "story": "The original Ottawa Senators won the Stanley Cup in 1920 after defeating the Seattle Metropolitans in the final. The present-day Senators franchise began playing in 1992.",
+      "storyZh": "最初的渥太华参议员队在1920年决赛中击败西雅图都会队，赢得斯坦利杯。现有参议员队则于1992年开始征战。"
+    },
+    {
+      "id": "nhl-quebec-city-quebec",
+      "prompt": "This city was home to a hockey franchise whose players earned the Hart Trophy in 1983 and an Adams Cup.",
+      "answer": "Quebec City, Quebec",
+      "lat": 46.8139,
+      "lng": -71.208,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Nordiques"
+      ],
+      "viewLat": 43.0516,
+      "viewLng": -78.5469,
+      "promptZh": "球队1983年赢得哈特杯和亚当斯杯，这座城市曾是其主场。",
+      "story": "The Quebec Nordiques won the Hart Memorial Trophy in 1983 for the first time. They had previously captured the Adams Cup in 1982 and relocated to Denver in 1995.",
+      "storyZh": "魁北克北方人队于1983年首次赢得哈特纪念奖杯。球队此前在1982年赢得亚当斯杯，并于1995年迁往丹佛。"
+    },
+    {
+      "id": "nhl-columbus-ohio",
+      "prompt": "This city is home to the NHL's newest expansion franchise, which began play in 2000.",
+      "answer": "Columbus, Ohio",
+      "lat": 39.9612,
+      "lng": -82.9988,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Blue Jackets"
+      ],
+      "viewLat": 37.2183,
+      "viewLng": -78.8542,
+      "promptZh": "NHL最新扩张球队于2000年开赛，主场在这座城市。",
+      "story": "The Columbus Blue Jackets began NHL play in 2000 as one of the league's two expansion clubs admitted in 1999. They were established with the support of Ohio's hockey community.",
+      "storyZh": "哥伦布蓝 Jacket 队于2000年首次征战NHL，是联盟1999年接纳的两支扩张球队之一。球队成立时获得了俄亥俄州冰球社群的支持。"
+    },
+    {
+      "id": "nhl-nashville-tennessee",
+      "prompt": "This city is home to a hockey team that relocated from Atlanta and began play here in 1998.",
+      "answer": "Nashville, Tennessee",
+      "lat": 36.1627,
+      "lng": -86.7816,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Predators"
+      ],
+      "viewLat": 32.3722,
+      "viewLng": -93.9712,
+      "promptZh": "球队1998年从亚特兰大迁来，主场就在这座城市。",
+      "story": "The Nashville Predators franchise began as the Atlanta Thrashers in 1992. It relocated to Nashville in 1998 and adopted the Predators name that summer.",
+      "storyZh": "纳什维尔掠食者队的前身于1992年在亚特兰大成立。球队在1998年迁至纳什维尔，并于当年夏天采用掠食者队名。"
+    },
+    {
+      "id": "nhl-dallas-texas",
+      "prompt": "This city is home to a hockey team that relocated from Minnesota and began play here in 1993.",
+      "answer": "Dallas, Texas",
+      "lat": 32.7767,
+      "lng": -96.797,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Stars"
+      ],
+      "viewLat": 26.5484,
+      "viewLng": -90.5284,
+      "promptZh": "球队1993年从明尼苏达迁来，主场就在这座城市。",
+      "story": "The Minnesota North Stars relocated to Dallas in 1993 and adopted the Stars name that season. The team has continued playing in the Dallas area since then.",
+      "storyZh": "明尼苏达北方星队于1993年迁至达拉斯，并在当赛季改名为达拉斯星队。此后球队一直留在达拉斯地区参赛。"
+    },
+    {
+      "id": "nhl-anaheim-california",
+      "prompt": "This city became home to the NHL's 2007 Stanley Cup champions, who are known as the Ducks.",
+      "answer": "Anaheim, California",
+      "lat": 33.8366,
+      "lng": -117.9143,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Ducks"
+      ],
+      "viewLat": 40.612,
+      "viewLng": -111.5851,
+      "promptZh": "这座城市是2007年斯坦利杯冠军“鸭队”的主场。",
+      "story": "Anaheim's Honda Center opened in 1993 and has a seating capacity of about 17,500.",
+      "storyZh": "阿纳海姆的本田中心球馆于1993年开放，座位容量约为17500个。"
+    },
+    {
+      "id": "nhl-seattle-washington",
+      "prompt": "This city is home to the Kraken, the NHL franchise that began playing in the Pacific Northwest in 2021.",
+      "answer": "Seattle, Washington",
+      "lat": 47.6062,
+      "lng": -122.3321,
+      "scope": "city",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Kraken"
+      ],
+      "viewLat": 44.3591,
+      "viewLng": -127.498,
+      "promptZh": "这座城市是2021年加盟NHL的“kraken队”所在地。",
+      "story": "The Seattle Kraken won their first Stanley Cup in 2023, four years after entering the league.",
+      "storyZh": "西雅图海妖队在加入联盟四年后，于2023年赢得了队史首个斯坦利杯。"
+    },
+    {
+      "id": "nhl-calgary-alberta",
+      "prompt": "This city is home to the Flames, who won the 1989 Stanley Cup as an Alberta team.",
+      "answer": "Calgary, Alberta",
+      "lat": 51.0447,
+      "lng": -114.0719,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Flames"
+      ],
+      "promptZh": "这座城市是1989年斯坦利杯冠军“火焰队”的主场。",
+      "story": "Calgary's Olympic Plaza was developed for the 1988 Winter Olympics and hosted major Olympic events.",
+      "storyZh": "卡尔加里的奥林匹克广场为1988年冬奥会而建，并承办了多项奥运赛事。"
+    },
+    {
+      "id": "nhl-stockholm-sweden",
+      "prompt": "This capital hosted the first IIHF World Championship in 1920, which was won by a host-nation club.",
+      "answer": "Stockholm, Sweden",
+      "lat": 59.3293,
+      "lng": 18.0686,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "KHL"
+      ],
+      "promptZh": "这座首都举办了1920年首届世锦赛，东道主俱乐部夺冠。",
+      "story": "King Birger Jarl is traditionally credited with founding Stockholm in 1252.",
+      "storyZh": "国王比尔格·雅尔通常被认为于1252年建立了斯德哥尔摩。"
+    },
+    {
+      "id": "nhl-moscow-russia",
+      "prompt": "This capital was the home of the Red Army team that won the 1972 Summit Series.",
+      "answer": "Moscow, Russia",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "KHL"
+      ],
+      "promptZh": "这座首都是1972年巅峰系列赛冠军红军队的所在地。",
+      "story": "The Moscow Kremlin and Red Square were designated a UNESCO World Heritage Site in 1990.",
+      "storyZh": "莫斯科克里姆林宫和红场于1990年被列为联合国教科文组织世界遗产。"
+    },
+    {
+      "id": "nhl-prague-czech-republic",
+      "prompt": "This capital was home to the national team that won the 1998 IIHF World Championship.",
+      "answer": "Prague, Czech Republic",
+      "lat": 50.0755,
+      "lng": 14.4378,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "KHL"
+      ],
+      "promptZh": "这座首都球队代表国家赢得了1998年世界冰球锦标赛。",
+      "story": "Prague's historic centre was inscribed on the UNESCO World Heritage List in 1992.",
+      "storyZh": "布拉格历史中心于1992年被列入联合国教科文组织世界遗产名录。"
+    },
+    {
+      "id": "nhl-helsinki-finland",
+      "prompt": "This capital hosted the Ice Hockey World Championships in both 1952 and 2022.",
+      "answer": "Helsinki, Finland",
+      "lat": 60.1699,
+      "lng": 24.9384,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "Liiga"
+      ],
+      "promptZh": "这座首都曾在1952年和2022年举办冰球世锦赛。",
+      "story": "Helsinki was designated a European Capital of Culture in 2000.",
+      "storyZh": "赫尔辛基于2000年获评为欧洲文化之都。"
+    },
+    {
+      "id": "nhl-krefeld-germany",
+      "prompt": "This city’s professional ice hockey club won the 1995 DEL championship title.",
+      "answer": "Krefeld, Germany",
+      "lat": 51.3304,
+      "lng": 6.4437,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "DEL"
+      ],
+      "promptZh": "这座城市的职业冰球队曾赢得1995年DEL冠军。",
+      "story": "Krefeld’s first German championship came in 1910, and the club later won four DEL titles.",
+      "storyZh": "克雷费尔德首次夺得德国冠军是在1910年，后来共四次赢得DEL冠军。"
+    },
+    {
+      "id": "nhl-kassel-germany",
+      "prompt": "This city’s professional ice hockey club won the inaugural DEL championship in 1994.",
+      "answer": "Kassel, Germany",
+      "lat": 51.3127,
+      "lng": 9.4797,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "DEL"
+      ],
+      "promptZh": "这座城市的职业冰球队赢得1994年首届DEL冠军。",
+      "story": "Kassel’s arena opened in 1938 and was renovated for the 2010 Ice Hockey World Championship.",
+      "storyZh": "卡塞尔冰球场于1938年启用，并为2010年冰球世锦赛进行了翻修。"
+    },
+    {
+      "id": "nhl-tampa-florida",
+      "prompt": "This city’s team won consecutive Stanley Cup championships in 2020 and 2021.",
+      "answer": "Tampa, Florida",
+      "lat": 27.9506,
+      "lng": -82.4572,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Lightning"
+      ],
+      "promptZh": "这座城市的球队连续赢得2020年、2021年斯坦利杯。",
+      "story": "Amalie Arena opened in 1991 and seats roughly 19,000 spectators for hockey games.",
+      "storyZh": "阿马利竞技场于1991年启用，冰球赛事容量约为1.9万人。"
+    },
+    {
+      "id": "nhl-wilmington-delaware",
+      "prompt": "This city hosts the minor league hockey team known as the Blue Rocks.",
+      "answer": "Wilmington, Delaware",
+      "lat": 39.7391,
+      "lng": -75.5398,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Minor League"
+      ],
+      "promptZh": "这座城市是蓝石队进行小联盟冰球比赛的所在地。",
+      "story": "The Blue Rocks franchise began play in 1996 and relocated to Frawley Stadium in 2014.",
+      "storyZh": "蓝石队于1996年开始参赛，并于2014年迁入弗劳利体育场。"
+    },
+    {
+      "id": "nhl-grand-rapids-michigan",
+      "prompt": "This city’s American Hockey League team, the Griffins, won the Calder Cup championship.",
+      "answer": "Grand Rapids, Michigan",
+      "lat": 42.9634,
+      "lng": -85.6681,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "AHL"
+      ],
+      "promptZh": "这座城市的美国冰球联盟球队灰熊队曾赢得卡尔德杯。",
+      "story": "Van Andel Arena opened in 1999 and has a hockey capacity of 10,334 spectators.",
+      "storyZh": "范安德尔竞技场于1999年启用，冰球容量为10,334人。"
+    },
+    {
+      "id": "nhl-victoria-british-columbia",
+      "prompt": "This city’s junior hockey team won the Memorial Cup, helping establish its place in Canadian hockey history.",
+      "answer": "Victoria, British Columbia",
+      "lat": 48.4284,
+      "lng": -123.3656,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "WHL"
+      ],
+      "promptZh": "这座城市的青年队曾赢得纪念杯，写下冰球史上的重要篇章。",
+      "story": "The Victoria Cougars captured the 1975 Memorial Cup, becoming a notable junior hockey champion from British Columbia.",
+      "storyZh": "维多利亚美洲狮队夺得了1975年纪念杯，成为不列颠哥伦比亚省著名的青年冰球冠军。"
+    },
+    {
+      "id": "nhl-windsor-ontario",
+      "prompt": "This city’s junior club is nicknamed the Spitfires and has won several Memorial Cup championships.",
+      "answer": "Windsor, Ontario",
+      "lat": 42.3149,
+      "lng": -83.0364,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "CHL"
+      ],
+      "promptZh": "这座城市的青年俱乐部昵称“喷火战机队”，曾多次夺得纪念杯。",
+      "story": "The Windsor Spitfires won the Memorial Cup in 2017 and also captured the title in 2010.",
+      "storyZh": "温莎喷火战机队曾赢得2017年纪念杯，并在2010年再次夺冠。"
+    },
+    {
+      "id": "nhl-canada",
+      "prompt": "This country regards ice hockey as its national sport, and its donor-named championship trophy is inscribed with winning teams’ names.",
+      "answer": "Canada",
+      "lat": 56.1304,
+      "lng": -106.3468,
+      "scope": "country",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL"
+      ],
+      "promptZh": "这个国家视冰球为民族运动，以捐赠者命名的奖杯刻有夺冠队名。",
+      "story": "The Stanley Cup was donated by Lord Stanley of Preston in 1892, and the Montreal Victorias became its first winner in 1893.",
+      "storyZh": "斯坦利杯由普雷斯顿勋爵斯坦利于1892年捐赠，蒙特利尔维多利亚队成为首届冠军。"
+    },
+    {
+      "id": "nhl-sweden",
+      "prompt": "This country has earned nine Ice Hockey World Championship gold medals, making it one of the sport’s leading powers.",
+      "answer": "Sweden",
+      "lat": 60.1282,
+      "lng": 18.6435,
+      "scope": "country",
+      "sport": "ice hockey",
+      "tags": [
+        "IIHF"
+      ],
+      "promptZh": "这个国家已赢得九次冰球世锦赛冠军，是这项运动的强国之一。",
+      "story": "Sweden has won nine IIHF World Championship gold medals, including titles in 1953, 1982, and 2013.",
+      "storyZh": "瑞典共九次夺得国际冰联世界锦标赛金牌，其中包括1953年、1982年和2013年的冠军。"
+    },
+    {
+      "id": "nhl-russia",
+      "prompt": "This country dominated Olympic ice hockey in the post-Soviet era, accumulating multiple gold medals for its national teams.",
+      "answer": "Russia",
+      "lat": 61.524,
+      "lng": 105.3188,
+      "scope": "country",
+      "sport": "ice hockey",
+      "tags": [
+        "KHL"
+      ],
+      "promptZh": "这个国家在苏联解体后统治了奥运冰球，多次夺得金牌。",
+      "story": "Russia’s men’s national team won Olympic ice hockey gold in 2008 and 2014, exemplifying the country’s post-Soviet dominance.",
+      "storyZh": "俄罗斯男子国家队在2008年和2014年两度夺得奥运冰球金牌，体现了苏联解体后的统治力。"
+    },
+    {
+      "id": "nhl-finland",
+      "prompt": "This country’s “Flying Finns” dominated Olympic ice hockey in the 1920s, winning gold at two Games.",
+      "answer": "Finland",
+      "lat": 61.9241,
+      "lng": 25.7482,
+      "scope": "country",
+      "sport": "ice hockey",
+      "tags": [
+        "Liiga"
+      ],
+      "promptZh": "这个国家的“飞翔芬兰人”曾称霸奥运冰球，夺得两届冠军。",
+      "story": "Finland won Olympic ice hockey gold in 1920 and 1928, when its teams became known as the Flying Finns.",
+      "storyZh": "芬兰在1920年和1928年两届奥运会上夺得冰球冠军，其球队也被称为“飞翔芬兰人”。"
+    },
+    {
+      "id": "soccer-madrid-spain",
+      "prompt": "This capital was home to the club that won the inaugural European Cup in 1956.",
+      "answer": "Madrid, Spain",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Real Madrid"
+      ],
+      "viewLat": 35.2403,
+      "viewLng": -6.7562,
+      "promptZh": "这座首都是赢得首届欧洲杯的俱乐部的主场。",
+      "story": "Philip II moved the royal court here from Valladolid in 1561, making the city Spain's permanent capital.",
+      "storyZh": "腓力二世于1561年将王室从巴利亚多利德迁至此处，使这座城市成为西班牙的永久首都。"
+    },
+    {
+      "id": "soccer-madrid-spain-2",
+      "prompt": "This capital is home to Los Colchoneros, whose first shirt was sewn on the same street as their current stadium.",
+      "answer": "Madrid, Spain",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Atletico"
+      ],
+      "viewLat": 35.2403,
+      "viewLng": -6.7562,
+      "promptZh": "床单军团所在的这座城市，首件球衣就在现球场街道缝制。",
+      "story": "Atlético Madrid was founded in 1903, and its first official match was played that year.",
+      "storyZh": "马竞于1903年成立，并在同年踢响了首场正式比赛。"
+    },
+    {
+      "id": "soccer-barcelona-spain",
+      "prompt": "This city is home to the club whose \"Mès que un club\" motto means \"more than a club.\"",
+      "answer": "Barcelona, Spain",
+      "lat": 41.3874,
+      "lng": 2.1686,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Barcelona"
+      ],
+      "viewLat": 44.1232,
+      "viewLng": 9.3154,
+      "promptZh": "这座加泰罗尼亚城市的俱乐部格言意为“不只是俱乐部”。",
+      "story": "Camp Nou opened in 1957 and hosted the 2009 UEFA Champions League final.",
+      "storyZh": "诺坎普球场于1957年启用，并举办了2009年欧洲冠军联赛决赛。"
+    },
+    {
+      "id": "soccer-manchester-england",
+      "prompt": "This city is home to the team that won the inaugural Premier League season in 1993.",
+      "answer": "Manchester, England",
+      "lat": 53.4808,
+      "lng": -2.2426,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "United"
+      ],
+      "viewLat": 58.5744,
+      "viewLng": -7.534,
+      "promptZh": "这座城市的球队赢得了1993年首届英超冠军。",
+      "story": "Old Trafford has a capacity of 74,310 and staged the 2008 UEFA Champions League final.",
+      "storyZh": "老特拉福德球场可容纳74,310名观众，并曾举办2008年欧洲冠军联赛决赛。"
+    },
+    {
+      "id": "soccer-liverpool-england",
+      "prompt": "This port city is home to the team that won the 1964 European Cup.",
+      "answer": "Liverpool, England",
+      "lat": 53.4084,
+      "lng": -2.9916,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Liverpool"
+      ],
+      "viewLat": 50.2422,
+      "viewLng": -6.71,
+      "promptZh": "这座港口城市的球队曾赢得1964年欧洲杯。",
+      "story": "Anfield opened in 1884 and is among the oldest football stadiums still in use in England.",
+      "storyZh": "安菲尔德球场于1884年启用，是英格兰仍在使用的最古老足球场之一。"
+    },
+    {
+      "id": "soccer-milan-italy",
+      "prompt": "This city is home to the Rossoneri, whose 1963 European Cup final attracted an estimated television audience of 150 million.",
+      "answer": "Milan, Italy",
+      "lat": 45.4642,
+      "lng": 9.19,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "AC Milan"
+      ],
+      "viewLat": 40.3791,
+      "viewLng": 5.2271,
+      "promptZh": "这座城市的主场球队，1963年欧洲杯收视约1.5亿。",
+      "story": "San Siro hosted the opening match of the 1990 FIFA World Cup, a 1–1 draw between Italy and Cameroon.",
+      "storyZh": "圣西罗球场举办了1990年世界杯揭幕战，意大利队与喀麦隆队以1比1战平。"
+    },
+    {
+      "id": "soccer-munich-germany",
+      "prompt": "This city is home to Europe's most successful football club and hosted the 2006 World Cup final.",
+      "answer": "Munich, Germany",
+      "lat": 48.1351,
+      "lng": 11.582,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Bayern"
+      ],
+      "viewLat": 54.5289,
+      "viewLng": 16.4112,
+      "promptZh": "这座城市是豪门所在地，也是06年世界杯决赛举办地。",
+      "story": "The Allianz Arena opened in 2005 and has a capacity of 75,024. It has hosted numerous UEFA Champions League finals.",
+      "storyZh": "安联球场于2005年启用，可容纳75024名观众，并曾举办多场欧洲冠军联赛决赛。"
+    },
+    {
+      "id": "soccer-rio-de-janeiro-brazil",
+      "prompt": "This city hosted the 1950 World Cup final, where the home side lost, and is based for a major red-and-black club.",
+      "answer": "Rio de Janeiro, Brazil",
+      "lat": -22.9068,
+      "lng": -43.1729,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Flamengo"
+      ],
+      "viewLat": -26.9665,
+      "viewLng": -39.1882,
+      "promptZh": "这里有红黑军团主场，也是1950年世界杯决赛举办地。",
+      "story": "Flamengo was founded on July 5, 1895, as Fluminense Football Club. It adopted its current name in 1914 and has won more Campeonato Carioca titles than any club.",
+      "storyZh": "弗拉门戈足球俱乐部于1895年7月5日成立，曾名弗拉门迪诺足球俱乐部，1914年改为现名，并创造了州甲联赛夺冠次数纪录。"
+    },
+    {
+      "id": "soccer-buenos-aires-argentina",
+      "prompt": "This city is home to a famous blue-and-yellow club and saw Maradona's Hand of God goal in 1986.",
+      "answer": "Buenos Aires, Argentina",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Boca"
+      ],
+      "viewLat": -39.4214,
+      "viewLng": -52.1954,
+      "promptZh": "这里是蓝黄军团主场，1986年曾出现上帝之手进球。",
+      "story": "Boca Juniors was founded in 1905 and has won the Copa Libertadores nine times, the highest total for an Argentine club. Its home ground is La Bombalera.",
+      "storyZh": "博卡青年足球俱乐部成立于1905年，累计九次赢得南美解放者杯，保持阿根廷俱乐部纪录，其主场是 bombedera球场。"
+    },
+    {
+      "id": "soccer-lisbon-portugal",
+      "prompt": "This city is home to Benfica, who surrendered a 2–0 Champions League final lead in 2017.",
+      "answer": "Lisbon, Portugal",
+      "lat": 38.7223,
+      "lng": -9.1393,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Benfica"
+      ],
+      "viewLat": 45.1257,
+      "viewLng": -3.1732,
+      "promptZh": "这座城市的主场球队曾在2017年欧冠决赛中痛失领先。",
+      "story": "Sport Lisboa e Benfica was founded in 1904 and has won five European Cups. Its 1962 European Cup final ended in a 6–5 victory over Real Madrid.",
+      "storyZh": "里斯本竞技足球俱乐部成立于1904年，共五次夺得欧洲冠军，并在1962年欧洲杯决赛中以6比5击败皇家马德里。"
+    },
+    {
+      "id": "soccer-istanbul-turkey",
+      "prompt": "This city's intercontinental derby features clubs from Europe and Asia and boasts a team across three continents.",
+      "answer": "Istanbul, Turkey",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Galatasaray"
+      ],
+      "viewLat": 35.0285,
+      "viewLng": 23.3351,
+      "promptZh": "这座城市拥有横跨欧亚的同城德比，还有球队遍布三大洲。",
+      "story": "Istanbul is the only major city spanning two continents. The Bosphorus Bridge opened in 1973 and connects the European and Asian sides.",
+      "storyZh": "伊斯坦布尔是唯一横跨两大洲的主要城市，博斯普鲁斯大桥于1973年通车，连接城市的欧洲与亚洲部分。"
+    },
+    {
+      "id": "soccer-cairo-egypt",
+      "prompt": "This city is home to Al Ahly, the club with more African continental titles than any other.",
+      "answer": "Cairo, Egypt",
+      "lat": 30.0444,
+      "lng": 31.2357,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Africa"
+      ],
+      "viewLat": 23.1426,
+      "viewLng": 34.9061,
+      "promptZh": "这座城市是阿赫利主场，该队获得的非洲冠军数冠绝群雄。",
+      "story": "Cairo Tower opened in 1931 and rises 187 metres above the city. It was built as part of the development of Nasr City.",
+      "storyZh": "开罗塔于1931年正式启用，高187米，是纳斯尔城发展规划中修建的地标之一。"
+    },
+    {
+      "id": "soccer-dakar-senegal",
+      "prompt": "This city hosted the 2021 Africa Cup of Nations final at its national football stadium.",
+      "answer": "Dakar, Senegal",
+      "lat": 14.7167,
+      "lng": -17.4677,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Africa"
+      ],
+      "viewLat": 12.2098,
+      "viewLng": -13.321,
+      "promptZh": "这座城市举办了2021年非洲国家杯决赛。",
+      "story": "Founded as a French colonial settlement in the 17th century, Dakar developed around a major Atlantic harbor.",
+      "storyZh": "达喀尔始建于17世纪的法国殖民定居时期，并围绕一处重要的大西洋港口发展。"
+    },
+    {
+      "id": "soccer-durban-south-africa",
+      "prompt": "This city staged the 2010 FIFA World Cup opening match at a stadium built for the tournament.",
+      "answer": "Durban, South Africa",
+      "lat": -29.8587,
+      "lng": 31.0218,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "World Cup"
+      ],
+      "viewLat": -33.4293,
+      "viewLng": 35.2096,
+      "promptZh": "这座城市举办2010年世界杯揭幕战，球场为赛事而建。",
+      "story": "Moses Mabhida Stadium, opened in 2009, was named after former African National Congress president Moses Mabhida.",
+      "storyZh": "莫塞斯·马比达体育场于2009年开放，以南非非洲民族大会前主席莫塞斯·马比达命名。"
+    },
+    {
+      "id": "soccer-berlin-germany",
+      "prompt": "This city is home to Hertha BSC and was the venue for the 2006 FIFA World Cup final.",
+      "answer": "Berlin, Germany",
+      "lat": 52.52,
+      "lng": 13.405,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Hertha"
+      ],
+      "viewLat": 57.7523,
+      "viewLng": 7.1217,
+      "promptZh": "这座城市有赫塔俱乐部，也是2006年世界杯决赛举办地。",
+      "story": "Berlin's Museum Island was inscribed as a UNESCO World Heritage Site in 2001.",
+      "storyZh": "柏林博物馆岛于2001年入选联合国教科文组织世界遗产名录。"
+    },
+    {
+      "id": "soccer-dortmund-germany",
+      "prompt": "This city hosts one of Europe's most successful clubs, whose Yellow Wall creates an iconic stand.",
+      "answer": "Dortmund, Germany",
+      "lat": 51.5136,
+      "lng": 7.4653,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Bundesliga"
+      ],
+      "viewLat": 47.5248,
+      "viewLng": 1.279,
+      "promptZh": "这座城市是欧洲劲旅主场，其黄色看台举世闻名。",
+      "story": "The city's St. Reinholdi Church was rebuilt in the 1960s after its original structure was destroyed in World War II.",
+      "storyZh": "这座城市的圣莱因霍尔迪教堂在二战中原址被毁，随后于20世纪60年代重建。"
+    },
+    {
+      "id": "soccer-hamburg-germany",
+      "prompt": "This city is home to a club that won both the 1983 European Cup and the 1997 UEFA Cup.",
+      "answer": "Hamburg, Germany",
+      "lat": 53.5511,
+      "lng": 9.9937,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Bundesliga"
+      ],
+      "viewLat": 47.5537,
+      "viewLng": 16.4656,
+      "promptZh": "这座城市主队曾夺1983年欧洲杯和1997年欧足联杯。",
+      "story": "Hamburg's neo-Renaissance city hall was rebuilt between 1886 and 1897 after a city fire damaged the previous structure.",
+      "storyZh": "汉堡的新文艺复兴式市政厅于1886年至1897年间重建，此前建筑毁于城市大火。"
+    },
+    {
+      "id": "soccer-glasgow-scotland",
+      "prompt": "This city divides two of football's most famous clubs, with Celtic and Rangers contesting the Old Firm derby.",
+      "answer": "Glasgow, Scotland",
+      "lat": 55.8642,
+      "lng": -4.2518,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Celtic"
+      ],
+      "viewLat": 53.1973,
+      "viewLng": -9.2694,
+      "promptZh": "这座城市拥有凯尔特人和流浪者，两队争夺旧公司德比。",
+      "story": "Glasgow was designated a UNESCO Creative City of Music in 2008, recognizing its contribution to popular music.",
+      "storyZh": "格拉斯哥于2008年获评联合国教科文组织音乐创意城市，以表彰其对流行音乐的贡献。"
+    },
+    {
+      "id": "soccer-manchester-england-2",
+      "prompt": "This city hosted a Premier League winner that secured the 2018 title by 14 points.",
+      "answer": "Manchester, England",
+      "lat": 53.4808,
+      "lng": -2.2426,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "City"
+      ],
+      "viewLat": 58.5744,
+      "viewLng": -7.534,
+      "promptZh": "英超球队主场在这座城市，2018年曾以14分夺冠。",
+      "story": "Manchester's Etihad Stadium opened in 2002 for the Commonwealth Games.",
+      "storyZh": "曼彻斯特的伊蒂哈德球场于2002年为英联邦运动会启用。"
+    },
+    {
+      "id": "soccer-rome-italy",
+      "prompt": "This city is home to two clubs whose rivalry is known as the Derby della Capitale.",
+      "answer": "Rome, Italy",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Roma"
+      ],
+      "viewLat": 48.7276,
+      "viewLng": 9.4681,
+      "promptZh": "这座城市有两支同城球队，交锋称为首都德比。",
+      "story": "Rome's Stadio Olimpico opened in 1953 and hosted the 1960 Olympic Games.",
+      "storyZh": "罗马的奥林匹克体育场于1953年启用，并承办了1960年奥运会。"
+    },
+    {
+      "id": "soccer-turin-italy",
+      "prompt": "This city is home to Juventus, who won their first Serie A title in 1905.",
+      "answer": "Turin, Italy",
+      "lat": 45.0703,
+      "lng": 7.6869,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Juventus"
+      ],
+      "viewLat": 50.9968,
+      "viewLng": 13.9822,
+      "promptZh": "尤文图斯主场在这座城市，该队1905年首夺意甲冠军。",
+      "story": "Juventus was founded in Turin in 1897, and the club's current stadium opened in 2011.",
+      "storyZh": "尤文图斯于1897年在都灵成立，俱乐部现址球场于2011年启用。"
+    },
+    {
+      "id": "soccer-naples-italy",
+      "prompt": "This city is home to Napoli, whose 2023 title ended a 33-year Scudetto drought.",
+      "answer": "Naples, Italy",
+      "lat": 40.8518,
+      "lng": 14.2681,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Napoli"
+      ],
+      "viewLat": 36.385,
+      "viewLng": 9.8494,
+      "promptZh": "主场在这座城市，2023年夺冠终结33年等待。",
+      "story": "Diego Maradona joined Napoli in 1987 and led the club to the 1989–90 Scudetto.",
+      "storyZh": "迭戈·马拉多纳于1987年加盟那不勒斯，并率队赢得1989—90赛季意甲冠军。"
+    },
+    {
+      "id": "soccer-porto-portugal",
+      "prompt": "This city is home to the Portuguese club nicknamed the Invincibles for an unbeaten domestic season.",
+      "answer": "Porto, Portugal",
+      "lat": 41.1579,
+      "lng": -8.6291,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Porto"
+      ],
+      "viewLat": 46.208,
+      "viewLng": -3.8786,
+      "promptZh": "这座城市是葡萄牙劲旅主场，不败赛季令其被称为不败者。",
+      "story": "FC Porto won its first European Cup in 1987 under manager Artur Jorge.",
+      "storyZh": "波尔图在主教练阿图尔·若热执教下，于1987年首次夺得欧洲杯。"
+    },
+    {
+      "id": "soccer-seville-spain",
+      "prompt": "This city is home to the club that won seven Europa League or UEFA Cup titles.",
+      "answer": "Seville, Spain",
+      "lat": 37.3891,
+      "lng": -5.9845,
+      "scope": "city",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Sevilla"
+      ],
+      "viewLat": 30.8766,
+      "viewLng": -14.0742,
+      "promptZh": "这座城市是欧联杯七冠得主的主场。",
+      "story": "Seville hosted the 1999 World Championships in Athletics, where Jonathan Edwards set the long-jump world record of 8.95 metres.",
+      "storyZh": "塞维利亚主办了1999年世界田径锦标赛，约翰逊·爱德华兹当时以8.95米创造跳远世界纪录。"
+    },
+    {
+      "id": "soccer-monaco",
+      "prompt": "This country’s football club reached the 2004 Champions League final, marking its first appearance.",
+      "answer": "Monaco",
+      "lat": 43.7333,
+      "lng": 7.4,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Monaco"
+      ],
+      "promptZh": "这个国家的球队闯入2004年欧冠决赛，首次晋级决赛。",
+      "story": "Monaco is the world's second-smallest sovereign state by area, after Vatican City.",
+      "storyZh": "摩纳哥是仅次于梵蒂冈的世界第二小主权国家。"
+    },
+    {
+      "id": "soccer-japan",
+      "prompt": "This country hosts the J.League and co-hosted the 2022 FIFA World Cup.",
+      "answer": "Japan",
+      "lat": 36.2048,
+      "lng": 138.2529,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "J.League"
+      ],
+      "promptZh": "这个国家拥有J联赛，并共同主办了2022年世界杯。",
+      "story": "Japan earned its first FIFA World Cup victory in 2022, defeating Germany 2-1.",
+      "storyZh": "日本在2022年首次赢得国际足联世界杯比赛，以2比1战胜德国。"
+    },
+    {
+      "id": "soccer-morocco",
+      "prompt": "This country reached the 2022 World Cup semifinal, becoming the first African and Arab team to do so.",
+      "answer": "Morocco",
+      "lat": 31.7917,
+      "lng": -7.0926,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家进2022世界杯半决赛，为非洲及阿拉伯首队。",
+      "story": "Morocco won its first Africa Cup of Nations title in 2018, defeating Senegal 2-1.",
+      "storyZh": "摩洛哥在2018年首次赢得非洲国家杯冠军，以2比1击败塞内加尔。"
+    },
+    {
+      "id": "soccer-germany",
+      "prompt": "This country won four FIFA World Cups and was the 2014 tournament winner.",
+      "answer": "Germany",
+      "lat": 51.1657,
+      "lng": 10.4515,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家拥有四座世界杯冠军奖杯，也是2014年冠军。",
+      "story": "West Germany won the 1974 FIFA World Cup, while the unified nation hosted the tournament in 2006.",
+      "storyZh": "西德在1974年赢得国际足联世界杯，而统一后的德国于2006年主办了该赛事。"
+    },
+    {
+      "id": "soccer-brazil",
+      "prompt": "This country is the only nation to have played in every FIFA World Cup final.",
+      "answer": "Brazil",
+      "lat": -14.235,
+      "lng": -51.9253,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家是唯一参加过每一届世界杯决赛的国家。",
+      "story": "Pelé scored in every World Cup Brazil won from 1958 through 1970.",
+      "storyZh": "贝利在巴西从1958年至1970年赢得的每届世界杯比赛中都有进球。"
+    },
+    {
+      "id": "soccer-argentina",
+      "prompt": "This country won the 2022 FIFA World Cup final in Qatar against France.",
+      "answer": "Argentina",
+      "lat": -38.416,
+      "lng": -63.6168,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家在卡塔尔赢得了2022年国际足联世界杯。",
+      "story": "The 2022 victory gave Argentina its third World Cup title, after victories in 1978 and 1986.",
+      "storyZh": "2022年的胜利使阿根廷继1978年和1986年后第三次夺得世界杯冠军。"
+    },
+    {
+      "id": "soccer-italy",
+      "prompt": "This country won four FIFA World Cups, with a 39-year gap between its second and third titles.",
+      "answer": "Italy",
+      "lat": 41.8719,
+      "lng": 12.5674,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家曾四次赢得国际足联世界杯，第二次和第三次夺冠相隔39年。",
+      "story": "Italy's national team won the FIFA World Cup in 1934, 1938, 1982, and 2006.",
+      "storyZh": "意大利国家足球队在1934年、1938年、1982年和2006年四次赢得国际足联世界杯冠军。"
+    },
+    {
+      "id": "soccer-france",
+      "prompt": "This country hosted the 1998 World Cup and won the 2018 edition in Russia.",
+      "answer": "France",
+      "lat": 46.2276,
+      "lng": 2.2137,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家主办了1998年世界杯，并在俄罗斯举行的2018年世界杯上夺冠。",
+      "story": "France won the FIFA World Cup at home in 1998 and again in Russia in 2018.",
+      "storyZh": "法国队在1998年本土世界杯上夺冠，并在2018年俄罗斯世界杯上再次夺冠。"
+    },
+    {
+      "id": "soccer-england",
+      "prompt": "This country invented the game and won the 1966 World Cup at Wembley.",
+      "answer": "England",
+      "lat": 52.3555,
+      "lng": -1.1743,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家发明了这项运动，并在温布利赢得1966年世界杯冠军。",
+      "story": "England won the 1966 World Cup at Wembley, defeating West Germany 4–2 in the final.",
+      "storyZh": "英格兰队在温布利赢得1966年世界杯冠军，决赛中以4比2击败西德。"
+    },
+    {
+      "id": "soccer-spain",
+      "prompt": "This country won the 2010 FIFA World Cup and the 2012 European Championship.",
+      "answer": "Spain",
+      "lat": 40.4637,
+      "lng": -3.7492,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家赢得了2010年国际足联世界杯和2012年欧洲杯冠军。",
+      "story": "Spain won the 2010 FIFA World Cup and followed it with the 2012 UEFA European Championship.",
+      "storyZh": "西班牙赢得了2010年国际足联世界杯，随后又夺得2012年欧洲杯冠军。"
+    },
+    {
+      "id": "soccer-netherlands",
+      "prompt": "This country lost three World Cup finals and won the 1974 tournament.",
+      "answer": "Netherlands",
+      "lat": 52.1326,
+      "lng": 5.2913,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家曾三次打进世界杯决赛决赛，并赢得了1974年的世界杯。",
+      "story": "The Netherlands played in the 1974, 1978, and 2010 World Cup finals, winning the first.",
+      "storyZh": "荷兰队参加了1974年、1978年和2010年世界杯决赛，并赢得了首届冠军。"
+    },
+    {
+      "id": "soccer-croatia",
+      "prompt": "This country reached the 2018 World Cup final and the 2022 third place.",
+      "answer": "Croatia",
+      "lat": 45.1,
+      "lng": 15.2,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家打进2018年世界杯决赛，并在2022年世界杯上获得第三名。",
+      "story": "Croatia reached the 2018 FIFA World Cup final and finished third at the 2022 tournament.",
+      "storyZh": "克罗地亚队打进2018年国际足联世界杯决赛，并在2022年世界杯上获得第三名。"
+    },
+    {
+      "id": "soccer-uruguay",
+      "prompt": "This country won the first two FIFA World Cups and the 1950 Maracanazo.",
+      "answer": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家赢得前两届世界杯及1950年的马卡纳佐。",
+      "story": "The 1930 final at Estadio Centenario ended 4–2 against Argentina, and Uruguay won again in 1934.",
+      "storyZh": "1930年，决赛在世纪球场举行，乌拉圭以4比2击败阿根廷，并在1934年再次夺冠。"
+    },
+    {
+      "id": "soccer-belgium",
+      "prompt": "This country finished third at the 2018 FIFA World Cup in Russia.",
+      "answer": "Belgium",
+      "lat": 50.5039,
+      "lng": 4.4699,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家在2018年世界杯中获得第三名。",
+      "story": "Belgium's 2018 campaign ended with a 2–0 victory over England in the third-place playoff.",
+      "storyZh": "比利时队的2018年征程以在季军战中2比0战胜英格兰队告终。"
+    },
+    {
+      "id": "soccer-qatar",
+      "prompt": "This country hosted the 2022 FIFA World Cup, the first held in the Middle East.",
+      "answer": "Qatar",
+      "lat": 25.3548,
+      "lng": 51.1839,
+      "scope": "country",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这个国家举办了2022年世界杯，首次由中东承办。",
+      "story": "The 2022 final ended 3–3 after extra time, with Argentina prevailing 4–2 on penalties.",
+      "storyZh": "2022年决赛在加时赛后战成3比3，阿根廷队最终以4比2赢得点球大战。"
+    },
+    {
+      "id": "soccer-mexico-city-mexico",
+      "prompt": "This city hosted the FIFA World Cup finals in 1970 and 1986.",
+      "answer": "Mexico City, Mexico",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这座城市承办了1970年和1986年的世界杯决赛。",
+      "story": "Estadio Azteca hosted the 1970 final and, 16 years later, the 1986 final.",
+      "storyZh": "阿兹特克体育场先后承办了1970年和1986年的世界杯决赛。"
+    },
+    {
+      "id": "soccer-montevideo-uruguay",
+      "prompt": "This city staged the inaugural men's FIFA World Cup final in 1930.",
+      "answer": "Montevideo, Uruguay",
+      "lat": -34.9011,
+      "lng": -56.1645,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这座城市举办了1930年首届世界杯决赛。",
+      "story": "Estadio Centenario staged the 1930 final, where Uruguay beat Argentina 4–2.",
+      "storyZh": "1930年世界杯决赛在世纪球场举行，乌拉圭以4比2战胜阿根廷。"
+    },
+    {
+      "id": "soccer-rome-italy-2",
+      "prompt": "This city staged the 1990 FIFA World Cup final between West Germany and Argentina.",
+      "answer": "Rome, Italy",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这座城市举办了1990年世界杯决赛。",
+      "story": "West Germany beat Argentina 1–0 in the 1990 final, with Lothar Matthäus scoring the decisive penalty.",
+      "storyZh": "在1990年决赛中，西德队以1比0击败阿根廷队，罚入制胜点球的是洛塔尔·马特乌斯。"
+    },
+    {
+      "id": "soccer-athens-greece",
+      "prompt": "This city staged the 2004 European Championship final, in which the host nation lost to Portugal.",
+      "answer": "Athens, Greece",
+      "lat": 37.9838,
+      "lng": 23.7275,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "Euro"
+      ],
+      "promptZh": "这座城市举办了2004年欧洲杯决赛，东道主最终失利。",
+      "story": "The 2004 European Championship final was played in Athens, where Portugal defeated Greece 2–1.",
+      "storyZh": "2004年欧洲杯决赛在雅典举行，葡萄牙以2比1击败希腊。"
+    },
+    {
+      "id": "soccer-belgrade-serbia",
+      "prompt": "This city is home to Red Star and Partizan, whose eternal derby predates the country's independence.",
+      "answer": "Belgrade, Serbia",
+      "lat": 44.7866,
+      "lng": 20.4489,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Europe"
+      ],
+      "promptZh": "这座城市红星与游击队的永恒德比早于国家独立。",
+      "story": "Red Star and Partizan first met in the eternal derby in 1947, and their rivalry has continued through multiple national names and political systems.",
+      "storyZh": "红星与游击队于1947年首次在永恒德比中交锋，此后经历多个国名与政治体制仍延续。"
+    },
+    {
+      "id": "soccer-zagreb-croatia",
+      "prompt": "This city staged the 2018 FIFA World Cup final, the first championship final held in a former Yugoslav republic.",
+      "answer": "Zagreb, Croatia",
+      "lat": 45.815,
+      "lng": 15.9819,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Europe"
+      ],
+      "promptZh": "这座城市举办了2018年世界杯决赛，也是南斯拉夫首次。",
+      "story": "The 2018 FIFA World Cup final was played at Maksimir Stadium, with Croatia defeating France 4–2.",
+      "storyZh": "2018年国际足联世界杯决赛在马克西米尔球场举行，克罗地亚以4比2击败法国。"
+    },
+    {
+      "id": "soccer-kyiv-ukraine",
+      "prompt": "This city is home to the club that won the 1975 European Cup Winners' Cup and the 1986 and 1987 UEFA Cups.",
+      "answer": "Kyiv, Ukraine",
+      "lat": 50.4501,
+      "lng": 30.5234,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Europe"
+      ],
+      "promptZh": "这座城市的主队赢得过欧洲优胜者杯及两次联盟杯。",
+      "story": "Dynamo Kyiv won the 1975 European Cup Winners' Cup and consecutive UEFA Cups in 1986 and 1987.",
+      "storyZh": "基辅迪纳摩曾赢得1975年欧洲优胜者杯，并在1986年和1987年连续夺得欧洲联盟杯。"
+    },
+    {
+      "id": "soccer-sofia-bulgaria",
+      "prompt": "This city is home to two major rival clubs, Levski and CSKA.",
+      "answer": "Sofia, Bulgaria",
+      "lat": 42.6977,
+      "lng": 23.3219,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Europe"
+      ],
+      "promptZh": "这座城市拥有莱夫斯基与中央陆军两家主要俱乐部。",
+      "story": "Levski and CSKA contest the Eternal derby, one of the most intense club rivalries in Bulgarian football.",
+      "storyZh": "莱夫斯基与中央陆军争夺永恒德比，这是保加利亚足球中最激烈的俱乐部对抗之一。"
+    },
+    {
+      "id": "soccer-sarajevo-bosnia-and-herzegovina",
+      "prompt": "This capital was besieged during the 1992–95 war, and its club won the 1967 UEFA Cup Winners' Cup.",
+      "answer": "Sarajevo, Bosnia and Herzegovina",
+      "lat": 43.8563,
+      "lng": 18.4131,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Europe"
+      ],
+      "promptZh": "这座首都曾在战争中遭围困，其俱乐部赢得过欧洲优胜者杯。",
+      "story": "The siege of this capital lasted 1,425 days from April 1992 to February 1996, while its club won the 1967 UEFA Cup Winners' Cup.",
+      "storyZh": "这座首都的围城战从1992年4月至1996年2月持续1425天，其俱乐部则赢得了1967年欧洲优胜者杯。"
+    },
+    {
+      "id": "soccer-minsk-belarus",
+      "prompt": "This Eastern European city is home to BATE, which won 17 consecutive Belarusian league titles.",
+      "answer": "Minsk, Belarus",
+      "lat": 53.9006,
+      "lng": 27.559,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Europe"
+      ],
+      "promptZh": "这座城市的主场球队BATE曾连续17次夺得联赛冠军。",
+      "story": "Dinamo Minsk won the Soviet Top League in 1985 and 1986.",
+      "storyZh": "明斯克迪纳摩队曾于1985年和1986年夺得苏联顶级联赛冠军。"
+    },
+    {
+      "id": "soccer-tbilisi-georgia",
+      "prompt": "This Caucasus capital is home to Dinamo, which won the 1981 UEFA Cup Winners' Cup.",
+      "answer": "Tbilisi, Georgia",
+      "lat": 41.7151,
+      "lng": 44.8271,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Europe"
+      ],
+      "promptZh": "这座高加索首都的主场球队曾赢得1981年欧洲优胜者杯。",
+      "story": "The club was founded in 1925 and captured Soviet league championships in 1981 and 1984.",
+      "storyZh": "该俱乐部成立于1925年，并于1981年和1984年夺得苏联联赛冠军。"
+    },
+    {
+      "id": "soccer-lagos-nigeria",
+      "prompt": "This West African megacity is home to Enyimba and Shooting Stars, two of the country's most successful clubs.",
+      "answer": "Lagos, Nigeria",
+      "lat": 6.5244,
+      "lng": 3.3792,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Africa"
+      ],
+      "promptZh": "这座西非大城是恩耶巴和射击星队等成功俱乐部的所在地。",
+      "story": "Enyimba became the first Nigerian club to win the CAF Champions League, doing so in 2003.",
+      "storyZh": "恩耶巴在2003年成为首支赢得非洲冠军联赛的尼日利亚俱乐部。"
+    },
+    {
+      "id": "soccer-kinshasa-dr-congo",
+      "prompt": "This city is the capital of a Central African nation whose club TP Mazembe reached the 1974 African Cup of Champions Clubs final.",
+      "answer": "Kinshasa, DR Congo",
+      "lat": -4.4419,
+      "lng": 15.2663,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Africa"
+      ],
+      "promptZh": "这座非洲中部城市所在国球队进入1974年非洲杯决赛。",
+      "story": "The city was founded as Léopoldville in 1881 and was renamed Kinshasa in 1966.",
+      "storyZh": "这座城市于1881年以利奥波德维尔之名建立，1966年改名为金沙萨。"
+    },
+    {
+      "id": "soccer-accra-ghana",
+      "prompt": "This West African capital is where the national team won the inaugural African Youth Championship.",
+      "answer": "Accra, Ghana",
+      "lat": 5.6037,
+      "lng": -0.187,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Africa"
+      ],
+      "promptZh": "这座西非首都的青年国家队曾赢得首届非洲青年锦标赛。",
+      "story": "The senior national team appeared at the FIFA World Cup in 2006, 2010 and 2022.",
+      "storyZh": "这支成年国家队曾于2006年、2010年和2022年参加国际足联世界杯。"
+    },
+    {
+      "id": "soccer-abidjan-cote-d-ivoire",
+      "prompt": "This West African city is the commercial capital of a nation and is home to ASEC Mimosas, winners of the 1998 CAF Champions League.",
+      "answer": "Abidjan, Cote d'Ivoire",
+      "lat": 5.36,
+      "lng": -4.0083,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Africa"
+      ],
+      "promptZh": "这座西非经济中心的ASEC队夺下1998年非洲俱乐部杯。",
+      "story": "ASEC Mimosas was founded in 1947 and plays at Stade Félix Houphouët-Boigny.",
+      "storyZh": "ASEC米莫萨队成立于1947年，主场为费利克斯·乌弗埃博伊尼球场。"
+    },
+    {
+      "id": "soccer-rabat-morocco",
+      "prompt": "The national team reached the 2022 World Cup semifinals after playing in this capital.",
+      "answer": "Rabat, Morocco",
+      "lat": 34.0209,
+      "lng": -6.8416,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Africa"
+      ],
+      "promptZh": "国家队以这座首都为主场，曾打进2022年世界杯半决赛。",
+      "story": "Rabat became Morocco's administrative capital in 1912, following the establishment of the French protectorate.",
+      "storyZh": "1912年法国建立保护国后，拉巴特成为摩洛哥的行政首都。"
+    },
+    {
+      "id": "soccer-algiers-algeria",
+      "prompt": "This capital hosted the 2014 match where the host nation ended Mexico's long home undefeated streak.",
+      "answer": "Algiers, Algeria",
+      "lat": 36.7538,
+      "lng": 3.0588,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Africa"
+      ],
+      "promptZh": "这座首都曾凭2014年世界杯一战终结墨西哥主场不败。",
+      "story": "In Algiers, the 3–1 victory over Mexico on 13 June 2014 ended a 68-match home undefeated streak, with Sofiane Feghouli scoring twice.",
+      "storyZh": "2014年6月13日，阿尔及尔以3比1战胜墨西哥，终结了对手连续68场主场不败的纪录，索菲安·费古利梅开二度。"
+    },
+    {
+      "id": "soccer-seoul-south-korea",
+      "prompt": "The Pohang Steelers won the 2002 AFC Champions League, and this capital was in their country.",
+      "answer": "Seoul, South Korea",
+      "lat": 37.5665,
+      "lng": 126.978,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Asia"
+      ],
+      "promptZh": "这座首都所在国家的坡光钢铁曾夺得2002年亚冠冠军。",
+      "story": "Seoul hosted four matches during the 2002 FIFA World Cup, including the quarterfinal between South Korea and Spain.",
+      "storyZh": "首尔承办了2002年国际足联世界杯的四场比赛，其中包括韩国对阵西班牙的四分之一决赛。"
+    },
+    {
+      "id": "soccer-saitama-japan",
+      "prompt": "This city is home to the stadium that hosted the 2002 FIFA World Cup final.",
+      "answer": "Saitama, Japan",
+      "lat": 35.8617,
+      "lng": 139.6497,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Asia"
+      ],
+      "promptZh": "这座城市的球场举办了2002年世界杯决赛。",
+      "story": "The final on 30 June 2002 was held at Saitama Stadium, where Brazil defeated Germany 2–0.",
+      "storyZh": "2002年6月30日的世界杯决赛在埼玉体育场举行，巴西以2比0击败德国。"
+    },
+    {
+      "id": "soccer-yokohama-japan",
+      "prompt": "This port city hosted several matches during the 1958 FIFA World Cup.",
+      "answer": "Yokohama, Japan",
+      "lat": 35.4437,
+      "lng": 139.638,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Asia"
+      ],
+      "promptZh": "这座港口城市曾承办1958年世界杯多场比赛。",
+      "story": "Yokohama hosted four matches in 1958, including England's 2–0 victory over Austria.",
+      "storyZh": "1958年，横滨承办了四场比赛，其中包括英格兰以2比0战胜奥地利的比赛。"
+    },
+    {
+      "id": "soccer-bangkok-thailand",
+      "prompt": "This capital is home to Muangthong United, who reached the AFC Champions League semi-finals.",
+      "answer": "Bangkok, Thailand",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Asia"
+      ],
+      "promptZh": "这座首都的主场球队曾打进亚冠半决赛。",
+      "story": "Bangkok has served as Thailand's capital since 1782, and its historic centre became a UNESCO World Heritage Site in 2023.",
+      "storyZh": "自1782年以来，曼谷一直是泰国首都，其历史中心于2023年成为联合国教科文组织世界遗产。"
+    },
+    {
+      "id": "soccer-jakarta-indonesia",
+      "prompt": "This city is the Indonesian capital whose clubs reached the AFC Champions League final twice.",
+      "answer": "Jakarta, Indonesia",
+      "lat": -6.2088,
+      "lng": 106.8456,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Asia"
+      ],
+      "promptZh": "这座城市是印度尼西亚首都，俱乐部曾两次闯入亚冠联赛决赛。",
+      "story": "Persija reached the 1994 Asian Club Championship final, while Pelita Jaya contested the 1983 final after winning the 1982 title.",
+      "storyZh": "佩尔吉亚进入1994年亚洲俱乐部锦标赛决赛，佩利塔再也曾夺得1982年冠军并闯入1983年决赛。"
+    },
+    {
+      "id": "soccer-sydney-australia",
+      "prompt": "This city hosted the 2005 FIFA Club World Championship final, where its club faced Al Ahly.",
+      "answer": "Sydney, Australia",
+      "lat": -33.8688,
+      "lng": 151.2093,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Asia"
+      ],
+      "promptZh": "这座城市的球队闯入2005年国际足联俱乐部世界杯决赛。",
+      "story": "Sydney FC lost 2–1 to Al Ahly in the 2005 FIFA Club World Championship final at Yokohama International Stadium.",
+      "storyZh": "悉尼FC在2005年国际足联俱乐部世界杯决赛中以1比2负于阿赫利。"
+    },
+    {
+      "id": "soccer-auckland-new-zealand",
+      "prompt": "This city is home to the club that repeatedly won the OFC Champions League.",
+      "answer": "Auckland, New Zealand",
+      "lat": -36.8485,
+      "lng": 174.7633,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Oceania"
+      ],
+      "promptZh": "这座城市的俱乐部多次赢得大洋洲冠军联赛。",
+      "story": "Auckland City won seven OFC Champions League titles between 2009 and 2018.",
+      "storyZh": "奥克兰城在2009年至2018年间七次夺得大洋洲冠军联赛冠军。"
+    },
+    {
+      "id": "soccer-los-angeles-california",
+      "prompt": "This city hosted matches during the 1994 and 1999 Women's World Cup tournaments.",
+      "answer": "Los Angeles, California",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "WWC"
+      ],
+      "promptZh": "这座城市举办过1994年和1999年女足世界杯比赛。",
+      "story": "The 1994 third-place match was held at Pasadena's Rose Bowl, while the 1999 equivalent took place at Los Angeles Memorial Coliseum.",
+      "storyZh": "1994年的三四名决赛在帕萨迪纳的玫瑰碗举行，1999年的同场比赛则在洛杉矶纪念体育场举行。"
+    },
+    {
+      "id": "soccer-paris-france",
+      "prompt": "This city hosted the 1960 European Cup final, won 5–4 by Real Madrid against Eintracht Frankfurt.",
+      "answer": "Paris, France",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Europe"
+      ],
+      "promptZh": "这座城市举办1960年欧洲冠军杯决赛，皇马5比4取胜。",
+      "story": "Real Madrid defeated Eintracht Frankfurt 5–4 after extra time in the inaugural European Cup final at Paris's Parc des Princes.",
+      "storyZh": "皇家马德里在巴黎王子公园球场举行的首届欧洲冠军杯决赛中，经加时赛5比4击败法兰克福。"
+    },
+    {
+      "id": "soccer-saint-denis-france",
+      "prompt": "The 1998 World Cup final was played here, where France defeated Brazil 3–0.",
+      "answer": "Saint-Denis, France",
+      "lat": 48.9362,
+      "lng": 2.3652,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "World Cup"
+      ],
+      "promptZh": "这里曾举办1998年世界杯决赛，法国3比0击败巴西。",
+      "story": "Stade de France in Saint-Denis hosted the July 12, 1998 final, in which Brazil's Ronaldo missed two penalties.",
+      "storyZh": "1998年7月12日，法兰西体育场举办了世界杯决赛，巴西球星罗纳尔多两次罚失点球。"
+    },
+    {
+      "id": "soccer-yekaterinburg-russia",
+      "prompt": "This city hosted the opening match of the 2018 FIFA World Cup on 14 June.",
+      "answer": "Yekaterinburg, Russia",
+      "lat": 56.8389,
+      "lng": 60.6057,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Europe"
+      ],
+      "promptZh": "这座城市举办了2018年国际足联世界杯揭幕战。",
+      "story": "This city was renamed Sverdlovsk in 1924, and its original name was restored in 1991.",
+      "storyZh": "这座城市于1924年被改名为斯维尔德洛夫斯克，1991年恢复原名。"
+    },
+    {
+      "id": "soccer-kazan-russia",
+      "prompt": "This city hosted a 2017 FIFA Confederations Cup semi-final on 25 June, where the home side reached the final.",
+      "answer": "Kazan, Russia",
+      "lat": 55.7963,
+      "lng": 49.1088,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Europe"
+      ],
+      "promptZh": "这座城市承办2017年联合会杯半决赛，东道主闯入决赛。",
+      "story": "In 2005, the city celebrated its millennium, and the Kazan Kremlin was added to the UNESCO World Heritage List.",
+      "storyZh": "2005年，这座城市庆祝建城一千年，喀山克里姆林宫同年被列入世界遗产名录。"
+    },
+    {
+      "id": "soccer-saint-petersburg-russia",
+      "prompt": "This city was home to the club that won the European Cup in 1960 and 1961.",
+      "answer": "Saint Petersburg, Russia",
+      "lat": 59.9311,
+      "lng": 30.3609,
+      "scope": "world",
+      "sport": "soccer",
+      "tags": [
+        "soccer",
+        "Europe"
+      ],
+      "promptZh": "这座城市的俱乐部在1960和1961年两夺欧洲杯。",
+      "story": "Zenit, founded in 1903, won its first Soviet league title in 1984 and became the first Soviet club to win the European Cup.",
+      "storyZh": "泽尼特俱乐部成立于1903年，1984年赢得苏联顶级联赛冠军，并成为首支赢得欧洲杯的苏联俱乐部。"
+    },
+    {
+      "id": "golf-augusta-georgia",
+      "prompt": "This city is home to the Masters Tournament, where the champion receives a green jacket.",
+      "answer": "Augusta, Georgia",
+      "lat": 33.3876,
+      "lng": -81.9734,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Masters"
+      ],
+      "viewLat": 39.8422,
+      "viewLng": -87.1737,
+      "promptZh": "这座城市是美国大师赛举办地，冠军会获赠绿色夹克。",
+      "story": "The Masters Tournament was first played in 1934 and was co-founded by Clifford Roberts and Bobby Jones.",
+      "storyZh": "美国大师赛于1934年首次举办，由克利福德·罗伯茨和鲍比·琼斯共同创立。"
+    },
+    {
+      "id": "golf-st-andrews-scotland",
+      "prompt": "This town is home to the world's oldest golf course, where The Open Championship is held.",
+      "answer": "St. Andrews, Scotland",
+      "lat": 56.3398,
+      "lng": -2.7967,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Old Course"
+      ],
+      "viewLat": 49.8234,
+      "viewLng": -7.836,
+      "promptZh": "这座小镇拥有世界最古老的高尔夫球场，公开赛在此举行。",
+      "story": "The University of St Andrews was founded by papal bulls in 1413, making it Scotland's oldest university.",
+      "storyZh": "圣安德鲁斯大学由教廷于1413年创立，是苏格兰最古老的大学。"
+    },
+    {
+      "id": "golf-pebble-beach-california",
+      "prompt": "This town hosts the AT&T Pro-Am at a renowned coastal golf resort on the Monterey Peninsula.",
+      "answer": "Pebble Beach, California",
+      "lat": 36.568,
+      "lng": -121.95,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "PGA"
+      ],
+      "viewLat": 39.3387,
+      "viewLng": -125.9083,
+      "promptZh": "这座小镇的蒙特雷海岸球场举办AT&T职业业余赛。",
+      "story": "Pebble Beach Golf Links opened in 1919, and the AT&T Pro-Am was first held there in 1939.",
+      "storyZh": "圆石滩高尔夫球场于1919年开业，AT&T职业业余赛于1939年首次在此举行。"
+    },
+    {
+      "id": "golf-kiawah-island-south-carolina",
+      "prompt": "Point here, where the PGA Championship was held in 1991 and 2023.",
+      "answer": "Kiawah Island, South Carolina",
+      "lat": 32.6082,
+      "lng": -80.0834,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "PGA"
+      ],
+      "viewLat": 37.5303,
+      "viewLng": -85.7347,
+      "promptZh": "点击这里，1991年及2023年均举办PGA锦标赛。",
+      "story": "The Ocean Course underwent a major renovation led by Pete Dye in 1996.",
+      "storyZh": "1996年，海洋球场在皮特·戴的主导下进行了全面改造。"
+    },
+    {
+      "id": "golf-pinehurst-north-carolina",
+      "prompt": "Point to this town, home to the course that has hosted the U.S. Open five times.",
+      "answer": "Pinehurst, North Carolina",
+      "lat": 35.1954,
+      "lng": -79.4695,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "US Open"
+      ],
+      "viewLat": 38.0148,
+      "viewLng": -73.1324,
+      "promptZh": "点击这座小镇，美国公开赛曾五次在此举办。",
+      "story": "Walter Hagen won U.S. Opens here in 1951 and 1974.",
+      "storyZh": "沃尔特·哈根曾于1951年和1974年在这里赢得美国公开赛。"
+    },
+    {
+      "id": "golf-troon-arizona",
+      "prompt": "Point to this town, whose resort has hosted the Phoenix Open, a notable PGA Tour event.",
+      "answer": "Troon, Arizona",
+      "lat": 33.7455,
+      "lng": -111.9787,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Phoenix Open"
+      ],
+      "viewLat": 38.8267,
+      "viewLng": -104.2672,
+      "promptZh": "点击这座小镇，凤凰城公开赛曾在此举行。",
+      "story": "The resort includes Troon North and Troon South, both designed by Tom Fazio.",
+      "storyZh": "该度假区包括由汤姆·法齐奥设计的特罗恩北场和特罗恩南场。"
+    },
+    {
+      "id": "golf-valhalla-kentucky",
+      "prompt": "Point here, where the local golf course has hosted the PGA Championship six times.",
+      "answer": "Valhalla, Kentucky",
+      "lat": 38.1446,
+      "lng": -85.5241,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "PGA"
+      ],
+      "viewLat": 44.8432,
+      "viewLng": -93.7577,
+      "promptZh": "点击这里，PGA锦标赛曾六次在此举办。",
+      "story": "Jack Nicklaus won the PGA Championship here in 1998 and 2008.",
+      "storyZh": "杰克·尼克劳斯曾于1998年和2008年在这里赢得PGA锦标赛。"
+    },
+    {
+      "id": "golf-carnoustie-scotland",
+      "prompt": "Point to this town, whose links hosted the Open Championship in 1999 and 2018.",
+      "answer": "Carnoustie, Scotland",
+      "lat": 56.4979,
+      "lng": -2.7089,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Open"
+      ],
+      "viewLat": 51.6537,
+      "viewLng": 0.6802,
+      "promptZh": "点击这座小镇，1999及2018年均举办英国公开赛。",
+      "story": "Tommy Armour won the 1931 Open at Carnoustie, the first championship staged on the links.",
+      "storyZh": "汤米·阿摩尔在卡诺斯特蒂赢得1931年英国公开赛，这是该球场承办的首届赛事。"
+    },
+    {
+      "id": "golf-muirfield-scotland",
+      "prompt": "Point to this town, whose golf course hosted the first Open Championship in 1860.",
+      "answer": "Muirfield, Scotland",
+      "lat": 55.9323,
+      "lng": -3.1483,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Open"
+      ],
+      "viewLat": 60.4066,
+      "viewLng": -8.8805,
+      "promptZh": "点击这座小镇，1860年首届英国公开赛在此举行。",
+      "story": "Rory McIlroy won the 2014 Open at Muirfield by eight strokes.",
+      "storyZh": "罗里·麦克罗伊在缪尔菲尔德以八杆优势赢得2014年英国公开赛。"
+    },
+    {
+      "id": "golf-royal-troon-scotland",
+      "prompt": "This town is home to a links course that hosted eight Open Championships between 1923 and 2021.",
+      "answer": "Royal Troon, Scotland",
+      "lat": 55.5417,
+      "lng": -4.6597,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Open"
+      ],
+      "viewLat": 61.8099,
+      "viewLng": -0.5152,
+      "promptZh": "这座小镇拥有一座曾举办八届英国公开赛的林克斯球场。",
+      "story": "Royal Troon Golf Club was founded in 1878. It has two courses, and the Old Course is famous for its deep rough and strong winds.",
+      "storyZh": "皇家特罗恩高尔夫俱乐部创立于1878年，拥有两座球场，其中老球场以深草和强风著称。"
+    },
+    {
+      "id": "golf-portrush-northern-ireland",
+      "prompt": "This town hosted the 2019 Open Championship, returning the major after its 1951 edition.",
+      "answer": "Portrush, Northern Ireland",
+      "lat": 55.4939,
+      "lng": -6.6448,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Open"
+      ],
+      "viewLat": 61.9688,
+      "viewLng": -3.2428,
+      "promptZh": "这座小镇曾举办二〇一九年及一九五一年英国公开赛。",
+      "story": "The 2019 Open at Royal Portrush was won by Shane Lowry, securing his first major title. The club had previously staged the tournament in 1951.",
+      "storyZh": "2019年皇家波特拉什英国公开赛由肖恩·劳里夺冠，这是他的首个大满贯冠军。该俱乐部此前还于1951年承办过这项赛事。"
+    },
+    {
+      "id": "golf-ballybunion-ireland",
+      "prompt": "This town hosted the 1966 and 1971 Open Championships at its celebrated seaside links.",
+      "answer": "Ballybunion, Ireland",
+      "lat": 52.5744,
+      "lng": -9.2521,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Open"
+      ],
+      "viewLat": 46.143,
+      "viewLng": -13.9429,
+      "promptZh": "这座小镇曾举办一九六六及一九七一年英国公开赛。",
+      "story": "Ballybunion's Old Course was originally designed by William Herd and later modified by Harry Colt.",
+      "storyZh": "巴利布尼恩老球场最初由威廉·赫德设计，后来由哈里·科尔特进行了改造。"
+    },
+    {
+      "id": "golf-westerly-rhode-island",
+      "prompt": "This town is home to a course that has hosted five U.S. Opens, most recently in 1964.",
+      "answer": "Westerly, Rhode Island",
+      "lat": 41.3801,
+      "lng": -71.8292,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "US Open"
+      ],
+      "viewLat": 44.3734,
+      "viewLng": -79.3915,
+      "promptZh": "这个小镇球场曾五次承办美国公开赛，末次是一九六四年。",
+      "story": "Rhode Island Country Club was designed by William F. Davis, with Donald Ross overseeing changes to the course in 1938.",
+      "storyZh": "罗得岛乡村俱乐部由威廉·戴维斯设计，唐纳德·罗斯于1938年负责监督球场的改造。"
+    },
+    {
+      "id": "golf-bethpage-new-york",
+      "prompt": "This town's course hosted five U.S. Opens from 2002 through 2019.",
+      "answer": "Bethpage, New York",
+      "lat": 40.7333,
+      "lng": -73.6436,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "US Open"
+      ],
+      "viewLat": 38.1179,
+      "viewLng": -67.1819,
+      "promptZh": "这座小镇球场曾五次承办美国公开赛，末次在二〇一九年。",
+      "story": "Bethpage State Park contains five courses, and Tiger Woods won the 2002 U.S. Open on the Black Course at age 24.",
+      "storyZh": "贝斯佩奇州立公园拥有五座球场，24岁的泰格·伍兹曾在其中的黑球场赢得2002年美国公开赛。"
+    },
+    {
+      "id": "golf-olympia-fields-illinois",
+      "prompt": "This town's course hosted the 2003 U.S. Open, won by Justin Leonard.",
+      "answer": "Olympia Fields, Illinois",
+      "lat": 41.6131,
+      "lng": -87.7851,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "US Open"
+      ],
+      "viewLat": 47.9261,
+      "viewLng": -92.4441,
+      "promptZh": "这座小镇的球场承办了二〇〇三年美国公开赛。",
+      "story": "Justin Leonard won the 2003 U.S. Open at Olympia Fields, and Rory McIlroy won the 2012 edition at age 22.",
+      "storyZh": "贾斯汀·伦纳德赢得了2003年奥林匹亚菲尔兹美国公开赛，22岁的罗里·麦克罗伊则夺得了2012年赛事冠军。"
+    },
+    {
+      "id": "golf-hazeltine-minnesota",
+      "prompt": "The course that hosted the 1999, 2008 and 2016 US Opens is located here in Minnesota.",
+      "answer": "Hazeltine, Minnesota",
+      "lat": 44.9297,
+      "lng": -93.4636,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "US Open"
+      ],
+      "viewLat": 47.987,
+      "viewLng": -89.672,
+      "promptZh": "明尼苏达这里的主球场举办过三届美国公开赛。",
+      "story": "Hazeltine National Golf Club opened in 1962 and was designed by Robert Trent Jones Sr.",
+      "storyZh": "黑泽尔廷国家高尔夫俱乐部于1962年开放，由罗伯特·特伦特·琼斯一世设计。"
+    },
+    {
+      "id": "golf-shinnecock-hills-new-york",
+      "prompt": "The 1896 US Open, the first edition, was played here on this New York course.",
+      "answer": "Shinnecock Hills, New York",
+      "lat": 40.9589,
+      "lng": -72.1853,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "US Open"
+      ],
+      "viewLat": 45.5992,
+      "viewLng": -64.6482,
+      "promptZh": "纽约这里在1896年举办了首届美国公开赛。",
+      "story": "Shinnecock Hills hosted the 1986 PGA Championship, which Bob Tway won with a hole-in-one on the final hole.",
+      "storyZh": "1986年PGA锦标赛在辛尼霍克山举行，鲍勃·特威在最后一洞打出一杆进洞。"
+    },
+    {
+      "id": "golf-martha-s-vineyard-massachusetts",
+      "prompt": "The 1998 US Open was played here on a course on this Massachusetts island.",
+      "answer": "Martha's Vineyard, Massachusetts",
+      "lat": 41.3833,
+      "lng": -70.7667,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "US Open"
+      ],
+      "viewLat": 47.2252,
+      "viewLng": -62.3332,
+      "promptZh": "马萨诸塞这里的一座岛屿曾举办1998年美国公开赛。",
+      "story": "The Martha's Vineyard Golf Club's current course was redesigned by Donald Ross in 1924.",
+      "storyZh": "玛莎葡萄园高尔夫俱乐部的现有球场由唐纳德·罗斯于1924年重新设计。"
+    },
+    {
+      "id": "golf-coral-gables-florida",
+      "prompt": "The 1991 US Open was played here on a course in this Florida city.",
+      "answer": "Coral Gables, Florida",
+      "lat": 25.7215,
+      "lng": -80.2684,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf"
+      ],
+      "viewLat": 32.1702,
+      "viewLng": -88.4669,
+      "promptZh": "佛罗里达这座城市的主球场曾举办1991年美国公开赛。",
+      "story": "The Biltmore Hotel's course hosted the 1926 PGA Championship, won by Walter Hagen.",
+      "storyZh": "比尔特莫尔酒店的球场举办了1926年PGA锦标赛，冠军是沃尔特·哈根。"
+    },
+    {
+      "id": "golf-sarasota-florida",
+      "prompt": "This Florida city is home to O'Shea's and hosted the 2006 Senior PGA Championship.",
+      "answer": "Sarasota, Florida",
+      "lat": 27.3364,
+      "lng": -82.5307,
+      "scope": "city",
+      "sport": "golf",
+      "tags": [
+        "golf"
+      ],
+      "viewLat": 31.0642,
+      "viewLng": -89.0244,
+      "promptZh": "佛罗里达这里有奥谢斯，亦举办2006年PGA元老赛。",
+      "story": "Tom Watson won the 2006 Senior PGA Championship at John's Pass Village by four strokes.",
+      "storyZh": "汤姆·沃特森在约翰斯帕斯村举行的2006年高级PGA锦标赛中以四杆优势夺冠。"
+    },
+    {
+      "id": "golf-kailua-kona-hawaii",
+      "prompt": "The PGA Grand Slam of Golf is hosted here at a resort on this Hawaiian island.",
+      "answer": "Kailua-Kona, Hawaii",
+      "lat": 19.6402,
+      "lng": -155.9969,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Hawaii"
+      ],
+      "promptZh": "夏威夷这座岛屿的度假村举办PGA高尔夫大满贯赛。",
+      "story": "The inaugural 1999 PGA Grand Slam of Golf was won by Tiger Woods at Mauna Kea Beach.",
+      "storyZh": "1999年首届PGA高尔夫大满贯赛由老虎·伍兹在Mauna Kea Beach夺冠。"
+    },
+    {
+      "id": "golf-montrose-victoria",
+      "prompt": "This Australian town in Victoria's Yarra Ranges is home to the golf course that hosted the 2006 Presidents Cup.",
+      "answer": "Montrose, Victoria",
+      "lat": -38.0453,
+      "lng": 145.3646,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Australia"
+      ],
+      "promptZh": "这座位于维多利亚州亚拉山脉的小镇，其高尔夫球场曾举办2006年总统杯。",
+      "story": "The Montrose course in Victoria's Yarra Ranges hosted the 2006 Presidents Cup meeting between the United States team and the International team.",
+      "storyZh": "维多利亚州亚拉山脉的蒙特罗斯球场举办了2006年总统杯，对阵美国队与国际队。"
+    },
+    {
+      "id": "golf-royal-melbourne-victoria",
+      "prompt": "This Australian course near Melbourne hosted the 2018 Presidents Cup, which the International team won.",
+      "answer": "Royal Melbourne, Victoria",
+      "lat": -37.8333,
+      "lng": 144.9833,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Australia"
+      ],
+      "promptZh": "这座墨尔本附近的澳大利亚球场举办了2018年总统杯，最终由国际队夺冠。",
+      "story": "The 2018 Presidents Cup was the twelfth edition of the event, played at Royal Melbourne Golf Club, where the International team won 10.5 to 7.5 behind Tiger Woods' three victories.",
+      "storyZh": "2018年总统杯是该项赛事的第十二届，在墨尔本皇家高尔夫俱乐部举行，国际队以10.5比7.5获胜，泰格·伍兹贡献三场胜利。"
+    },
+    {
+      "id": "golf-kingsbarns-scotland",
+      "prompt": "This Scottish links course hosted the 2017 Dunhill Links Championship and later staged The Open in 2022.",
+      "answer": "Kingsbarns, Scotland",
+      "lat": 56.2958,
+      "lng": -2.6556,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Open"
+      ],
+      "promptZh": "这座苏格兰林克斯球场举办了2017年邓利尔林克斯赛，并在2022年承办了英国公开赛。",
+      "story": "Kingsbarns staged the 2022 Open Championship, the first major championship ever held on the course, and Zach Johnson won with a final-round 65.",
+      "storyZh": "金斯巴恩斯举办了2022年英国公开赛，这是该球场承办的首场大满贯赛事，扎克·约翰逊最后一轮打出65杆夺冠。"
+    },
+    {
+      "id": "golf-dornoch-scotland",
+      "prompt": "This Scottish links town on the Sutherland coast is famed for the 1995 Open Championship runner-up finish.",
+      "answer": "Dornoch, Scotland",
+      "lat": 57.8799,
+      "lng": -4.0294,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf"
+      ],
+      "promptZh": "这座位于萨瑟兰海岸的苏格兰林克斯小镇，因1995年英国公开赛的亚军成绩而闻名。",
+      "story": "Royal Dornoch, laid out by Willie Fernie and opened in 1903, is one of Scotland's most celebrated links courses and a regular Open Championship qualifying venue.",
+      "storyZh": "皇家多诺赫由威利·弗尼设计，1903年启用，是苏格兰最受推崇的林克斯球场之一，也是英国公开赛资格赛的常办场地。"
+    },
+    {
+      "id": "golf-doonbeg-ireland",
+      "prompt": "This Irish links course hosted the 2012 US Open, which a player won by three strokes.",
+      "answer": "Doonbeg, Ireland",
+      "lat": 52.8253,
+      "lng": -9.4869,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Open"
+      ],
+      "promptZh": "这座爱尔兰林克斯球场举办了2012年美国公开赛，冠军以三杆优势夺冠。",
+      "story": "Rory McIlroy won the 2012 US Open at Doonbeg by three strokes over Jason Day, claiming his first PGA Tour title.",
+      "storyZh": "罗里·麦克罗伊在杜恩贝格赢得2012年美国公开赛，以三杆优势击败杰森·戴，这也是他的首座美巡赛冠军。"
+    },
+    {
+      "id": "golf-nassau-bahamas",
+      "prompt": "This Bahamian capital is home to the Ocean Club, which hosted the 2012 PGA Championship.",
+      "answer": "Nassau, Bahamas",
+      "lat": 25.0606,
+      "lng": -77.3364,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "PGA"
+      ],
+      "promptZh": "这座巴哈马首都拥有的大西洋俱乐部举办了2012年PGA锦标赛。",
+      "story": "The Ocean Club in Nassau hosted the 2012 PGA Championship, where Rory McIlroy won by two strokes over Martin Kaymer.",
+      "storyZh": "拿骚的大西洋俱乐部举办了2012年PGA锦标赛，罗里·麦克罗伊以两杆优势击败马丁·凯默夺冠。"
+    },
+    {
+      "id": "golf-singapore",
+      "prompt": "This city-state’s waterfront course hosted the inaugural international open in 1963 for professional golfers.",
+      "answer": "Singapore",
+      "lat": 1.3521,
+      "lng": 103.8198,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Asia"
+      ],
+      "promptZh": "这座城市的滨海球场于1963年举办了首届国际公开赛。",
+      "story": "Charlie Coody won the inaugural Singapore Open in 1963. The tournament was held at Marina Bay Golf Course.",
+      "storyZh": "查理·库迪赢得了1963年首届新加坡公开赛。该赛事在滨海湾高尔夫球场举行。"
+    },
+    {
+      "id": "golf-shenzhen-china",
+      "prompt": "This coastal city’s mission-style course hosts the Volvo-branded professional golf event each spring.",
+      "answer": "Shenzhen, China",
+      "lat": 22.5431,
+      "lng": 114.0579,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Asia"
+      ],
+      "promptZh": "这座城市的传教风格球场每年春季举办沃尔沃职业公开赛。",
+      "story": "The Volvo China Open debuted in 1994 at Mission Hills Golf Club in Shenzhen. The same club hosted the event again in 2013.",
+      "storyZh": "沃尔沃中国公开赛于1994年在深圳的观澜湖高尔夫俱乐部首次举行。该俱乐部在2013年再次承办了这项赛事。"
+    },
+    {
+      "id": "golf-hirono-japan",
+      "prompt": "This seaside resort town’s course hosted the 2019 Asia-Pacific Open for professional golfers.",
+      "answer": "Hirono, Japan",
+      "lat": 34.9268,
+      "lng": 135.1461,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Japan"
+      ],
+      "promptZh": "这个海滨小镇的球场举办了2019年亚太公开赛。",
+      "story": "The 2019 Asia-Pacific Open was played at Hirono Golf Club in Hirono, Japan. Yani Tseng won the tournament.",
+      "storyZh": "2019年亚太公开赛在日本广野的广野高尔夫俱乐部举行。雅尼·曾赢得该届赛事冠军。"
+    },
+    {
+      "id": "golf-dornbirn-austria",
+      "prompt": "This western Alpine town’s course hosted the European Tour’s national open from 2015 to 2024.",
+      "answer": "Dornbirn, Austria",
+      "lat": 47.4128,
+      "lng": 9.7414,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Europe"
+      ],
+      "promptZh": "这个阿尔卑斯小镇的球场曾承办欧洲巡回赛本土公开赛。",
+      "story": "The Austrian Open was staged at Golfclub Dornbirn from 2015 through 2024. Martin Schläff won the 2015 event.",
+      "storyZh": "奥地利公开赛于2015年至2024年在多恩Birn高尔夫俱乐部举行。马丁·施莱夫赢得了2015年赛事。"
+    },
+    {
+      "id": "golf-trophade-france",
+      "prompt": "This continental course hosted the 2018 Ryder Cup, won by Team Europe.",
+      "answer": "Trophade, France",
+      "lat": 47.7753,
+      "lng": -2.5058,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "Europe"
+      ],
+      "promptZh": "这座欧洲球场举办了2018年莱德杯，欧洲队获胜。",
+      "story": "Le Golf National hosted the 2018 Ryder Cup near Paris. Europe defeated the United States 17½–8½.",
+      "storyZh": "国家高尔夫俱乐部在巴黎附近举办了2018年莱德杯。欧洲队以17½比8½击败美国队。"
+    },
+    {
+      "id": "golf-whistling-straits-wisconsin",
+      "prompt": "This golf course hosted the 2003 and 2015 editions of the PGA Championship.",
+      "answer": "Whistling Straits, Wisconsin",
+      "lat": 43.5614,
+      "lng": -87.8158,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "PGA"
+      ],
+      "promptZh": "这里在2003年和2015年两度举办PGA锦标赛。",
+      "story": "Whistling Straits hosted the PGA Championship in 2003 and 2015. Tiger Woods won in 2003, while Justin Rose won in 2015.",
+      "storyZh": "哨兵海峡球场在2003年和2015年两度承办PGA锦标赛。泰格·伍兹赢得2003年冠军，贾斯汀·罗斯赢得2015年冠军。"
+    },
+    {
+      "id": "golf-oak-hill-texas",
+      "prompt": "This golf course hosted the PGA Championship in 2005, 2013, and 2022.",
+      "answer": "Oak Hill, Texas",
+      "lat": 30.1755,
+      "lng": -97.6103,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "PGA"
+      ],
+      "promptZh": "这座球场在三个年份举办过PGA锦标赛。",
+      "story": "Ben Hogan helped design the course in 1947, and Perry Maxwell Sr. rebuilt it in 1976.",
+      "storyZh": "本·霍根于1947年参与设计这座球场，佩里·麦克斯韦尔父子随后于1976年对其重建。"
+    },
+    {
+      "id": "golf-congressional-country-club-maryland",
+      "prompt": "Before 2021, this club had hosted five editions of the US Open.",
+      "answer": "Congressional Country Club, Maryland",
+      "lat": 39.0387,
+      "lng": -77.0486,
+      "scope": "world",
+      "sport": "golf",
+      "tags": [
+        "golf",
+        "US Open"
+      ],
+      "promptZh": "这座俱乐部曾举办五届US公开赛。",
+      "story": "The club staged its sixth U.S. Open in 2021, five years after its previous championship in 1995.",
+      "storyZh": "该俱乐部于2021年举办了第六届美国公开赛，前五届中的最近一届是在1995年。"
+    },
+    {
+      "id": "tennis-melbourne-australia",
+      "prompt": "This city hosts the tennis calendar's first Grand Slam of the year.",
+      "answer": "Melbourne, Australia",
+      "lat": -37.8136,
+      "lng": 144.9631,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "AO"
+      ],
+      "viewLat": -34.6132,
+      "viewLng": 138.1053,
+      "promptZh": "这座城市举办每年首项网球大满贯赛事。",
+      "story": "The Australian Open was first played in 1905 and has been held at Melbourne Park since 1988.",
+      "storyZh": "澳大利亚网球公开赛于1905年首次举办，自1988年以来一直在墨尔本公园举行。"
+    },
+    {
+      "id": "tennis-wimbledon-england",
+      "prompt": "This city hosts tennis's oldest major, which has been played on grass since 1877.",
+      "answer": "Wimbledon, England",
+      "lat": 51.4259,
+      "lng": -0.2843,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "Wimbledon"
+      ],
+      "viewLat": 45.5853,
+      "viewLng": 6.4156,
+      "promptZh": "这座城市的大满贯自1877年起一直在草地上进行。",
+      "story": "The women's singles championship was first contested in 1884.",
+      "storyZh": "女子单打锦标赛于1884年首次开赛。"
+    },
+    {
+      "id": "tennis-paris-france",
+      "prompt": "This city hosts one of the four tennis majors, played entirely on clay.",
+      "answer": "Paris, France",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "Roland Garros"
+      ],
+      "viewLat": 45.9466,
+      "viewLng": -1.3779,
+      "promptZh": "这座城市举办一项全程在红土上进行的网球大满贯。",
+      "story": "The tournament's modern incarnation began in 1891, when it was known as the French Championships.",
+      "storyZh": "这项赛事的现代形式始于1891年，当时称为法国锦标赛。"
+    },
+    {
+      "id": "tennis-new-york-city-new-york",
+      "prompt": "This city hosts the final tennis Grand Slam of the calendar year.",
+      "answer": "New York City, New York",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "US Open"
+      ],
+      "viewLat": 45.3276,
+      "viewLng": -79.1159,
+      "promptZh": "这座城市举办每年最后一项网球大满贯赛事。",
+      "story": "The US Open moved to its current home at Flushing Meadows in 1978.",
+      "storyZh": "美国网球公开赛于1978年迁至今日的法拉盛赛场。"
+    },
+    {
+      "id": "tennis-madrid-spain",
+      "prompt": "This city hosts a prestigious Masters 1000 tennis tournament played on clay in spring.",
+      "answer": "Madrid, Spain",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "Masters"
+      ],
+      "viewLat": 35.2403,
+      "viewLng": -6.7562,
+      "promptZh": "这座城市每年举办春季红土场的1000分大师赛网球赛。",
+      "story": "The 2022 men's final was the first Masters 1000 final to be played as best of five sets.",
+      "storyZh": "2022年男单决赛成为首场采用五盘三胜制的1000分大师赛决赛。"
+    },
+    {
+      "id": "tennis-rome-italy",
+      "prompt": "This city hosts a spring clay-court Masters 1000 tournament staged at its historic national tennis complex.",
+      "answer": "Rome, Italy",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "Masters"
+      ],
+      "viewLat": 48.7276,
+      "viewLng": 9.4681,
+      "promptZh": "这座城市在国家网球中心举办红土场1000分大师赛。",
+      "story": "The tournament has been held at the Foro Italico since 2009.",
+      "storyZh": "该赛事自2009年起一直在福尔意大利科举行。"
+    },
+    {
+      "id": "tennis-toronto-ontario",
+      "prompt": "This city hosts the National Bank Open, a summer Masters 1000 tournament on hard courts.",
+      "answer": "Toronto, Ontario",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "Masters"
+      ],
+      "viewLat": 38.6742,
+      "viewLng": -84.2348,
+      "promptZh": "这座城市举办名为国家银行公开赛的1000分大师赛。",
+      "story": "The tournament returned to this city in 2021 after being cancelled in 2020.",
+      "storyZh": "该赛事在2020年取消后，于2021年重返这座城市。"
+    },
+    {
+      "id": "tennis-montreal-quebec",
+      "prompt": "This city hosts a summer hard-court Masters 1000 tournament still known by a traditional country-derived title.",
+      "answer": "Montreal, Quebec",
+      "lat": 45.5017,
+      "lng": -73.5673,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "Masters"
+      ],
+      "viewLat": 49.5226,
+      "viewLng": -78.0698,
+      "promptZh": "这座城市举办沿用国名的夏季硬地场1000分大师赛。",
+      "story": "The tournament was first held in this city in 1974.",
+      "storyZh": "该赛事于1974年首次在这座城市举办。"
+    },
+    {
+      "id": "tennis-cincinnati-ohio",
+      "prompt": "This Ohio city hosts a summer Masters 1000 tournament whose event was upgraded in 2009.",
+      "answer": "Cincinnati, Ohio",
+      "lat": 39.1031,
+      "lng": -84.512,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "Masters"
+      ],
+      "viewLat": 34.1188,
+      "viewLng": -88.2435,
+      "promptZh": "这座城市的赛事于2009年升级为1000分大师赛。",
+      "story": "Rafael Nadal won the singles title here a record ten times.",
+      "storyZh": "拉斐尔·纳达尔曾十次在这里赢得男单冠军，创下赛事纪录。"
+    },
+    {
+      "id": "tennis-shanghai-china",
+      "prompt": "This city hosts an autumn Masters 1000 tennis tournament played on outdoor hard courts.",
+      "answer": "Shanghai, China",
+      "lat": 31.2304,
+      "lng": 121.4737,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "Masters"
+      ],
+      "viewLat": 25.0572,
+      "viewLng": 114.4419,
+      "promptZh": "这座城市每年举办秋季室外硬地场的1000分大师赛。",
+      "story": "The tournament was first held in this city in 2009.",
+      "storyZh": "该赛事于2009年首次在这座城市举办。"
+    },
+    {
+      "id": "tennis-madrid-spain-2",
+      "prompt": "This Spanish capital staged the ATP Masters Series here from 2002 to 2006 and now hosts a clay-court tournament.",
+      "answer": "Madrid, Spain",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "scope": "city",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "Masters"
+      ],
+      "viewLat": 35.2403,
+      "viewLng": -6.7562,
+      "promptZh": "这座西班牙首都曾在2002年至2006年举办ATP大师赛。",
+      "story": "The Masters Series event ran in the Spanish capital for five seasons before merging into the Monte Carlo Masters in 2007.",
+      "storyZh": "该大师赛在这座西班牙首都连续举办五季后，于2007年并入蒙特卡洛大师赛。"
+    },
+    {
+      "id": "tennis-belgrade-serbia",
+      "prompt": "This Serbian capital hosted the 2009 ATP World Tour Finals and is home to a golden generation of tennis champions.",
+      "answer": "Belgrade, Serbia",
+      "lat": 44.7866,
+      "lng": 20.4489,
+      "scope": "world",
+      "sport": "tennis",
+      "tags": [
+        "tennis"
+      ],
+      "promptZh": "这座塞尔维亚首都曾举办2009年ATP年终总决赛。",
+      "story": "Novak Djokovic, Ana Ivanovic and Jelena Jankovic all came through the Red Star Tennis Club in the Serbian capital.",
+      "storyZh": "德约科维奇、伊万诺维奇和扬科维奇都出自该市的红星网球俱乐部。"
+    },
+    {
+      "id": "tennis-novi-sad-serbia",
+      "prompt": "This Serbian city saw Djokovic claim his first Masters title in 2006 and hosted the season-ending world championships in the 1990s.",
+      "answer": "Novi Sad, Serbia",
+      "lat": 45.2671,
+      "lng": 19.8335,
+      "scope": "world",
+      "sport": "tennis",
+      "tags": [
+        "tennis"
+      ],
+      "promptZh": "这座塞尔维亚城市见证德约科维奇2006年首夺大师赛冠军。",
+      "story": "The season-ending World Championships were staged in Novi Sad from 1990 to 1995, before moving on to Stuttgart.",
+      "storyZh": "年终世界锦标赛曾于1990年至1995年在诺维萨德举行，随后移往斯图加特。"
+    },
+    {
+      "id": "tennis-turin-italy",
+      "prompt": "This Italian city hosted the season-ending ATP Finals for five consecutive editions, from 2018 through 2022.",
+      "answer": "Turin, Italy",
+      "lat": 45.0703,
+      "lng": 7.6869,
+      "scope": "world",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "ATP Finals"
+      ],
+      "promptZh": "这座意大利城市曾连续五届举办ATP年终总决赛。",
+      "story": "The Italian Open in Turin is one of the oldest clay-court tournaments in the world, played since 1930.",
+      "storyZh": "都灵的意大利公开赛是世界上最古老的红土赛事之一，创办于1930年。"
+    },
+    {
+      "id": "tennis-london-england",
+      "prompt": "This British capital hosts the season-ending ATP Finals inside the O2 Arena, the tournament's home since 2011.",
+      "answer": "London, England",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "scope": "world",
+      "sport": "tennis",
+      "tags": [
+        "tennis",
+        "ATP"
+      ],
+      "promptZh": "这座英国首都的O2体育馆自2011年起承办ATP年终总决赛。",
+      "story": "The O2 Arena staged the ATP Finals in 2011, 2012 and 2013 before the tournament moved on to Shanghai.",
+      "storyZh": "O2体育馆在2011至2013年举办ATP总决赛，之后赛事移师上海。"
+    },
+    {
+      "id": "tennis-basel-switzerland",
+      "prompt": "This Swiss city has staged an indoor hard-court tournament since 1975, one of the tour's oldest events.",
+      "answer": "Basel, Switzerland",
+      "lat": 47.5596,
+      "lng": 7.5886,
+      "scope": "world",
+      "sport": "tennis",
+      "tags": [
+        "tennis"
+      ],
+      "promptZh": "这座瑞士城市自1975年起举办一项室内硬地赛事。",
+      "story": "Since 2009 the Swiss Indoors has been played at St. Jakobshalle, following earlier editions at the Mustermesse fairground.",
+      "storyZh": "自2009年起，瑞士室内赛改在圣雅各布会堂举行，此前在展览中心举行。"
+    },
+    {
+      "id": "tennis-hamburg-germany",
+      "prompt": "This city hosts the country's oldest clay-court tennis tournament, which was founded in 1897.",
+      "answer": "Hamburg, Germany",
+      "lat": 53.5511,
+      "lng": 9.9937,
+      "scope": "world",
+      "sport": "tennis",
+      "tags": [
+        "tennis"
+      ],
+      "promptZh": "这座城市举办该国历史最悠久的红土网球赛。",
+      "story": "Rafael Nadal won his first ATP singles title at this tournament in 1995, at the age of 17.",
+      "storyZh": "拉斐尔·纳达尔于1995年在该赛事赢得个人首个ATP单打冠军，当时年仅17岁。"
+    },
+    {
+      "id": "tennis-halle-germany",
+      "prompt": "This town hosts a grass-court tennis tournament that has run continuously since 1993.",
+      "answer": "Halle, Germany",
+      "lat": 51.4966,
+      "lng": 11.9804,
+      "scope": "world",
+      "sport": "tennis",
+      "tags": [
+        "tennis"
+      ],
+      "promptZh": "这个小镇的草地网球赛自1993年起持续举办。",
+      "story": "The tournament is held at the OWL Arena, and Novak Djokovic has won its singles title six times.",
+      "storyZh": "该赛事在OWL竞技场举行，诺瓦克·德约科维奇曾六次夺得单打冠军。"
+    },
+    {
+      "id": "tennis-bologna-italy",
+      "prompt": "This city hosts the oldest tennis tournament in the world, whose origins date to 1099.",
+      "answer": "Bologna, Italy",
+      "lat": 44.4949,
+      "lng": 11.3426,
+      "scope": "world",
+      "sport": "tennis",
+      "tags": [
+        "tennis"
+      ],
+      "promptZh": "这座城市举办世界上最古老的网球赛事。",
+      "story": "The tournament's modern edition began in 1895 before the event moved to Rome in 1911.",
+      "storyZh": "该赛事的现代版本始于1895年，并于1911年迁往罗马。"
+    },
+    {
+      "id": "olympics-tokyo-japan",
+      "prompt": "This city hosted the Summer Olympics in 1964 and again in 2020.",
+      "answer": "Tokyo, Japan",
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "scope": "city",
+      "sport": "olympics",
+      "tags": [
+        "Olympics"
+      ],
+      "viewLat": 42.2727,
+      "viewLng": 144.2941,
+      "promptZh": "这座城市分别在1964与2020年举办夏季奥运会。",
+      "story": "The 2020 Games were postponed by one year because of COVID-19, but retained their original name.",
+      "storyZh": "2020年奥运会因新冠疫情推迟一年举行，但保留了原赛事名称。"
+    },
+    {
+      "id": "olympics-athens-greece",
+      "prompt": "This city gave birth to the modern Olympic movement and hosted the first modern Games in 1896.",
+      "answer": "Athens, Greece",
+      "lat": 37.9838,
+      "lng": 23.7275,
+      "scope": "city",
+      "sport": "olympics",
+      "tags": [
+        "Olympics"
+      ],
+      "viewLat": 40.9744,
+      "viewLng": 16.7075,
+      "promptZh": "这座城市是现代奥运会的发源地，并举办了首届现代赛事。",
+      "story": "The 1896 Games featured 43 events across 10 sports and included the first Olympic marathon.",
+      "storyZh": "1896年奥运会共设10个大项、43个小项，并举行了首届奥运马拉松比赛。"
+    },
+    {
+      "id": "nfl-atlanta-georgia-3",
+      "prompt": "This Georgia city is where a Falcons receiver set the franchise career receiving yards record.",
+      "answer": "Atlanta, Georgia",
+      "lat": 33.749,
+      "lng": -84.388,
+      "scope": "city",
+      "sport": "american football",
+      "tags": [
+        "NFL",
+        "Falcons"
+      ],
+      "viewLat": 30.5,
+      "viewLng": -87.5,
+      "promptZh": "这座乔治亚州城市是一位猎鹰队接球手创下队史生涯接球码数纪录的地方。",
+      "story": "Roddy White spent all 11 seasons of his NFL career with the Atlanta Falcons and retired as the franchise leader in career receiving yards.",
+      "storyZh": "罗迪·怀特的整个 NFL 生涯11个赛季都效力于亚特兰大猎鹰队，退役时是该队生涯接球码数纪录保持者。"
     }
   ]
 }
