@@ -30,7 +30,7 @@
       "viewLng": -92.4453,
       "promptZh": "Mean' Joe Greene 曾两获 NFL 年度最佳防守球员，并从这所德州小学校被选入",
       "story": "Taylor, Texas, was the hometown of Mean’ Joe Greene, who was drafted by the Pittsburgh Steelers in 1969 and went on to win two NFL Defensive Player of the Year awards.",
-      "storyZh": "德州泰勒是“-mean乔”格林的家乡；他于1969年被匹兹堡钢人队选中，后来两次荣膺NFL最佳防守球员。"
+      "storyZh": "德州泰勒是“Mean Joe”格林的家乡；他于1969年被匹兹堡钢人队选中，后来两次荣膺NFL最佳防守球员。"
     },
     {
       "id": "nba-baltimore-1",
@@ -136,7 +136,7 @@
       "viewLng": -83.692,
       "promptZh": "Lamar Jackson 在这所学校成为赢得 Heisman Trophy 的最年轻球员",
       "story": "On December 10, 2016, Lamar Jackson became the youngest Heisman Trophy winner in history at 21 years and 168 days while playing for Louisville.",
-      "storyZh": "2016年12月10日， Lamar Jackson以21岁168天成为史上最年轻的橄榄球海斯曼奖得主，当时效力于路易斯维尔大学。"
+      "storyZh": "2016年12月10日，Lamar Jackson以21岁168天成为史上最年轻的橄榄球海斯曼奖得主，当时效力于路易斯维尔大学。"
     },
     {
       "id": "nfl-army-1",
@@ -332,7 +332,7 @@
       ],
       "viewLat": 49.9682,
       "viewLng": -86.8642,
-      "promptZh": "自1934年起，这座城市球队的感恩节橄榄球赛从未中断",
+      "promptZh": "自1934年起，这座城市的球队的感恩节橄榄球赛从未中断",
       "story": "The Detroit Lions have hosted a Thanksgiving Day NFL game every year since 1934, making it one of the league’s longest-running holiday traditions.",
       "storyZh": "底特律雄狮队自1934年起每年都参加感恩节NFL比赛，是联盟中最悠久的节日传统之一。"
     },
@@ -350,9 +350,9 @@
       ],
       "viewLat": 34.0841,
       "viewLng": -95.0604,
-      "promptZh": "2012年，决定比赛结果的“Fail Mary”在这座城市上演",
+      "promptZh": "2012年，决定比赛结果的“Fail Mary”（失败迈里）在这座城市上演",
       "story": "The Fail Mary occurred in New Orleans on November 4, 2012, when replacement officials awarded the Giants a field goal after a controversial ruling involving Jim Harbaugh.",
-      "storyZh": "著名的 Fail Mary 发生在2012年11月4日的新奥尔良，替补裁判在涉及吉姆·哈博的争议判罚后判给巨人队一记射门得分。"
+      "storyZh": "著名的“Fail Mary”（失败迈里）发生在2012年11月4日的新奥尔良，替补裁判在涉及吉姆·哈博的争议判罚后判给巨人队一记射门得分。"
     },
     {
       "id": "nfl-detroit-3",
@@ -812,7 +812,7 @@
       "viewLng": -85.3269,
       "promptZh": "自 1957 年起，Packers 一直在这座威斯康星小城以“冰雪荒原”之名进行主场比赛",
       "story": "The Packers have played their home games in Green Bay at Lambeau Field since 1957, earning the stadium its enduring nickname, the Frozen Tundra.",
-      "storyZh": "包装工队自1957年起一直在格林贝的兰博球场进行主场比赛，这座球场也因此获得了“冻结苔原”的 enduring 称号。"
+      "storyZh": "包装工队自1957年起一直在格林贝的兰博球场进行主场比赛，这座球场也因此获得了“冻结苔原”的持久称号。"
     },
     {
       "id": "us-nfl-pittsburgh-1",
@@ -1714,7 +1714,7 @@
       ],
       "viewLat": 41.0793,
       "viewLng": -77.3094,
-      "promptZh": "这座城市的球队由 businessman Fred Zollner 创立",
+      "promptZh": "这座城市的球队由商人弗雷德·佐尔纳创立",
       "story": "Fred Zollner founded the Fort Wayne Zollner Pistons in 1941, establishing the franchise that later became the Detroit Pistons.",
       "storyZh": "1941年，弗雷德·佐尔纳在韦恩堡创办了韦恩堡佐尔纳活塞队，这支球队后来成为底特律活塞队。"
     },
@@ -2432,7 +2432,7 @@
       "tags": [
         "international"
       ],
-      "promptZh": "这位拥有4条金腰带、 undisputed超中量级拳王Canelo Álvarez于1990年出生在这座城市的郊区",
+      "promptZh": "这位拥有4条金腰带、undisputed（无可争议）超中量级拳王Canelo Álvarez于1990年出生在这座城市的郊区",
       "story": "Canelo Álvarez was born in Guadalajara on July 17, 1990, beginning his rise from the western Mexican city to world boxing champion.",
       "storyZh": "卡内洛·阿尔瓦雷斯于1990年7月17日出生在瓜达拉哈拉，从这座墨西哥西部城市踏上通往世界拳坛冠军的征程。"
     },
@@ -2447,7 +2447,7 @@
       "tags": [
         "international"
       ],
-      "promptZh": "2024年，Oleksandr Usyk在这座城市击败Tyson Fury，成为 undisputed重量级拳王",
+      "promptZh": "2024年，Oleksandr Usyk在这座城市击败Tyson Fury，成为 undisputed（无可争议）重量级拳王",
       "story": "On May 18, 2024, Oleksandr Usyk defeated Tyson Fury in Riyadh to become the first undisputed heavyweight champion in the modern boxing era.",
       "storyZh": "2024年5月18日，奥列克桑德·乌西克在利雅得击败泰森·弗瑞，成为现代拳击史上首位公认重量级冠军。"
     },
@@ -3076,7 +3076,7 @@
       "viewLng": -78.3374,
       "promptZh": "这座佛罗里达州城市拥有 NASCAR 最著名的赛道",
       "story": "Daytona Beach is home to Daytona International Speedway, where NASCAR’s most famous race, the Daytona 500, has been held since 1959.",
-      "storyZh": "代托纳比奇是代托纳国际赛道的所在地， NASCAR最著名的达代托纳500自1959年起就在这里举行。"
+      "storyZh": "代托纳比奇是代托纳国际赛道的所在地，NASCAR最著名的达代托纳500自1959年起就在这里举行。"
     },
     {
       "id": "nfl-philadelphia-1",
@@ -3795,7 +3795,7 @@
       ],
       "viewLat": 30.0085,
       "viewLng": -85.3364,
-      "promptZh": "这座城市海盗队赢得2002赛季后的超级碗。",
+      "promptZh": "这座城市的海盗队赢得2002赛季后的超级碗。",
       "story": "Tampa's Buccaneers won Super Bowl XXXVII in January 2003, defeating the Oakland Raiders 48-21.",
       "storyZh": "坦帕海盗队在2003年1月赢得第37届超级碗，以48比21击败奥克兰突袭者队。"
     },
@@ -3831,7 +3831,7 @@
       ],
       "viewLat": 37.4675,
       "viewLng": -88.2148,
-      "promptZh": "这座城市猛虎队四分卫曾在超级碗保持唯一完美传球效率。",
+      "promptZh": "这座城市的猛虎队四分卫曾在超级碗保持唯一完美传球效率。",
       "story": "Cincinnati's Ken Anderson completed 25 of 35 passes for 299 yards, two touchdowns, and no interceptions in Super Bowl XVI, earning a 127.6 passer rating.",
       "storyZh": "辛辛那提的肯·安德森在第16届超级碗中完成25次接球，出手35次，共推进299码并传出2次达阵，且没有被抄截。"
     },
@@ -3885,7 +3885,7 @@
       ],
       "viewLat": 38.8674,
       "viewLng": -87.656,
-      "promptZh": "第XLI届超级碗冠军球队主场在这座城市，亦以五百英里车赛闻名。",
+      "promptZh": "这座城市的球队赢得第41届超级碗，也以每年举行的500英里车赛闻名。",
       "story": "The local professional football franchise joined the NFL under its current name in 1953 and relocated to Indiana in 1984.",
       "storyZh": "当地职业橄榄球队于1953年以现用队名加入NFL，并于1984年迁至印第安纳州。"
     },
@@ -3941,7 +3941,7 @@
       "viewLng": -97.0715,
       "promptZh": "这座城市是圣徒队主场，飓风封城后球队在此赢得超级碗。",
       "story": "The Saints defeated the Indianapolis Colts 31–17 in Super Bowl XLIV on February 7, 2010.",
-      "storyZh": "2010年2月7日，圣徒队在第XLIV届超级碗中以31比17击败印第安波利斯小马队。"
+      "storyZh": "2010年2月7日，圣徒队在第44届超级碗中以31比17击败印第安波利斯小马队。"
     },
     {
       "id": "nfl-pittsburgh-pennsylvania",
@@ -3959,7 +3959,7 @@
       "viewLng": -84.3005,
       "promptZh": "这座城市是钢人队主场，球队已赢六次超级碗并列历史最多。",
       "story": "The Steelers won their sixth championship in Super Bowl LVI on February 11, 2024.",
-      "storyZh": "2024年2月11日，钢人队赢得第LVI届超级碗，拿到队史第六座总冠军。"
+      "storyZh": "2024年2月11日，钢人队赢得第56届超级碗，拿到队史第六座总冠军。"
     },
     {
       "id": "nfl-green-bay-wisconsin",
@@ -3995,7 +3995,7 @@
       "viewLng": -97.2988,
       "promptZh": "这座城市是德州人队主场，其球场拥有NFL首个可开合屋顶。",
       "story": "NRG Stadium hosted Super Bowl XLII in February 2008, when the Giants defeated the Patriots 17–14.",
-      "storyZh": "2008年2月，NRG球场举办了第XLII届超级碗，巨人队以17比14击败新英格兰爱国者队。"
+      "storyZh": "2008年2月，NRG球场举办了第42届超级碗，巨人队以17比14击败新英格兰爱国者队。"
     },
     {
       "id": "nfl-dallas-texas",
@@ -4135,7 +4135,7 @@
       ],
       "viewLat": 41.323,
       "viewLng": -94.4222,
-      "promptZh": "这座印第安纳州城市是一部讲述天才四分卫的名著的背景地。",
+      "promptZh": "一部讲述天才四分卫的名著，背景地就是这座印第安纳州城市。",
       "story": "Kurt Vonnegut was born in Terre Haute in 1922 and grew up in Indianapolis before studying chemical engineering at the University of Chicago.",
       "storyZh": "库尔特·冯内格特于1922年出生在特雷霍特，童年在印第安纳波利斯度过，后来进入芝加哥大学学习。"
     },
@@ -4333,7 +4333,7 @@
       ],
       "viewLat": 36.3757,
       "viewLng": -76.3409,
-      "promptZh": "这座城市举办了1939年电影《绿野仙踪》的世界首映。",
+      "promptZh": "1939年电影《绿野仙踪》的世界首映就在这座城市举办。",
       "story": "The world premiere of The Wizard of Oz took place at the Cape May Theatre on December 12, 1939.",
       "storyZh": "《绿野仙踪》的世界首映于1939年12月12日在卡普梅剧院举行。"
     },
@@ -4387,7 +4387,7 @@
       ],
       "viewLat": 45.0699,
       "viewLng": -127.6089,
-      "promptZh": "这座城市是俄勒冈鸭队美式橄榄球队的所在地。",
+      "promptZh": "俄勒冈鸭队美式橄榄球队所在地就是这座城市。",
       "story": "Autzen Stadium opened in 1967 near the University of Oregon campus.",
       "storyZh": "奥岑体育场于1967年在俄勒冈大学校园附近建成。"
     },
@@ -4421,7 +4421,7 @@
       ],
       "viewLat": 48.6411,
       "viewLng": -114.2546,
-      "promptZh": "这座城市是蒙大拿灰熊队美式橄榄球队的所在地。",
+      "promptZh": "蒙大拿灰熊队美式橄榄球队所在地就是这座城市。",
       "story": "Washington-Grizzly Stadium opened in 1927 on the University of Montana campus.",
       "storyZh": "华盛顿灰熊体育场于1927年在蒙大拿大学校园内建成。"
     },
@@ -4619,7 +4619,7 @@
       ],
       "viewLat": 35.3092,
       "viewLng": -109.9625,
-      "promptZh": "这座城市的球队有一位名人堂击球手在1994年打出.394的打击率。",
+      "promptZh": "这座城市的球队有一位名人堂击球手，1994年打出0.394的打击率。",
       "story": "Tony Gwynn batted .394 during the strike-shortened 1994 season and finished his career with a .354 average.",
       "storyZh": "托尼· Gwynn在1994年的缩短赛季中打出.394的打击率，职业生涯平均打击率为.354。"
     },
@@ -4709,7 +4709,7 @@
       ],
       "viewLat": 26.2729,
       "viewLng": -79.0768,
-      "promptZh": "这座城市的球队是唯一在两座城市打过主场的MLB球队。",
+      "promptZh": "这座城市的马林鱼队是唯一在两座城市打过主场的MLB球队。",
       "story": "After playing in Miami, the Marlins relocated to the Jupiter area and opened LoanDepot Park in 2012.",
       "storyZh": "马林鱼队离开迈阿密后迁往朱庇特地区，并于2012年启用LoanDepot Park球场。"
     },
@@ -5030,7 +5030,7 @@
       ],
       "viewLat": 37.0762,
       "viewLng": -97.3293,
-      "promptZh": "这座城市球队2011年以六场击败迈阿密，赢得NBA总冠军。",
+      "promptZh": "这座城市的球队2011年以六比四击败迈阿密，赢得NBA总冠军。",
       "story": "The Dallas Mavericks won their first NBA championship in 2011, beating the Miami Heat in six games, with Dirk Nowitzki named Finals MVP.",
       "storyZh": "达拉斯独行侠在2011年赢得队史首个NBA总冠军，六场击败迈阿密热火，德克·诺维茨基当选总决赛最有价值球员。"
     },
@@ -5048,7 +5048,7 @@
       ],
       "viewLat": 42.0094,
       "viewLng": -86.3243,
-      "promptZh": "这座城市球队2019年赢得NBA总冠军，是队史首个冠军。",
+      "promptZh": "这座城市的球队2019年赢得NBA总冠军，是队史首个冠军。",
       "story": "The Toronto Raptors won their first NBA championship in 2019, with Kawhi Leonard earning Finals MVP in a six-game series against Golden State.",
       "storyZh": "多伦多猛龙在2019年赢得队史首个NBA总冠军，考瓦伊·伦纳德在六场系列赛中当选总决赛最有价值球员。"
     },
@@ -5066,7 +5066,7 @@
       ],
       "viewLat": 34.5259,
       "viewLng": -101.8443,
-      "promptZh": "这座城市球队以传球体系五次夺得NBA总冠军。",
+      "promptZh": "这座城市的球队以传球体系五次夺得NBA总冠军。",
       "story": "The San Antonio Spurs won five NBA championships between 1999 and 2014, with Tim Duncan taking Finals MVP honors three times.",
       "storyZh": "圣安东尼奥马刺在1999年至2014年间五次夺得NBA总冠军，其中蒂姆·邓肯三次当选总决赛最有价值球员。"
     },
@@ -5084,7 +5084,7 @@
       ],
       "viewLat": 36.3757,
       "viewLng": -76.3409,
-      "promptZh": "这座城市球队曾于1967年和1983年两次夺得NBA总冠军。",
+      "promptZh": "这座城市的球队曾于1967年和1983年两次夺得NBA总冠军。",
       "story": "The Philadelphia 76ers won the 1967 title with Wilt Chamberlain as their star and the 1983 title with Moses Malone at center.",
       "storyZh": "费城76人队1967年在威尔特·张伯伦带领下夺冠，1983年又依靠摩西·马龙再夺总冠军。"
     },
@@ -5120,7 +5120,7 @@
       ],
       "viewLat": 45.0541,
       "viewLng": -122.0885,
-      "promptZh": "这座城市的球迷被称为Rip City，主场球队是开拓者队。",
+      "promptZh": "这座城市的球迷被称为Rip City，主场是开拓者队。",
       "story": "The Trail Blazers' home opened in 1995 as the Rose Garden, and the Rip City nickname dates back to the team's 1978 playoff run.",
       "storyZh": "开拓者队的主场球馆1995年以玫瑰园之名开放，而Rip City这一昵称源自球队1978年的季后赛之旅。"
     },
@@ -5545,7 +5545,7 @@
       ],
       "viewLat": 33.7944,
       "viewLng": -99.076,
-      "promptZh": "这座城市球队有圣路易斯球探，总经理打造三支超级碗冠军队。",
+      "promptZh": "这座城市的球队有圣路易斯球探，总经理打造三支超级碗冠军队。",
       "story": "Charles Ramsey, a St. Louis native and longtime scout, served as the Chiefs' first general manager in 1960. Brett Veach later oversaw the roster construction for three Super Bowl championship teams.",
       "storyZh": "出生于圣路易斯的球探查尔斯·拉姆齐于1960年担任球队首任总经理。布雷特·维奇后来负责组建了三个超级碗冠军队的阵容。"
     },
@@ -5563,7 +5563,7 @@
       ],
       "viewLat": 33.7944,
       "viewLng": -99.076,
-      "promptZh": "这座城市球队赢下2019年NFL最长加时赛，比分51比45。",
+      "promptZh": "这座城市的球队赢下2019年NFL最长加时赛，比分51比45。",
       "story": "On January 13, 2019, Kansas City defeated New England 51-45 in double overtime, setting the record for the longest playoff game in NFL history.",
       "storyZh": "2019年1月13日，堪萨斯城在双加时赛中以51比45击败新英格兰队，创下当时NFL季后赛单场最长纪录。"
     },
@@ -6011,7 +6011,7 @@
       ],
       "viewLat": 52.8666,
       "viewLng": -130.4607,
-      "promptZh": "这座城市有NHL球队，2010年加拿大女冰在此夺得冬奥金牌。",
+      "promptZh": "这座城市有NHL球队，2010年加拿大国家女子冰球队在此夺得冬奥金牌。",
       "story": "Vancouver was the first city outside Europe to host a Winter Olympics, in 2010.",
       "storyZh": "温哥华是首个举办冬奥会的非欧洲城市，举办年份为2010年。"
     },
@@ -6155,7 +6155,7 @@
       ],
       "viewLat": 44.3591,
       "viewLng": -127.498,
-      "promptZh": "这座城市是2021年加盟NHL的“kraken队”所在地。",
+      "promptZh": "这座城市是2021年加盟NHL的海妖队所在地。",
       "story": "The Seattle Kraken won their first Stanley Cup in 2023, four years after entering the league.",
       "storyZh": "西雅图海妖队在加入联盟四年后，于2023年赢得了队史首个斯坦利杯。"
     },
@@ -6542,7 +6542,7 @@
       ],
       "viewLat": -26.9665,
       "viewLng": -39.1882,
-      "promptZh": "这里有红黑军团主场，也是1950年世界杯决赛举办地。",
+      "promptZh": "这座城市有红黑军团主场，也是1950年世界杯决赛举办地。",
       "story": "Flamengo was founded on July 5, 1895, as Fluminense Football Club. It adopted its current name in 1914 and has won more Campeonato Carioca titles than any club.",
       "storyZh": "弗拉门戈足球俱乐部于1895年7月5日成立，曾名弗拉门迪诺足球俱乐部，1914年改为现名，并创造了州甲联赛夺冠次数纪录。"
     },
@@ -6560,7 +6560,7 @@
       ],
       "viewLat": -39.4214,
       "viewLng": -52.1954,
-      "promptZh": "这里是蓝黄军团主场，1986年曾出现上帝之手进球。",
+      "promptZh": "这座城市是蓝黄军团主场，1986年曾出现上帝之手进球。",
       "story": "Boca Juniors was founded in 1905 and has won the Copa Libertadores nine times, the highest total for an Argentine club. Its home ground is La Bombalera.",
       "storyZh": "博卡青年足球俱乐部成立于1905年，累计九次赢得南美解放者杯，保持阿根廷俱乐部纪录，其主场是 bombedera球场。"
     },
@@ -6996,7 +6996,7 @@
       "tags": [
         "World Cup"
       ],
-      "promptZh": "这个国家曾三次打进世界杯决赛决赛，并赢得了1974年的世界杯。",
+      "promptZh": "这个国家曾三次打进世界杯决赛，并赢得了1974年的世界杯。",
       "story": "The Netherlands played in the 1974, 1978, and 2010 World Cup finals, winning the first.",
       "storyZh": "荷兰队参加了1974年、1978年和2010年世界杯决赛，并赢得了首届冠军。"
     },
@@ -7132,7 +7132,7 @@
         "soccer",
         "Europe"
       ],
-      "promptZh": "这座城市红星与游击队的永恒德比早于国家独立。",
+      "promptZh": "这座城市的红星与游击队之间的永恒德比，早于国家独立。",
       "story": "Red Star and Partizan first met in the eternal derby in 1947, and their rivalry has continued through multiple national names and political systems.",
       "storyZh": "红星与游击队于1947年首次在永恒德比中交锋，此后经历多个国名与政治体制仍延续。"
     },
@@ -7340,7 +7340,7 @@
         "soccer",
         "Asia"
       ],
-      "promptZh": "这座首都所在国家的坡光钢铁曾夺得2002年亚冠冠军。",
+      "promptZh": "这座首都所在国家的浦光制铁曾夺得2002年亚冠冠军。",
       "story": "Seoul hosted four matches during the 2002 FIFA World Cup, including the quarterfinal between South Korea and Spain.",
       "storyZh": "首尔承办了2002年国际足联世界杯的四场比赛，其中包括韩国对阵西班牙的四分之一决赛。"
     },
@@ -7482,7 +7482,7 @@
       "tags": [
         "World Cup"
       ],
-      "promptZh": "这里曾举办1998年世界杯决赛，法国3比0击败巴西。",
+      "promptZh": "这座城市曾举办1998年世界杯决赛，法国3比0击败巴西。",
       "story": "Stade de France in Saint-Denis hosted the July 12, 1998 final, in which Brazil's Ronaldo missed two penalties.",
       "storyZh": "1998年7月12日，法兰西体育场举办了世界杯决赛，巴西球星罗纳尔多两次罚失点球。"
     },
@@ -7584,7 +7584,7 @@
       ],
       "viewLat": 39.3387,
       "viewLng": -125.9083,
-      "promptZh": "这座小镇的蒙特雷海岸球场举办AT&T职业业余赛。",
+      "promptZh": "这座小镇的海岸球场举办AT&T职业业余赛。",
       "story": "Pebble Beach Golf Links opened in 1919, and the AT&T Pro-Am was first held there in 1939.",
       "storyZh": "圆石滩高尔夫球场于1919年开业，AT&T职业业余赛于1939年首次在此举行。"
     },
@@ -7602,7 +7602,7 @@
       ],
       "viewLat": 37.5303,
       "viewLng": -85.7347,
-      "promptZh": "点击这里，1991年及2023年均举办PGA锦标赛。",
+      "promptZh": "1991年及2023年的PGA锦标赛都在这里举办。",
       "story": "The Ocean Course underwent a major renovation led by Pete Dye in 1996.",
       "storyZh": "1996年，海洋球场在皮特·戴的主导下进行了全面改造。"
     },
@@ -7620,7 +7620,7 @@
       ],
       "viewLat": 38.0148,
       "viewLng": -73.1324,
-      "promptZh": "点击这座小镇，美国公开赛曾五次在此举办。",
+      "promptZh": "美国公开赛曾五次在这座小镇的球场举办。",
       "story": "Walter Hagen won U.S. Opens here in 1951 and 1974.",
       "storyZh": "沃尔特·哈根曾于1951年和1974年在这里赢得美国公开赛。"
     },
@@ -7638,7 +7638,7 @@
       ],
       "viewLat": 38.8267,
       "viewLng": -104.2672,
-      "promptZh": "点击这座小镇，凤凰城公开赛曾在此举行。",
+      "promptZh": "这座小镇的度假球场举办凤凰城公开赛。",
       "story": "The resort includes Troon North and Troon South, both designed by Tom Fazio.",
       "storyZh": "该度假区包括由汤姆·法齐奥设计的特罗恩北场和特罗恩南场。"
     },
@@ -7656,7 +7656,7 @@
       ],
       "viewLat": 44.8432,
       "viewLng": -93.7577,
-      "promptZh": "点击这里，PGA锦标赛曾六次在此举办。",
+      "promptZh": "PGA锦标赛曾六次在这里举办。",
       "story": "Jack Nicklaus won the PGA Championship here in 1998 and 2008.",
       "storyZh": "杰克·尼克劳斯曾于1998年和2008年在这里赢得PGA锦标赛。"
     },
@@ -7674,7 +7674,7 @@
       ],
       "viewLat": 51.6537,
       "viewLng": 0.6802,
-      "promptZh": "点击这座小镇，1999及2018年均举办英国公开赛。",
+      "promptZh": "1999年及2018年的英国公开赛都在这里举办。",
       "story": "Tommy Armour won the 1931 Open at Carnoustie, the first championship staged on the links.",
       "storyZh": "汤米·阿摩尔在卡诺斯特蒂赢得1931年英国公开赛，这是该球场承办的首届赛事。"
     },
@@ -7692,7 +7692,7 @@
       ],
       "viewLat": 60.4066,
       "viewLng": -8.8805,
-      "promptZh": "点击这座小镇，1860年首届英国公开赛在此举行。",
+      "promptZh": "1860年首届英国公开赛就在这里举办。",
       "story": "Rory McIlroy won the 2014 Open at Muirfield by eight strokes.",
       "storyZh": "罗里·麦克罗伊在缪尔菲尔德以八杆优势赢得2014年英国公开赛。"
     },
@@ -7710,7 +7710,7 @@
       ],
       "viewLat": 61.8099,
       "viewLng": -0.5152,
-      "promptZh": "这座小镇拥有一座曾举办八届英国公开赛的林克斯球场。",
+      "promptZh": "这座小镇的林克斯球场曾举办八届英国公开赛。",
       "story": "Royal Troon Golf Club was founded in 1878. It has two courses, and the Old Course is famous for its deep rough and strong winds.",
       "storyZh": "皇家特罗恩高尔夫俱乐部创立于1878年，拥有两座球场，其中老球场以深草和强风著称。"
     },
@@ -7728,7 +7728,7 @@
       ],
       "viewLat": 61.9688,
       "viewLng": -3.2428,
-      "promptZh": "这座小镇曾举办二〇一九年及一九五一年英国公开赛。",
+      "promptZh": "这座小镇曾举办2019年及1951年的英国公开赛。",
       "story": "The 2019 Open at Royal Portrush was won by Shane Lowry, securing his first major title. The club had previously staged the tournament in 1951.",
       "storyZh": "2019年皇家波特拉什英国公开赛由肖恩·劳里夺冠，这是他的首个大满贯冠军。该俱乐部此前还于1951年承办过这项赛事。"
     },
@@ -7746,7 +7746,7 @@
       ],
       "viewLat": 46.143,
       "viewLng": -13.9429,
-      "promptZh": "这座小镇曾举办一九六六及一九七一年英国公开赛。",
+      "promptZh": "这座小镇曾举办1966年及1971年的英国公开赛。",
       "story": "Ballybunion's Old Course was originally designed by William Herd and later modified by Harry Colt.",
       "storyZh": "巴利布尼恩老球场最初由威廉·赫德设计，后来由哈里·科尔特进行了改造。"
     },
@@ -7764,7 +7764,7 @@
       ],
       "viewLat": 44.3734,
       "viewLng": -79.3915,
-      "promptZh": "这个小镇球场曾五次承办美国公开赛，末次是一九六四年。",
+      "promptZh": "这个小镇的球场曾五次承办美国公开赛，末次是1964年。",
       "story": "Rhode Island Country Club was designed by William F. Davis, with Donald Ross overseeing changes to the course in 1938.",
       "storyZh": "罗得岛乡村俱乐部由威廉·戴维斯设计，唐纳德·罗斯于1938年负责监督球场的改造。"
     },
@@ -7782,7 +7782,7 @@
       ],
       "viewLat": 38.1179,
       "viewLng": -67.1819,
-      "promptZh": "这座小镇球场曾五次承办美国公开赛，末次在二〇一九年。",
+      "promptZh": "这座小镇的球场曾五次承办美国公开赛，末次在2019年。",
       "story": "Bethpage State Park contains five courses, and Tiger Woods won the 2002 U.S. Open on the Black Course at age 24.",
       "storyZh": "贝斯佩奇州立公园拥有五座球场，24岁的泰格·伍兹曾在其中的黑球场赢得2002年美国公开赛。"
     },
@@ -7800,7 +7800,7 @@
       ],
       "viewLat": 47.9261,
       "viewLng": -92.4441,
-      "promptZh": "这座小镇的球场承办了二〇〇三年美国公开赛。",
+      "promptZh": "这座小镇的球场承办了2003年美国公开赛。",
       "story": "Justin Leonard won the 2003 U.S. Open at Olympia Fields, and Rory McIlroy won the 2012 edition at age 22.",
       "storyZh": "贾斯汀·伦纳德赢得了2003年奥林匹亚菲尔兹美国公开赛，22岁的罗里·麦克罗伊则夺得了2012年赛事冠军。"
     },
@@ -7818,7 +7818,7 @@
       ],
       "viewLat": 47.987,
       "viewLng": -89.672,
-      "promptZh": "明尼苏达这里的主球场举办过三届美国公开赛。",
+      "promptZh": "明尼苏达州这座城市的球场举办过三届美国公开赛。",
       "story": "Hazeltine National Golf Club opened in 1962 and was designed by Robert Trent Jones Sr.",
       "storyZh": "黑泽尔廷国家高尔夫俱乐部于1962年开放，由罗伯特·特伦特·琼斯一世设计。"
     },
@@ -7836,7 +7836,7 @@
       ],
       "viewLat": 45.5992,
       "viewLng": -64.6482,
-      "promptZh": "纽约这里在1896年举办了首届美国公开赛。",
+      "promptZh": "纽约州这座小镇在1896年举办了首届美国公开赛。",
       "story": "Shinnecock Hills hosted the 1986 PGA Championship, which Bob Tway won with a hole-in-one on the final hole.",
       "storyZh": "1986年PGA锦标赛在辛尼霍克山举行，鲍勃·特威在最后一洞打出一杆进洞。"
     },
@@ -7854,7 +7854,7 @@
       ],
       "viewLat": 47.2252,
       "viewLng": -62.3332,
-      "promptZh": "马萨诸塞这里的一座岛屿曾举办1998年美国公开赛。",
+      "promptZh": "马萨诸塞州这座海岛的球场曾举办1998年美国公开赛。",
       "story": "The Martha's Vineyard Golf Club's current course was redesigned by Donald Ross in 1924.",
       "storyZh": "玛莎葡萄园高尔夫俱乐部的现有球场由唐纳德·罗斯于1924年重新设计。"
     },
@@ -7871,7 +7871,7 @@
       ],
       "viewLat": 32.1702,
       "viewLng": -88.4669,
-      "promptZh": "佛罗里达这座城市的主球场曾举办1991年美国公开赛。",
+      "promptZh": "佛罗里达州这座城市的主球场曾举办1991年美国公开赛。",
       "story": "The Biltmore Hotel's course hosted the 1926 PGA Championship, won by Walter Hagen.",
       "storyZh": "比尔特莫尔酒店的球场举办了1926年PGA锦标赛，冠军是沃尔特·哈根。"
     },
@@ -7888,7 +7888,7 @@
       ],
       "viewLat": 31.0642,
       "viewLng": -89.0244,
-      "promptZh": "佛罗里达这里有奥谢斯，亦举办2006年PGA元老赛。",
+      "promptZh": "佛罗里达州这座城市有奥谢斯，亦举办2006年PGA元老赛。",
       "story": "Tom Watson won the 2006 Senior PGA Championship at John's Pass Village by four strokes.",
       "storyZh": "汤姆·沃特森在约翰斯帕斯村举行的2006年高级PGA锦标赛中以四杆优势夺冠。"
     },
@@ -8065,7 +8065,7 @@
       ],
       "promptZh": "这个阿尔卑斯小镇的球场曾承办欧洲巡回赛本土公开赛。",
       "story": "The Austrian Open was staged at Golfclub Dornbirn from 2015 through 2024. Martin Schläff won the 2015 event.",
-      "storyZh": "奥地利公开赛于2015年至2024年在多恩Birn高尔夫俱乐部举行。马丁·施莱夫赢得了2015年赛事。"
+      "storyZh": "奥地利公开赛于2015年至2024年在多恩比恩高尔夫俱乐部举行。马丁·施莱夫赢得了2015年赛事。"
     },
     {
       "id": "golf-trophade-france",
@@ -8127,7 +8127,7 @@
         "golf",
         "US Open"
       ],
-      "promptZh": "这座俱乐部曾举办五届US公开赛。",
+      "promptZh": "这家俱乐部曾举办五届美国公开赛。",
       "story": "The club staged its sixth U.S. Open in 2021, five years after its previous championship in 1995.",
       "storyZh": "该俱乐部于2021年举办了第六届美国公开赛，前五届中的最近一届是在1995年。"
     },
@@ -8499,7 +8499,7 @@
       ],
       "viewLat": 30.5,
       "viewLng": -87.5,
-      "promptZh": "这座乔治亚州城市是一位猎鹰队接球手创下队史生涯接球码数纪录的地方。",
+      "promptZh": "一位猎鹰队接球手创下队史生涯接球码数纪录的地方就是这座乔治亚州城市。",
       "story": "Roddy White spent all 11 seasons of his NFL career with the Atlanta Falcons and retired as the franchise leader in career receiving yards.",
       "storyZh": "罗迪·怀特的整个 NFL 生涯11个赛季都效力于亚特兰大猎鹰队，退役时是该队生涯接球码数纪录保持者。"
     }
