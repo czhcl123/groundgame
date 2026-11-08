@@ -13,9 +13,12 @@ const DATA = path.resolve(__dirname, "..", "src", "data", "questions.json");
 const DRY = process.argv.includes("--dry-run");
 
 const POLISH = {
-  // "马队" is wrong; the Colts are 小马.
+  // "马队" is wrong; the Colts are 小马. Also 第41届 needs the 第.
   "nfl-indianapolis-indiana": {
     promptZh: "这座城市的球队赢得第41届超级碗，也以每年举行的500英里车赛闻名。",
+  },
+  "nfl-indianapolis-indiana-2": {
+    promptZh: "这座城市的小马队赢得第41届超级碗，并承办五月500英里赛。",
   },
   // "决赛决赛" doubled.
   "soccer-netherlands": {

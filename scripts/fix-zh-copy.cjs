@@ -91,7 +91,23 @@ for (const [i, x] of raw.questions.entries()) {
         new RegExp(`这座城市(?![是有两支支一的])(${name}队)(?!球)`, "g"),
         "这座城市的$1"
       );
-    }    // "这座城市红星与游击队" -> "这座城的红星与游击队"
+    }
+    // "41届超级碗" -> "第41届超级碗" (the 第 was dropped). A lookbehind
+    // cannot be used here: it would match per character and turn "第16届"
+    // into "第1第6届". Match the whole number instead.
+    t = t.replace(/第(\d+)届超级碗/g, (m, n, off, str) => {
+      // count the 第 already immediately before the number
+      const before = str.slice(0, off);
+      return before.endsWith("第") ? m : "第" + m;
+    });
+    t = t.replace(/第{2,}(\d+届)/g, "第$1");
+    // "马队" is wrong; the Colts are 小马. But 野马 (Broncos) and
+    // 河马 etc. are different teams, so only the exact Colts spellings
+    // are touched. Ordered so the rules cannot double-apply.
+    t = t.replace(/这座城市的马队赢得/g, "这座城市的小马队赢得");
+    t = t.replace(/巴尔的摩马队/g, "巴尔的摩小马队");
+    t = t.replace(/，马队在第/g, "，小马队在第");
+    t = t.replace(/^马队/g, "小马队");    // "这座城市红星与游击队" -> "这座城的红星与游击队"
     t = t.replace(/这座城市(?!的)([一-龥]{2,4}与[一-龥]{2,4}队)/g, "这座城市的$1");
     // "这座城市球队" -> "这座城市的球队" (must run AFTER the team rules so
     // it does not see an already-fixed "这座城市的...队")
