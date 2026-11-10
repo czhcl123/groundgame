@@ -19,3 +19,7 @@ tmp-*.log
 # generated Chinese rewrite worksheet (regenerate with scripts/export-zh-worksheet.cjs)
 zh-worksheet.json
 zh-rewrite.json
+
+# local temp logs
+*.log
+.commit-msg.txt
