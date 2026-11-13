@@ -22,13 +22,8 @@ export function baseMetadata(lang: 'en' | 'zh'): Metadata {
     keywords: isZh
       ? ['体育地理', '地理猜谜游戏', '每日问答游戏', '地图游戏', 'NBA球馆', '体育知识']
       : [
-          'sports geography',
           'geography quiz',
-          'daily geography puzzle',
           'map quiz',
-          'guess the location',
-          'sports trivia map',
-          'where in the world quiz',
         ],
     openGraph: {
       type: 'website',
