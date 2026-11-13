@@ -24,6 +24,7 @@ export function baseMetadata(lang: 'en' | 'zh'): Metadata {
       : [
           'geography quiz',
           'map quiz',
+          'world map quiz',
         ],
     openGraph: {
       type: 'website',
