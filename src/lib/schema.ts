@@ -56,6 +56,50 @@ export function roundSchema(opts: {
   }
 }
 
+/** 介绍页：把定义、对比、适用人群写成 FAQ，便于 AI 直接引用 */
+export function aboutSchema() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    name: 'About GroundGame',
+    url: `${SITE}/about`,
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: 'What is GroundGame?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'GroundGame is a free daily sports geography quiz. Every day you get five questions about sports places — stadiums, hometowns and historic moments — and click where each one happened on a world map. The closer you click, the more points you score.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'Who is GroundGame for?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'GroundGame is for sports fans who know the stories but not always the map. A round takes a few minutes, works on mobile, needs no account and covers the NFL, NBA, MLB, NHL, soccer, golf, tennis and the Olympics.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'How does GroundGame differ from GeoGuessr?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'GeoGuessr asks you to identify places from street-level photos, testing visual deduction. GroundGame gives you a sports clue and asks you to place it on a world map, testing sports knowledge and geography. GroundGame is free and needs no account.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'Is GroundGame free?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Yes. GroundGame is a static website with a self-contained SVG map, no tile requests and no third-party map API, so there is no per-round server cost. Verified facts are published with source links on the Facts page.',
+        },
+      },
+    ],
+  }
+}
+
 /** 已核验事实题库页：每个事实作为 FAQ，附来源，便于 AI 引用 */
 export function questionsSchema(questions: Question[]) {
   return {

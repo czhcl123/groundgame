@@ -39,6 +39,7 @@ export default function Page() {
             <a href="/#how">How it works</a>
             <a href="/how-it-works">Scoring</a>
             <a href="/questions" aria-current="page">Facts</a>
+            <a href="/about">About</a>
           </nav>
         </header>
 
@@ -61,8 +62,10 @@ export default function Page() {
                 return (
                   <article className="gg-card" key={q.id}>
                     <h3>{q.answer}</h3>
-                    <p style={{ marginBottom: 8 }}>{q.prompt}</p>
                     {q.story && <p>{q.story}</p>}
+                    <p style={{ marginTop: 8, fontSize: 13, opacity: 0.75 }}>
+                      Quiz clue: {q.prompt}
+                    </p>
                     <p style={{ marginTop: 10 }}>
                       <a href={source.url} rel="nofollow noopener" target="_blank">
                         Source: {source.title}
@@ -80,6 +83,7 @@ export default function Page() {
           <nav aria-label="Footer">
             <a href="/">Play</a>
             <a href="/questions">Facts</a>
+            <a href="/about">About</a>
             <a href="/sitemap.xml">Sitemap</a>
           </nav>
         </footer>

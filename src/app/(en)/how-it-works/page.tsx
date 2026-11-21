@@ -41,6 +41,7 @@ export default function Page() {
               Scoring
             </a>
             <a href="/questions">Facts</a>
+            <a href="/about">About</a>
           </nav>
         </header>
 
@@ -116,6 +117,7 @@ export default function Page() {
             <a href="/">Play</a>
             <a href="/how-it-works">Scoring</a>
             <a href="/questions">Facts</a>
+            <a href="/about">About</a>
             <a href="/sitemap.xml">Sitemap</a>
           </nav>
         </footer>
