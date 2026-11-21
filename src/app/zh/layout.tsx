@@ -8,6 +8,9 @@ export const metadata: Metadata = {
     canonical: 'https://groundquiz.com/zh',
     languages: languageAlternates(),
   },
+  verification: {
+    google: 'dXPNaU_hNcsjLcY-evyZ5paa-2SF4m0ZVYjTg0K2iGA',
+  },
 }
 
 /**
