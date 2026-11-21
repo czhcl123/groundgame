@@ -49,6 +49,20 @@ for (const [i, x] of q.entries()) {
   if (!SCOPES.has(x.scope)) errors.push(`${at}: bad scope "${x.scope}"`);
   if (!SPORTS.has(x.sport)) errors.push(`${at}: sport "${x.sport}" not in game.ts union`);
 
+  const SOURCE_STATUS = new Set(["verified", "unverified", "disputed"]);
+  if (!Array.isArray(x.sources) || x.sources.length === 0) {
+    errors.push(`${at}: no sources`);
+  } else {
+    for (const s of x.sources) {
+      if (!s || typeof s.title !== "string" || !s.title.trim())
+        errors.push(`${at}: source missing title`);
+      if (typeof s.url !== "string" || !/^https?:\/\//.test(s.url))
+        errors.push(`${at}: source url must be http(s)`);
+      if (!SOURCE_STATUS.has(s.status))
+        errors.push(`${at}: bad source status "${s.status}"`);
+    }
+  }
+
   for (const k of ["prompt", "promptZh", "story", "storyZh"]) {
     if (typeof x[k] !== "string" || x[k].trim().length < 4)
       errors.push(`${at}: ${k} missing or too short`);

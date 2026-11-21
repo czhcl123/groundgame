@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
+import type { Question } from '@/lib/game'
 
-const SITE = 'https://groundgame.app'
+const SITE = 'https://groundquiz.com'
 
 /** WebSite + SearchAction（首页用） */
 export function websiteSchema() {
@@ -52,6 +53,28 @@ export function roundSchema(opts: {
         ? `每天 ${questionCount} 道题，在地图上点出它发生的地方，越近分越高。`
         : `${questionCount} questions a day. Tap where it happened on the world map; the closer you click, the more you score.`,
     },
+  }
+}
+
+/** 已核验事实题库页：每个事实作为 FAQ，附来源，便于 AI 引用 */
+export function questionsSchema(questions: Question[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    name: 'Verified sports geography facts',
+    url: `${SITE}/questions`,
+    mainEntity: questions.map(q => {
+      const source = q.sources?.find(s => s.status === 'verified')
+      return {
+        '@type': 'Question',
+        name: q.prompt,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: `${q.answer}. ${q.story || ''}${source ? ` Source: ${source.title} (${source.url})` : ''}`,
+          ...(source ? { sameAs: source.url } : {}),
+        },
+      }
+    }),
   }
 }
 

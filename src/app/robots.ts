@@ -10,7 +10,7 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
     ],
-    sitemap: 'https://groundgame.app/sitemap.xml',
-    host: 'https://groundgame.app',
+    sitemap: 'https://groundquiz.com/sitemap.xml',
+    host: 'https://groundquiz.com',
   }
 }

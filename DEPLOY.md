@@ -20,7 +20,7 @@ use `scripts/static-server.cjs` as a reference resolver or configure a
 
 ## Domain
 
-`https://groundgame.app` is referenced in:
+`https://groundquiz.com` is referenced in:
 
 - `src/lib/site.ts` — `SITE_URL`, `metadataBase`, canonical, hreflang
 - `src/lib/schema.ts` — JSON-LD URLs
@@ -31,6 +31,6 @@ Change `SITE_URL` in `src/lib/site.ts` before deploying to a different domain.
 
 ## After deploy
 
-1. Verify `https://groundgame.app/sitemap.xml` returns 200 and lists 183 URLs.
-2. Verify `https://groundgame.app/zh` returns `<html lang="zh-CN">`.
+1. Verify `https://groundquiz.com/sitemap.xml` returns 200 and lists all expected URLs (2 roots + how-it-works + questions + 180 daily pages).
+2. Verify `https://groundquiz.com/zh` returns `<html lang="zh-CN">`.
 3. Submit the sitemap to Google Search Console and Bing Webmaster Tools.

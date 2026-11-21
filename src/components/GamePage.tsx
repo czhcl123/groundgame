@@ -4,7 +4,8 @@ import type { Question } from '@/lib/game'
 import raw from '@/data/questions.json'
 
 const ALL = raw.questions as Question[]
-export const GAME_ID = 'groundgame'
+// 种子绑定题库版本：改题库必须升 meta.version，归档页抽题才会跟着重排而非悄悄漂移
+export const GAME_ID = `groundgame-v${(raw.meta as { version: number }).version}`
 
 interface Props {
   dateKey: string

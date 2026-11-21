@@ -5,7 +5,7 @@ import { baseMetadata, languageAlternates } from '@/lib/site'
 export const metadata: Metadata = {
   ...baseMetadata('zh'),
   alternates: {
-    canonical: 'https://groundgame.app/zh',
+    canonical: 'https://groundquiz.com/zh',
     languages: languageAlternates(),
   },
 }

@@ -4,7 +4,7 @@ import type { Question } from '@/lib/game'
 import raw from '@/data/questions.json'
 
 const ALL = raw.questions as Question[]
-const GAME_ID = 'groundgame'
+const GAME_ID = `groundgame-v${(raw.meta as { version: number }).version}`
 
 /**
  * 每页的 SEO 标题和描述。
@@ -155,11 +155,11 @@ export function archiveMetadata(dateKey: string): Metadata {
     title: archiveTitleEn(dateKey),
     description: archiveDescriptionEn(dateKey),
     alternates: {
-      canonical: `https://groundgame.app/d/${dateKey}`,
+      canonical: `https://groundquiz.com/d/${dateKey}`,
       languages: {
-        'en-US': `https://groundgame.app/d/${dateKey}`,
-        'zh-CN': `https://groundgame.app/zh/d/${dateKey}`,
-        'x-default': `https://groundgame.app/d/${dateKey}`,
+        'en-US': `https://groundquiz.com/d/${dateKey}`,
+        'zh-CN': `https://groundquiz.com/zh/d/${dateKey}`,
+        'x-default': `https://groundquiz.com/d/${dateKey}`,
       },
     },
   }
@@ -171,11 +171,11 @@ export function archiveMetadataZh(dateKey: string): Metadata {
     title: archiveTitleZh(dateKey),
     description: archiveDescriptionZh(dateKey),
     alternates: {
-      canonical: `https://groundgame.app/zh/d/${dateKey}`,
+      canonical: `https://groundquiz.com/zh/d/${dateKey}`,
       languages: {
-        'en-US': `https://groundgame.app/d/${dateKey}`,
-        'zh-CN': `https://groundgame.app/zh/d/${dateKey}`,
-        'x-default': `https://groundgame.app/d/${dateKey}`,
+        'en-US': `https://groundquiz.com/d/${dateKey}`,
+        'zh-CN': `https://groundquiz.com/zh/d/${dateKey}`,
+        'x-default': `https://groundquiz.com/d/${dateKey}`,
       },
     },
   }

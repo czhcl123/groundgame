@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 
-export const SITE_URL = 'https://groundgame.app'
+export const SITE_URL = 'https://groundquiz.com'
 
 /**
  * 两个根 layout（英文站 / 中文站）共用的 metadata。

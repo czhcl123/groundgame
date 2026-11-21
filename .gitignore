@@ -21,7 +21,8 @@ zh-worksheet.json
 zh-rewrite.json
 
 # local temp logs
-
-# local temp logs
 *-log.txt
 .commit-msg.txt
+
+# generated fact-check queue (regenerate with scripts/screen-facts.cjs)
+scripts/fact-screen-queue.md

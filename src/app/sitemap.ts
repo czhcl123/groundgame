@@ -4,7 +4,7 @@ import type { MetadataRoute } from 'next'
 
 export const dynamic = 'force-static'
 
-const BASE = 'https://groundgame.app'
+const BASE = 'https://groundquiz.com'
 
 /**
  * 站点地图。
@@ -53,6 +53,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.6,
+    },
+    {
+      url: `${BASE}/questions`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.7,
     },
     ...daily,
   ]

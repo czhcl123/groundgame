@@ -8,10 +8,10 @@ export const metadata: Metadata = {
   description:
     'How GroundGame scores your guesses: distance bands, base points, the streak multiplier, and the keyboard controls.',
   alternates: {
-    canonical: 'https://groundgame.app/how-it-works',
+    canonical: 'https://groundquiz.com/how-it-works',
     languages: {
-      'en-US': 'https://groundgame.app/how-it-works',
-      'x-default': 'https://groundgame.app/how-it-works',
+      'en-US': 'https://groundquiz.com/how-it-works',
+      'x-default': 'https://groundquiz.com/how-it-works',
     },
   },
 }

@@ -28,6 +28,8 @@ export interface Question {
   scope: Scope
   sport: Sport
   tags: string[]
+  /** 事实来源；核对题干/故事中的事实后把 status 改为 verified */
+  sources?: { title: string; url: string; status: 'verified' | 'unverified' | 'disputed' }[]
   /** 城市题的公开视野中心（不泄露答案坐标，只用于把地图视野拉对） */
   viewLat?: number
   viewLng?: number
