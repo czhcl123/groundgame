@@ -40,6 +40,7 @@ export default function Page() {
             <a href="/how-it-works" aria-current="page">
               Scoring
             </a>
+            <a href="/questions">Facts</a>
           </nav>
         </header>
 
@@ -114,6 +115,7 @@ export default function Page() {
           <nav aria-label="Footer">
             <a href="/">Play</a>
             <a href="/how-it-works">Scoring</a>
+            <a href="/questions">Facts</a>
             <a href="/sitemap.xml">Sitemap</a>
           </nav>
         </footer>
