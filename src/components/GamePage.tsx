@@ -38,6 +38,9 @@ export default function GamePage({ dateKey, lang, hero = true }: Props) {
           <a href={lang === 'zh' ? '/zh#stats' : '/#stats'}>
             {lang === 'zh' ? '题库' : 'Stats'}
           </a>
+          <a href="/questions" lang="en">
+            {lang === 'zh' ? '已核验事实' : 'Facts'}
+          </a>
           <div className="gg-lang" role="group" aria-label={lang === 'zh' ? '语言' : 'Language'}>
             <a href={enHref} aria-current={lang === 'en' ? 'true' : undefined} lang="en">
               EN
@@ -180,6 +183,7 @@ export default function GamePage({ dateKey, lang, hero = true }: Props) {
         <nav aria-label="Footer">
           <a href={lang === 'zh' ? '/zh#how' : '/#how'}>How it works</a>
           <a href={lang === 'zh' ? '/zh#stats' : '/#stats'}>Question bank</a>
+          <a href="/questions" lang="en">Facts</a>
           <a href="/sitemap.xml">Sitemap</a>
         </nav>
       </footer>
