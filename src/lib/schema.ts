@@ -3,7 +3,7 @@ import type { Question } from '@/lib/game'
 
 const SITE = 'https://groundquiz.com'
 
-/** WebSite + SearchAction（首页用） */
+/** 首页 WebSite 结构化数据 */
 export function websiteSchema() {
   return {
     '@context': 'https://schema.org',
@@ -43,7 +43,7 @@ export function roundSchema(opts: {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'GroundGame', item: SITE },
-        { '@type': 'ListItem', position: 2, name: dateKey, item: `${SITE}/d/${dateKey}` },
+        { '@type': 'ListItem', position: 2, name: dateKey, item: isZh ? `${SITE}/zh/d/${dateKey}` : `${SITE}/d/${dateKey}` },
       ],
     },
     about: {

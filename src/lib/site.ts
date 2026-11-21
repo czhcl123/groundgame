@@ -17,8 +17,8 @@ export function baseMetadata(lang: 'en' | 'zh'): Metadata {
       template: '%s | GroundGame',
     },
     description: isZh
-      ? '每天 5 道体育地理题,在地图上点出它发生的地方。NBA、NHL、MLB、NFL 球馆、名人出生地,60 到 90 秒一局。'
-      : 'Five sports geography questions a day. Tap where it happened on the world map - NBA, NHL, MLB and NFL arenas, hometown cities, famous moments.',
+      ? '每天 5 道体育地理题,在地图上点出它发生的地方。题材涵盖 NBA / NHL / MLB / NFL / 足球等联赛的场馆、球员出生地与体坛历史时刻。'
+      : 'Five sports geography questions a day. Tap where it happened on the world map - arenas, birthplaces and historic moments from the NBA, NHL, MLB, NFL, soccer and more.',
     keywords: isZh
       ? ['体育地理', '地理猜谜游戏', '每日问答游戏', '地图游戏', 'NBA球馆', '体育知识']
       : [
@@ -31,8 +31,8 @@ export function baseMetadata(lang: 'en' | 'zh'): Metadata {
       url: isZh ? `${SITE_URL}/zh` : SITE_URL,
       title: isZh ? '体育地理每日问答 — 在地图上点出它发生的地方' : 'Sports Geography Quiz — Guess Where It Happened',
       description: isZh
-        ? '每天 5 道体育地理题,在地图上点出它发生的地方。60 到 90 秒一局。'
-        : 'Five sports geography questions a day. Tap where it happened on the world map. 60 to 90 seconds a round.',
+        ? '每天 5 道体育地理题,在地图上点出它发生的地方。题材涵盖各大联赛场馆、球员出生地与体坛历史时刻。'
+        : 'Five sports geography questions a day. Tap where it happened on the world map - arenas, birthplaces and historic moments.',
       siteName: 'GroundGame',
       locale: isZh ? 'zh_CN' : 'en_US',
     },

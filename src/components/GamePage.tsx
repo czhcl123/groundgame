@@ -57,8 +57,8 @@ export default function GamePage({ dateKey, lang, hero = true }: Props) {
           <section className="gg-hero">
             <span className="gg-tagline">
               {lang === 'zh'
-                ? '每天 5 题 · 60-90 秒'
-                : '5 questions · 60–90 seconds'}
+                ? '每天 5 题 · 几分钟一局'
+                : '5 questions · a few minutes a round'}
             </span>
             <h1>
               {lang === 'zh' ? '在地图上点出它发生的地方' : 'Tap where it happened'}
@@ -151,27 +151,27 @@ export default function GamePage({ dateKey, lang, hero = true }: Props) {
           <h2>{lang === 'zh' ? '题目库' : 'Question bank'}</h2>
           <div className="gg-grid-cards">
             <div className="gg-card">
-              <h3>{ALL.length}+</h3>
+              <h3>{ALL.length}</h3>
               <p>
                 {lang === 'zh'
-                  ? '道题,覆盖 NFL / MLB / NBA / NHL / 足球 / 高尔夫 / 奥运。'
-                  : 'questions across the NFL, MLB, NBA, NHL, football, golf and the Olympics.'}
+                  ? '道题,覆盖 NFL / MLB / NBA / NHL / 足球 / 网球 / 高尔夫 / 奥运等项目。'
+                  : 'questions across the NFL, MLB, NBA, NHL, soccer, tennis, golf and the Olympics.'}
               </p>
             </div>
             <div className="gg-card">
               <h3>{lang === 'zh' ? '同一天同题' : 'Same round, worldwide'}</h3>
               <p>
                 {lang === 'zh'
-                  ? '题目按 UTC 日期确定性生成,全球玩家同一时间玩同一套题。'
-                  : 'The round is seeded by the UTC date, so everyone plays the same five questions.'}
+                  ? '题目按 UTC 日期和题库版本确定性生成;同一版本下,全球玩家每天玩同一套题。'
+                  : 'The round is seeded by the UTC date and question-bank version; at a given version, everyone plays the same five questions.'}
               </p>
             </div>
             <div className="gg-card">
               <h3>{lang === 'zh' ? '零地图依赖' : 'No map API, no key'}</h3>
               <p>
                 {lang === 'zh'
-                  ? '自研 SVG 投影,无瓦片请求,手机上也秒开。'
-                  : 'A self-contained SVG projection. No tiles, no API key, instant on mobile.'}
+                  ? '自研 SVG 投影,无瓦片请求、无 API key,纯静态页面。'
+                  : 'A self-contained SVG projection. No tiles, no API key, fully static.'}
               </p>
             </div>
           </div>
