@@ -614,7 +614,7 @@
     },
     {
       "id": "nfl-london-1",
-      "prompt": "In 2022, the Packers played their first international game at the only purpose-built NFL stadium outside the US, here",
+      "prompt": "In 2022, the Packers played their first regular-season game abroad, in this city",
       "answer": "London, England",
       "lat": 51.5074,
       "lng": -0.1278,
@@ -624,20 +624,20 @@
         "NFL",
         "international"
       ],
-      "promptZh": "2022年，Packers首次参加海外比赛，地点就是美国境外唯一专为NFL修建的球场",
-      "story": "On October 2, 2022, the Green Bay Packers played their first regular-season game outside the United States at Twickenham Stadium, defeating the New York Giants 38–20.",
-      "storyZh": "2022年10月2日，绿湾包装工队在特威克纳姆体育场迎战纽约巨人队，以38比20获胜，这是他们首次在美国境外参加常规赛。",
+      "promptZh": "2022年，包装工队在这座城市打了一场队史首次海外常规赛",
+      "story": "On October 9, 2022, the Green Bay Packers played their first regular-season game outside the United States, losing to the New York Giants 27–22 at London's Tottenham Hotspur Stadium.",
+      "storyZh": "2022年10月9日，绿湾包装工队在伦敦托特纳姆热刺球场进行了队史首场美国境外常规赛，以22比27负于纽约巨人队。",
       "sources": [
         {
-          "title": "Wikipedia: London, England",
-          "url": "https://en.wikipedia.org/w/index.php?search=London%2C%20England",
-          "status": "unverified"
+          "title": "NFL Game Center: Giants at Packers, Oct 9, 2022",
+          "url": "https://www.nfl.com/games/giants-at-packers-2022-reg-5",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nfl-london-2",
-      "prompt": "In 2022, the NFL played its first regular-season game in Germany at this stadium",
+      "prompt": "In 2022, the NFL played its first regular-season game in Germany in this city",
       "answer": "Munich, Germany",
       "lat": 48.1351,
       "lng": 11.582,
@@ -647,14 +647,14 @@
         "NFL",
         "international"
       ],
-      "promptZh": "2022年，NFL首场德国常规赛在这座球场举行",
-      "story": "On November 13, 2022, the Tampa Bay Buccaneers faced the Seattle Seahawks at Munich’s Allianz Arena in the NFL’s first regular-season game in Germany, losing 21–16.",
-      "storyZh": "2022年11月13日，塔拉姆湾海盗队在慕尼黑安联球场迎战西雅图海鹰队，以16比21落败，这是NFL历史上首场在德国举行的常规赛。",
+      "promptZh": "2022年，NFL在这座城市举行了德国首场常规赛",
+      "story": "On November 13, 2022, the Tampa Bay Buccaneers beat the Seattle Seahawks 21–16 at Munich's Allianz Arena in the NFL's first regular-season game in Germany.",
+      "storyZh": "2022年11月13日，坦帕湾海盗队在慕尼黑安联球场以21比16击败西雅图海鹰队，这是NFL在德国的首场常规赛。",
       "sources": [
         {
-          "title": "Wikipedia: Munich, Germany",
-          "url": "https://en.wikipedia.org/w/index.php?search=Munich%2C%20Germany",
-          "status": "unverified"
+          "title": "NFL Game Center: Seahawks at Buccaneers, Nov 13, 2022",
+          "url": "https://www.nfl.com/games/seahawks-at-buccaneers-2022-reg-10",
+          "status": "verified"
         }
       ]
     },
@@ -685,7 +685,7 @@
     },
     {
       "id": "nfl-miami-2",
-      "prompt": "The NFL's only community-owned team has played here since 1957, at the league's oldest active stadium",
+      "prompt": "The NFL's only community-owned team has played here since 1957, at the league's oldest stadium in continuous use",
       "answer": "Green Bay, Wisconsin",
       "lat": 44.5133,
       "lng": -88.0133,
@@ -697,14 +697,14 @@
       ],
       "viewLat": 31.542,
       "viewLng": -85.3269,
-      "promptZh": "NFL唯一由社区共同持有的球队自1957年起，一直在这座城市联盟最古老且仍在使用的球场比赛",
-      "story": "Green Bay’s Packers have played at Lambeau Field since 1957 and remain the NFL’s only publicly owned team, with fans holding shares dating back to a 1923 stock sale.",
-      "storyZh": "绿湾包装工队自1957年起一直使用兰博球场，至今仍是NFL唯一由公众共同持有的球队，球迷持有的股份可追溯至1923年的股票发行。",
+      "promptZh": "NFL唯一由社区拥有的球队自1957年起在这座城市打球，使用联盟连续使用时间最长的球场",
+      "story": "Green Bay's Packers have been publicly owned since a 1923 stock sale and have played at Lambeau Field since 1957 — the oldest NFL stadium with a team in continuous residence.",
+      "storyZh": "绿湾包装工队自1923年发售股票起由公众持有，自1957年起以兰博球场为主场——它是NFL中球队连续驻留时间最长的球场。",
       "sources": [
         {
-          "title": "Wikipedia: Green Bay, Wisconsin",
-          "url": "https://en.wikipedia.org/w/index.php?search=Green%20Bay%2C%20Wisconsin",
-          "status": "unverified"
+          "title": "Britannica: Green Bay Packers",
+          "url": "https://www.britannica.com/topic/Green-Bay-Packers",
+          "status": "verified"
         }
       ]
     },
@@ -760,26 +760,26 @@
     },
     {
       "id": "nfl-oakland-1",
-      "prompt": "The only NFL team ever to complete a perfect season played its home games in this city",
-      "answer": "Oakland, California",
-      "lat": 37.8044,
-      "lng": -122.2712,
+      "prompt": "The only perfect season in NFL history — 17–0 — was completed in 1972 by the team that plays in this city",
+      "answer": "Miami, Florida",
+      "lat": 25.7617,
+      "lng": -80.1918,
       "scope": "city",
       "sport": "american football",
       "tags": [
         "NFL",
-        "Raiders"
+        "Dolphins"
       ],
       "viewLat": 33.6714,
       "viewLng": -117.2823,
-      "promptZh": "唯一完成全胜赛季的NFL球队曾在这座城市进行主场比赛",
-      "story": "The 1967 Oakland Raiders finished the regular season 15–0, then defeated the Houston Oilers 14–10 in Super Bowl II, becoming the only NFL team to complete a perfect season.",
-      "storyZh": "1967年的奥克兰突袭者队以15胜0负完成常规赛，并在第2届超级碗中以14比10击败休斯敦油人队，成为唯一一支取得全胜赛季的NFL球队。",
+      "promptZh": "NFL历史上唯一的完美赛季——17胜0负——由这座城市的球队在1972年完成",
+      "story": "The 1972 Miami Dolphins went 17–0 — the NFL's only perfect season — capping it with a 14–7 win over Washington in Super Bowl VII on January 14, 1973.",
+      "storyZh": "1972年的迈阿密海豚队取得17胜0负——NFL唯一的完美赛季——并于1973年1月14日在第7届超级碗中以14比7击败华盛顿队收官。",
       "sources": [
         {
-          "title": "Wikipedia: Oakland, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Oakland%2C%20California",
-          "status": "unverified"
+          "title": "Britannica: Miami Dolphins",
+          "url": "https://www.britannica.com/topic/Miami-Dolphins",
+          "status": "verified"
         }
       ]
     },
@@ -810,32 +810,32 @@
     },
     {
       "id": "nfl-philadelphia-3",
-      "prompt": "The 1939 NFL Championship Game, the first ever, was won by the New York Giants over this city",
-      "answer": "Brooklyn, New York",
-      "lat": 40.6782,
-      "lng": -73.9442,
+      "prompt": "The first NFL Championship Game, played in this city in 1933, saw the Bears edge the Giants 23–21",
+      "answer": "Chicago, Illinois",
+      "lat": 41.8781,
+      "lng": -87.6298,
       "scope": "city",
       "sport": "american football",
       "tags": [
         "NFL",
-        "history"
+        "Bears"
       ],
       "viewLat": 53.0982,
       "viewLng": -73.9442,
-      "promptZh": "首届1939年NFL冠军赛中，New York Giants击败了这座城市的球队",
-      "story": "On January 15, 1939, the New York Giants defeated the Brooklyn Dodgers 23–20 in the first NFL Championship Game.",
-      "storyZh": "1939年1月15日，纽约巨人队以23比20击败布鲁克林道奇队，赢得首届NFL冠军赛。",
+      "promptZh": "1933年在这座城市举行的首届NFL冠军赛中，熊队以23比21险胜巨人队",
+      "story": "On December 17, 1933, the Chicago Bears beat the New York Giants 23–21 in the first NFL Championship Game, played in Chicago.",
+      "storyZh": "1933年12月17日，芝加哥熊队在芝加哥举行的首届NFL冠军赛中以23比21击败纽约巨人队。",
       "sources": [
         {
-          "title": "Wikipedia: Brooklyn, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=Brooklyn%2C%20New%20York",
-          "status": "unverified"
+          "title": "StatMuse: Bears vs Giants, Dec 17, 1933",
+          "url": "https://www.statmuse.com/nfl/ask?q=bears+vs+giants+december+17+1933",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nfl-phoenix-1",
-      "prompt": "Before being drafted in 2018, this QB threw for 4,948 yards in his last college season",
+      "prompt": "The first Fiesta Bowl was played in 1971 at this city's Sun Devil Stadium",
       "answer": "Tempe, Arizona",
       "lat": 33.4255,
       "lng": -111.94,
@@ -847,14 +847,14 @@
       ],
       "viewLat": 24.6432,
       "viewLng": -116.3311,
-      "promptZh": "在2018年被选秀前，这位四分卫在大学最后一个赛季传出了4,948码",
-      "story": "Baker Mayfield threw for 4,948 yards at Arizona State in 2017 before being selected by the Cleveland Browns in the 2018 NFL Draft.",
-      "storyZh": "贝克·梅菲尔德在2017年为亚利桑那州立大学传出4,948码，随后在2018年NFL选秀中被克利夫兰布朗队选中。",
+      "promptZh": "首届嘉年华碗（Fiesta Bowl）于1971年在这座城市的太阳恶魔体育场举行",
+      "story": "The inaugural Fiesta Bowl was played at Sun Devil Stadium in Tempe on December 27, 1971, where Arizona State beat Florida State 45–38.",
+      "storyZh": "1971年12月27日，首届嘉年华碗在坦佩的太阳恶魔体育场举行，亚利桑那州立大学以45比38击败佛罗里达州立大学。",
       "sources": [
         {
-          "title": "Wikipedia: Tempe, Arizona",
-          "url": "https://en.wikipedia.org/w/index.php?search=Tempe%2C%20Arizona",
-          "status": "unverified"
+          "title": "Britannica: Fiesta Bowl",
+          "url": "https://www.britannica.com/sports/Fiesta-Bowl",
+          "status": "verified"
         }
       ]
     },
@@ -908,7 +908,7 @@
     },
     {
       "id": "nfl-sfo-1",
-      "prompt": "Joe Montana's 5 Super Bowl wins started with this Bay Area city",
+      "prompt": "Joe Montana's four Super Bowl wins started with this Bay Area city",
       "answer": "San Francisco, California",
       "lat": 37.7749,
       "lng": -122.4194,
@@ -920,14 +920,14 @@
       ],
       "viewLat": 41.9079,
       "viewLng": -127.4083,
-      "promptZh": "Joe Montana 的 5 次超级碗胜利始于一这座湾区城市",
-      "story": "Joe Montana won the first of his five Super Bowls with the San Francisco 49ers in the 38–16 victory over Miami at Super Bowl XIX in January 1984.",
-      "storyZh": "1984年1月的第19届超级碗中，乔·蒙塔纳率旧金山49人队以38比16击败迈阿密队，赢得个人五个超级碗中的第一个。",
+      "promptZh": "Joe Montana的四座超级碗冠军是从这座湾区城市起步的",
+      "story": "Joe Montana won the first of his four Super Bowls with the San Francisco 49ers in Super Bowl XVI, a 26–21 victory over the Cincinnati Bengals on January 24, 1982.",
+      "storyZh": "1982年1月24日，Joe Montana在第16届超级碗中率领旧金山49人队以26比21击败辛辛那提孟加拉虎队，这是他四座超级碗中的第一座。",
       "sources": [
         {
-          "title": "Wikipedia: San Francisco, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=San%20Francisco%2C%20California",
-          "status": "unverified"
+          "title": "Britannica: Super Bowl XVI",
+          "url": "https://www.britannica.com/topic/Super-Bowl-XVI",
+          "status": "verified"
         }
       ]
     },
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "nfl-vegas-1",
-      "prompt": "The Raiders moved here in 2020 and their first home game drew a crowd of over 62,000",
+      "prompt": "The Raiders moved to this city in 2020, and its Allegiant Stadium hosted Super Bowl LVIII in 2024",
       "answer": "Las Vegas, Nevada",
       "lat": 36.1699,
       "lng": -115.1398,
@@ -1044,14 +1044,19 @@
       ],
       "viewLat": 47.6445,
       "viewLng": -117.5163,
-      "promptZh": "Raiders 于 2020 年迁至这里，首场主场比赛吸引了超过 62,000 名观众",
-      "story": "The Raiders began playing in Las Vegas in 2020, drawing a franchise-record 62,295 spectators to their first regular-season home game at Allegiant Stadium.",
-      "storyZh": "突袭者队于2020年迁至拉斯维加斯，在阿拉吉安特体育场的首场常规赛主场比赛吸引了队史纪录的62,295名观众。",
+      "promptZh": "突袭者队2020年迁入这座城市，其忠诚航空体育场在2024年承办了第58届超级碗",
+      "story": "The Las Vegas Raiders began play at Allegiant Stadium in 2020; on February 11, 2024, the stadium hosted Super Bowl LVIII, where Kansas City beat San Francisco 25–22 in overtime.",
+      "storyZh": "拉斯维加斯突袭者队2020年起以忠诚航空体育场为主场；2024年2月11日，该球场承办第58届超级碗，堪萨斯城酋长队经加时以25比22击败旧金山49人队。",
       "sources": [
         {
-          "title": "Wikipedia: Las Vegas, Nevada",
-          "url": "https://en.wikipedia.org/w/index.php?search=Las%20Vegas%2C%20Nevada",
-          "status": "unverified"
+          "title": "Britannica: Super Bowl LVIII",
+          "url": "https://www.britannica.com/topic/Super-Bowl-LVIII",
+          "status": "verified"
+        },
+        {
+          "title": "Allegiant Stadium (official)",
+          "url": "https://www.allegiantstadium.com/",
+          "status": "verified"
         }
       ]
     },
@@ -1206,7 +1211,7 @@
     },
     {
       "id": "nfl-detroit-4",
-      "prompt": "This university's 'Sparty' mascot has been stomping since 1895",
+      "prompt": "This university, home of the Spartans, was chartered in 1855 as the first agricultural college in the United States",
       "answer": "East Lansing, Michigan",
       "lat": 42.7325,
       "lng": -84.5555,
@@ -1218,14 +1223,14 @@
       ],
       "viewLat": 38.5995,
       "viewLng": -89.5444,
-      "promptZh": "这所大学的“Sparty”吉祥物从 1895 年起一直跺着脚",
-      "story": "East Lansing’s Michigan State Spartans first carried the Spartan nickname in 1895, beginning an athletic identity that continues today.",
-      "storyZh": "东兰辛的密歇根州立大学斯巴达人队于1895年首次使用“斯巴达人”这一昵称，并延续至今。",
+      "promptZh": "这所大学是斯巴达人队的主场，1855 年建校，是美国第一所农业学院",
+      "story": "Michigan State University in East Lansing was chartered in 1855 as the first agricultural college in the United States; its athletic teams are the Spartans.",
+      "storyZh": "东兰辛的密歇根州立大学于1855年建校，是美国第一所农业学院，其校队名为“斯巴达人”。",
       "sources": [
         {
-          "title": "Wikipedia: East Lansing, Michigan",
-          "url": "https://en.wikipedia.org/w/index.php?search=East%20Lansing%2C%20Michigan",
-          "status": "unverified"
+          "title": "Britannica: Michigan State University",
+          "url": "https://www.britannica.com/topic/Michigan-State-University",
+          "status": "verified"
         }
       ]
     },
@@ -3577,22 +3582,23 @@
     },
     {
       "id": "nfl-southcarolina-1",
-      "prompt": "Before starting 99 straight major championships, Adam Scott was born in this southern hemispheric city",
-      "answer": "Montrose, Victoria",
-      "lat": -37.8267,
-      "lng": 145.2344,
+      "prompt": "2013 Masters champion Adam Scott — the first Australian to win the event — was born in this southern-hemisphere city",
+      "answer": "Adelaide, Australia",
+      "lat": -34.9285,
+      "lng": 138.6007,
       "scope": "world",
       "sport": "golf",
       "tags": [
-        "PGA"
+        "Golf",
+        "Masters"
       ],
-      "promptZh": "在连续参加99场大满贯赛事之前，Adam Scott 出生在这座南半球城市",
-      "story": "Adam Scott was born in Montrose, Victoria, in 1980 and became the first Australian since Peter Thomson to win the Masters in 2013.",
-      "storyZh": "亚当·斯科特于1980年出生在维多利亚州蒙特罗斯，并在2013年成为继彼得·汤姆森后首位赢得美国大师赛的澳大利亚人。",
+      "promptZh": "2013年大师赛冠军、首位赢得该赛事的澳大利亚人Adam Scott出生在这座南半球城市",
+      "story": "Adam Scott was born in Adelaide, South Australia, in 1980 and in 2013 became the first Australian to win the Masters.",
+      "storyZh": "Adam Scott 1980年出生在南澳大利亚州阿德莱德，2013年成为首位赢得美国大师赛的澳大利亚人。",
       "sources": [
         {
-          "title": "Wikipedia: Montrose, Victoria",
-          "url": "https://en.wikipedia.org/w/index.php?search=Montrose%2C%20Victoria",
+          "title": "Britannica: Masters Tournament",
+          "url": "https://www.britannica.com/sports/Masters-Tournament",
           "status": "unverified"
         }
       ]
@@ -3790,52 +3796,53 @@
     },
     {
       "id": "nhl-edmonton-1",
-      "prompt": "The NHL franchise who plays here was revived in 1992 and made its first Stanley Cup Final in 2007",
-      "answer": "Edmonton, Alberta",
-      "lat": 53.5461,
-      "lng": -113.4938,
+      "prompt": "The NHL franchise in this city, revived in 1992 after decades of absence, reached its first Stanley Cup Final in 2007",
+      "answer": "Ottawa, Ontario",
+      "lat": 45.4215,
+      "lng": -75.6972,
+      "scope": "world",
+      "sport": "ice hockey",
+      "tags": [
+        "NHL",
+        "Senators"
+      ],
+      "promptZh": "这座城市1992年复活的NHL球队，在2007年首次打进斯坦利杯决赛",
+      "story": "The modern Ottawa Senators joined the NHL in 1992, reviving one of hockey's historic names; they reached their first Stanley Cup Final in 2007, losing to the Anaheim Ducks in five games.",
+      "storyZh": "现代渥太华参议员队1992年加入NHL，重启了冰球史上的传奇队名；2007年球队首次打进斯坦利杯决赛，五场负于安纳海姆巨鸭队。",
+      "sources": [
+        {
+          "title": "Britannica: Ottawa Senators",
+          "url": "https://www.britannica.com/topic/Ottawa-Senators",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "nhl-edmonton-2",
+      "prompt": "Three-time Hart Trophy winner Connor McDavid was born in this Ontario city",
+      "answer": "Richmond Hill, Ontario",
+      "lat": 43.8828,
+      "lng": -79.4403,
       "scope": "world",
       "sport": "ice hockey",
       "tags": [
         "NHL",
         "Oilers"
       ],
-      "promptZh": "在这座城市效力的 NHL 球队于1992年复兴，并于2007年首次打进 Stanley Cup 总决赛",
-      "story": "The modern Edmonton Oilers joined the NHL in 1992 and reached their first Stanley Cup Final in 2007, losing to San Jose in six games.",
-      "storyZh": "现代埃德蒙顿油人队于1992年加入 NHL，并在2007年首次打进斯坦利杯总决赛，最终以四比六负于圣何塞。",
+      "promptZh": "三届哈特奖得主Connor McDavid出生在这座安大略城市",
+      "story": "Connor McDavid was born in Richmond Hill, Ontario, in 1997 and won the Hart Trophy as the NHL's most valuable player three times.",
+      "storyZh": "Connor McDavid 1997年出生在安大略省列治文山，三次荣获NHL最有价值球员哈特奖。",
       "sources": [
         {
-          "title": "Wikipedia: Edmonton, Alberta",
-          "url": "https://en.wikipedia.org/w/index.php?search=Edmonton%2C%20Alberta",
-          "status": "unverified"
-        }
-      ]
-    },
-    {
-      "id": "nhl-edmonton-2",
-      "prompt": "Before winning 3 Hart trophies in his first 11 NHL seasons, Connor McDavid grew up here",
-      "answer": "New Westminster, British Columbia",
-      "lat": 49.1869,
-      "lng": -122.8496,
-      "scope": "world",
-      "sport": "ice hockey",
-      "tags": [
-        "NHL"
-      ],
-      "promptZh": "在首个11个 NHL 赛季中赢得3座 Hart Trophy 之前，Connor McDavid 在这里长大",
-      "story": "Connor McDavid was born in New Westminster on April 13, 1997, and won three consecutive Hart Trophies in 2015, 2016 and 2017.",
-      "storyZh": "康纳·麦克戴维德于1997年4月13日出生在新威斯敏斯特，并在2015年、2016年和2017年连续三次获得哈特奖。",
-      "sources": [
-        {
-          "title": "Wikipedia: New Westminster, British Columbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=New%20Westminster%2C%20British%20Columbia",
-          "status": "unverified"
+          "title": "Britannica: Connor McDavid",
+          "url": "https://www.britannica.com/biography/Connor-McDavid",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nhl-hamilton-1",
-      "prompt": "Wayne Gretzky scored 1,016 points before his 21st birthday and grew up in this small city",
+      "prompt": "The NHL's all-time leading scorer, Wayne Gretzky, grew up in this Ontario city",
       "answer": "Brantford, Ontario",
       "lat": 43.1394,
       "lng": -80.2644,
@@ -3844,14 +3851,14 @@
       "tags": [
         "NHL"
       ],
-      "promptZh": "Wayne Gretzky 在21岁生日之前得到1,016分，并在这座小城长大",
-      "story": "Wayne Gretzky’s hometown became synonymous with hockey greatness after he recorded 1,016 NHL points before turning 21, a record that still stands.",
-      "storyZh": "韦恩·格雷茨基的家乡因一段非凡的青年时期载入史册：他在年满21岁前就收获了1,016个NHL积分，这一纪录至今仍未被打破。",
+      "promptZh": "NHL历史得分王Wayne Gretzky在这座安大略城市长大",
+      "story": "Wayne Gretzky was born in Brantford, Ontario, in 1961 and finished his NHL career with a record 2,857 regular-season points.",
+      "storyZh": "Wayne Gretzky 1961年出生在安大略省布兰特福德，职业生涯以2857个常规赛积分结束，至今仍是NHL历史纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Brantford, Ontario",
-          "url": "https://en.wikipedia.org/w/index.php?search=Brantford%2C%20Ontario",
-          "status": "unverified"
+          "title": "Britannica: Wayne Gretzky",
+          "url": "https://www.britannica.com/biography/Wayne-Gretzky",
+          "status": "verified"
         }
       ]
     },
@@ -4453,14 +4460,14 @@
         "Olympics",
         "2010"
       ],
-      "promptZh": "2010年奥运会上，Lindsey Vonn 成为首位夺得速降金牌的美国女性，她在这座度假胜地比赛",
-      "story": "At Whistler Blackcomb on February 18, 2010, Lindsey Vonn became the first American woman to win Olympic downhill skiing gold.",
-      "storyZh": "2010年2月18日，琳赛·冯在惠斯勒黑梳峰夺得冬奥会高山滑雪速降金牌，成为首位赢得该项目奥运金牌的美国女性。",
+      "promptZh": "2010年冬奥会上，Lindsey Vonn在这家滑雪场夺得速降金牌，成为首位赢得该项目金牌的美国女选手",
+      "story": "At Whistler on February 17, 2010, Lindsey Vonn became the first American woman to win Olympic downhill skiing gold.",
+      "storyZh": "2010年2月17日，Lindsey Vonn在惠斯勒夺得冬奥会高山速降金牌，成为首位赢得该项目奥运金牌的美国女选手。",
       "sources": [
         {
-          "title": "Wikipedia: Whistler, British Columbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Whistler%2C%20British%20Columbia",
-          "status": "unverified"
+          "title": "Britannica: Vancouver 2010 Olympic Games",
+          "url": "https://www.britannica.com/event/Vancouver-2010-Olympic-Games",
+          "status": "verified"
         }
       ]
     },
@@ -5209,7 +5216,7 @@
     },
     {
       "id": "nfl-kansas-city-missouri-2",
-      "prompt": "This city lost the longest game in NFL postseason history, a 73-minute snow thriller decided in overtime.",
+      "prompt": "In 1971, this city's Chiefs lost a double-overtime Christmas Day playoff to the Miami Dolphins",
       "answer": "Kansas City, Missouri",
       "lat": 39.0997,
       "lng": -94.5786,
@@ -5221,14 +5228,14 @@
       ],
       "viewLat": 37.9635,
       "viewLng": -99.3804,
-      "promptZh": "这座城市雪战创下NFL最长纪录，73分钟后加时告负。",
-      "story": "Baltimore defeated Kansas City 23-7 in overtime and advanced to Super Bowl LIV.",
-      "storyZh": "巴尔的摩在加时赛中以23比7击败堪萨斯城，并晋级第54届超级碗。",
+      "promptZh": "1971年圣诞夜，这座城市的酋长队在季后赛双加时中负于迈阿密海豚队",
+      "story": "On December 25, 1971, the Kansas City Chiefs lost to the Miami Dolphins 27–24 in double overtime in an AFC playoff game in Kansas City.",
+      "storyZh": "1971年12月25日，堪萨斯城酋长队在AFC季后赛中经过双加时以24比27负于迈阿密海豚队。",
       "sources": [
         {
-          "title": "Wikipedia: Kansas City, Missouri",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kansas%20City%2C%20Missouri",
-          "status": "unverified"
+          "title": "StatMuse: Dolphins at Chiefs, Dec 25, 1971",
+          "url": "https://www.statmuse.com/nfl/game/12-25-1971-mia-at-kc-4917",
+          "status": "verified"
         }
       ]
     },
@@ -5584,7 +5591,7 @@
     },
     {
       "id": "nfl-green-bay-wisconsin",
-      "prompt": "This city hosts the Packers, whose championship belt is the only trophy not handed out on a stage.",
+      "prompt": "This city's Packers won the first two Super Bowls",
       "answer": "Green Bay, Wisconsin",
       "lat": 44.5133,
       "lng": -88.0133,
@@ -5596,20 +5603,20 @@
       ],
       "viewLat": 44.7518,
       "viewLng": -82.0896,
-      "promptZh": "这座城市是包装工队主场，腰带是唯一不在舞台颁发的奖杯。",
-      "story": "The Packers won the first Super Bowl at City Stadium on January 15, 1961, defeating the New York Giants 37–14.",
-      "storyZh": "1961年1月15日，包装工队在城市体育场赢得首届超级碗，以37比14击败纽约巨人队。",
+      "promptZh": "这座城市的包装工队赢得了前两届超级碗",
+      "story": "The Green Bay Packers beat the Kansas City Chiefs 35–10 in the first Super Bowl on January 15, 1967, and won the second Super Bowl a year later.",
+      "storyZh": "1967年1月15日，绿湾包装工队在首届超级碗中以35比10击败堪萨斯城酋长队，一年后又赢得第二届超级碗。",
       "sources": [
         {
-          "title": "Wikipedia: Green Bay, Wisconsin",
-          "url": "https://en.wikipedia.org/w/index.php?search=Green%20Bay%2C%20Wisconsin",
-          "status": "unverified"
+          "title": "Britannica: Super Bowl",
+          "url": "https://www.britannica.com/sports/Super-Bowl",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nfl-houston-texas",
-      "prompt": "This city hosts the Texans, whose stadium was the first NFL venue with a retractable roof.",
+      "prompt": "This city hosts the Texans, whose stadium was the first NFL venue with a retractable roof",
       "answer": "Houston, Texas",
       "lat": 29.7604,
       "lng": -95.3698,
@@ -5621,14 +5628,19 @@
       ],
       "viewLat": 28.9939,
       "viewLng": -97.2988,
-      "promptZh": "这座城市是德州人队主场，其球场拥有NFL首个可开合屋顶。",
-      "story": "NRG Stadium hosted Super Bowl XLII in February 2008, when the Giants defeated the Patriots 17–14.",
-      "storyZh": "2008年2月，NRG球场举办了第42届超级碗，巨人队以17比14击败新英格兰爱国者队。",
+      "promptZh": "这座城市是德州人队的主场，其体育场是NFL首个可开合屋顶场馆",
+      "story": "The Texans' stadium opened in 2002 as the first NFL venue with a retractable roof and hosted Super Bowl LI on February 5, 2017, when New England erased a 28–3 deficit to beat Atlanta 34–28 in overtime.",
+      "storyZh": "德州人队的体育场于2002年启用，是NFL首个可开合屋顶场馆；2017年2月5日，这里承办了第51届超级碗，新英格兰爱国者队在落后28比3的情况下以34比28加时逆转亚特兰大猎鹰队。",
       "sources": [
         {
-          "title": "Wikipedia: Houston, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Houston%2C%20Texas",
-          "status": "unverified"
+          "title": "Stadiums of Pro Football: Houston stadium",
+          "url": "https://www.stadiumsofprofootball.com/stadiums/nrg-stadium/",
+          "status": "verified"
+        },
+        {
+          "title": "Britannica: Super Bowl LI",
+          "url": "https://www.britannica.com/topic/Super-Bowl-LI",
+          "status": "verified"
         }
       ]
     },
@@ -5707,7 +5719,7 @@
     },
     {
       "id": "nfl-lambeau-field-wisconsin",
-      "prompt": "This stadium hosts the Packers and has hosted the NFL Draft annually since 2016.",
+      "prompt": "Opened in 1957, this Packers stadium was renamed in 1965 for the team's founder",
       "answer": "Lambeau Field, Wisconsin",
       "lat": 44.5013,
       "lng": -88.0622,
@@ -5719,14 +5731,14 @@
       ],
       "viewLat": 43.3141,
       "viewLng": -93.9347,
-      "promptZh": "这座球场是包装工队主场，自2016年起承办NFL选秀。",
-      "story": "Lambeau Field opened in 1957, and the Packers played their first home game there in 1959.",
-      "storyZh": "兰博球场于1957年开放，包装工队于1959年在那里进行了首场主场比赛。",
+      "promptZh": "这座包装工队球场1957年启用，1965年以球队创始人之名重新命名",
+      "story": "The stadium opened as City Stadium in 1957 and was renamed Lambeau Field in 1965 after Packers cofounder Curly Lambeau; it has been the Packers' home ever since.",
+      "storyZh": "这座球场1957年以“City Stadium”之名启用，1965年为纪念包装工队联合创始人Curly Lambeau而更名为兰博球场，此后一直是包装工队主场。",
       "sources": [
         {
-          "title": "Wikipedia: Lambeau Field, Wisconsin",
-          "url": "https://en.wikipedia.org/w/index.php?search=Lambeau%20Field%2C%20Wisconsin",
-          "status": "unverified"
+          "title": "Britannica: Green Bay Packers",
+          "url": "https://www.britannica.com/topic/Green-Bay-Packers",
+          "status": "verified"
         }
       ]
     },
@@ -5832,7 +5844,7 @@
     },
     {
       "id": "nfl-notre-dame-indiana",
-      "prompt": "This Indiana town is home of the Fighting Irish football team, whose campus is dominated by the Golden Dome.",
+      "prompt": "This Indiana town is home of the Fighting Irish football team, whose campus is dominated by the Golden Dome",
       "answer": "Notre Dame, Indiana",
       "lat": 41.7003,
       "lng": -86.2389,
@@ -5844,14 +5856,19 @@
       ],
       "viewLat": 45.4518,
       "viewLng": -88.5456,
-      "promptZh": "这座印第安纳州小镇是圣母大学传奇橄榄球队的主场。",
-      "story": "The university fielded its first football team in 1887 and won the national championship in the 1988 season with an 11-1 record.",
-      "storyZh": "这所大学在1887年组建了第一支橄榄球队，并在1988赛季以11胜1负战绩夺得全国冠军。",
+      "promptZh": "这座印第安纳小镇是圣母大学战斗爱尔兰人橄榄球队的主场，校园的标志是金色穹顶",
+      "story": "The Notre Dame Fighting Irish went undefeated and won the national championship in the 1988 season; the university's Golden Dome is a campus landmark in this Indiana town.",
+      "storyZh": "圣母大学战斗爱尔兰人队在1988赛季以不败战绩夺得全国冠军；金色穹顶是这座印第安纳小镇校园里的地标。",
       "sources": [
         {
-          "title": "Wikipedia: Notre Dame, Indiana",
-          "url": "https://en.wikipedia.org/w/index.php?search=Notre%20Dame%2C%20Indiana",
-          "status": "unverified"
+          "title": "StatMuse: Notre Dame 1988 season record",
+          "url": "https://www.statmuse.com/cfb/ask?q=notre+dame+1988+season+record",
+          "status": "verified"
+        },
+        {
+          "title": "Britannica: University of Notre Dame",
+          "url": "https://www.britannica.com/topic/University-of-Notre-Dame",
+          "status": "verified"
         }
       ]
     },
@@ -6057,7 +6074,7 @@
     },
     {
       "id": "nfl-new-orleans-louisiana-2",
-      "prompt": "This city is home to a college football team that recorded the only undefeated, untied season in Southern Conference history.",
+      "prompt": "This city's Tulane Green Wave went 11–0 in the 1931 regular season to reach the Rose Bowl",
       "answer": "New Orleans, Louisiana",
       "lat": 29.9511,
       "lng": -90.0715,
@@ -6069,14 +6086,19 @@
       ],
       "viewLat": 24.9511,
       "viewLng": -83.0715,
-      "promptZh": "这座城市有支大学队创下南方联盟史上唯一不败无平的赛季。",
-      "story": "The Tulane Green Wave finished the 1931 season 11-0, earned a Rose Bowl berth and lost 20-14 to Alabama on January 1, 1932.",
-      "storyZh": "杜兰大学绿浪队1931赛季以11胜0负收官，并获得玫瑰碗资格，最终在1932年1月1日以14比20负于阿拉巴马队。",
+      "promptZh": "这座城市的杜兰大学绿浪队在1931年常规赛取得11胜0负，打进玫瑰碗",
+      "story": "The Tulane Green Wave completed an 11–0 regular season in 1931 before falling to USC in the 1932 Rose Bowl.",
+      "storyZh": "杜兰大学绿浪队在1931年常规赛取得11胜0负的不败战绩，随后在1932年玫瑰碗中负于南加州大学。",
       "sources": [
         {
-          "title": "Wikipedia: New Orleans, Louisiana",
-          "url": "https://en.wikipedia.org/w/index.php?search=New%20Orleans%2C%20Louisiana",
-          "status": "unverified"
+          "title": "StatMuse: Tulane 1931 season record",
+          "url": "https://www.statmuse.com/cfb/ask?q=tulane+green+wave+1931+season+record",
+          "status": "verified"
+        },
+        {
+          "title": "Britannica: Tulane University",
+          "url": "https://www.britannica.com/topic/Tulane-University",
+          "status": "verified"
         }
       ]
     },
@@ -6107,7 +6129,7 @@
     },
     {
       "id": "nfl-green-bay-wisconsin-2",
-      "prompt": "This city hosted the NFL's first championship game in 1933, won by the home Packers.",
+      "prompt": "The 1967 'Ice Bowl' — the NFL Championship Game played here at about −13°F — saw the home Packers edge Dallas 21–17",
       "answer": "Green Bay, Wisconsin",
       "lat": 44.5133,
       "lng": -88.0133,
@@ -6119,14 +6141,14 @@
       ],
       "viewLat": 44.7518,
       "viewLng": -82.0896,
-      "promptZh": "这座城市曾举办1933年NFL首场冠军赛。",
-      "story": "The inaugural NFL championship game took place at Fox River Park on January 10, 1933.",
-      "storyZh": "首届NFL冠军赛于1933年1月10日在福克斯河公园举行。",
+      "promptZh": "1967年的“冰碗”——在这座城市举行、气温约零下13华氏度的NFL冠军赛——主场作战的包装工队以21比17险胜达拉斯",
+      "story": "On December 31, 1967, the Green Bay Packers beat the Dallas Cowboys 21–17 at Lambeau Field in the NFL Championship Game known as the 'Ice Bowl', played in air temperatures near −13°F (−25°C).",
+      "storyZh": "1967年12月31日，绿湾包装工队在兰博球场举行的NFL冠军赛（史称“冰碗”）中以21比17击败达拉斯牛仔队，比赛时气温接近零下13华氏度（零下25摄氏度）。",
       "sources": [
         {
-          "title": "Wikipedia: Green Bay, Wisconsin",
-          "url": "https://en.wikipedia.org/w/index.php?search=Green%20Bay%2C%20Wisconsin",
-          "status": "unverified"
+          "title": "Britannica: Lambeau Field",
+          "url": "https://www.britannica.com/place/Lambeau-Field",
+          "status": "verified"
         }
       ]
     },
@@ -7791,7 +7813,7 @@
     },
     {
       "id": "nfl-kansas-city-missouri-3",
-      "prompt": "This city hosts an AFL franchise whose early leadership included a St. Louis-born scout; its general manager later built three Super Bowl-winning rosters.",
+      "prompt": "An original AFL franchise that moved here in 1963, this city's team has won three Super Bowls built by GM Brett Veach",
       "answer": "Kansas City, Missouri",
       "lat": 39.0997,
       "lng": -94.5786,
@@ -7803,20 +7825,25 @@
       ],
       "viewLat": 33.7944,
       "viewLng": -99.076,
-      "promptZh": "这座城市的球队有圣路易斯球探，总经理打造三支超级碗冠军队。",
-      "story": "Charles Ramsey, a St. Louis native and longtime scout, served as the Chiefs' first general manager in 1960. Brett Veach later oversaw the roster construction for three Super Bowl championship teams.",
-      "storyZh": "出生于圣路易斯的球探查尔斯·拉姆齐于1960年担任球队首任总经理。布雷特·维奇后来负责组建了三个超级碗冠军队的阵容。",
+      "promptZh": "这支1963年迁至这座城市的原AFL球队，在总经理Brett Veach打造的阵容下赢得了三座超级碗",
+      "story": "Founded as the Dallas Texans in 1960, the franchise moved to Kansas City in 1963; general manager Brett Veach constructed the rosters for the club's Super Bowl LIV, LVII and LVIII champions.",
+      "storyZh": "该球队1960年以“达拉斯德州人”之名创立，1963年迁至堪萨斯城；总经理Brett Veach为球队第54、57、58届超级碗冠军阵容奠定了基础。",
       "sources": [
         {
-          "title": "Wikipedia: Kansas City, Missouri",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kansas%20City%2C%20Missouri",
-          "status": "unverified"
+          "title": "Pro Football Hall of Fame: Kansas City Chiefs facts",
+          "url": "https://www.profootballhof.com/teams/kansas-city-chiefs/team-facts",
+          "status": "verified"
+        },
+        {
+          "title": "Chiefs.com: Front Office",
+          "url": "https://www.chiefs.com/team/front-office-roster/",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nfl-kansas-city-missouri-4",
-      "prompt": "This city's team won a 51-45 double-overtime thriller in 2019, then the NFL's longest postseason game, under wintry conditions.",
+      "prompt": "This city's Chiefs erased a 24–0 deficit to beat the Texans 51–31 in a January 2020 playoff game",
       "answer": "Kansas City, Missouri",
       "lat": 39.0997,
       "lng": -94.5786,
@@ -7828,14 +7855,14 @@
       ],
       "viewLat": 33.7944,
       "viewLng": -99.076,
-      "promptZh": "这座城市的球队赢下2019年NFL最长加时赛，比分51比45。",
-      "story": "On January 13, 2019, Kansas City defeated New England 51-45 in double overtime, setting the record for the longest playoff game in NFL history.",
-      "storyZh": "2019年1月13日，堪萨斯城在双加时赛中以51比45击败新英格兰队，创下当时NFL季后赛单场最长纪录。",
+      "promptZh": "2020年1月的季后赛中，这座城市的酋长队在0比24落后的情况下51比31逆转击败德州人队",
+      "story": "On January 12, 2020, the Kansas City Chiefs trailed the Houston Texans 24–0 in the AFC divisional round before storming back for a 51–31 win.",
+      "storyZh": "2020年1月12日，堪萨斯城酋长队在AFC分区轮一度0比24落后休斯敦德州人队，最终以51比31完成逆转。",
       "sources": [
         {
-          "title": "Wikipedia: Kansas City, Missouri",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kansas%20City%2C%20Missouri",
-          "status": "unverified"
+          "title": "StatMuse: Texans at Chiefs, Jan 12, 2020",
+          "url": "https://www.statmuse.com/nfl/game/1-12-2020-hou-at-kc-16539",
+          "status": "verified"
         }
       ]
     },
@@ -8421,7 +8448,7 @@
     },
     {
       "id": "nhl-edmonton-alberta",
-      "prompt": "This city hosts the Oilers and sits beside the vast northern oil sands.",
+      "prompt": "The Oilers play in this Alberta city, the provincial capital and gateway to the northern oil sands",
       "answer": "Edmonton, Alberta",
       "lat": 53.5461,
       "lng": -113.4938,
@@ -8433,14 +8460,14 @@
       ],
       "viewLat": 48.0047,
       "viewLng": -107.5083,
-      "promptZh": "这座城市是油人队主场，紧邻广阔的北部油砂区。",
-      "story": "Edmonton is Alberta's capital and the largest city in the province.",
-      "storyZh": "埃德蒙顿是艾伯塔省的省会，也是该省最大的城市。",
+      "promptZh": "油人队在这座阿尔伯塔城市打球，它是省会，也是通往北方油砂区的门户",
+      "story": "Edmonton, Alberta's capital, is known as the 'Gateway to the North' and serves as the service and supply centre for Alberta's oil industry, including the northern oil sands.",
+      "storyZh": "埃德蒙顿是阿尔伯塔省省会，被称为“北方门户”，是包括北方油砂区在内的全省石油产业的服务与供给中心。",
       "sources": [
         {
-          "title": "Wikipedia: Edmonton, Alberta",
-          "url": "https://en.wikipedia.org/w/index.php?search=Edmonton%2C%20Alberta",
-          "status": "unverified"
+          "title": "Britannica: Edmonton",
+          "url": "https://www.britannica.com/place/Edmonton-Alberta",
+          "status": "verified"
         }
       ]
     },
@@ -8938,7 +8965,7 @@
     },
     {
       "id": "nhl-canada",
-      "prompt": "This country regards ice hockey as its national sport, and its donor-named championship trophy is inscribed with winning teams’ names.",
+      "prompt": "In this country, ice hockey is the national winter sport and the Stanley Cup — donated in 1892 — is the sport's ultimate prize",
       "answer": "Canada",
       "lat": 56.1304,
       "lng": -106.3468,
@@ -8947,14 +8974,14 @@
       "tags": [
         "NHL"
       ],
-      "promptZh": "这个国家视冰球为民族运动，以捐赠者命名的奖杯刻有夺冠队名。",
-      "story": "The Stanley Cup was donated by Lord Stanley of Preston in 1892, and the Montreal Victorias became its first winner in 1893.",
-      "storyZh": "斯坦利杯由普雷斯顿勋爵斯坦利于1892年捐赠，蒙特利尔维多利亚队成为首届冠军。",
+      "promptZh": "在这个国家，冰球是冬季国家运动，1892年捐出的斯坦利杯是这项运动的最高荣誉",
+      "story": "The Stanley Cup was donated by Governor General Lord Stanley of Preston in 1892 and was first won by the Montreal Hockey Club in 1893.",
+      "storyZh": "斯坦利杯由总督Lord Stanley of Preston于1892年捐赠，1893年由蒙特利尔冰球俱乐部首次捧起。",
       "sources": [
         {
-          "title": "Wikipedia: Canada",
-          "url": "https://en.wikipedia.org/w/index.php?search=Canada",
-          "status": "unverified"
+          "title": "Britannica: Stanley Cup",
+          "url": "https://www.britannica.com/sports/Stanley-Cup",
+          "status": "verified"
         }
       ]
     },
