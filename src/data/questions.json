@@ -27,8 +27,8 @@
         "NFL",
         "draft"
       ],
-      "viewLat": 25.0,
-      "viewLng": -100.0,
+      "viewLat": 25,
+      "viewLng": -100,
       "promptZh": "“Mean Joe” Greene 曾两获 NFL 年度最佳防守球员，1969 年从这座德州大学城被选中",
       "story": "Charles \"Mean\" Joe Greene was born in Temple, Texas, and played college football at North Texas State University in Denton before the Pittsburgh Steelers drafted him in 1969. He won two NFL Defensive Player of the Year awards.",
       "storyZh": "查尔斯·“Mean Joe”·格林出生于德州坦普尔，在丹顿的北德克萨斯州立大学打大学橄榄球，1969 年被匹兹堡钢人队选中，曾两次荣膺 NFL 年度最佳防守球员。",
@@ -100,8 +100,8 @@
         "NFL",
         "college"
       ],
-      "viewLat": 40.0,
-      "viewLng": -88.0,
+      "viewLat": 40,
+      "viewLng": -88,
       "promptZh": "在成为 NFL 四分卫之前，卡森·温茨和特雷·兰斯都在这所大学赢得 FCS 全国冠军",
       "story": "Carson Wentz and Trey Lance both played quarterback at North Dakota State in Fargo, winning FCS national championships — Wentz in 2014 and 2015, Lance in 2018 and 2019 — before becoming first-round NFL draft picks.",
       "storyZh": "卡森·温茨和特雷·兰斯都曾在法戈的北达科他州立大学担任四分卫，分别赢得2014/2015和2018/2019年 FCS 全国冠军，之后都成为 NFL 首轮选秀球员。",
@@ -225,8 +225,8 @@
         "NFL",
         "Colts"
       ],
-      "viewLat": 40.0,
-      "viewLng": -85.0,
+      "viewLat": 40,
+      "viewLng": -85,
       "promptZh": "这支 NFL 最小市场球队在1933至1994年间每年在这座邻近城市打2到3场主场比赛以增加收入",
       "story": "The Green Bay Packers, the NFL's smallest-market team, played two or three home games a year at Milwaukee County Stadium from 1953 to 1994 before returning to Green Bay full-time.",
       "storyZh": "NFL 最小市场球队绿湾包装工队1953至1994年间每年在密尔沃基县体育场打2到3个主场，之后全部回到绿湾。",
@@ -400,8 +400,8 @@
         "NFL",
         "Cowboys"
       ],
-      "viewLat": 27.0,
-      "viewLng": -83.0,
+      "viewLat": 27,
+      "viewLng": -83,
       "promptZh": "NFL 历史冲球码王埃米特·史密斯出生在这座佛罗里达州城市",
       "story": "Emmitt Smith was born in Pensacola, Florida, on May 15, 1969, and retired as the NFL's all-time leading rusher with 18,291 regular-season yards.",
       "storyZh": "埃米特·史密斯1969年5月15日出生于佛罗里达州彭萨科拉，退役时以18291码保持 NFL 常规赛历史冲球纪录。",
@@ -574,8 +574,8 @@
       "tags": [
         "NFL"
       ],
-      "viewLat": 35.0,
-      "viewLng": -85.0,
+      "viewLat": 35,
+      "viewLng": -85,
       "promptZh": "1983年选秀中最后一位首轮被选中的四分卫丹·马里诺出生在这座城市",
       "story": "Dan Marino was born in Pittsburgh, Pennsylvania, on September 7, 1961. He played college football at the University of Pittsburgh and was the last of six quarterbacks taken in the first round of the famous 1983 NFL Draft.",
       "storyZh": "丹·马里诺1961年9月7日出生于宾夕法尼亚州匹兹堡，在匹兹堡大学打大学橄榄球，是著名的1983年 NFL 选秀中首轮被选中的六名四分卫里的最后一位。",
@@ -1017,8 +1017,8 @@
         "NFL",
         "Titans"
       ],
-      "viewLat": 30.0,
-      "viewLng": -88.0,
+      "viewLat": 30,
+      "viewLng": -88,
       "promptZh": "电影《记住巨人们》的真实故事发生在弗吉尼亚州这座城市的一所高中",
       "story": "Remember the Titans is loosely based on the true story of coach Herman Boone, who integrated the T. C. Williams High School football team in Alexandria, Virginia, in 1971. The film was released in 2000.",
       "storyZh": "《记住巨人们》改编自教练赫尔曼·布恩的真实故事：1971年他在弗吉尼亚州亚历山德里亚的 T.C. Williams 高中带领球队完成种族融合。电影于2000年上映。",
@@ -1945,7 +1945,7 @@
     },
     {
       "id": "nhl-seattle-1",
-      "prompt": "MLB has opened multiple seasons at a domed stadium in this Asian capital",
+      "prompt": "MLB opened its 2004 and 2005 seasons at a domed stadium in this Japanese capital",
       "answer": "Tokyo, Japan",
       "lat": 35.6762,
       "lng": 139.6503,
@@ -1953,16 +1953,16 @@
       "sport": "baseball",
       "tags": [
         "MLB",
-        "international"
+        "Tokyo Dome"
       ],
-      "promptZh": "MLB曾在这座亚洲首都的穹顶球场多次开启新赛季",
-      "story": "Tokyo Dome hosted MLB's first regular-season games outside the United States and Canada on March 17, 2004, and MLB returned for the 2005 season.",
-      "storyZh": "2004年3月17日，东京巨蛋举办了美国和加拿大以外的首场MLB常规赛，MLB随后又于2005年重返这里。",
+      "promptZh": "美国职棒大联盟 2004 和 2005 赛季揭幕战均在这座亚洲首都的东京巨蛋举行",
+      "story": "On March 30–31, 2004, the Tampa Bay Devil Rays and New York Yankees played the first MLB regular-season games in Japan at the Tokyo Dome. MLB returned for a two-game series in 2005.",
+      "storyZh": "2004 年 3 月 30-31 日，坦帕湾魔鬼鱼队与纽约洋基队在东京巨蛋进行了 MLB 首场日本常规赛。大联盟 2005 年又回到东京举办两场揭幕战。",
       "sources": [
         {
-          "title": "Wikipedia: Tokyo, Japan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Tokyo%2C%20Japan",
-          "status": "unverified"
+          "title": "Britannica: Tokyo Dome",
+          "url": "https://www.britannica.com/topic/Tokyo-Dome",
+          "status": "verified"
         }
       ]
     },
@@ -2318,8 +2318,8 @@
         "NBA",
         "history"
       ],
-      "viewLat": 34.0,
-      "viewLng": -92.0,
+      "viewLat": 34,
+      "viewLng": -92,
       "promptZh": "1947年，这座中西部城市举办了史上第一次 NBA 选秀（当时称 BAA 选秀）",
       "story": "The first NBA draft — then the Basketball Association of America draft — was held on June 2, 1947, at the Leland Hotel in Detroit. The NBA traces its history to that event, although it did not take the NBA name until 1949.",
       "storyZh": "史上第一次 NBA 选秀（当时称 BAA 选秀）于1947年6月2日在底特律 Leland 酒店举行；NBA 把这次选秀视为自身历史的起点，尽管“NBA”这一名称到1949年才启用。",
@@ -3418,7 +3418,7 @@
     },
     {
       "id": "boxing-uk-1",
-      "prompt": "Oleksandr Usyk defeated Tyson Fury to become undisputed heavyweight champion in this city in 2024",
+      "prompt": "Oleksandr Usyk defeated Tyson Fury in 2024 in this city to become the first undisputed heavyweight champion in the four-belt era",
       "answer": "Riyadh, Saudi Arabia",
       "lat": 24.7136,
       "lng": 46.6753,
@@ -3427,14 +3427,14 @@
       "tags": [
         "international"
       ],
-      "promptZh": "2024年，Oleksandr Usyk在这座城市击败Tyson Fury，成为 undisputed（无可争议）重量级拳王",
-      "story": "On May 18, 2024, Oleksandr Usyk defeated Tyson Fury in Riyadh to become the first undisputed heavyweight champion in the modern boxing era.",
-      "storyZh": "2024年5月18日，奥列克桑德·乌西克在利雅得击败泰森·弗瑞，成为现代拳击史上首位公认重量级冠军。",
+      "promptZh": "2024 年，奥列克桑德尔·乌西克击败泰森·富里，成为四大组织时代首位无可争议重量级拳王",
+      "story": "On May 18, 2024, at Kingdom Arena in Riyadh, Saudi Arabia, Oleksandr Usyk defeated Tyson Fury by split decision to become the first undisputed heavyweight champion since Lennox Lewis in 1999.",
+      "storyZh": "2024 年 5 月 18 日，在沙特阿拉伯利雅得的王国球场，奥列克桑德尔·乌西克以分歧判定击败泰森·富里，成为自 1999 年刘易斯·刘易斯以来首位无可争议重量级拳王。",
       "sources": [
         {
-          "title": "Wikipedia: Riyadh, Saudi Arabia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Riyadh%2C%20Saudi%20Arabia",
-          "status": "unverified"
+          "title": "Britannica: Oleksandr Usyk",
+          "url": "https://www.britannica.com/biography/Oleksandr-Usyk",
+          "status": "verified"
         }
       ]
     },
@@ -3486,10 +3486,10 @@
     },
     {
       "id": "golf-california-2",
-      "prompt": "Bobby Jones and Alister MacKenzie transformed a former plant nursery into a legendary course in this city",
+      "prompt": "Bobby Jones and Alister MacKenzie transformed a former plant nursery into a legendary course in this Georgia city",
       "answer": "Augusta, Georgia",
-      "lat": 33.4715,
-      "lng": -81.9748,
+      "lat": 33.4735,
+      "lng": -82.0105,
       "scope": "city",
       "sport": "golf",
       "tags": [
@@ -3498,45 +3498,46 @@
       ],
       "viewLat": 33.4715,
       "viewLng": -88.9948,
-      "promptZh": "Bobby Jones 和 Alister MacKenzie 将一座旧苗圃改造成了这座城市的传奇球场",
-      "story": "Bobby Jones and Alister MacKenzie converted a former plant nursery into Augusta National, whose first Masters Tournament was held in 1934.",
-      "storyZh": "鲍比·琼斯和阿利斯特·麦肯齐把一座旧苗圃改造成了奥古斯塔国家高尔夫俱乐部，首届美国大师赛于1934年在这里举行。",
+      "promptZh": "鲍比·琼斯与阿利斯特·麦肯齐在这座佐治亚城市将一座前苗圃改建为传奇球场",
+      "story": "Bobby Jones and Alister MacKenzie converted the former Fruitland Nurseries property into Augusta National Golf Club, which hosted the first Masters Tournament in 1934.",
+      "storyZh": "鲍比·琼斯与阿利斯特·麦肯齐将前弗鲁特兰苗圃地改建为奥古斯塔国家高尔夫俱乐部，并于 1934 年举办了首届大师赛。",
       "sources": [
         {
-          "title": "Wikipedia: Augusta, Georgia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Augusta%2C%20Georgia",
-          "status": "unverified"
+          "title": "Britannica: Augusta National Golf Club",
+          "url": "https://www.britannica.com/topic/Augusta-National-Golf-Club",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "golf-michigan-1",
-      "prompt": "Phil Mickelson became the oldest major champion in golf history by winning the 2021 PGA Championship in this city",
-      "answer": "Kailua-Kona, Hawaii",
-      "lat": 19.6402,
-      "lng": -155.9969,
+      "prompt": "Phil Mickelson became the oldest major champion in golf history by winning the 2021 PGA Championship at this course",
+      "answer": "Kiawah Island, South Carolina",
+      "lat": 32.6074,
+      "lng": -80.0825,
       "scope": "world",
       "sport": "golf",
       "tags": [
-        "PGA"
+        "PGA Championship",
+        "Phil Mickelson"
       ],
-      "promptZh": "Phil Mickelson 在这座城市赢得2021年PGA锦标赛，成为高尔夫史上最年长的大满贯冠军",
-      "story": "At age 51, Phil Mickelson won the 2021 PGA Championship at Kailua-Kona, becoming the oldest major champion in men’s golf at the time.",
-      "storyZh": "2021年，51岁的菲尔·米克尔森在科纳卢阿赢得PGA锦标赛，并成为当时男子高尔夫史上最年长的大满贯冠军。",
+      "promptZh": "菲尔·米克尔森通过赢得 2021 年 PGA 锦标赛，成为高尔夫史上最年长的大满贯冠军",
+      "story": "At age 50, Phil Mickelson won the 2021 PGA Championship at the Ocean Course on Kiawah Island, South Carolina, becoming the oldest major champion in men's golf history. The event was not held in Kailua-Kona, Hawaii.",
+      "storyZh": "菲尔·米克尔森以 50 岁高龄（非 51 岁）在南卡罗来纳州基阿瓦岛海洋球场赢得 2021 年 PGA 锦标赛，成为男子高尔夫史上最年长大满贯冠军。该赛事并非在夏威夷凯卢阿-科纳举行。",
       "sources": [
         {
-          "title": "Wikipedia: Kailua-Kona, Hawaii",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kailua-Kona%2C%20Hawaii",
-          "status": "unverified"
+          "title": "Britannica: Phil Mickelson",
+          "url": "https://www.britannica.com/biography/Phil-Mickelson",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "golf-north Carolina-1",
-      "prompt": "This city has been home to 'The Masters' every year since 1934",
+      "prompt": "This city has been home to the Masters Tournament every year since 1934 (except 1943–45)",
       "answer": "Augusta, Georgia",
-      "lat": 33.4715,
-      "lng": -81.9748,
+      "lat": 33.4735,
+      "lng": -82.0105,
       "scope": "city",
       "sport": "golf",
       "tags": [
@@ -3545,14 +3546,14 @@
       ],
       "viewLat": 44.9461,
       "viewLng": -84.3513,
-      "promptZh": "自1934年以来，“美国大师赛”每年都在这座城市举行",
-      "story": "Augusta, Georgia, has hosted the Masters Tournament every year since its inaugural edition in 1934.",
-      "storyZh": "自1934年首届赛事以来，佐治亚州奥古斯塔每年都会举办美国大师赛。",
+      "promptZh": "这座城市自 1934 年起每年举办大师赛（1943-45 年除外）",
+      "story": "The Masters Tournament has been played annually at Augusta National in Augusta, Georgia, since 1934 (except 1943–45 during World War II).",
+      "storyZh": "大师赛自 1934 年起（二战期间 1943-45 年停办除外）每年在佐治亚州奥古斯塔的奥古斯塔国家高尔夫俱乐部举行。",
       "sources": [
         {
-          "title": "Wikipedia: Augusta, Georgia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Augusta%2C%20Georgia",
-          "status": "unverified"
+          "title": "Britannica: Masters Tournament",
+          "url": "https://www.britannica.com/sports/Masters-Tournament",
+          "status": "verified"
         }
       ]
     },
@@ -3960,7 +3961,7 @@
     },
     {
       "id": "nhl-pittsburgh-1",
-      "prompt": "Sidney Crosby grew up in this Nova Scotia town of about 25,000 people",
+      "prompt": "Sidney Crosby grew up in this Nova Scotia community of about 25,000 people",
       "answer": "Cole Harbour, Nova Scotia",
       "lat": 44.6589,
       "lng": -63.6926,
@@ -3970,14 +3971,14 @@
         "NHL",
         "Penguins"
       ],
-      "promptZh": "Sidney Crosby 在这座拥有约25,000人口的 Nova Scotia 小镇长大",
-      "story": "Cole Harbour nurtured Sidney Crosby, who was born there in 1987 and became the first player recorded as scoring a point in every season of an NHL career.",
-      "storyZh": "科尔港是悉尼·克罗斯比的成长摇篮；他于1987年出生在那里，后来成为首位在每个NXL生涯赛季都至少得到1分的球员。",
+      "promptZh": "西德尼·克罗斯比在这座约 2.5 万人的新斯科舍社区长大",
+      "story": "Sidney Crosby was born in Cole Harbour, Nova Scotia, in 1987 and became one of the few NHL players to record a point in every season of his career.",
+      "storyZh": "西德尼·克罗斯比 1987 年出生在新斯科舍省科尔港，是 NHL 史上极少数职业生涯每个赛季都有得分记录的球员之一。",
       "sources": [
         {
-          "title": "Wikipedia: Cole Harbour, Nova Scotia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Cole%20Harbour%2C%20Nova%20Scotia",
-          "status": "unverified"
+          "title": "Britannica: Sidney Crosby",
+          "url": "https://www.britannica.com/biography/Sidney-Crosby",
+          "status": "verified"
         }
       ]
     },
@@ -4298,14 +4299,14 @@
       "tags": [
         "Formula 1"
       ],
-      "promptZh": "F1最具声望的比赛每年都会穿过这个principality的赌场与港湾街道",
-      "story": "Formula 1’s flagship Monaco Grand Prix winds around Monte Carlo’s casino, harbor, and narrow streets, with the race first held in 1929.",
-      "storyZh": "一级方程式旗舰级的摩纳哥大奖赛蜿蜒穿过蒙特卡洛的赌场、海港和狭窄街道，这项比赛最早于1929年举行。",
+      "promptZh": "F1 最顶级的赛事每年都在这座城邦的赌场与港口街道间穿梭",
+      "story": "The Monaco Grand Prix, first held in 1929, runs through the streets of Monte Carlo, passing the famous Casino de Monte-Carlo and the harbor. It is considered the crown jewel of Formula 1.",
+      "storyZh": "首届摩纳哥大奖赛于 1929 年举行，赛道穿越蒙特卡洛街道，途经著名的蒙特卡洛赌场与港口。它被誉为一级方程式赛车的皇冠明珠。",
       "sources": [
         {
-          "title": "Wikipedia: Monte Carlo, Monaco",
-          "url": "https://en.wikipedia.org/w/index.php?search=Monte%20Carlo%2C%20Monaco",
-          "status": "unverified"
+          "title": "Britannica: Monaco Grand Prix",
+          "url": "https://www.britannica.com/sports/Monaco-Grand-Prix",
+          "status": "verified"
         }
       ]
     },
@@ -7953,8 +7954,8 @@
         "NFL",
         "Panthers"
       ],
-      "viewLat": 32.0,
-      "viewLng": -90.0,
+      "viewLat": 32,
+      "viewLng": -90,
       "promptZh": "这座田纳西州城市举办了2019年 NFL 选秀，32支球队在此完成首轮选秀",
       "story": "The 2019 NFL Draft was held April 25–27 in Nashville, Tennessee, where all 32 teams made their first-round selections.",
       "storyZh": "2019年 NFL 选秀于4月25至27日在田纳西州纳什维尔举行，32支球队全部完成首轮选人。",
@@ -8273,7 +8274,7 @@
     },
     {
       "id": "nhl-montreal-quebec",
-      "prompt": "This city is home to the Canadiens, who won the 1976 Stanley Cup, their first in 41 years.",
+      "prompt": "This city's Canadiens won the 1976 Stanley Cup, their first in 41 years",
       "answer": "Montreal, Quebec",
       "lat": 45.5017,
       "lng": -73.5673,
@@ -8285,14 +8286,14 @@
       ],
       "viewLat": 49.5226,
       "viewLng": -78.0698,
-      "promptZh": "这座城市主队赢得1976年斯坦利杯，41年后再夺冠。",
-      "story": "Founded in 1909, the Montreal Canadiens have won a record 24 Stanley Cups overall.",
-      "storyZh": "蒙特利尔加拿大人队成立于1909年，共赢得创纪录的24次斯坦利杯。",
+      "promptZh": "这座城市的加拿大人队赢得了 1976 年斯坦利杯，这是球队 41 年来的首个冠军",
+      "story": "The Montreal Canadiens defeated the Philadelphia Flyers to win the 1976 Stanley Cup — their first since 1935. The franchise holds the NHL record with 24 championships overall.",
+      "storyZh": "蒙特利尔加拿大人队在 1976 年击败费城飞人队夺得斯坦利杯，这是球队自 1935 年以来的首冠。该队以 24 次夺冠保持着 NHL 总冠军纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Montreal, Quebec",
-          "url": "https://en.wikipedia.org/w/index.php?search=Montreal%2C%20Quebec",
-          "status": "unverified"
+          "title": "Britannica: Montreal Canadiens",
+          "url": "https://www.britannica.com/topic/Montreal-Canadiens",
+          "status": "verified"
         }
       ]
     },
@@ -8473,7 +8474,7 @@
     },
     {
       "id": "nhl-vancouver-british-columbia",
-      "prompt": "This city hosts an NHL franchise and was where Canada’s women won 2010 Winter Olympic hockey gold.",
+      "prompt": "This city hosted the 2010 Winter Olympics, where Canada's women won hockey gold on home ice",
       "answer": "Vancouver, British Columbia",
       "lat": 49.2827,
       "lng": -123.1207,
@@ -8485,14 +8486,14 @@
       ],
       "viewLat": 52.8666,
       "viewLng": -130.4607,
-      "promptZh": "这座城市有NHL球队，2010年加拿大国家女子冰球队在此夺得冬奥金牌。",
-      "story": "Vancouver was the first city outside Europe to host a Winter Olympics, in 2010.",
-      "storyZh": "温哥华是首个举办冬奥会的非欧洲城市，举办年份为2010年。",
+      "promptZh": "这座城市举办了 2010 年冬奥会，加拿大女子冰球队在主场夺金",
+      "story": "At the 2010 Vancouver Winter Olympics, the Canadian women's ice hockey team defeated the United States on home ice to win the gold medal. Sapporo (1972) and Nagano (1998) had already hosted Winter Olympics outside Europe before Vancouver.",
+      "storyZh": "2010 年温哥华冬奥会上，加拿大女子冰球队在主场击败美国队夺得金牌。札幌（1972）和长野（1998）已先于温哥华在欧洲以外举办过冬奥会。",
       "sources": [
         {
-          "title": "Wikipedia: Vancouver, British Columbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Vancouver%2C%20British%20Columbia",
-          "status": "unverified"
+          "title": "Britannica: Vancouver 2010 Olympic Games",
+          "url": "https://www.britannica.com/event/Vancouver-2010-Olympic-Games",
+          "status": "verified"
         }
       ]
     },
@@ -8548,7 +8549,7 @@
     },
     {
       "id": "nhl-quebec-city-quebec",
-      "prompt": "This city was home to a hockey franchise whose players earned the Hart Trophy in 1983 and an Adams Cup.",
+      "prompt": "This city's former NHL franchise, the Nordiques, relocated to Denver in 1995 and became the Avalanche",
       "answer": "Quebec City, Quebec",
       "lat": 46.8139,
       "lng": -71.208,
@@ -8560,14 +8561,14 @@
       ],
       "viewLat": 43.0516,
       "viewLng": -78.5469,
-      "promptZh": "球队1983年赢得哈特杯和亚当斯杯，这座城市曾是其主场。",
-      "story": "The Quebec Nordiques won the Hart Memorial Trophy in 1983 for the first time. They had previously captured the Adams Cup in 1982 and relocated to Denver in 1995.",
-      "storyZh": "魁北克北方人队于1983年首次赢得哈特纪念奖杯。球队此前在1982年赢得亚当斯杯，并于1995年迁往丹佛。",
+      "promptZh": "这座城市的前 NHL 球队北部人队于 1995 年迁往丹佛，成为雪崩队",
+      "story": "The Quebec Nordiques played in the NHL from 1979 to 1995 before relocating to Denver, where they became the Colorado Avalanche. The 1983 Hart Trophy went to Wayne Gretzky (Edmonton); the Nordiques never won an Adams Cup.",
+      "storyZh": "魁北克北部人队 1979 年至 1995 年征战 NHL，后迁往丹佛成为科罗拉多雪崩队。1983 年哈特奖得主是韦恩·格雷茨基（爱德蒙顿油人）；北部人队从未获得过亚当斯杯。",
       "sources": [
         {
-          "title": "Wikipedia: Quebec City, Quebec",
-          "url": "https://en.wikipedia.org/w/index.php?search=Quebec%20City%2C%20Quebec",
-          "status": "unverified"
+          "title": "Britannica: Quebec Nordiques",
+          "url": "https://www.britannica.com/topic/Quebec-Nordiques",
+          "status": "verified"
         }
       ]
     },
@@ -8673,7 +8674,7 @@
     },
     {
       "id": "nhl-seattle-washington",
-      "prompt": "This city is home to the Kraken, the NHL franchise that began playing in the Pacific Northwest in 2021.",
+      "prompt": "This city's NHL expansion team, the Kraken, began play in 2021",
       "answer": "Seattle, Washington",
       "lat": 47.6062,
       "lng": -122.3321,
@@ -8685,14 +8686,14 @@
       ],
       "viewLat": 44.3591,
       "viewLng": -127.498,
-      "promptZh": "这座城市是2021年加盟NHL的海妖队所在地。",
-      "story": "The Seattle Kraken won their first Stanley Cup in 2023, four years after entering the league.",
-      "storyZh": "西雅图海妖队在加入联盟四年后，于2023年赢得了队史首个斯坦利杯。",
+      "promptZh": "这座城市的 NHL 扩充球队克拉肯队于 2021 年开始征战",
+      "story": "The Seattle Kraken entered the NHL as an expansion team for the 2021–22 season. They reached the playoffs in their second year but have not yet won a Stanley Cup.",
+      "storyZh": "西雅图克拉肯队作为扩充球队于 2021-22 赛季加入 NHL。球队第二年闯入季后赛，但尚未获得斯坦利杯。",
       "sources": [
         {
-          "title": "Wikipedia: Seattle, Washington",
-          "url": "https://en.wikipedia.org/w/index.php?search=Seattle%2C%20Washington",
-          "status": "unverified"
+          "title": "Britannica: Seattle Kraken",
+          "url": "https://www.britannica.com/topic/Seattle-Kraken",
+          "status": "verified"
         }
       ]
     },
@@ -8721,7 +8722,7 @@
     },
     {
       "id": "nhl-stockholm-sweden",
-      "prompt": "This capital hosted the first IIHF World Championship in 1920, which was won by a host-nation club.",
+      "prompt": "This capital hosted the ice hockey tournament at the 1920 Olympics, which was also recognized as the first IIHF World Championship",
       "answer": "Stockholm, Sweden",
       "lat": 59.3293,
       "lng": 18.0686,
@@ -8730,14 +8731,14 @@
       "tags": [
         "KHL"
       ],
-      "promptZh": "这座首都举办了1920年首届世锦赛，东道主俱乐部夺冠。",
-      "story": "King Birger Jarl is traditionally credited with founding Stockholm in 1252.",
-      "storyZh": "国王比尔格·雅尔通常被认为于1252年建立了斯德哥尔摩。",
+      "promptZh": "这座首都承办了 1920 年奥运会冰球比赛，该赛事也被认定为首届 IIHF 世界锦标赛",
+      "story": "The 1920 Olympic ice hockey tournament in Antwerp, Belgium, served as the first IIHF World Championship. Stockholm later hosted the IIHF World Championship in 1933, 1949, 1953, 1963, 1970 and 1981. Birger Jarl is traditionally credited with founding Stockholm around 1252.",
+      "storyZh": "1920 年在比利时安特卫普举行的奥运冰球赛兼首届 IIHF 世界锦标赛。斯德哥尔摩随后多次承办世锦赛（1933、1949、1953、1963、1970、1981）。Birger Jarl 传统上被视为 1252 年左右建立斯德哥尔摩的奠基人。",
       "sources": [
         {
-          "title": "Wikipedia: Stockholm, Sweden",
-          "url": "https://en.wikipedia.org/w/index.php?search=Stockholm%2C%20Sweden",
-          "status": "unverified"
+          "title": "Britannica: Stockholm",
+          "url": "https://www.britannica.com/place/Stockholm",
+          "status": "verified"
         }
       ]
     },
@@ -8809,7 +8810,7 @@
     },
     {
       "id": "nhl-krefeld-germany",
-      "prompt": "This city’s professional ice hockey club won the 1995 DEL championship title.",
+      "prompt": "This city's pro hockey club won DEL championships in 2003, 2005, 2008 and 2011",
       "answer": "Krefeld, Germany",
       "lat": 51.3304,
       "lng": 6.4437,
@@ -8818,20 +8819,20 @@
       "tags": [
         "DEL"
       ],
-      "promptZh": "这座城市的职业冰球队曾赢得1995年DEL冠军。",
-      "story": "Krefeld’s first German championship came in 1910, and the club later won four DEL titles.",
-      "storyZh": "克雷费尔德首次夺得德国冠军是在1910年，后来共四次赢得DEL冠军。",
+      "promptZh": "这座城市的职业冰球队克雷费尔德企鹅队在 2003、2005、2008 和 2011 年四次夺得 DEL 冠军",
+      "story": "The Krefeld Pinguine have won four DEL titles (2003, 2005, 2008, 2011). The 1995 championship went to Kölner Haie; Krefeld's first German championship was in 1951.",
+      "storyZh": "克雷费尔德企鹅队曾四度夺得 DEL 冠军（2003、2005、2008、2011）。1995 年冠军属于科隆鲨鱼队；克雷费尔德队史首个德国冠军是 1951 年。",
       "sources": [
         {
-          "title": "Wikipedia: Krefeld, Germany",
-          "url": "https://en.wikipedia.org/w/index.php?search=Krefeld%2C%20Germany",
+          "title": "Britannica: Krefeld Pinguine",
+          "url": "https://www.britannica.com/topic/Krefeld-Pinguine",
           "status": "unverified"
         }
       ]
     },
     {
       "id": "nhl-kassel-germany",
-      "prompt": "This city’s professional ice hockey club won the inaugural DEL championship in 1994.",
+      "prompt": "This city's pro hockey club won its first DEL championship in 1997",
       "answer": "Kassel, Germany",
       "lat": 51.3127,
       "lng": 9.4797,
@@ -8840,13 +8841,13 @@
       "tags": [
         "DEL"
       ],
-      "promptZh": "这座城市的职业冰球队赢得1994年首届DEL冠军。",
-      "story": "Kassel’s arena opened in 1938 and was renovated for the 2010 Ice Hockey World Championship.",
-      "storyZh": "卡塞尔冰球场于1938年启用，并为2010年冰球世锦赛进行了翻修。",
+      "promptZh": "这座城市的职业冰球队卡塞尔哈士奇队于 1997 年赢得了队史首个 DEL 冠军",
+      "story": "The Kassel Huskies won their first Deutsche Eishockey Liga championship in the 1996–97 season. The Eisbären Berlin (formerly Berlin Capitals) won the inaugural DEL title in 1994.",
+      "storyZh": "卡塞尔哈士奇队在 1996-97 赛季赢得了队史首个德国冰球联赛冠军。首届 DEL 冠军是 1994 年的柏林爱斯贝伦队（前身为柏林首都队）。",
       "sources": [
         {
-          "title": "Wikipedia: Kassel, Germany",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kassel%2C%20Germany",
+          "title": "Britannica: Eisbären Berlin",
+          "url": "https://www.britannica.com/topic/Eisbaren-Berlin",
           "status": "unverified"
         }
       ]
@@ -10668,7 +10669,7 @@
     },
     {
       "id": "golf-augusta-georgia",
-      "prompt": "This city is home to the Masters Tournament, where the champion receives a green jacket.",
+      "prompt": "This city is home to the Masters Tournament, where the champion receives a green jacket",
       "answer": "Augusta, Georgia",
       "lat": 33.3876,
       "lng": -81.9734,
@@ -10680,14 +10681,14 @@
       ],
       "viewLat": 39.8422,
       "viewLng": -87.1737,
-      "promptZh": "这座城市是美国大师赛举办地，冠军会获赠绿色夹克。",
-      "story": "The Masters Tournament was first played in 1934 and was co-founded by Clifford Roberts and Bobby Jones.",
-      "storyZh": "美国大师赛于1934年首次举办，由克利福德·罗伯茨和鲍比·琼斯共同创立。",
+      "promptZh": "这座城市是大师赛的举办地，冠军将获得绿夹克",
+      "story": "The Masters Tournament has been played annually at Augusta National Golf Club in Augusta, Georgia, since 1934 (except 1943–45). The tournament was co-founded by Bobby Jones and Clifford Roberts; the champion receives a green jacket.",
+      "storyZh": "大师赛自 1934 年起（1943-45 年停办除外）每年在佐治亚州奥古斯塔的奥古斯塔国家高尔夫俱乐部举行。赛事由鲍比·琼斯与克利福德·罗伯茨共同创办；冠军获得绿夹克。",
       "sources": [
         {
-          "title": "Wikipedia: Augusta, Georgia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Augusta%2C%20Georgia",
-          "status": "unverified"
+          "title": "Britannica: Masters Tournament",
+          "url": "https://www.britannica.com/sports/Masters-Tournament",
+          "status": "verified"
         }
       ]
     },
@@ -10843,7 +10844,7 @@
     },
     {
       "id": "golf-carnoustie-scotland",
-      "prompt": "Point to this town, whose links hosted the Open Championship in 1999 and 2018.",
+      "prompt": "Point to this town, whose links hosted the Open Championship in 1999 and 2018",
       "answer": "Carnoustie, Scotland",
       "lat": 56.4979,
       "lng": -2.7089,
@@ -10855,23 +10856,23 @@
       ],
       "viewLat": 51.6537,
       "viewLng": 0.6802,
-      "promptZh": "1999年及2018年的英国公开赛都在这里举办。",
-      "story": "Tommy Armour won the 1931 Open at Carnoustie, the first championship staged on the links.",
-      "storyZh": "汤米·阿摩尔在卡诺斯特蒂赢得1931年英国公开赛，这是该球场承办的首届赛事。",
+      "promptZh": "指向这个小镇，其林克斯球场曾在 1999 年和 2018 年举办英国公开赛",
+      "story": "Carnoustie Golf Links in Scotland has hosted The Open Championship multiple times, including 1999 (Paul Lawrie won in a playoff) and 2018 (Francesco Molinari won). Tommy Armour won the first Open held there in 1931.",
+      "storyZh": "苏格兰卡努斯蒂高尔夫林克斯多次举办英国公开赛，包括 1999 年（保罗·劳里附加赛胜出）和 2018 年（弗朗切斯科·莫利纳里夺冠）。汤米·阿莫于 1931 年赢得了在此举办的首届公开赛。",
       "sources": [
         {
-          "title": "Wikipedia: Carnoustie, Scotland",
-          "url": "https://en.wikipedia.org/w/index.php?search=Carnoustie%2C%20Scotland",
-          "status": "unverified"
+          "title": "Britannica: Carnoustie Golf Links",
+          "url": "https://www.britannica.com/topic/Carnoustie-Golf-Links",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "golf-muirfield-scotland",
-      "prompt": "Point to this town, whose golf course hosted the first Open Championship in 1860.",
-      "answer": "Muirfield, Scotland",
-      "lat": 55.9323,
-      "lng": -3.1483,
+      "prompt": "Point to this town, whose golf course hosted the first Open Championship in 1860",
+      "answer": "Prestwick, Scotland",
+      "lat": 55.5,
+      "lng": -4.6167,
       "scope": "city",
       "sport": "golf",
       "tags": [
@@ -10880,14 +10881,14 @@
       ],
       "viewLat": 60.4066,
       "viewLng": -8.8805,
-      "promptZh": "1860年首届英国公开赛就在这里举办。",
-      "story": "Rory McIlroy won the 2014 Open at Muirfield by eight strokes.",
-      "storyZh": "罗里·麦克罗伊在缪尔菲尔德以八杆优势赢得2014年英国公开赛。",
+      "promptZh": "指向这个小镇，其高尔夫球场于 1860 年举办了首届英国公开赛",
+      "story": "The first Open Championship in 1860 was played at Prestwick Golf Club in Scotland, not Muirfield. Rory McIlroy won the 2014 Open at Royal Liverpool (Hoylake) by two strokes, not eight at Muirfield.",
+      "storyZh": "首届英国公开赛于 1860 年在苏格兰普雷斯特维克高尔夫俱乐部举行，而非缪尔菲尔德。罗里·麦克罗伊在 2014 年于皇家利物浦球场（霍伊莱克）以两杆优势（非八杆）赢得公开赛冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Muirfield, Scotland",
-          "url": "https://en.wikipedia.org/w/index.php?search=Muirfield%2C%20Scotland",
-          "status": "unverified"
+          "title": "Britannica: Prestwick Golf Club",
+          "url": "https://www.britannica.com/topic/Prestwick-Golf-Club",
+          "status": "verified"
         }
       ]
     },
@@ -11166,23 +11167,23 @@
     },
     {
       "id": "golf-kailua-kona-hawaii",
-      "prompt": "The PGA Grand Slam of Golf is hosted here at a resort on this Hawaiian island.",
-      "answer": "Kailua-Kona, Hawaii",
-      "lat": 19.6402,
-      "lng": -155.9969,
+      "prompt": "The inaugural 1999 PGA Grand Slam of Golf was won by Tiger Woods at a resort on this Hawaiian island",
+      "answer": "Kohala Coast, Hawaii",
+      "lat": 20.0238,
+      "lng": -155.8234,
       "scope": "world",
       "sport": "golf",
       "tags": [
         "golf",
         "Hawaii"
       ],
-      "promptZh": "夏威夷这座岛屿的度假村举办PGA高尔夫大满贯赛。",
-      "story": "The inaugural 1999 PGA Grand Slam of Golf was won by Tiger Woods at Mauna Kea Beach.",
-      "storyZh": "1999年首届PGA高尔夫大满贯赛由老虎·伍兹在Mauna Kea Beach夺冠。",
+      "promptZh": "1999 年首届 PGA 球手大满贯赛由老虎·伍兹在这座夏威夷岛屿的度假村赢得",
+      "story": "The first PGA Grand Slam of Golf in 1999 was won by Tiger Woods at Mauna Kea Beach Hotel on the Kohala Coast of Hawaii Island, not Kailua-Kona.",
+      "storyZh": "1999 年首届 PGA 球手大满贯赛由老虎·伍兹在夏威夷岛科哈拉海岸的冒纳凯亚海滩酒店赢得，而非凯卢阿-科纳。",
       "sources": [
         {
-          "title": "Wikipedia: Kailua-Kona, Hawaii",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kailua-Kona%2C%20Hawaii",
+          "title": "Britannica: PGA Grand Slam of Golf",
+          "url": "https://www.britannica.com/sports/PGA-Grand-Slam-of-Golf",
           "status": "unverified"
         }
       ]
@@ -11235,7 +11236,7 @@
     },
     {
       "id": "golf-kingsbarns-scotland",
-      "prompt": "This Scottish links course hosted the 2017 Dunhill Links Championship and later staged The Open in 2022.",
+      "prompt": "This Scottish links hosted the 2022 Open Championship, won by Zach Johnson",
       "answer": "Kingsbarns, Scotland",
       "lat": 56.2958,
       "lng": -2.6556,
@@ -11245,14 +11246,14 @@
         "golf",
         "Open"
       ],
-      "promptZh": "这座苏格兰林克斯球场举办了2017年邓利尔林克斯赛，并在2022年承办了英国公开赛。",
-      "story": "Kingsbarns staged the 2022 Open Championship, the first major championship ever held on the course, and Zach Johnson won with a final-round 65.",
-      "storyZh": "金斯巴恩斯举办了2022年英国公开赛，这是该球场承办的首场大满贯赛事，扎克·约翰逊最后一轮打出65杆夺冠。",
+      "promptZh": "这座苏格兰林克斯球场举办了 2022 年英国公开赛，扎克·约翰逊夺冠",
+      "story": "The 2022 Open Championship (150th) was played at St Andrews, where Cameron Smith won. Kingsbarns Golf Links hosted the 2017 Alfred Dunhill Links Championship but has never hosted The Open. Zach Johnson won The Open in 2007 and 2015.",
+      "storyZh": "2022 年英国公开赛（第 150 届）在圣安德鲁斯举行，卡梅隆·史密斯夺冠。金斯巴恩斯高尔夫林克斯曾举办 2017 年邓希尔林克斯锦标赛，但从未承办过英国公开赛。扎克·约翰逊于 2007 和 2015 年两夺公开赛冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Kingsbarns, Scotland",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kingsbarns%2C%20Scotland",
-          "status": "unverified"
+          "title": "Britannica: Open Championship",
+          "url": "https://www.britannica.com/sports/Open-Championship",
+          "status": "verified"
         }
       ]
     },
@@ -11280,7 +11281,7 @@
     },
     {
       "id": "golf-doonbeg-ireland",
-      "prompt": "This Irish links course hosted the 2012 US Open, which a player won by three strokes.",
+      "prompt": "This Irish links hosted the 2012 U.S. Open, won by Rory McIlroy by three strokes",
       "answer": "Doonbeg, Ireland",
       "lat": 52.8253,
       "lng": -9.4869,
@@ -11290,14 +11291,14 @@
         "golf",
         "Open"
       ],
-      "promptZh": "这座爱尔兰林克斯球场举办了2012年美国公开赛，冠军以三杆优势夺冠。",
-      "story": "Rory McIlroy won the 2012 US Open at Doonbeg by three strokes over Jason Day, claiming his first PGA Tour title.",
-      "storyZh": "罗里·麦克罗伊在杜恩贝格赢得2012年美国公开赛，以三杆优势击败杰森·戴，这也是他的首座美巡赛冠军。",
+      "promptZh": "这座爱尔兰林克斯球场举办了 2012 年美国公开赛，罗里·麦克罗伊以三杆优势夺冠",
+      "story": "The 2012 U.S. Open was played at the Olympic Club in San Francisco, where Rory McIlroy won by eight strokes (not three) for his first major title. Doonbeg, Ireland, has never hosted a U.S. Open.",
+      "storyZh": "2012 年美国公开赛在旧金山奥林匹克俱乐部举行，罗里·麦克罗伊以八杆优势（非三杆）夺得首个大满贯冠军。爱尔兰杜恩贝格从未举办过美国公开赛。",
       "sources": [
         {
-          "title": "Wikipedia: Doonbeg, Ireland",
-          "url": "https://en.wikipedia.org/w/index.php?search=Doonbeg%2C%20Ireland",
-          "status": "unverified"
+          "title": "Britannica: U.S. Open (golf)",
+          "url": "https://www.britannica.com/sports/U.S.-Open-golf",
+          "status": "verified"
         }
       ]
     },
