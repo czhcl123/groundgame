@@ -1296,23 +1296,23 @@
       ],
       "viewLat": 48.0727,
       "viewLng": -72.2211,
-      "promptZh": "1995 年，Cal Ripken 在这座城市参加第 2,131 场连续比赛，打破 Lou Gehrig 的铁人纪录",
-      "story": "Baltimore’s Camden Yards witnessed Cal Ripken break Lou Gehrig’s consecutive-games record on September 6, 1995, by playing his 2,131st straight game.",
-      "storyZh": "1995年9月6日，卡尔·里普肯在巴尔的摩的卡姆登球场迎来连续出场的第2,131场比赛，打破了卢·盖里格的纪录。",
+      "promptZh": "1995 年，卡尔·里普肯在这座城市以连续第 2,131 场比赛打破了卢·格里克的铁人纪录",
+      "story": "At Oriole Park at Camden Yards in Baltimore on September 6, 1995, Cal Ripken played his 2,131st consecutive game, surpassing Lou Gehrig's 56-year-old record of 2,130.",
+      "storyZh": "1995 年 9 月 6 日，在巴尔的摩金莺公园，卡尔·里普肯完成连续第 2,131 场比赛，打破卢·格里克保持 56 年的 2,130 场纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Baltimore, Maryland",
-          "url": "https://en.wikipedia.org/w/index.php?search=Baltimore%2C%20Maryland",
-          "status": "unverified"
+          "title": "Britannica: Cal Ripken, Jr.",
+          "url": "https://www.britannica.com/biography/Cal-Ripken-Jr",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mlb-boston-1",
-      "prompt": "After missing 3 years of his prime to serve as an aviator in WWII, Ted Williams returned to this city to win AL MVP in 1946",
-      "answer": "San Diego, California",
-      "lat": 32.7157,
-      "lng": -117.1611,
+      "prompt": "After missing three seasons to serve as a Navy pilot in WWII, Ted Williams returned to this city to win AL MVP in 1946",
+      "answer": "Boston, Massachusetts",
+      "lat": 42.3601,
+      "lng": -71.0589,
       "scope": "city",
       "sport": "baseball",
       "tags": [
@@ -1321,14 +1321,14 @@
       ],
       "viewLat": 21.2411,
       "viewLng": -119.5376,
-      "promptZh": "大联盟仍在使用的最古老球场自 1912 年起便矗立在这座城市",
-      "story": "Ted Williams ended his playing career with the San Diego Padres in 1954, batting .352 with 12 home runs during his only major-league season in the city.",
-      "storyZh": "泰德·威廉姆斯于1954年在圣迭戈教士队结束职业生涯，在这座城市效力唯一一个完整大联盟赛季时，他打出.352的打击率并击出12支本垒打。",
+      "promptZh": "二战期间作为海军飞行员缺席三个赛季后，泰德·威廉姆斯回到这座城市并在 1946 年夺得美联 MVP",
+      "story": "Ted Williams, born in San Diego, missed the 1943–45 seasons serving as a Navy flyer. He returned to the Boston Red Sox in 1946 and hit .342; he won the AL MVP in 1949 (and had won the first of two Triple Crowns in 1942).",
+      "storyZh": "泰德·威廉姆斯出生于圣迭戈，1943-45 年间作为海军飞行员缺席赛季。1946 年他回归波士顿红袜队，打击率 3 成 42；他于 1949 年获得美联 MVP，并于 1942 年首获三冠王。",
       "sources": [
         {
-          "title": "Wikipedia: San Diego, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=San%20Diego%2C%20California",
-          "status": "unverified"
+          "title": "Britannica: Ted Williams",
+          "url": "https://www.britannica.com/biography/Ted-Williams",
+          "status": "verified"
         }
       ]
     },
@@ -1371,20 +1371,20 @@
       ],
       "viewLat": 30.8855,
       "viewLng": -68.6824,
-      "promptZh": "大联盟仍在使用的最古老球场自 1912 年起便矗立在这座城市",
-      "story": "Boston’s Fenway Park opened on April 20, 1912, making it the oldest ballpark still in use in Major League Baseball.",
-      "storyZh": "波士顿的芬威公园于1912年4月20日启用，至今仍是大联盟棒球史上最古老仍在使用的球场。",
+      "promptZh": "大联盟现存最古老的球场自 1912 年起就在这座城市",
+      "story": "Fenway Park opened in Boston in 1912 and is the oldest ballpark still in use in Major League Baseball, famous for its 37-foot-2-inch left-field wall, the 'Green Monster'.",
+      "storyZh": "芬威球场 1912 年在波士顿启用，是大联盟现存最古老的球场，以 37 英尺 2 英寸高的左外野墙“绿色怪物”闻名。",
       "sources": [
         {
-          "title": "Wikipedia: Boston, Massachusetts",
-          "url": "https://en.wikipedia.org/w/index.php?search=Boston%2C%20Massachusetts",
-          "status": "unverified"
+          "title": "Britannica: Fenway Park",
+          "url": "https://www.britannica.com/place/Fenway-Park",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mlb-bronx-1",
-      "prompt": "Yankee Stadium, originally opened 1923, sits in this New York borough",
+      "prompt": "The original Yankee Stadium opened in 1923 in this New York borough",
       "answer": "The Bronx, New York",
       "lat": 40.8448,
       "lng": -73.8648,
@@ -1396,14 +1396,14 @@
       ],
       "viewLat": 53.8161,
       "viewLng": -71.1784,
-      "promptZh": "Yankee Stadium 于 1923 年首次开放，坐落在 New York 的这座行政区",
-      "story": "The original Yankee Stadium opened in the Bronx on April 18, 1923, when the Yankees defeated the Red Sox 4–3 in its first game.",
-      "storyZh": "洋基体育场于1923年4月18日在布朗克斯启用，揭幕战中西洋基以4比3击败红袜。",
+      "promptZh": "最初的洋基体育场 1923 年在纽约的这个行政区启用",
+      "story": "The original Yankee Stadium opened in the Bronx in 1923, when the Yankees defeated the Boston Red Sox 4–3 in its first game. Known as 'The House That Ruth Built', it served the team until 2008.",
+      "storyZh": "最初的洋基体育场 1923 年在布朗克斯启用，首场比赛中洋基队以 4 比 3 击败波士顿红袜队。它被称为“鲁斯建造的房子”，一直使用到 2008 年。",
       "sources": [
         {
-          "title": "Wikipedia: The Bronx, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=The%20Bronx%2C%20New%20York",
-          "status": "unverified"
+          "title": "Britannica: New York Yankees",
+          "url": "https://www.britannica.com/topic/New-York-Yankees",
+          "status": "verified"
         }
       ]
     },
@@ -1421,14 +1421,14 @@
       ],
       "viewLat": 56.3382,
       "viewLng": -73.9442,
-      "promptZh": "1947 年，Jackie Robinson 在这座城市一座如今已拆除的球场完成 Dodgers 首次亮相，打破 MLB 的肤色壁垒",
-      "story": "Brooklyn is remembered as the home of Jackie Robinson, who wore number 42 for the Brooklyn Dodgers on April 15, 1947, becoming MLB’s first Black player.",
-      "storyZh": "1947年4月15日，杰克ie·罗宾逊身穿42号球衣代表布鲁克林道奇登场，成为大联盟首位黑人球员，因此布鲁克林留下了这段历史。",
+      "promptZh": "1947 年，杰基·罗宾逊在这座城市一座现已拆除的球场代表道奇队首秀，打破大联盟肤色壁垒",
+      "story": "On April 15, 1947, Jackie Robinson took the field at Ebbets Field in Brooklyn for the Dodgers, becoming MLB's first Black player of the 20th century. Ebbets Field was demolished in 1960.",
+      "storyZh": "1947 年 4 月 15 日，杰基·罗宾逊在布鲁克林埃比茨球场代表道奇队登场，成为 20 世纪大联盟首位黑人球员。埃比茨球场于 1960 年被拆除。",
       "sources": [
         {
-          "title": "Wikipedia: Brooklyn, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=Brooklyn%2C%20New%20York",
-          "status": "unverified"
+          "title": "Britannica: Jackie Robinson",
+          "url": "https://www.britannica.com/biography/Jackie-Robinson",
+          "status": "verified"
         }
       ]
     },
@@ -1772,7 +1772,7 @@
     },
     {
       "id": "mlb-chicago-spalding-1",
-      "prompt": "In 1905, Honus Wagner became the first baseball player to sign a bat endorsement deal with a company from this city",
+      "prompt": "This city is home to Spalding, the sporting goods maker whose baseball equipment shaped the game",
       "answer": "Chicago, Illinois",
       "lat": 41.8781,
       "lng": -87.6298,
@@ -1784,13 +1784,13 @@
       ],
       "viewLat": 54.8494,
       "viewLng": -90.3162,
-      "promptZh": "1905年，Honus Wagner成为首位与一家来自这座城市的公司签署球棒代言协议的棒球运动员",
-      "story": "Honus Wagner made baseball history in 1905 by becoming the first player to endorse bats for Chicago-based Spalding.",
-      "storyZh": "1905年，霍努斯·瓦格纳成为首位为芝加哥斯伯丁公司代言球棒的职业棒球运动员。",
+      "promptZh": "这座城市是体育用品制造商斯伯丁的所在地，其棒球装备塑造了这项运动",
+      "story": "Chicago-based A.G. Spalding & Bros. was founded in 1876 and became one of the most influential makers of baseballs and other sporting equipment in the game's history.",
+      "storyZh": "总部位于芝加哥的 A.G. Spalding & Bros. 创立于 1876 年，成为棒球史上最具影响力的棒球及体育器材制造商之一。",
       "sources": [
         {
-          "title": "Wikipedia: Chicago, Illinois",
-          "url": "https://en.wikipedia.org/w/index.php?search=Chicago%2C%20Illinois",
+          "title": "Britannica: baseball equipment - Spalding",
+          "url": "https://www.britannica.com/sports/baseball-equipment",
           "status": "unverified"
         }
       ]
@@ -4304,8 +4304,8 @@
       "storyZh": "首届摩纳哥大奖赛于 1929 年举行，赛道穿越蒙特卡洛街道，途经著名的蒙特卡洛赌场与港口。它被誉为一级方程式赛车的皇冠明珠。",
       "sources": [
         {
-          "title": "Britannica: Monaco Grand Prix",
-          "url": "https://www.britannica.com/sports/Monaco-Grand-Prix",
+          "title": "Formula 1 official: Monaco Grand Prix",
+          "url": "https://www.formula1.com/en/racing/2025/monaco",
           "status": "verified"
         }
       ]
@@ -4404,7 +4404,7 @@
     },
     {
       "id": "marathon-kenya-1",
-      "prompt": "Eliud Kipchoge became the first to break 2 hours in the marathon. He trains in this city",
+      "prompt": "This Kenyan town is the high-altitude training base where Eliud Kipchoge prepared for his record marathons",
       "answer": "Kaptagat, Kenya",
       "lat": 0.3133,
       "lng": 35.2139,
@@ -4413,14 +4413,14 @@
       "tags": [
         "marathon"
       ],
-      "promptZh": "Eliud Kipchoge 成为首位突破马拉松两小时大关的人。他在这座城市训练",
-      "story": "Kaptagat was the training base for Eliud Kipchoge, who ran the 2019 Berlin Marathon in 1 hour 59 minutes 40.2 seconds in the first officially recorded sub-two-hour marathon.",
-      "storyZh": "埃利乌德·基普乔格在卡普塔加特训练，并于2019年柏林马拉松以1小时59分40秒2秒完赛，完成了首场官方记录的突破两小时马拉松。",
+      "promptZh": "这座肯尼亚小镇是埃鲁德·基普乔格备战纪录马拉松的高海拔训练基地",
+      "story": "Eliud Kipchoge trained at a high-altitude camp in Kaptagat, Kenya, and in 2019 became the first person to run a marathon under two hours, clocking 1:59:40 in a specially staged event in Vienna. That time was not officially recognized.",
+      "storyZh": "埃鲁德·基普乔格在肯尼亚卡普塔加特的高海拔训练营训练。2019 年，他在维也纳一场特别赛事中以 1 小时 59 分 40 秒成为首位跑进两小时的马拉松选手，但该成绩未被官方承认。",
       "sources": [
         {
-          "title": "Wikipedia: Kaptagat, Kenya",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kaptagat%2C%20Kenya",
-          "status": "unverified"
+          "title": "Britannica: Eliud Kipchoge",
+          "url": "https://www.britannica.com/biography/Eliud-Kipchoge",
+          "status": "verified"
         }
       ]
     },
@@ -6428,7 +6428,7 @@
     },
     {
       "id": "mlb-atlanta-georgia",
-      "prompt": "This city is home to a baseball club that tied the record with 14 consecutive division titles.",
+      "prompt": "This city's Braves won 14 division titles in the 15 seasons from 1991 to 2005",
       "answer": "Atlanta, Georgia",
       "lat": 33.749,
       "lng": -84.388,
@@ -6440,14 +6440,14 @@
       ],
       "viewLat": 32.9039,
       "viewLng": -83.3306,
-      "promptZh": "这座城市的球队曾连续14次夺得分区冠军，并追平纪录。",
-      "story": "The Braves won 14 consecutive division titles from 1991 through 2005, matching a major-league record.",
-      "storyZh": "该队从1991年至2005年连续14次夺得分区冠军，追平了大联盟纪录。",
+      "promptZh": "这座城市的勇士队在 1991 至 2005 年的 15 个赛季中夺得了 14 个分区冠军",
+      "story": "The Atlanta Braves won 14 division titles between 1991 and 2005, finishing second only in the strike-shortened 1994 season. The run is one of the great dynasties in U.S. sports history.",
+      "storyZh": "亚特兰大勇士队在 1991 至 2005 年间赢得 14 个分区冠军，仅在因劳资纠纷缩短的 1994 赛季屈居第二。这段统治期是美国体育史上伟大的王朝之一。",
       "sources": [
         {
-          "title": "Wikipedia: Atlanta, Georgia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Atlanta%2C%20Georgia",
-          "status": "unverified"
+          "title": "Britannica: Atlanta Braves",
+          "url": "https://www.britannica.com/topic/Atlanta-Braves",
+          "status": "verified"
         }
       ]
     },
@@ -6528,7 +6528,7 @@
     },
     {
       "id": "mlb-detroit-michigan",
-      "prompt": "This city is home to a baseball club whose 1935 and 1937 teams won consecutive World Series titles.",
+      "prompt": "This city is home to a baseball club that won World Series titles in 1935 and 1945",
       "answer": "Detroit, Michigan",
       "lat": 42.3314,
       "lng": -83.0458,
@@ -6540,20 +6540,20 @@
       ],
       "viewLat": 44.5037,
       "viewLng": -77.07,
-      "promptZh": "这座城市的球队两夺1935、1937年世界大赛冠军。",
-      "story": "The Tigers won World Series championships in 1935 and 1937, becoming the first club to achieve the feat twice.",
-      "storyZh": "该队在1935年和1937年两度夺得世界大赛冠军，成为首支两次实现这一壮举的球队。",
+      "promptZh": "这座城市的棒球队在 1935 年和 1945 年赢得世界大赛冠军",
+      "story": "The Detroit Tigers won their first World Series in 1935, defeating the Chicago Cubs, and added another title in 1945. They have won four championships in total (1935, 1945, 1968, 1984).",
+      "storyZh": "底特律老虎队 1935 年击败芝加哥小熊队首夺世界大赛冠军，1945 年再度夺冠。球队共获得四次冠军（1935、1945、1968、1984）。",
       "sources": [
         {
-          "title": "Wikipedia: Detroit, Michigan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Detroit%2C%20Michigan",
-          "status": "unverified"
+          "title": "Britannica: Detroit Tigers",
+          "url": "https://www.britannica.com/topic/Detroit-Tigers",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mlb-chicago-illinois-2",
-      "prompt": "This city is home to the White Sox, whose 2005 World Series victory was completed in 99 games.",
+      "prompt": "This city is home to the White Sox, whose 2005 World Series win was their first in 88 years",
       "answer": "Chicago, Illinois",
       "lat": 41.8781,
       "lng": -87.6298,
@@ -6565,20 +6565,20 @@
       ],
       "viewLat": 42.0063,
       "viewLng": -81.7332,
-      "promptZh": "这座城市的球队鏖战99场，赢得2005年世界大赛冠军。",
-      "story": "The White Sox won their first championship since 1917 and swept the Houston Astros in four games.",
-      "storyZh": "白袜队获得了自1917年以来的首个冠军，并以四连胜击败休斯敦太空人。",
+      "promptZh": "这座城市是白袜队主场，球队 2005 年夺得世界大赛冠军，距上次夺冠已 88 年",
+      "story": "The Chicago White Sox swept the Houston Astros in the 2005 World Series, ending an 88-year championship drought dating to 1917.",
+      "storyZh": "芝加哥白袜队在 2005 年世界大赛中横扫休斯敦太空人队，终结了自 1917 年以来长达 88 年的冠军荒。",
       "sources": [
         {
-          "title": "Wikipedia: Chicago, Illinois",
-          "url": "https://en.wikipedia.org/w/index.php?search=Chicago%2C%20Illinois",
-          "status": "unverified"
+          "title": "Britannica: Chicago White Sox",
+          "url": "https://www.britannica.com/topic/Chicago-White-Sox",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mlb-boston-massachusetts",
-      "prompt": "This city is home to the Red Sox, whose 2004 championship ended an 86-year championship curse.",
+      "prompt": "This city is home to the Red Sox, whose 2004 championship ended an 86-year championship curse",
       "answer": "Boston, Massachusetts",
       "lat": 42.3601,
       "lng": -71.0589,
@@ -6590,14 +6590,14 @@
       ],
       "viewLat": 40.1202,
       "viewLng": -69.0567,
-      "promptZh": "这座城市赢得2004年世界大赛，终结86年冠军诅咒。",
-      "story": "The Red Sox won Game 4 of the 2004 World Series and celebrated their first championship season since 1918.",
-      "storyZh": "红袜队赢下2004年世界大赛第四场后，庆祝了自1918年以来的首个冠军赛季。",
+      "promptZh": "这座城市是红袜队主场，球队 2004 年夺冠终结了 86 年的冠军魔咒",
+      "story": "The Boston Red Sox ended an 86-year World Series drought in 2004, sweeping the St. Louis Cardinals after rallying from a 3–0 deficit against the Yankees in the ALCS.",
+      "storyZh": "波士顿红袜队 2004 年终结了 86 年的世界大赛冠军荒，在美联冠军赛 0 比 3 落后洋基后完成大逆转，随后横扫圣路易斯红雀队夺冠。",
       "sources": [
         {
-          "title": "Wikipedia: Boston, Massachusetts",
-          "url": "https://en.wikipedia.org/w/index.php?search=Boston%2C%20Massachusetts",
-          "status": "unverified"
+          "title": "Britannica: Boston Red Sox",
+          "url": "https://www.britannica.com/topic/Boston-Red-Sox",
+          "status": "verified"
         }
       ]
     },
@@ -6713,8 +6713,8 @@
       "storyZh": "哈瓦那国家棒球学校于1961年创办，至今仍是古巴职业球员的重要训练中心。",
       "sources": [
         {
-          "title": "Wikipedia: Havana, Cuba",
-          "url": "https://en.wikipedia.org/w/index.php?search=Havana%2C%20Cuba",
+          "title": "Britannica: Cuban baseball",
+          "url": "https://www.britannica.com/sports/baseball",
           "status": "unverified"
         }
       ]
@@ -10694,7 +10694,7 @@
     },
     {
       "id": "golf-st-andrews-scotland",
-      "prompt": "This town is home to the world's oldest golf course, where The Open Championship is held.",
+      "prompt": "This town is home to the Old Course, the spiritual home of The Open Championship",
       "answer": "St. Andrews, Scotland",
       "lat": 56.3398,
       "lng": -2.7967,
@@ -10706,20 +10706,20 @@
       ],
       "viewLat": 49.8234,
       "viewLng": -7.836,
-      "promptZh": "这座小镇拥有世界最古老的高尔夫球场，公开赛在此举行。",
-      "story": "The University of St Andrews was founded by papal bulls in 1413, making it Scotland's oldest university.",
-      "storyZh": "圣安德鲁斯大学由教廷于1413年创立，是苏格兰最古老的大学。",
+      "promptZh": "这座小镇拥有老球场，是英国公开赛的精神家园",
+      "story": "The Old Course at St Andrews is the most storied venue in golf and has hosted The Open Championship since 1873. The university town is widely regarded as the home of the sport.",
+      "storyZh": "圣安德鲁斯老球场是高尔夫史上最具传奇色彩的场地，自 1873 年起承办英国公开赛。这座大学城被普遍视为高尔夫运动的发源地。",
       "sources": [
         {
-          "title": "Wikipedia: St. Andrews, Scotland",
-          "url": "https://en.wikipedia.org/w/index.php?search=St.%20Andrews%2C%20Scotland",
-          "status": "unverified"
+          "title": "Britannica: British Open",
+          "url": "https://www.britannica.com/sports/British-Open",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "golf-pebble-beach-california",
-      "prompt": "This town hosts the AT&T Pro-Am at a renowned coastal golf resort on the Monterey Peninsula.",
+      "prompt": "This Monterey Peninsula town hosts a coastal golf resort that has staged the AT&T Pro-Am since 1947",
       "answer": "Pebble Beach, California",
       "lat": 36.568,
       "lng": -121.95,
@@ -10731,13 +10731,13 @@
       ],
       "viewLat": 39.3387,
       "viewLng": -125.9083,
-      "promptZh": "这座小镇的海岸球场举办AT&T职业业余赛。",
-      "story": "Pebble Beach Golf Links opened in 1919, and the AT&T Pro-Am was first held there in 1939.",
-      "storyZh": "圆石滩高尔夫球场于1919年开业，AT&T职业业余赛于1939年首次在此举行。",
+      "promptZh": "这座蒙特雷半岛小镇拥有一座海滨高尔夫度假村，自 1947 年起承办 AT&T 圆石滩职业-业余配对赛",
+      "story": "Pebble Beach Golf Links opened in 1919. The tournament now known as the AT&T Pebble Beach Pro-Am began in 1937 but settled at Pebble Beach in 1947, where it has been held almost every year since.",
+      "storyZh": "圆石滩高尔夫球场于 1919 年开业。如今名为 AT&T 圆石滩职业-业余配对赛的赛事始于 1937 年，但 1947 年迁至圆石滩，此后几乎每年在此举行。",
       "sources": [
         {
-          "title": "Wikipedia: Pebble Beach, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Pebble%20Beach%2C%20California",
+          "title": "Britannica: golf - British tournaments and players",
+          "url": "https://www.britannica.com/sports/golf",
           "status": "unverified"
         }
       ]
@@ -10919,7 +10919,7 @@
     },
     {
       "id": "golf-portrush-northern-ireland",
-      "prompt": "This town hosted the 2019 Open Championship, returning the major after its 1951 edition.",
+      "prompt": "This town hosted the 2019 Open Championship, returning the major after its 1951 edition",
       "answer": "Portrush, Northern Ireland",
       "lat": 55.4939,
       "lng": -6.6448,
@@ -10931,14 +10931,14 @@
       ],
       "viewLat": 61.9688,
       "viewLng": -3.2428,
-      "promptZh": "这座小镇曾举办2019年及1951年的英国公开赛。",
-      "story": "The 2019 Open at Royal Portrush was won by Shane Lowry, securing his first major title. The club had previously staged the tournament in 1951.",
-      "storyZh": "2019年皇家波特拉什英国公开赛由肖恩·劳里夺冠，这是他的首个大满贯冠军。该俱乐部此前还于1951年承办过这项赛事。",
+      "promptZh": "这座小镇举办了 2019 年英国公开赛，距上次举办 1951 年已过去多年",
+      "story": "Royal Portrush in Northern Ireland hosted The Open in 2019, when Shane Lowry won his first major. The club had previously staged the championship in 1951, when Max Faulkner won.",
+      "storyZh": "北爱尔兰皇家波特拉什球场 2019 年承办英国公开赛，肖恩·劳里在此夺得个人首个大满贯。该球场上次举办是 1951 年，马克斯·福克纳夺冠。",
       "sources": [
         {
-          "title": "Wikipedia: Portrush, Northern Ireland",
-          "url": "https://en.wikipedia.org/w/index.php?search=Portrush%2C%20Northern%20Ireland",
-          "status": "unverified"
+          "title": "Britannica: British Open",
+          "url": "https://www.britannica.com/sports/British-Open",
+          "status": "verified"
         }
       ]
     },
@@ -11069,7 +11069,7 @@
     },
     {
       "id": "golf-shinnecock-hills-new-york",
-      "prompt": "The 1896 US Open, the first edition, was played here on this New York course.",
+      "prompt": "This Long Island course staged the second U.S. Open in 1896",
       "answer": "Shinnecock Hills, New York",
       "lat": 40.9589,
       "lng": -72.1853,
@@ -11081,13 +11081,13 @@
       ],
       "viewLat": 45.5992,
       "viewLng": -64.6482,
-      "promptZh": "纽约州这座小镇在1896年举办了首届美国公开赛。",
-      "story": "Shinnecock Hills hosted the 1986 PGA Championship, which Bob Tway won with a hole-in-one on the final hole.",
-      "storyZh": "1986年PGA锦标赛在辛尼霍克山举行，鲍勃·特威在最后一洞打出一杆进洞。",
+      "promptZh": "这座长岛球场于 1896 年举办了第二届美国公开赛",
+      "story": "Shinnecock Hills hosted the second U.S. Open in 1896, won by James Foulis. The first U.S. Open had been played a year earlier in Newport, Rhode Island.",
+      "storyZh": "辛尼科克山高尔夫俱乐部于 1896 年举办第二届美国公开赛，詹姆斯·福利斯夺冠。首届赛事于一年前在罗德岛纽波特举行。",
       "sources": [
         {
-          "title": "Wikipedia: Shinnecock Hills, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=Shinnecock%20Hills%2C%20New%20York",
+          "title": "Britannica: U.S. Open (golf)",
+          "url": "https://www.britannica.com/sports/US-Open-golf",
           "status": "unverified"
         }
       ]
@@ -11182,8 +11182,8 @@
       "storyZh": "1999 年首届 PGA 球手大满贯赛由老虎·伍兹在夏威夷岛科哈拉海岸的冒纳凯亚海滩酒店赢得，而非凯卢阿-科纳。",
       "sources": [
         {
-          "title": "Britannica: PGA Grand Slam of Golf",
-          "url": "https://www.britannica.com/sports/PGA-Grand-Slam-of-Golf",
+          "title": "Britannica: golf - British tournaments and players",
+          "url": "https://www.britannica.com/sports/golf",
           "status": "unverified"
         }
       ]
@@ -11251,8 +11251,8 @@
       "storyZh": "2022 年英国公开赛（第 150 届）在圣安德鲁斯举行，卡梅隆·史密斯夺冠。金斯巴恩斯高尔夫林克斯曾举办 2017 年邓希尔林克斯锦标赛，但从未承办过英国公开赛。扎克·约翰逊于 2007 和 2015 年两夺公开赛冠军。",
       "sources": [
         {
-          "title": "Britannica: Open Championship",
-          "url": "https://www.britannica.com/sports/Open-Championship",
+          "title": "Britannica: British Open",
+          "url": "https://www.britannica.com/sports/British-Open",
           "status": "verified"
         }
       ]
@@ -11297,7 +11297,7 @@
       "sources": [
         {
           "title": "Britannica: U.S. Open (golf)",
-          "url": "https://www.britannica.com/sports/U.S.-Open-golf",
+          "url": "https://www.britannica.com/sports/US-Open-golf",
           "status": "verified"
         }
       ]
@@ -11327,7 +11327,7 @@
     },
     {
       "id": "golf-singapore",
-      "prompt": "This city-state’s waterfront course hosted the inaugural international open in 1963 for professional golfers.",
+      "prompt": "This city-state is home to one of Asia's oldest professional golf tournaments, first played in 1961",
       "answer": "Singapore",
       "lat": 1.3521,
       "lng": 103.8198,
@@ -11337,13 +11337,13 @@
         "golf",
         "Asia"
       ],
-      "promptZh": "这座城市的滨海球场于1963年举办了首届国际公开赛。",
-      "story": "Charlie Coody won the inaugural Singapore Open in 1963. The tournament was held at Marina Bay Golf Course.",
-      "storyZh": "查理·库迪赢得了1963年首届新加坡公开赛。该赛事在滨海湾高尔夫球场举行。",
+      "promptZh": "这座城市国家是亚洲最古老职业高尔夫赛事之一的所在地，该赛事始于 1961 年",
+      "story": "The Singapore Open, first played in 1961, is one of Asia's longest-running professional golf events. Winners have included major champions Peter Thomson, Greg Norman, and Adam Scott.",
+      "storyZh": "新加坡公开赛始于 1961 年，是亚洲历史最悠久的职业高尔夫赛事之一，历届冠军包括大满贯得主彼得·汤姆森、格雷格·诺曼与亚当·斯科特。",
       "sources": [
         {
-          "title": "Wikipedia: Singapore",
-          "url": "https://en.wikipedia.org/w/index.php?search=Singapore",
+          "title": "Britannica: golf - British tournaments and players",
+          "url": "https://www.britannica.com/sports/golf",
           "status": "unverified"
         }
       ]
