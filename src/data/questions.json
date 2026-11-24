@@ -1493,13 +1493,18 @@
         "international"
       ],
       "promptZh": "Ichiro 拥有职业棒球生涯最多的安打，其中 1,278 是在这座亚洲城市效力 Orix BlueWave 时击出的",
-      "story": "Ichiro began his professional career with the Orix BlueWave in Kobe in 1992 and later set Japan’s career hits record with 4,367.",
-      "storyZh": "铃木一郎于1992年在神户加入欧力士蓝浪，开始职业生涯，后来以4367次安打创下日本职棒生涯安打纪录。",
+      "story": "Ichiro began his professional career with the Orix BlueWave in Kobe in 1992, collecting 1,278 hits in Japan; his 4,367 combined hits are the most in top-level professional baseball.",
+      "storyZh": "铃木一朗1992年在神户的欧力士蓝浪队开启职业生涯，在日本累积1,278支安打；他顶级职业棒球生涯合计4,367支安打，为史上最多。",
       "sources": [
         {
-          "title": "Wikipedia: Kobe, Japan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kobe%2C%20Japan",
-          "status": "unverified"
+          "title": "Wikipedia: Ichiro Suzuki",
+          "url": "https://en.wikipedia.org/wiki/Ichiro_Suzuki",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Orix Buffaloes",
+          "url": "https://en.wikipedia.org/wiki/Orix_Buffaloes",
+          "status": "verified"
         }
       ]
     },
@@ -1522,9 +1527,9 @@
       "storyZh": "西雅图飞行员队在1969年展开首个赛季，结束后迁往密尔沃基，后来成为密尔沃基酿酒人。",
       "sources": [
         {
-          "title": "Wikipedia: Seattle, Washington",
-          "url": "https://en.wikipedia.org/w/index.php?search=Seattle%2C%20Washington",
-          "status": "unverified"
+          "title": "Wikipedia: Seattle Pilots",
+          "url": "https://en.wikipedia.org/wiki/Seattle_Pilots",
+          "status": "verified"
         }
       ]
     },
@@ -1580,24 +1585,24 @@
     },
     {
       "id": "mlb-pittsburgh-1",
-      "prompt": "Roberto Clemente, the first Latin American Hall of Famer, grew up just outside this capital",
-      "answer": "Ponce, Puerto Rico",
-      "lat": 18.0108,
-      "lng": -66.6141,
+      "prompt": "Hall of Famer Roberto Clemente, the first Latino player so honored, was born in this city just outside Puerto Rico's capital",
+      "answer": "Carolina, Puerto Rico",
+      "lat": 18.3808,
+      "lng": -65.9573,
       "scope": "world",
       "sport": "baseball",
       "tags": [
         "MLB",
         "Pirates"
       ],
-      "promptZh": "Roberto Clemente——首位入选 Hall of Fame 的拉丁美洲球员——在这座首都郊外长大",
-      "story": "Roberto Clemente, born on August 7, 1937, spent his early life in nearby Carolina and became a beloved Pittsburgh Pirates legend.",
-      "storyZh": "罗伯托·克莱门特于1937年8月7日出生，童年生活在附近的卡罗来纳，后来成为匹兹堡海盗队深受喜爱的传奇人物。",
+      "promptZh": "棒球名人堂成员Roberto Clemente是首位获此殊荣的拉美裔球员，他出生在这座波多黎各首府附近的城市",
+      "story": "Roberto Clemente was born in Carolina, Puerto Rico, in 1934 and became the first Latino and Caribbean player inducted into the National Baseball Hall of Fame in 1973.",
+      "storyZh": "罗伯托·克莱门特1934年出生在波多黎各的卡罗莱纳，1973年成为首位入选美国国家棒球名人堂的拉美及加勒比地区球员。",
       "sources": [
         {
-          "title": "Wikipedia: Ponce, Puerto Rico",
-          "url": "https://en.wikipedia.org/w/index.php?search=Ponce%2C%20Puerto%20Rico",
-          "status": "unverified"
+          "title": "Wikipedia: Roberto Clemente",
+          "url": "https://en.wikipedia.org/wiki/Roberto_Clemente",
+          "status": "verified"
         }
       ]
     },
@@ -1629,32 +1634,37 @@
     {
       "id": "mlb-san diego-1",
       "prompt": "In 1996, the Padres and Mets played the first MLB regular-season game outside the US and Canada in this city",
-      "answer": "Hermosillo, Sonora",
-      "lat": 29.0729,
-      "lng": -110.9559,
+      "answer": "Monterrey, Mexico",
+      "lat": 25.6866,
+      "lng": -100.3161,
       "scope": "world",
       "sport": "baseball",
       "tags": [
         "MLB",
         "international"
       ],
-      "promptZh": "1996 年，Padres 与 Mets 在这座城市进行美国和加拿大以外的 MLB 常规赛首秀",
-      "story": "Hermosillo hosted the Padres and Mets in 1996, when their contest became the first MLB regular-season game played outside the United States and Canada.",
-      "storyZh": "1996年，帕德雷队与纽约大都会队在这座城市交锋，这场比赛成为美国和加拿大以外举行的第一场美国职业棒球大联盟常规赛。",
+      "promptZh": "1996年，教士队和大都会队在这座城市进行了美国和加拿大境外的首场MLB常规赛",
+      "story": "The Padres and Mets opened a three-game series in Monterrey in August 1996 — the first MLB regular-season games played outside the United States and Canada.",
+      "storyZh": "1996年8月，教士队与大都会队在蒙特雷进行了三场系列赛，这是MLB常规赛首次在美国和加拿大境外举行。",
       "sources": [
         {
-          "title": "Wikipedia: Hermosillo, Sonora",
-          "url": "https://en.wikipedia.org/w/index.php?search=Hermosillo%2C%20Sonora",
-          "status": "unverified"
+          "title": "Wikipedia: List of Major League Baseball games played outside the United States and Canada",
+          "url": "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_games_played_outside_the_United_States_and_Canada",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Walmart Park",
+          "url": "https://en.wikipedia.org/wiki/Walmart_Park",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mlb-san-jose-1",
-      "prompt": "Aaron Judge grew up in this small valley town of 2,000 before breaking the AL HR record",
-      "answer": "Alameda, California",
-      "lat": 37.7652,
-      "lng": -122.2416,
+      "prompt": "Aaron Judge, who broke the American League single-season home run record, grew up in this small California town",
+      "answer": "Linden, California",
+      "lat": 38.0202,
+      "lng": -121.2822,
       "scope": "city",
       "sport": "baseball",
       "tags": [
@@ -1663,14 +1673,14 @@
       ],
       "viewLat": 48.8385,
       "viewLng": -116.705,
-      "promptZh": "Aaron Judge 在刷新美联本垒打纪录前，就在这座人口约两千的小山谷城镇长大",
-      "story": "Aaron Judge was born in Alameda on June 26, 1994, and grew up nearby before setting the American League single-season home run record with 62.",
-      "storyZh": "阿伦·贾奇于1994年6月26日出生在阿拉梅达，并在附近长大，后来以62支本垒打刷新美联单赛季本垒打纪录。",
+      "promptZh": "打破美国联盟单赛季本垒打纪录的Aaron Judge在这个加州小镇长大",
+      "story": "Aaron Judge was born in Sacramento in 1992 and grew up in nearby Linden, California, before setting the American League single-season home run record with 62 home runs in 2022.",
+      "storyZh": "Aaron Judge 1992年出生在萨克拉门托，在附近的加州小镇林登长大，2022年以62支本垒打刷新美国联盟单赛季纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Alameda, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Alameda%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Aaron Judge",
+          "url": "https://en.wikipedia.org/wiki/Aaron_Judge",
+          "status": "verified"
         }
       ]
     },
@@ -2140,7 +2150,7 @@
     },
     {
       "id": "nba-boston-4",
-      "prompt": "Cooper Flagg and his twin brother Ace grew up in this small city before he became the #1 NBA Draft pick in 2025",
+      "prompt": "Cooper Flagg and his twin brother Ace grew up in this small town before he became the #1 NBA draft pick in 2025",
       "answer": "Newport, Maine",
       "lat": 44.6362,
       "lng": -69.3253,
@@ -2152,14 +2162,14 @@
       ],
       "viewLat": 57.0562,
       "viewLng": -69.3253,
-      "promptZh": "Cooper Flagg和他的双胞胎兄弟Ace在这座小城长大，随后他成为2025年NBA状元秀",
+      "promptZh": "Cooper Flagg 和他的双胞胎兄弟 Ace 在这座小镇长大，随后他成为2025年NBA选秀状元",
       "story": "Cooper Flagg grew up in Newport, Maine, with his twin brother Ace before becoming the first overall pick in the 2025 NBA Draft.",
       "storyZh": "库珀·弗拉格与双胞胎哥哥艾斯在缅因州纽波特长大，之后成为2025年NBA选秀大会的状元。",
       "sources": [
         {
-          "title": "Wikipedia: Newport, Maine",
-          "url": "https://en.wikipedia.org/w/index.php?search=Newport%2C%20Maine",
-          "status": "unverified"
+          "title": "Wikipedia: Cooper Flagg",
+          "url": "https://en.wikipedia.org/wiki/Cooper_Flagg",
+          "status": "verified"
         }
       ]
     },
@@ -2238,23 +2248,23 @@
     },
     {
       "id": "nba-canada-1",
-      "prompt": "Olivier Rioux, who stands 7'9, is tallest college basketball player ever. He grew up in this town",
-      "answer": "Victoria, British Columbia",
-      "lat": 48.4284,
-      "lng": -123.3656,
+      "prompt": "At 7'9, Olivier Rioux became the tallest player in college basketball history. He was born in this city near Montreal",
+      "answer": "Terrebonne, Quebec",
+      "lat": 45.8667,
+      "lng": -73.65,
       "scope": "world",
       "sport": "basketball",
       "tags": [
         "NCAA"
       ],
-      "promptZh": "身高7英尺9英寸、NCAA历史最高大学篮球运动员Olivier Rioux在这座小镇长大",
-      "story": "Victoria was the hometown of 7-foot-9 University of Victoria basketball player Olivier Rioux, whose height made him an NCAA record-holder.",
-      "storyZh": "奥利维耶·里乌克斯在维多利亚成长，身高达到7英尺9英寸，并以 NCAA纪录球员的身份效力于维多利亚大学。",
+      "promptZh": "身高7英尺9英寸的Olivier Rioux成为大学篮球史上出场的最高球员，他出生在这座蒙特利尔附近的城市",
+      "story": "Olivier Rioux was born in Terrebonne, Quebec, in 2006 and became the tallest player in college basketball history to appear in a game, standing 7 feet 9 inches.",
+      "storyZh": "Olivier Rioux 2006年出生在魁北克省泰尔博讷，身高2.36米，是大学篮球史上出场过的最高球员。",
       "sources": [
         {
-          "title": "Wikipedia: Victoria, British Columbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Victoria%2C%20British%20Columbia",
-          "status": "unverified"
+          "title": "Wikipedia: Olivier Rioux",
+          "url": "https://en.wikipedia.org/wiki/Olivier_Rioux",
+          "status": "verified"
         }
       ]
     },
@@ -3598,9 +3608,9 @@
       "storyZh": "Adam Scott 1980年出生在南澳大利亚州阿德莱德，2013年成为首位赢得美国大师赛的澳大利亚人。",
       "sources": [
         {
-          "title": "Britannica: Masters Tournament",
-          "url": "https://www.britannica.com/sports/Masters-Tournament",
-          "status": "unverified"
+          "title": "Wikipedia: Adam Scott (golfer)",
+          "url": "https://en.wikipedia.org/wiki/Adam_Scott_(golfer)",
+          "status": "verified"
         }
       ]
     },
@@ -5913,13 +5923,13 @@
       "viewLat": 40.0825,
       "viewLng": -74.4813,
       "promptZh": "这座宾夕法尼亚州小镇是尼塔尼雄狮队的主场。",
-      "story": "Penn State played its first football game in 1887, and Beaver Stadium has hosted crowds of more than 106,000 fans.",
-      "storyZh": "宾州州立大学在1887年踢了队史第一场橄榄球比赛，海狸体育场曾接待超过106,000名观众。",
+      "story": "The Penn State Nittany Lions have played their home football games at Beaver Stadium since 1960, and its seating capacity of 106,572 makes it one of the largest stadiums in the world.",
+      "storyZh": "宾州州立大学尼塔尼雄狮队自1960年起在海狸体育场进行主场比赛，106,572个座位使其成为世界上最大的体育场之一。",
       "sources": [
         {
-          "title": "Wikipedia: State College, Pennsylvania",
-          "url": "https://en.wikipedia.org/w/index.php?search=State%20College%2C%20Pennsylvania",
-          "status": "unverified"
+          "title": "Wikipedia: Beaver Stadium",
+          "url": "https://en.wikipedia.org/wiki/Beaver_Stadium",
+          "status": "verified"
         }
       ]
     },
@@ -6316,13 +6326,13 @@
       "viewLat": 38.5025,
       "viewLng": -75.0334,
       "promptZh": "这座城市的球队共赢得27次世界大赛冠军。",
-      "story": "Yankee Stadium has hosted the All-Star Game four times, most recently in 2009.",
-      "storyZh": "洋基体育场曾四次举办全明星赛，最近一次是在2009年。",
+      "story": "The Yankees' 27 World Series championships are the most in Major League Baseball; their most recent title came in 2009.",
+      "storyZh": "洋基队27次夺得世界大赛冠军，为MLB史上最多；最近一次夺冠是2009年。",
       "sources": [
         {
-          "title": "Wikipedia: New York City, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=New%20York%20City%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: New York Yankees",
+          "url": "https://en.wikipedia.org/wiki/New_York_Yankees",
+          "status": "verified"
         }
       ]
     },
@@ -6353,7 +6363,7 @@
     },
     {
       "id": "mlb-houston-texas",
-      "prompt": "This city is home to the baseball club that won the 2017 World Series in the first year its ballpark had a roof.",
+      "prompt": "This Texas city's Astros won their first World Series title in 2017, beating the Los Angeles Dodgers in seven games",
       "answer": "Houston, Texas",
       "lat": 29.7604,
       "lng": -95.3698,
@@ -6365,14 +6375,14 @@
       ],
       "viewLat": 28.9939,
       "viewLng": -97.2988,
-      "promptZh": "这座城市的球队赢得2017年世界大赛，球场当年首次启用屋顶。",
-      "story": "The Astros won their next World Series championship in 2022, five years after the 2017 title.",
-      "storyZh": "太空人队在2022年再次夺得世界大赛冠军，距离2017年的胜利相隔五年。",
+      "promptZh": "这座德州城市的太空人队在2017年世界大赛中七战击败洛杉矶道奇，赢得队史首个冠军",
+      "story": "The Astros' 2017 championship was the first World Series title in franchise history and the first for any Texas team; the club won a second title in 2022.",
+      "storyZh": "太空人队2017年首夺世界大赛冠军，这也是得克萨斯州球队的首冠；2022年球队再添一冠。",
       "sources": [
         {
-          "title": "Wikipedia: Houston, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Houston%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: 2017 World Series",
+          "url": "https://en.wikipedia.org/wiki/2017_World_Series",
+          "status": "verified"
         }
       ]
     },
@@ -6628,7 +6638,7 @@
     },
     {
       "id": "mlb-miami-florida",
-      "prompt": "This city is home to the Marlins, the only MLB franchise to have held home games in two different cities.",
+      "prompt": "This city's Marlins won the World Series in each of their first two postseason appearances, in 1997 and 2003",
       "answer": "Miami, Florida",
       "lat": 25.7617,
       "lng": -80.1918,
@@ -6640,14 +6650,14 @@
       ],
       "viewLat": 26.2729,
       "viewLng": -79.0768,
-      "promptZh": "这座城市的马林鱼队是唯一在两座城市打过主场的MLB球队。",
-      "story": "After playing in Miami, the Marlins relocated to the Jupiter area and opened LoanDepot Park in 2012.",
-      "storyZh": "马林鱼队离开迈阿密后迁往朱庇特地区，并于2012年启用LoanDepot Park球场。",
+      "promptZh": "这座城市的马林鱼队在1997年和2003年最初的两次季后赛之旅中都赢得了世界大赛冠军",
+      "story": "The Marlins won the World Series in their first two playoff runs, in 1997 and 2003, becoming the first wild-card team to win the championship.",
+      "storyZh": "马林鱼队在1997年和2003年最初的两次季后赛中都夺得世界大赛冠军，并成为首支以外卡身份夺冠的球队。",
       "sources": [
         {
-          "title": "Wikipedia: Miami, Florida",
-          "url": "https://en.wikipedia.org/w/index.php?search=Miami%2C%20Florida",
-          "status": "unverified"
+          "title": "Wikipedia: Miami Marlins",
+          "url": "https://en.wikipedia.org/wiki/Miami_Marlins",
+          "status": "verified"
         }
       ]
     },
@@ -6699,7 +6709,7 @@
     },
     {
       "id": "mlb-havana-cuba",
-      "prompt": "This capital is home to the state-run academy that produced record numbers of players reaching Major League Baseball.",
+      "prompt": "This Caribbean capital's Sugar Kings won the 1959 Junior World Series as the Cincinnati Reds' Triple-A farm club",
       "answer": "Havana, Cuba",
       "lat": 23.1136,
       "lng": -82.3666,
@@ -6708,14 +6718,14 @@
       "tags": [
         "Cuban baseball"
       ],
-      "promptZh": "这座首都的棒球学院培养出创纪录的美国职棒大联盟球员。",
-      "story": "The Escuela Nacional de Béisbol was founded in Havana in 1961 and remains a central training academy for Cuban players.",
-      "storyZh": "哈瓦那国家棒球学校于1961年创办，至今仍是古巴职业球员的重要训练中心。",
+      "promptZh": "这座加勒比海首都的糖王队作为辛辛那提红人队的3A农场俱乐部赢得了1959年小世界大赛冠军",
+      "story": "The Havana Sugar Kings played in the Triple-A International League from 1954 to 1960 and won the 1959 Junior World Series, beating the Minneapolis Millers in seven games.",
+      "storyZh": "哈瓦那糖王队1954至1960年间征战3A国际联盟，1959年在小世界大赛中七战击败明尼阿波利斯磨坊队夺冠。",
       "sources": [
         {
-          "title": "Britannica: Cuban baseball",
-          "url": "https://www.britannica.com/sports/baseball",
-          "status": "unverified"
+          "title": "Wikipedia: Havana Sugar Kings",
+          "url": "https://en.wikipedia.org/wiki/Havana_Sugar_Kings",
+          "status": "verified"
         }
       ]
     },
@@ -6765,7 +6775,7 @@
     },
     {
       "id": "mlb-mexico-city-mexico",
-      "prompt": "This capital hosts the Pacificos and Capitanes, two professional baseball clubs in the nation's premier league.",
+      "prompt": "The Diablos Rojos, winners of a record 18 titles in their nation's premier baseball league, play in this capital",
       "answer": "Mexico City, Mexico",
       "lat": 19.4326,
       "lng": -99.1332,
@@ -6774,14 +6784,14 @@
       "tags": [
         "Mexican League"
       ],
-      "promptZh": "这座首都的太平洋人和卡皮塔内斯均参加最高级职业联赛。",
-      "story": "The Mexico City Capitanes won their first Liga Mexicana de Béisbol championship in 2016.",
-      "storyZh": "墨西哥城船长队于2016年赢得队史首个墨西哥职业棒球联赛冠军。",
+      "promptZh": "该国棒球顶级联赛史上夺冠次数最多的红魔队在这座首都比赛",
+      "story": "The Diablos Rojos del Mexico were founded in 1940 and have won a league-leading 18 Liga Mexicana de Beisbol championships.",
+      "storyZh": "墨西哥城红魔队成立于1940年，18次夺得墨西哥棒球联赛冠军，为联赛史上最多。",
       "sources": [
         {
-          "title": "Wikipedia: Mexico City, Mexico",
-          "url": "https://en.wikipedia.org/w/index.php?search=Mexico%20City%2C%20Mexico",
-          "status": "unverified"
+          "title": "Wikipedia: Diablos Rojos del México",
+          "url": "https://en.wikipedia.org/wiki/Diablos_Rojos_del_M%C3%A9xico",
+          "status": "verified"
         }
       ]
     },
@@ -6967,7 +6977,7 @@
     },
     {
       "id": "mlb-japan",
-      "prompt": "This country is home to the world's second-oldest professional baseball league, founded in 1950.",
+      "prompt": "Nippon Professional Baseball, whose twelve clubs contest an annual championship series, has been the top pro baseball circuit of this country since 1950",
       "answer": "Japan",
       "lat": 36.2048,
       "lng": 138.2529,
@@ -6976,14 +6986,14 @@
       "tags": [
         "NPB"
       ],
-      "promptZh": "这个国家拥有全球第二古老的职业棒球联赛。",
-      "story": "Founded in 1950, Nippon Professional Baseball is the world's second-oldest professional baseball league.",
-      "storyZh": "日本职业棒球联赛成立于1950年，是全球历史第二悠久的职业棒球联赛。",
+      "promptZh": "日本职业棒球的十二支球队每年角逐总冠军，这项赛事自1950年起便是该国的顶级棒球联赛",
+      "story": "Nippon Professional Baseball was formed in 1950, when the Japanese Baseball League reorganized into the Central and Pacific leagues. The Japan Series has been contested every year since, and NPB draws the second-highest season attendance of any baseball league in the world.",
+      "storyZh": "日本职业棒球1950年由日本棒球联盟改组而成，分为中央联盟和太平洋联盟。此后每年举行日本大赛，其赛季总观众人数居世界棒球联赛第二位。",
       "sources": [
         {
-          "title": "Wikipedia: Japan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Japan",
-          "status": "unverified"
+          "title": "Wikipedia: Nippon Professional Baseball",
+          "url": "https://en.wikipedia.org/wiki/Nippon_Professional_Baseball",
+          "status": "verified"
         }
       ]
     },
@@ -8810,7 +8820,7 @@
     },
     {
       "id": "nhl-krefeld-germany",
-      "prompt": "This city's pro hockey club won DEL championships in 2003, 2005, 2008 and 2011",
+      "prompt": "This city's pro hockey club won German ice hockey championships in 1951, 1952 and 2003",
       "answer": "Krefeld, Germany",
       "lat": 51.3304,
       "lng": 6.4437,
@@ -8819,20 +8829,20 @@
       "tags": [
         "DEL"
       ],
-      "promptZh": "这座城市的职业冰球队克雷费尔德企鹅队在 2003、2005、2008 和 2011 年四次夺得 DEL 冠军",
-      "story": "The Krefeld Pinguine have won four DEL titles (2003, 2005, 2008, 2011). The 1995 championship went to Kölner Haie; Krefeld's first German championship was in 1951.",
-      "storyZh": "克雷费尔德企鹅队曾四度夺得 DEL 冠军（2003、2005、2008、2011）。1995 年冠军属于科隆鲨鱼队；克雷费尔德队史首个德国冠军是 1951 年。",
+      "promptZh": "这座城市的职业冰球队在1951、1952和2003年三夺德国冰球冠军",
+      "story": "The Krefeld Pinguine have won the German championship three times, in 1951, 1952 and 2003 — the last of those in the DEL era.",
+      "storyZh": "克雷费尔德企鹅队曾三夺德国冰球冠军（1951、1952、2003年），其中2003年一冠是在DEL时代。",
       "sources": [
         {
-          "title": "Britannica: Krefeld Pinguine",
-          "url": "https://www.britannica.com/topic/Krefeld-Pinguine",
-          "status": "unverified"
+          "title": "Wikipedia: Krefeld Pinguine",
+          "url": "https://en.wikipedia.org/wiki/Krefeld_Pinguine",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nhl-kassel-germany",
-      "prompt": "This city's pro hockey club won its first DEL championship in 1997",
+      "prompt": "This German city's pro hockey club reached the 1997 final of Germany's top ice hockey league",
       "answer": "Kassel, Germany",
       "lat": 51.3127,
       "lng": 9.4797,
@@ -8841,14 +8851,14 @@
       "tags": [
         "DEL"
       ],
-      "promptZh": "这座城市的职业冰球队卡塞尔哈士奇队于 1997 年赢得了队史首个 DEL 冠军",
-      "story": "The Kassel Huskies won their first Deutsche Eishockey Liga championship in the 1996–97 season. The Eisbären Berlin (formerly Berlin Capitals) won the inaugural DEL title in 1994.",
-      "storyZh": "卡塞尔哈士奇队在 1996-97 赛季赢得了队史首个德国冰球联赛冠军。首届 DEL 冠军是 1994 年的柏林爱斯贝伦队（前身为柏林首都队）。",
+      "promptZh": "这座德国城市的职业冰球队打进了1997年德国顶级冰球联赛决赛",
+      "story": "The Kassel Huskies finished runners-up in Germany's top ice hockey league, the DEL, in 1997. The club has also won second-tier championships in 2008 and 2016.",
+      "storyZh": "卡塞尔哈士奇队1997年获得德国顶级冰球联赛DEL亚军，此外还在2008年和2016年两夺次级联赛冠军。",
       "sources": [
         {
-          "title": "Britannica: Eisbären Berlin",
-          "url": "https://www.britannica.com/topic/Eisbaren-Berlin",
-          "status": "unverified"
+          "title": "Wikipedia: EC Kassel Huskies",
+          "url": "https://en.wikipedia.org/wiki/EC_Kassel_Huskies",
+          "status": "verified"
         }
       ]
     },
@@ -11086,9 +11096,9 @@
       "storyZh": "辛尼科克山高尔夫俱乐部于 1896 年举办第二届美国公开赛，詹姆斯·福利斯夺冠。首届赛事于一年前在罗德岛纽波特举行。",
       "sources": [
         {
-          "title": "Britannica: U.S. Open (golf)",
-          "url": "https://www.britannica.com/sports/US-Open-golf",
-          "status": "unverified"
+          "title": "Wikipedia: 1896 U.S. Open (golf)",
+          "url": "https://en.wikipedia.org/wiki/1896_U.S._Open_(golf)",
+          "status": "verified"
         }
       ]
     },
@@ -11167,24 +11177,24 @@
     },
     {
       "id": "golf-kailua-kona-hawaii",
-      "prompt": "The inaugural 1999 PGA Grand Slam of Golf was won by Tiger Woods at a resort on this Hawaiian island",
-      "answer": "Kohala Coast, Hawaii",
-      "lat": 20.0238,
-      "lng": -155.8234,
+      "prompt": "Tiger Woods won the 1999 PGA Grand Slam of Golf at Poipu Bay on this Hawaiian island",
+      "answer": "Kauai, Hawaii",
+      "lat": 21.867,
+      "lng": -159.442,
       "scope": "world",
       "sport": "golf",
       "tags": [
         "golf",
         "Hawaii"
       ],
-      "promptZh": "1999 年首届 PGA 球手大满贯赛由老虎·伍兹在这座夏威夷岛屿的度假村赢得",
-      "story": "The first PGA Grand Slam of Golf in 1999 was won by Tiger Woods at Mauna Kea Beach Hotel on the Kohala Coast of Hawaii Island, not Kailua-Kona.",
-      "storyZh": "1999 年首届 PGA 球手大满贯赛由老虎·伍兹在夏威夷岛科哈拉海岸的冒纳凯亚海滩酒店赢得，而非凯卢阿-科纳。",
+      "promptZh": "老虎·伍兹在1999年PGA球手大满贯赛上于这座夏威夷岛屿的Poipu Bay赢得冠军",
+      "story": "Tiger Woods won the 1999 PGA Grand Slam of Golf at Poipu Bay Golf Course on the Hawaiian island of Kauai. The event was staged at Poipu Bay every year from 1994 to 2006.",
+      "storyZh": "老虎·伍兹在1999年PGA球手大满贯赛上于夏威夷可爱岛的Poipu Bay高尔夫球场夺冠。1994至2006年间该赛事一直在Poipu Bay举办。",
       "sources": [
         {
-          "title": "Britannica: golf - British tournaments and players",
-          "url": "https://www.britannica.com/sports/golf",
-          "status": "unverified"
+          "title": "Wikipedia: PGA Grand Slam of Golf",
+          "url": "https://en.wikipedia.org/wiki/PGA_Grand_Slam_of_Golf",
+          "status": "verified"
         }
       ]
     },
@@ -11338,13 +11348,13 @@
         "Asia"
       ],
       "promptZh": "这座城市国家是亚洲最古老职业高尔夫赛事之一的所在地，该赛事始于 1961 年",
-      "story": "The Singapore Open, first played in 1961, is one of Asia's longest-running professional golf events. Winners have included major champions Peter Thomson, Greg Norman, and Adam Scott.",
-      "storyZh": "新加坡公开赛始于 1961 年，是亚洲历史最悠久的职业高尔夫赛事之一，历届冠军包括大满贯得主彼得·汤姆森、格雷格·诺曼与亚当·斯科特。",
+      "story": "The Singapore Open was first played in 1961 and is the country's flagship golf tournament. Major champions Angel Cabrera, Adam Scott and Sergio Garcia are among its past winners.",
+      "storyZh": "新加坡公开赛创办于1961年，是该国的旗舰高尔夫赛事，历届冠军包括大满贯得主安赫尔·卡布雷拉、亚当·斯科特和塞尔希奥·加西亚。",
       "sources": [
         {
-          "title": "Britannica: golf - British tournaments and players",
-          "url": "https://www.britannica.com/sports/golf",
-          "status": "unverified"
+          "title": "Wikipedia: Singapore Open (golf)",
+          "url": "https://en.wikipedia.org/wiki/Singapore_Open_(golf)",
+          "status": "verified"
         }
       ]
     },
