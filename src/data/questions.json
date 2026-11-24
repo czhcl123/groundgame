@@ -2732,23 +2732,23 @@
     {
       "id": "nba-milwaukee-1",
       "prompt": "The last time the Bucks had the #1 overall pick, in 2005, they took a 7-footer from this city",
-      "answer": "Toronto, Ontario",
-      "lat": 43.6532,
-      "lng": -79.3832,
+      "answer": "Melbourne, Australia",
+      "lat": -37.8136,
+      "lng": 144.9631,
       "scope": "world",
       "sport": "basketball",
       "tags": [
         "NBA",
         "international"
       ],
-      "promptZh": "Bucks上一次拥有状元签是在2005年，他们从这座城市选走了一名7尺中锋",
-      "story": "Toronto's Raptors selected 7-foot Italian Andrea Bargnani with the first overall pick in 2006, one year after the Bucks chose another 7-footer, Andrew Bynum, at No. 1 in 2005.",
-      "storyZh": "2006年，多伦多猛龙队用状元签选中7英尺的意大利人安德烈亚·巴尔尼亚尼；就在前一年，雄鹿队在2005年也用状元签选择了另一名7尺球员安德鲁·拜纳姆。",
+      "promptZh": "雄鹿队上一次拥有状元签是2005年，他们选中了这位来自这座城市的7尺长人",
+      "story": "Andrew Bogut, born in Melbourne, Australia, was selected first overall by the Milwaukee Bucks in the 2005 NBA Draft after two college seasons at Utah.",
+      "storyZh": "来自澳大利亚墨尔本的Andrew Bogut在犹他大学打了两个赛季后，于2005年NBA选秀中被密尔沃基雄鹿队用状元签选中。",
       "sources": [
         {
-          "title": "Wikipedia: Toronto, Ontario",
-          "url": "https://en.wikipedia.org/w/index.php?search=Toronto%2C%20Ontario",
-          "status": "unverified"
+          "title": "Wikipedia: Andrew Bogut",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Bogut",
+          "status": "verified"
         }
       ]
     },
@@ -2887,19 +2887,19 @@
         "international"
       ],
       "promptZh": "两届NBA MVP Steve Nash出生在这座城市，18个月大时随家人移居加拿大",
-      "story": "Steve Nash was born in Johannesburg on June 7, 1974, and moved to Canada with his family when he was only 18 months old.",
-      "storyZh": "史蒂夫·纳什于1974年6月7日出生在约翰内斯堡，出生仅18个月后便随家人移居加拿大。",
+      "story": "Steve Nash was born in Johannesburg on February 7, 1974, and moved to Canada with his family when he was 18 months old.",
+      "storyZh": "Steve Nash 1974年2月7日出生在约翰内斯堡，18个月大时随家人移居加拿大。",
       "sources": [
         {
-          "title": "Wikipedia: Johannesburg, South Africa",
-          "url": "https://en.wikipedia.org/w/index.php?search=Johannesburg%2C%20South%20Africa",
-          "status": "unverified"
+          "title": "Wikipedia: Steve Nash",
+          "url": "https://en.wikipedia.org/wiki/Steve_Nash",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nba-philly-2",
-      "prompt": "The first NBA game under the three-point line was played in this city in 1979",
+      "prompt": "The NBA's first official three-point shot was made in this city on opening night 1979, by Celtics guard Chris Ford",
       "answer": "Boston, Massachusetts",
       "lat": 42.3601,
       "lng": -71.0589,
@@ -2911,14 +2911,14 @@
       ],
       "viewLat": 29.3888,
       "viewLng": -68.3725,
-      "promptZh": "1979年，NBA首场采用三分线的比赛在这座城市进行",
-      "story": "Boston Garden hosted the NBA’s first game played with an experimental three-point line in 1979, introducing a shot that later became central to the modern game.",
-      "storyZh": "1979年，波士顿花园球馆见证了NBA首场采用实验性三分线的比赛，这项技术后来成为现代篮球的重要组成部分。",
+      "promptZh": "1979年NBA新赛季揭幕之夜，凯尔特人队后卫Chris Ford在这座城市投中了NBA第一记正式三分球",
+      "story": "Celtics guard Chris Ford made the first official three-point shot in NBA history on October 12, 1979, when the NBA opened its first season with the three-point line.",
+      "storyZh": "1979年10月12日，NBA启用三分线的首个赛季揭幕，凯尔特人队后卫Chris Ford投中了NBA历史上第一记正式三分球。",
       "sources": [
         {
-          "title": "Wikipedia: Boston, Massachusetts",
-          "url": "https://en.wikipedia.org/w/index.php?search=Boston%2C%20Massachusetts",
-          "status": "unverified"
+          "title": "Wikipedia: Three-point field goal",
+          "url": "https://en.wikipedia.org/wiki/Three-point_field_goal",
+          "status": "verified"
         }
       ]
     },
@@ -2991,9 +2991,9 @@
       "storyZh": "1977年，比尔·沃尔顿带领波特兰开拓者队赢得队史唯一一次NBA总冠军，并在击败费城76人后当选总决赛最有价值球员。",
       "sources": [
         {
-          "title": "Wikipedia: Portland, Oregon",
-          "url": "https://en.wikipedia.org/w/index.php?search=Portland%2C%20Oregon",
-          "status": "unverified"
+          "title": "Wikipedia: 1977 NBA Finals",
+          "url": "https://en.wikipedia.org/wiki/1977_NBA_Finals",
+          "status": "verified"
         }
       ]
     },
@@ -3037,35 +3037,35 @@
       "viewLat": 47.9095,
       "viewLng": -71.8715,
       "promptZh": "1951年，Royals 队为这座城市赢得了唯一的 NBA 总冠军，当时球队尚未更名为 Sacramento Kings",
-      "story": "The Rochester Royals captured the city’s only NBA title in 1951 by defeating the New York Knicks four games to two in the Finals.",
-      "storyZh": "1951年，罗切斯特皇家队以总比分4比2击败纽约尼克斯队，为这座城市赢得了唯一一次NBA总冠军。",
+      "story": "The Rochester Royals beat the New York Knicks in seven games to win the 1951 NBA championship — the franchise's only title.",
+      "storyZh": "罗切斯特皇家队在1951年NBA总决赛中七战击败纽约尼克斯，夺得该队队史唯一总冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Rochester, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=Rochester%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: 1951 NBA Finals",
+          "url": "https://en.wikipedia.org/wiki/1951_NBA_Finals",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nba-sacramento-2",
-      "prompt": "Kobe Bryant's first professional team was this Italian city",
-      "answer": "Siena, Italy",
-      "lat": 43.3188,
-      "lng": 11.3308,
+      "prompt": "Kobe Bryant moved to this Italian city at age six, when his father joined the local pro basketball team",
+      "answer": "Rieti, Italy",
+      "lat": 42.4044,
+      "lng": 12.8567,
       "scope": "world",
       "sport": "basketball",
       "tags": [
         "international"
       ],
-      "promptZh": "Kobe Bryant 的第一支职业球队位于这座意大利城市",
-      "story": "Siena unveiled a bronze statue honoring Kobe Bryant in 2022; Bryant had played his first professional season in Italy in 1985–86 before entering the NBA.",
-      "storyZh": "2022年，锡耶纳为科比·布莱恩特揭幕了一座青铜雕像；科比在1985至1986赛季于意大利开启职业生涯，随后才进入NBA。",
+      "promptZh": "科比六岁时随父亲搬到这座意大利城市，当时他的父亲加盟了当地的职业篮球队",
+      "story": "When Kobe Bryant was six, his father Joe Bryant moved the family to Rieti, Italy, to play for AMG Sebastiani Rieti; Kobe later lived in Reggio Calabria, Pistoia and Reggio Emilia.",
+      "storyZh": "科比六岁时，父亲Joe Bryant加盟当地球队AMG Sebastiani Rieti，全家搬到意大利列蒂；此后科比先后在雷焦卡拉布里亚、皮斯托亚和雷焦艾米利亚生活。",
       "sources": [
         {
-          "title": "Wikipedia: Siena, Italy",
-          "url": "https://en.wikipedia.org/w/index.php?search=Siena%2C%20Italy",
-          "status": "unverified"
+          "title": "Wikipedia: Kobe Bryant",
+          "url": "https://en.wikipedia.org/wiki/Kobe_Bryant",
+          "status": "verified"
         }
       ]
     },
@@ -3084,42 +3084,42 @@
       "viewLat": 31.5735,
       "viewLng": -73.7709,
       "promptZh": "Jim Brown 在这座城市的橄榄球和长曲棍球项目中都曾入选全美最佳阵容",
-      "story": "Jim Brown starred in both football and lacrosse at Syracuse, winning the Heisman Trophy in 1957 as the first Black recipient of college football’s greatest individual honor.",
-      "storyZh": "吉姆·布朗在锡拉丘兹同时效力于橄榄球队和长曲棍球队，并于1957年成为首位赢得海斯曼奖的黑人大学橄榄球运动员。",
+      "story": "Jim Brown earned unanimous All-America honors in football at Syracuse and is widely regarded as one of the greatest lacrosse players of all time.",
+      "storyZh": "吉姆·布朗在雪城大学橄榄球队获得全票全美最佳阵容荣誉，并被公认为长曲棍球史上最伟大的球员之一。",
       "sources": [
         {
-          "title": "Wikipedia: Syracuse, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=Syracuse%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: Jim Brown",
+          "url": "https://en.wikipedia.org/wiki/Jim_Brown",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nba-toronto-1",
-      "prompt": "The Raptors' first franchise player, an expansion pick in 1995, was drafted out of this university",
-      "answer": "Toronto, Ontario",
-      "lat": 43.6532,
-      "lng": -79.3832,
+      "prompt": "The Toronto Raptors' first star, Damon Stoudamire, played college basketball at the university in this Arizona city",
+      "answer": "Tucson, Arizona",
+      "lat": 32.2226,
+      "lng": -110.9747,
       "scope": "world",
       "sport": "basketball",
       "tags": [
         "NBA",
         "international"
       ],
-      "promptZh": "Raptors 队的首位建队球员是1995年扩军选秀选中的，他出自这所大学",
-      "story": "The Toronto Raptors began play in the 1995-96 season, and their first season was played at SkyDome, the domed stadium that made them the first NBA franchise to take its entire home schedule under a roof.",
-      "storyZh": "多伦多猛龙队在1995-96赛季开始征战，他们的第一个赛季在天空穹顶球场进行，因此成为第一支把整个主场赛程都放在室内的NBA球队。",
+      "promptZh": "猛龙队初代球星Damon Stoudamire来自这座亚利桑那城市的大学",
+      "story": "Damon Stoudamire was drafted seventh overall by the Toronto Raptors in 1995 out of the University of Arizona in Tucson and won Rookie of the Year that season.",
+      "storyZh": "Damon Stoudamire 1995年选秀第7顺位被猛龙队选中，来自图森的亚利桑那大学，当赛季荣获最佳新秀。",
       "sources": [
         {
-          "title": "Wikipedia: Toronto, Ontario",
-          "url": "https://en.wikipedia.org/w/index.php?search=Toronto%2C%20Ontario",
-          "status": "unverified"
+          "title": "Wikipedia: Damon Stoudamire",
+          "url": "https://en.wikipedia.org/wiki/Damon_Stoudamire",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nba-turkey-1",
-      "prompt": "In the 2011 NBA lockout, Deron Williams became the first All-Star to play overseas, joining Besiktas in this city",
+      "prompt": "During the 2011 NBA lockout, three-time All-Star Deron Williams played for Besiktas in this city",
       "answer": "Istanbul, Turkey",
       "lat": 41.0082,
       "lng": 28.9784,
@@ -3129,14 +3129,14 @@
         "NBA",
         "international"
       ],
-      "promptZh": "2011年 NBA 停摆期间，Deron Williams 成为首位赴海外效应的全明星球员，加盟了位于这座城市的 Besiktas",
-      "story": "When the NBA locked out players in July 2011, Deron Williams became the first All-Star to take his talents overseas, signing with Besiktas in Istanbul while the league stalled.",
-      "storyZh": "2011年7月NBA停摆时，德隆·威廉姆斯成为首位赴海外效力的全明星，他加盟了伊斯坦布尔的贝西克塔斯篮球俱乐部。",
+      "promptZh": "2011年NBA停摆期间，三届全明星Deron Williams在这座城市为贝西克塔斯队效力",
+      "story": "During the 2011 NBA lockout, Deron Williams — a three-time NBA All-Star — left the Utah Jazz to play for Besiktas in Istanbul.",
+      "storyZh": "2011年NBA停摆期间，三届全明星球员Deron Williams离开犹他爵士，赴伊斯坦布尔为贝西克塔斯队打球。",
       "sources": [
         {
-          "title": "Wikipedia: Istanbul, Turkey",
-          "url": "https://en.wikipedia.org/w/index.php?search=Istanbul%2C%20Turkey",
-          "status": "unverified"
+          "title": "Wikipedia: Deron Williams",
+          "url": "https://en.wikipedia.org/wiki/Deron_Williams",
+          "status": "verified"
         }
       ]
     },
@@ -3339,7 +3339,7 @@
     },
     {
       "id": "olympics-toronto-1",
-      "prompt": "A bobsled team from this tropical city qualified for the 1988 Winter Olympics despite never seeing snow before",
+      "prompt": "This Caribbean capital is the base of the Jamaican bobsled team that debuted at the 1988 Winter Olympics",
       "answer": "Kingston, Jamaica",
       "lat": 17.9714,
       "lng": -76.7931,
@@ -3349,14 +3349,14 @@
         "Olympics",
         "1988"
       ],
-      "promptZh": "这支来自这座热带城市的雪车队尽管从未见过雪，仍成功获得1988年冬季奥运会参赛资格",
-      "story": "Kingston is the base of Jamaica’s celebrated bobsled program, whose two-man crew of Dudley Stokes and Michael White represented the island nation at the 1988 Calgary Winter Olympics.",
-      "storyZh": "金斯敦是牙买加著名雪车项目的基地，达德利·斯托克斯与迈克尔·怀特组成的两人车队曾代表牙买加参加1988年卡尔加里冬奥会。",
+      "promptZh": "牙买加雪车队1988年冬奥会首秀，这支队伍以这座加勒比海首都为基地",
+      "story": "Jamaica's bobsled team, based in Kingston, made its celebrated debut at the 1988 Calgary Winter Olympics; pilot Dudley Stokes and pusher Michael White raced in the two-man event.",
+      "storyZh": "牙买加雪车队以金斯敦为基地，1988年卡尔加里冬奥会首秀，Dudley Stokes和Michael White搭档参加双人雪车比赛。",
       "sources": [
         {
-          "title": "Wikipedia: Kingston, Jamaica",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kingston%2C%20Jamaica",
-          "status": "unverified"
+          "title": "Wikipedia: Jamaica national bobsleigh team",
+          "url": "https://en.wikipedia.org/wiki/Jamaica_national_bobsleigh_team",
+          "status": "verified"
         }
       ]
     },
@@ -4219,9 +4219,9 @@
       "storyZh": "利勒哈默尔举办了1994年冬季奥运会，这是现代奥林匹克运动会开始以来首次独立于夏季奥运会举办的冬季赛事。",
       "sources": [
         {
-          "title": "Wikipedia: Lillehammer, Norway",
-          "url": "https://en.wikipedia.org/w/index.php?search=Lillehammer%2C%20Norway",
-          "status": "unverified"
+          "title": "Wikipedia: 1994 Winter Olympics",
+          "url": "https://en.wikipedia.org/wiki/1994_Winter_Olympics",
+          "status": "verified"
         }
       ]
     },
@@ -4240,13 +4240,13 @@
       "viewLat": 28.3408,
       "viewLng": -111.891,
       "promptZh": "2002年冬季，美国最后一次举办奥运会的地方就在这里",
-      "story": "Salt Lake City hosted the 2002 Winter Olympics, the last time the United States staged an Olympic Games until Paris 2024.",
-      "storyZh": "盐湖城举办了2002年冬奥会，这是美国继2024年巴黎奥运会之前最后一次举办奥运会。",
+      "story": "Salt Lake City hosted the 2002 Winter Olympics, the most recent Olympic Games held in the United States until Los Angeles hosts in 2028.",
+      "storyZh": "盐湖城举办了2002年冬奥会，这是美国迄今最近一次举办的奥运会，下一次将是2028年的洛杉矶。",
       "sources": [
         {
-          "title": "Wikipedia: Salt Lake City, Utah",
-          "url": "https://en.wikipedia.org/w/index.php?search=Salt%20Lake%20City%2C%20Utah",
-          "status": "unverified"
+          "title": "Wikipedia: 2002 Winter Olympics",
+          "url": "https://en.wikipedia.org/wiki/2002_Winter_Olympics",
+          "status": "verified"
         }
       ]
     },
@@ -5076,13 +5076,13 @@
         "2008"
       ],
       "promptZh": "Michael Phelps在这座亚洲首都举行的2008年夏季奥运会上创纪录地赢得8枚金牌",
-      "story": "At the 2008 Beijing Olympics, American swimmer Michael Phelps won a record eighth gold medal and finished the Games with eight golds and seven silvers.",
-      "storyZh": "在2008年北京奥运会上，美国游泳选手迈克尔·菲尔普斯夺得创纪录的第8枚金牌，并以8金7银的成绩结束赛事。",
+      "story": "At the 2008 Beijing Olympics, Michael Phelps won eight gold medals, breaking Mark Spitz's record of seven golds at a single Games.",
+      "storyZh": "2008年北京奥运会上，Michael Phelps独揽八金，打破了Mark Spitz单届七金的纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Beijing, China",
-          "url": "https://en.wikipedia.org/w/index.php?search=Beijing%2C%20China",
-          "status": "unverified"
+          "title": "Wikipedia: Michael Phelps",
+          "url": "https://en.wikipedia.org/wiki/Michael_Phelps",
+          "status": "verified"
         }
       ]
     },
@@ -7146,9 +7146,9 @@
       "storyZh": "多伦多猛龙在2019年赢得队史首个NBA总冠军，考瓦伊·伦纳德在六场系列赛中当选总决赛最有价值球员。",
       "sources": [
         {
-          "title": "Wikipedia: Toronto, Ontario",
-          "url": "https://en.wikipedia.org/w/index.php?search=Toronto%2C%20Ontario",
-          "status": "unverified"
+          "title": "Wikipedia: 2019 NBA Finals",
+          "url": "https://en.wikipedia.org/wiki/2019_NBA_Finals",
+          "status": "verified"
         }
       ]
     },
@@ -7672,7 +7672,7 @@
     },
     {
       "id": "nba-quezon-city-philippines",
-      "prompt": "This city contains one of the world's largest indoor arenas, known for major basketball events.",
+      "prompt": "The Araneta Coliseum, a main venue of Philippine basketball nicknamed the Big Dome, opened in this city in 1960",
       "answer": "Quezon City, Philippines",
       "lat": 14.676,
       "lng": 121.0437,
@@ -7682,14 +7682,14 @@
         "PBA",
         "Asia"
       ],
-      "promptZh": "这座城市拥有全球最大的室内篮球馆之一。",
-      "story": "The Araneta Coliseum is located in Quezon City and opened in 1960 with a seating capacity above 15,000.",
-      "storyZh": "阿兰eta体育馆位于奎松市，1960年建成，座位数超过一万五千个。",
+      "promptZh": "绰号“大圆顶”的阿拉内塔体育馆是菲律宾篮球主要场馆，1960年在这座城市开业",
+      "story": "The Araneta Coliseum in Quezon City, nicknamed the Big Dome, opened in 1960. Its dome was the largest in Asia until 2001, and the arena is a main venue of the Philippine Basketball Association.",
+      "storyZh": "位于奎松市的阿拉内塔体育馆绰号“大圆顶”，1960年启用，其穹顶在2001年前为亚洲最大，如今是菲律宾篮球协会的主要比赛场馆。",
       "sources": [
         {
-          "title": "Wikipedia: Quezon City, Philippines",
-          "url": "https://en.wikipedia.org/w/index.php?search=Quezon%20City%2C%20Philippines",
-          "status": "unverified"
+          "title": "Wikipedia: Araneta Coliseum",
+          "url": "https://en.wikipedia.org/wiki/Araneta_Coliseum",
+          "status": "verified"
         }
       ]
     },
@@ -7739,7 +7739,7 @@
     },
     {
       "id": "nba-siena-italy",
-      "prompt": "This Tuscan city’s club won a record 14 consecutive Italian league titles.",
+      "prompt": "This Tuscan city's club won five consecutive Italian league championships from 2007 through 2011",
       "answer": "Siena, Italy",
       "lat": 43.3188,
       "lng": 11.3308,
@@ -7748,14 +7748,14 @@
       "tags": [
         "EuroLeague"
       ],
-      "promptZh": "该托斯卡纳城市的球队创下连续14次意大利联赛冠军纪录。",
-      "story": "Siena won 14 consecutive Italian league championships from 1991 through 2004.",
-      "storyZh": "锡耶纳在1991年至2004年间连续赢得14次意大利联赛冠军。",
+      "promptZh": "这座托斯卡纳城市的篮球队在2007至2011年豪取五连冠",
+      "story": "Montepaschi Siena won five consecutive Italian league titles from 2006-07 to 2010-11.",
+      "storyZh": "以蒙特帕斯基锡耶纳为名，该队在2006-07至2010-11赛季连夺五届意大利联赛冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Siena, Italy",
-          "url": "https://en.wikipedia.org/w/index.php?search=Siena%2C%20Italy",
-          "status": "unverified"
+          "title": "Wikipedia: Mens Sana Basketball Siena",
+          "url": "https://en.wikipedia.org/wiki/Mens_Sana_Basketball_Siena",
+          "status": "verified"
         }
       ]
     },
@@ -8198,23 +8198,28 @@
     },
     {
       "id": "nba-turin-italy",
-      "prompt": "This northern Italian city was the birthplace of the Benetton company whose namesake basketball club reached the 1998 EuroLeague Final Four.",
-      "answer": "Turin, Italy",
-      "lat": 45.0703,
-      "lng": 7.6869,
+      "prompt": "Benetton Basket, the club backed by the clothing giant founded near this Italian city, reached the 1998 EuroLeague Final Four",
+      "answer": "Treviso, Italy",
+      "lat": 45.6669,
+      "lng": 12.243,
       "scope": "world",
       "sport": "basketball",
       "tags": [
         "EuroLeague"
       ],
-      "promptZh": "本尼顿源于这座城市，其同名球队打进1998年欧篮四强赛。",
-      "story": "Benetton opened its first store in Turin in 1965; its namesake club, Benetton Treviso, reached the 1998 EuroLeague Final Four.",
-      "storyZh": "本尼顿于1965年在都灵开设首家门店，其同名球队特雷维索篮球队随后打进1998年欧洲联赛四强赛。",
+      "promptZh": "由创立于这座意大利城市附近的服装巨头赞助的贝纳通篮球队打进了1998年欧洲篮球联赛四强",
+      "story": "Benetton Basket of Treviso finished third at the 1998 EuroLeague Final Four in Barcelona; the Benetton Group that backs the club was founded in 1965 in nearby Ponzano Veneto.",
+      "storyZh": "特雷维索的贝纳通篮球队在1998年巴塞罗那欧洲篮球联赛四强赛中获得季军；赞助该队的贝纳通集团1965年创立于附近的波扎诺威尼托。",
       "sources": [
         {
-          "title": "Wikipedia: Turin, Italy",
-          "url": "https://en.wikipedia.org/w/index.php?search=Turin%2C%20Italy",
-          "status": "unverified"
+          "title": "Wikipedia: 1997–98 FIBA EuroLeague",
+          "url": "https://en.wikipedia.org/wiki/1997%E2%80%9398_FIBA_EuroLeague",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Benetton Group",
+          "url": "https://en.wikipedia.org/wiki/Benetton_Group",
+          "status": "verified"
         }
       ]
     },
@@ -12003,7 +12008,7 @@
     },
     {
       "id": "olympics-athens-greece",
-      "prompt": "This city gave birth to the modern Olympic movement and hosted the first modern Games in 1896.",
+      "prompt": "This city hosted the first modern Olympic Games in 1896, whose highlight was the first Olympic marathon",
       "answer": "Athens, Greece",
       "lat": 37.9838,
       "lng": 23.7275,
@@ -12014,14 +12019,14 @@
       ],
       "viewLat": 40.9744,
       "viewLng": 16.7075,
-      "promptZh": "这座城市是现代奥运会的发源地，并举办了首届现代赛事。",
-      "story": "The 1896 Games featured 43 events across 10 sports and included the first Olympic marathon.",
-      "storyZh": "1896年奥运会共设10个大项、43个小项，并举行了首届奥运马拉松比赛。",
+      "promptZh": "这座城市举办了1896年首届现代奥运会，诞生了奥运史上第一场马拉松",
+      "story": "Athens hosted the first modern Olympic Games in 1896 at the Panathenaic Stadium, where Greek runner Spyridon Louis won the first Olympic marathon.",
+      "storyZh": "1896年首届现代奥运会在雅典的帕那辛纳克体育场举行，希腊选手斯皮里宗·路易斯赢得奥运史上第一场马拉松。",
       "sources": [
         {
-          "title": "Wikipedia: Athens, Greece",
-          "url": "https://en.wikipedia.org/w/index.php?search=Athens%2C%20Greece",
-          "status": "unverified"
+          "title": "Wikipedia: 1896 Summer Olympics",
+          "url": "https://en.wikipedia.org/wiki/1896_Summer_Olympics",
+          "status": "verified"
         }
       ]
     },
