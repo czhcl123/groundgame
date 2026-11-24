@@ -4623,24 +4623,24 @@
     },
     {
       "id": "soccer-brazil-2",
-      "prompt": "The only African player to win the Ballon d'Or, later became his country's president. He was born in this West African capital and his son plays for the USMNT",
-      "answer": "Dakar, Senegal",
-      "lat": 14.7167,
-      "lng": -17.4677,
+      "prompt": "The only African player to win the Ballon d'Or was born in this capital and later became his country's president",
+      "answer": "Monrovia, Liberia",
+      "lat": 6.3106,
+      "lng": -10.8047,
       "scope": "world",
       "sport": "soccer",
       "tags": [
         "football",
         "international"
       ],
-      "promptZh": "这位西非首都出生的球员是唯一获评金球奖的非洲球员，后来成为祖国总统，他的儿子效力于USMNT",
-      "story": "George Weah was born in Dakar in 1966, won the 1995 Ballon d’Or, and served as Liberia’s president from 2018 to 2024. His son Timothy Weah has represented the United States men’s national team.",
-      "storyZh": "乔治·维阿于1966年出生在达喀尔，获得1995年金球奖，并于2018年至2024年担任利比里亚总统。他的儿子蒂莫西·维阿曾代表美国男足国家队出场。",
+      "promptZh": "唯一获得金球奖的非洲球员出生在这座首都，后来成为自己国家的总统",
+      "story": "George Weah was born in Monrovia in 1966, won the 1995 Ballon d'Or and served as Liberia's president from 2018 to 2024.",
+      "storyZh": "乔治·维阿1966年出生在利比里亚首都蒙罗维亚，1995年获得金球奖，2018至2024年担任利比里亚总统。",
       "sources": [
         {
-          "title": "Wikipedia: Dakar, Senegal",
-          "url": "https://en.wikipedia.org/w/index.php?search=Dakar%2C%20Senegal",
-          "status": "unverified"
+          "title": "Wikipedia: George Weah",
+          "url": "https://en.wikipedia.org/wiki/George_Weah",
+          "status": "verified"
         }
       ]
     },
@@ -4661,9 +4661,9 @@
       "storyZh": "2014年6月12日，圣保罗在科林蒂安竞技场主办国际足联世界杯揭幕战，巴西以3比1战胜克罗地亚。这是该届赛事的首场比赛，也是巴西时隔64年再次主办世界杯揭幕战。",
       "sources": [
         {
-          "title": "Wikipedia: São Paulo, Brazil",
-          "url": "https://en.wikipedia.org/w/index.php?search=S%C3%A3o%20Paulo%2C%20Brazil",
-          "status": "unverified"
+          "title": "Wikipedia: Arena Corinthians",
+          "url": "https://en.wikipedia.org/wiki/Arena_Corinthians",
+          "status": "verified"
         }
       ]
     },
@@ -4692,24 +4692,29 @@
     },
     {
       "id": "soccer-durban-1",
-      "prompt": "In 2014, US keeper Tim Howard set a World Cup record with 16 saves in a knockout match played here",
-      "answer": "Cape Town, South Africa",
-      "lat": -33.9249,
-      "lng": 18.4241,
+      "prompt": "US keeper Tim Howard set a World Cup record with 16 saves in a 2014 knockout match played in this Brazilian city",
+      "answer": "Salvador, Brazil",
+      "lat": -12.9777,
+      "lng": -38.5016,
       "scope": "world",
       "sport": "soccer",
       "tags": [
         "FIFA",
         "2010"
       ],
-      "promptZh": "2014年，美国门将Tim Howard在一场于此举行的淘汰赛中扑出16次，创下世界杯纪录",
-      "story": "Tim Howard made a World Cup-record 16 saves against Belgium at Cape Town’s Green Point Stadium on June 27, 2010, helping the United States win 2–1. The performance came in the round of 16.",
-      "storyZh": "2010年6月27日，蒂姆·霍华德在开普敦绿灯球场对阵比利时时完成世界杯纪录的16次扑救，帮助美国以2比1取胜，并将球队送入16强。",
+      "promptZh": "美国门将Tim Howard在2014年一场淘汰赛中创下16次扑救的世界杯纪录，比赛在这座巴西城市举行",
+      "story": "Tim Howard made a World Cup record 16 saves against Belgium in Salvador on July 1, 2014; the United States lost 2-1 after extra time.",
+      "storyZh": "2014年7月1日，Tim Howard在萨尔瓦多对阵比利时的比赛中创下世界杯单场16次扑救纪录，美国加时以1比2告负。",
       "sources": [
         {
-          "title": "Wikipedia: Cape Town, South Africa",
-          "url": "https://en.wikipedia.org/w/index.php?search=Cape%20Town%2C%20South%20Africa",
-          "status": "unverified"
+          "title": "Wikipedia: Tim Howard",
+          "url": "https://en.wikipedia.org/wiki/Tim_Howard",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: North, Central American and Caribbean nations at the FIFA World Cup",
+          "url": "https://en.wikipedia.org/wiki/North%2C_Central_American_and_Caribbean_nations_at_the_FIFA_World_Cup",
+          "status": "verified"
         }
       ]
     },
@@ -4809,7 +4814,7 @@
     },
     {
       "id": "soccer-london-1",
-      "prompt": "Arsenal, chasing their first Premier League title since 2004, plays its home games here",
+      "prompt": "Arsenal won its first Premier League title in two decades in 2025-26 and plays its home games in this capital",
       "answer": "London, England",
       "lat": 51.5074,
       "lng": -0.1278,
@@ -4819,14 +4824,14 @@
         "Premier League",
         "Arsenal"
       ],
-      "promptZh": "Arsenal主场作战在这座城市，正争夺自2004年以来首个英超冠军",
-      "story": "Arsenal completed its Premier League return at London’s Emirates Stadium by winning the 2024–25 title, its first league championship since 2004.",
-      "storyZh": "阿森纳在伦敦的酋长球场夺得2024至2025赛季英超冠军，这是球队自2004年以来首个联赛冠军。",
+      "promptZh": "阿森纳在2025-26赛季赢得了时隔二十年的首个英超冠军，并在这座首都城市进行主场比赛",
+      "story": "Arsenal won the 2025-26 Premier League title, ending a 22-year wait, playing home games at the Emirates Stadium in London.",
+      "storyZh": "阿森纳赢得2025-26赛季英超冠军，结束了22年的等待，主场为伦敦的酋长球场。",
       "sources": [
         {
-          "title": "Wikipedia: London, England",
-          "url": "https://en.wikipedia.org/w/index.php?search=London%2C%20England",
-          "status": "unverified"
+          "title": "Wikipedia: 2025–26 Premier League",
+          "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League",
+          "status": "verified"
         }
       ]
     },
@@ -9074,7 +9079,7 @@
     },
     {
       "id": "soccer-madrid-spain",
-      "prompt": "This capital was home to the club that won the inaugural European Cup in 1956.",
+      "prompt": "This capital was home to the club that won the inaugural European Cup in 1956",
       "answer": "Madrid, Spain",
       "lat": 40.4168,
       "lng": -3.7038,
@@ -9086,14 +9091,19 @@
       ],
       "viewLat": 35.2403,
       "viewLng": -6.7562,
-      "promptZh": "这座首都是赢得首届欧洲杯的俱乐部的主场。",
-      "story": "Philip II moved the royal court here from Valladolid in 1561, making the city Spain's permanent capital.",
-      "storyZh": "腓力二世于1561年将王室从巴利亚多利德迁至此处，使这座城市成为西班牙的永久首都。",
+      "promptZh": "这座首都是1956年首届欧洲冠军杯冠军俱乐部所在地",
+      "story": "Real Madrid won the first five European Cups from 1956 to 1960; the city became Spain's permanent capital when Philip II moved the royal court here in 1561.",
+      "storyZh": "皇家马德里在1956至1960年间连夺前五届欧洲冠军杯；1561年腓力二世将王室迁至此地后，马德里成为西班牙永久首都。",
       "sources": [
         {
-          "title": "Wikipedia: Madrid, Spain",
-          "url": "https://en.wikipedia.org/w/index.php?search=Madrid%2C%20Spain",
-          "status": "unverified"
+          "title": "Wikipedia: 1956 European Cup final",
+          "url": "https://en.wikipedia.org/wiki/1956_European_Cup_final",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Madrid",
+          "url": "https://en.wikipedia.org/wiki/Madrid",
+          "status": "verified"
         }
       ]
     },
@@ -9116,9 +9126,9 @@
       "storyZh": "马竞于1903年成立，并在同年踢响了首场正式比赛。",
       "sources": [
         {
-          "title": "Wikipedia: Madrid, Spain",
-          "url": "https://en.wikipedia.org/w/index.php?search=Madrid%2C%20Spain",
-          "status": "unverified"
+          "title": "Wikipedia: Atlético Madrid",
+          "url": "https://en.wikipedia.org/wiki/Atlético_Madrid",
+          "status": "verified"
         }
       ]
     },
@@ -9162,19 +9172,24 @@
       "viewLat": 58.5744,
       "viewLng": -7.534,
       "promptZh": "这座城市的球队赢得了1993年首届英超冠军。",
-      "story": "Old Trafford has a capacity of 74,310 and staged the 2008 UEFA Champions League final.",
-      "storyZh": "老特拉福德球场可容纳74,310名观众，并曾举办2008年欧洲冠军联赛决赛。",
+      "story": "Manchester United won the inaugural 1992-93 Premier League season; Old Trafford has staged the 2008 UEFA Champions League final.",
+      "storyZh": "曼联赢得了1992-93首届英超赛季冠军；老特拉福德球场曾举办2008年欧冠决赛。",
       "sources": [
         {
-          "title": "Wikipedia: Manchester, England",
-          "url": "https://en.wikipedia.org/w/index.php?search=Manchester%2C%20England",
-          "status": "unverified"
+          "title": "Wikipedia: 1992–93 Premier League",
+          "url": "https://en.wikipedia.org/wiki/1992%E2%80%9393_Premier_League",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Old Trafford",
+          "url": "https://en.wikipedia.org/wiki/Old_Trafford",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "soccer-liverpool-england",
-      "prompt": "This port city is home to the team that won the 1964 European Cup.",
+      "prompt": "This port city is home to the club that won the European Cup in 1977 and 1978",
       "answer": "Liverpool, England",
       "lat": 53.4084,
       "lng": -2.9916,
@@ -9186,14 +9201,14 @@
       ],
       "viewLat": 50.2422,
       "viewLng": -6.71,
-      "promptZh": "这座港口城市的球队曾赢得1964年欧洲杯。",
-      "story": "Anfield opened in 1884 and is among the oldest football stadiums still in use in England.",
-      "storyZh": "安菲尔德球场于1884年启用，是英格兰仍在使用的最古老足球场之一。",
+      "promptZh": "这座港口城市是1977和1978年连续夺得欧洲冠军杯的俱乐部所在地",
+      "story": "Liverpool won the European Cup for the first time in 1977 and retained it in 1978; the club's first league title dates to 1901.",
+      "storyZh": "利物浦俱乐部1977年首夺欧洲冠军杯，1978年成功卫冕；球队的首个联赛冠军可追溯至1901年。",
       "sources": [
         {
-          "title": "Wikipedia: Liverpool, England",
-          "url": "https://en.wikipedia.org/w/index.php?search=Liverpool%2C%20England",
-          "status": "unverified"
+          "title": "Wikipedia: Liverpool F.C.",
+          "url": "https://en.wikipedia.org/wiki/Liverpool_F.C.",
+          "status": "verified"
         }
       ]
     },
@@ -9324,7 +9339,7 @@
     },
     {
       "id": "soccer-istanbul-turkey",
-      "prompt": "This city's intercontinental derby features clubs from Europe and Asia and boasts a team across three continents.",
+      "prompt": "This transcontinental city is home to the Intercontinental Derby between Galatasaray and Fenerbahce",
       "answer": "Istanbul, Turkey",
       "lat": 41.0082,
       "lng": 28.9784,
@@ -9336,14 +9351,19 @@
       ],
       "viewLat": 35.0285,
       "viewLng": 23.3351,
-      "promptZh": "这座城市拥有横跨欧亚的同城德比，还有球队遍布三大洲。",
-      "story": "Istanbul is the only major city spanning two continents. The Bosphorus Bridge opened in 1973 and connects the European and Asian sides.",
-      "storyZh": "伊斯坦布尔是唯一横跨两大洲的主要城市，博斯普鲁斯大桥于1973年通车，连接城市的欧洲与亚洲部分。",
+      "promptZh": "这座横跨欧亚的城市是加拉塔萨雷与费内巴切“洲际德比”的所在地",
+      "story": "Istanbul straddles Europe and Asia across the Bosphorus; its Intercontinental Derby is contested between Galatasaray and Fenerbahce.",
+      "storyZh": "伊斯坦布尔横跨博斯普鲁斯海峡两岸，欧洲与亚洲部分兼有；galatasaray与费内巴切之间的比赛被称为“洲际德比”。",
       "sources": [
         {
-          "title": "Wikipedia: Istanbul, Turkey",
-          "url": "https://en.wikipedia.org/w/index.php?search=Istanbul%2C%20Turkey",
-          "status": "unverified"
+          "title": "Wikipedia: Istanbul",
+          "url": "https://en.wikipedia.org/wiki/Istanbul",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: The Intercontinental Derby (football)",
+          "url": "https://en.wikipedia.org/wiki/The_Intercontinental_Derby_(football)",
+          "status": "verified"
         }
       ]
     },
@@ -9641,9 +9661,9 @@
       "storyZh": "波尔图在主教练阿图尔·若热执教下，于1987年首次夺得欧洲杯。",
       "sources": [
         {
-          "title": "Wikipedia: Porto, Portugal",
-          "url": "https://en.wikipedia.org/w/index.php?search=Porto%2C%20Portugal",
-          "status": "unverified"
+          "title": "Wikipedia: FC Porto",
+          "url": "https://en.wikipedia.org/wiki/FC_Porto",
+          "status": "verified"
         }
       ]
     },
@@ -9662,13 +9682,13 @@
       "viewLat": 30.8766,
       "viewLng": -14.0742,
       "promptZh": "这座城市是欧联杯七冠得主的主场。",
-      "story": "Seville hosted the 1999 World Championships in Athletics, where Jonathan Edwards set the long-jump world record of 8.95 metres.",
-      "storyZh": "塞维利亚主办了1999年世界田径锦标赛，约翰逊·爱德华兹当时以8.95米创造跳远世界纪录。",
+      "story": "Sevilla have won a record seven UEFA Cup/Europa League titles, most recently in 2023.",
+      "storyZh": "塞维利亚创纪录地七次夺得欧洲联盟杯／欧联杯冠军，最近一次是2023年。",
       "sources": [
         {
-          "title": "Wikipedia: Seville, Spain",
-          "url": "https://en.wikipedia.org/w/index.php?search=Seville%2C%20Spain",
-          "status": "unverified"
+          "title": "Wikipedia: Sevilla FC",
+          "url": "https://en.wikipedia.org/wiki/Sevilla_FC",
+          "status": "verified"
         }
       ]
     },
@@ -9689,15 +9709,15 @@
       "storyZh": "摩纳哥是仅次于梵蒂冈的世界第二小主权国家。",
       "sources": [
         {
-          "title": "Wikipedia: Monaco",
-          "url": "https://en.wikipedia.org/w/index.php?search=Monaco",
-          "status": "unverified"
+          "title": "Wikipedia: 2004 UEFA Champions League final",
+          "url": "https://en.wikipedia.org/wiki/2004_UEFA_Champions_League_final",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "soccer-japan",
-      "prompt": "This country hosts the J.League and co-hosted the 2022 FIFA World Cup.",
+      "prompt": "This country hosts the J.League and co-hosted the 2022 FIFA World Cup",
       "answer": "Japan",
       "lat": 36.2048,
       "lng": 138.2529,
@@ -9706,20 +9726,25 @@
       "tags": [
         "J.League"
       ],
-      "promptZh": "这个国家拥有J联赛，并共同主办了2022年世界杯。",
-      "story": "Japan earned its first FIFA World Cup victory in 2022, defeating Germany 2-1.",
-      "storyZh": "日本在2022年首次赢得国际足联世界杯比赛，以2比1战胜德国。",
+      "promptZh": "这个国家拥有J联赛，并联合举办了2022年世界杯",
+      "story": "Japan co-hosted the 2002 World Cup with South Korea and beat Germany 2-1 in a group match at the 2022 World Cup in Qatar; the 2022 win was not its first World Cup victory.",
+      "storyZh": "日本与韩国联合主办了2002年世界杯；在2022年卡塔尔世界杯小组赛中2比1击败德国，但这并非日本队的世界杯首胜。",
       "sources": [
         {
-          "title": "Wikipedia: Japan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Japan",
-          "status": "unverified"
+          "title": "Wikipedia: 2022 FIFA World Cup Group E",
+          "url": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_Group_E",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Japan national football team",
+          "url": "https://en.wikipedia.org/wiki/Japan_national_football_team",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "soccer-morocco",
-      "prompt": "This country reached the 2022 World Cup semifinal, becoming the first African and Arab team to do so.",
+      "prompt": "This North African country reached the 2022 World Cup semifinal, the first African and Arab nation to do so",
       "answer": "Morocco",
       "lat": 31.7917,
       "lng": -7.0926,
@@ -9728,14 +9753,14 @@
       "tags": [
         "World Cup"
       ],
-      "promptZh": "这个国家进2022世界杯半决赛，为非洲及阿拉伯首队。",
-      "story": "Morocco won its first Africa Cup of Nations title in 2018, defeating Senegal 2-1.",
-      "storyZh": "摩洛哥在2018年首次赢得非洲国家杯冠军，以2比1击败塞内加尔。",
+      "promptZh": "这个北非国家闯入2022年世界杯半决赛，是首支做到的非洲及阿拉伯国家",
+      "story": "Morocco reached the 2022 World Cup semifinal, the first African and Arab team to do so. Its first Africa Cup of Nations title came in 1976, not 2018.",
+      "storyZh": "摩洛哥闯入2022年世界杯半决赛，成为首支做到的非洲及阿拉伯球队；球队首个非洲杯冠军来自1976年而非2018年。",
       "sources": [
         {
-          "title": "Wikipedia: Morocco",
-          "url": "https://en.wikipedia.org/w/index.php?search=Morocco",
-          "status": "unverified"
+          "title": "Wikipedia: Morocco national football team",
+          "url": "https://en.wikipedia.org/wiki/Morocco_national_football_team",
+          "status": "verified"
         }
       ]
     },
@@ -9763,7 +9788,7 @@
     },
     {
       "id": "soccer-brazil",
-      "prompt": "This country is the only nation to have played in every FIFA World Cup final.",
+      "prompt": "This country has won a record five FIFA World Cups, more than any other nation",
       "answer": "Brazil",
       "lat": -14.235,
       "lng": -51.9253,
@@ -9772,14 +9797,14 @@
       "tags": [
         "World Cup"
       ],
-      "promptZh": "这个国家是唯一参加过每一届世界杯决赛的国家。",
-      "story": "Pelé scored in every World Cup Brazil won from 1958 through 1970.",
-      "storyZh": "贝利在巴西从1958年至1970年赢得的每届世界杯比赛中都有进球。",
+      "promptZh": "这个国家创纪录地五次夺得世界杯冠军，超过任何国家",
+      "story": "Brazil has won five World Cups — in 1958, 1962, 1970, 1994 and 2002 — and is the only country to have played in every World Cup finals tournament.",
+      "storyZh": "巴西于1958、1962、1970、1994和2002年五夺世界杯，也是唯一参加了每一届世界杯决赛圈的国家。",
       "sources": [
         {
-          "title": "Wikipedia: Brazil",
-          "url": "https://en.wikipedia.org/w/index.php?search=Brazil",
-          "status": "unverified"
+          "title": "Wikipedia: Brazil national football team",
+          "url": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+          "status": "verified"
         }
       ]
     },
@@ -9983,7 +10008,7 @@
     },
     {
       "id": "soccer-qatar",
-      "prompt": "This country hosted the 2022 FIFA World Cup, the first held in the Middle East.",
+      "prompt": "This country hosted the 2022 FIFA World Cup, the first held in the Middle East",
       "answer": "Qatar",
       "lat": 25.3548,
       "lng": 51.1839,
@@ -9992,14 +10017,14 @@
       "tags": [
         "World Cup"
       ],
-      "promptZh": "这个国家举办了2022年世界杯，首次由中东承办。",
-      "story": "The 2022 final ended 3–3 after extra time, with Argentina prevailing 4–2 on penalties.",
-      "storyZh": "2022年决赛在加时赛后战成3比3，阿根廷队最终以4比2赢得点球大战。",
+      "promptZh": "这个国家举办了2022年世界杯，是首次在中东举办的世界杯",
+      "story": "Qatar hosted the 2022 World Cup; Argentina beat France 3-3 after extra time and won the final 4-2 on penalties.",
+      "storyZh": "卡塔尔举办2022年世界杯；决赛中阿根廷与法国加时3比3战平，并通过点球大战4比2取胜。",
       "sources": [
         {
-          "title": "Wikipedia: Qatar",
-          "url": "https://en.wikipedia.org/w/index.php?search=Qatar",
-          "status": "unverified"
+          "title": "Wikipedia: 2022 FIFA World Cup final",
+          "url": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final",
+          "status": "verified"
         }
       ]
     },
@@ -10041,9 +10066,9 @@
       "storyZh": "1930年世界杯决赛在世纪球场举行，乌拉圭以4比2战胜阿根廷。",
       "sources": [
         {
-          "title": "Wikipedia: Montevideo, Uruguay",
-          "url": "https://en.wikipedia.org/w/index.php?search=Montevideo%2C%20Uruguay",
-          "status": "unverified"
+          "title": "Wikipedia: 1930 FIFA World Cup final",
+          "url": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup_final",
+          "status": "verified"
         }
       ]
     },
@@ -10108,9 +10133,14 @@
       "storyZh": "红星与游击队于1947年首次在永恒德比中交锋，此后经历多个国名与政治体制仍延续。",
       "sources": [
         {
-          "title": "Wikipedia: Belgrade, Serbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Belgrade%2C%20Serbia",
-          "status": "unverified"
+          "title": "Wikipedia: Eternal derby (Serbia)",
+          "url": "https://en.wikipedia.org/wiki/Eternal_derby_(Serbia)",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Red Star Belgrade",
+          "url": "https://en.wikipedia.org/wiki/Red_Star_Belgrade",
+          "status": "verified"
         }
       ]
     },
@@ -10254,7 +10284,7 @@
     },
     {
       "id": "soccer-lagos-nigeria",
-      "prompt": "This West African megacity is home to Enyimba and Shooting Stars, two of the country's most successful clubs.",
+      "prompt": "This West African megacity was once home to the first Nigerian club to win a CAF title, Shooting Stars of Ibadan",
       "answer": "Lagos, Nigeria",
       "lat": 6.5244,
       "lng": 3.3792,
@@ -10264,14 +10294,19 @@
         "soccer",
         "Africa"
       ],
-      "promptZh": "这座西非大城是恩耶巴和射击星队等成功俱乐部的所在地。",
-      "story": "Enyimba became the first Nigerian club to win the CAF Champions League, doing so in 2003.",
-      "storyZh": "恩耶巴在2003年成为首支赢得非洲冠军联赛的尼日利亚俱乐部。",
+      "promptZh": "这座西非大都市曾是第一支赢得非洲俱乐部冠军的尼日利亚球队（伊巴丹射击之星）的主场",
+      "story": "Shooting Stars of Ibadan won the 1976 African Cup Winners' Cup, Nigeria's first CAF club trophy; Enyimba, the two-time African Champions League winner, is based in Aba, not Lagos.",
+      "storyZh": "伊巴丹的射击之星队1976年夺得非洲优胜者杯，是尼日利亚首座非洲俱乐部奖杯；两夺非洲冠军联赛的恩伊姆巴队位于阿巴而非拉各斯。",
       "sources": [
         {
-          "title": "Wikipedia: Lagos, Nigeria",
-          "url": "https://en.wikipedia.org/w/index.php?search=Lagos%2C%20Nigeria",
-          "status": "unverified"
+          "title": "Wikipedia: Shooting Stars S.C.",
+          "url": "https://en.wikipedia.org/wiki/Shooting_Stars_S.C.",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Enyimba F.C.",
+          "url": "https://en.wikipedia.org/wiki/Enyimba_F.C.",
+          "status": "verified"
         }
       ]
     },
@@ -10300,7 +10335,7 @@
     },
     {
       "id": "soccer-accra-ghana",
-      "prompt": "This West African capital is where the national team won the inaugural African Youth Championship.",
+      "prompt": "This West African capital was the base of the senior national team that reached three FIFA World Cups",
       "answer": "Accra, Ghana",
       "lat": 5.6037,
       "lng": -0.187,
@@ -10310,14 +10345,14 @@
         "soccer",
         "Africa"
       ],
-      "promptZh": "这座西非首都的青年国家队曾赢得首届非洲青年锦标赛。",
-      "story": "The senior national team appeared at the FIFA World Cup in 2006, 2010 and 2022.",
-      "storyZh": "这支成年国家队曾于2006年、2010年和2022年参加国际足联世界杯。",
+      "promptZh": "这座西非首都是打进三届世界杯的成年国家队的主场城市",
+      "story": "Ghana's senior national team qualified for the FIFA World Cup in 2006, 2010 and 2022, and won the Africa Cup of Nations four times.",
+      "storyZh": "加纳成年国家队三次打进世界杯（2006、2010、2022），并四度夺得非洲国家杯冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Accra, Ghana",
-          "url": "https://en.wikipedia.org/w/index.php?search=Accra%2C%20Ghana",
-          "status": "unverified"
+          "title": "Wikipedia: Ghana national football team",
+          "url": "https://en.wikipedia.org/wiki/Ghana_national_football_team",
+          "status": "verified"
         }
       ]
     },
@@ -10575,24 +10610,24 @@
     },
     {
       "id": "soccer-paris-france",
-      "prompt": "This city hosted the 1960 European Cup final, won 5–4 by Real Madrid against Eintracht Frankfurt.",
-      "answer": "Paris, France",
-      "lat": 48.8566,
-      "lng": 2.3522,
+      "prompt": "This Scottish city hosted the 1960 European Cup final, won 7-3 by Real Madrid",
+      "answer": "Glasgow, Scotland",
+      "lat": 55.8642,
+      "lng": -4.2518,
       "scope": "world",
       "sport": "soccer",
       "tags": [
         "soccer",
         "Europe"
       ],
-      "promptZh": "这座城市举办1960年欧洲冠军杯决赛，皇马5比4取胜。",
-      "story": "Real Madrid defeated Eintracht Frankfurt 5–4 after extra time in the inaugural European Cup final at Paris's Parc des Princes.",
-      "storyZh": "皇家马德里在巴黎王子公园球场举行的首届欧洲冠军杯决赛中，经加时赛5比4击败法兰克福。",
+      "promptZh": "这座苏格兰城市举办了1960年欧洲冠军杯决赛，皇马以7比3获胜",
+      "story": "Real Madrid beat Eintracht Frankfurt 7-3 in the 1960 European Cup final at Hampden Park in Glasgow, watched by over 127,000 fans.",
+      "storyZh": "1960年欧洲冠军杯决赛在格拉斯哥汉普顿公园球场举行，皇家马德里7比3击败法兰克福，现场观众超过12.7万人。",
       "sources": [
         {
-          "title": "Wikipedia: Paris, France",
-          "url": "https://en.wikipedia.org/w/index.php?search=Paris%2C%20France",
-          "status": "unverified"
+          "title": "Wikipedia: 1960 European Cup final",
+          "url": "https://en.wikipedia.org/wiki/1960_European_Cup_final",
+          "status": "verified"
         }
       ]
     },
@@ -10666,7 +10701,7 @@
     },
     {
       "id": "soccer-saint-petersburg-russia",
-      "prompt": "This city was home to the club that won the European Cup in 1960 and 1961.",
+      "prompt": "This Russian city is home to the club that won the UEFA Cup in 2008",
       "answer": "Saint Petersburg, Russia",
       "lat": 59.9311,
       "lng": 30.3609,
@@ -10676,14 +10711,14 @@
         "soccer",
         "Europe"
       ],
-      "promptZh": "这座城市的俱乐部在1960和1961年两夺欧洲杯。",
-      "story": "Zenit, founded in 1903, won its first Soviet league title in 1984 and became the first Soviet club to win the European Cup.",
-      "storyZh": "泽尼特俱乐部成立于1903年，1984年赢得苏联顶级联赛冠军，并成为首支赢得欧洲杯的苏联俱乐部。",
+      "promptZh": "这座俄罗斯城市是2008年欧洲联盟杯冠军俱乐部的所在地",
+      "story": "Zenit St Petersburg won the 2008 UEFA Cup, becoming the first Russian club to claim the trophy; the Soviet Union never won the European Cup.",
+      "storyZh": "圣彼得堡泽尼特队2008年夺得欧洲联盟杯，是首个获此奖杯的俄罗斯俱乐部；苏联从未赢得欧洲冠军杯。",
       "sources": [
         {
-          "title": "Wikipedia: Saint Petersburg, Russia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Saint%20Petersburg%2C%20Russia",
-          "status": "unverified"
+          "title": "Wikipedia: FC Zenit Saint Petersburg",
+          "url": "https://en.wikipedia.org/wiki/FC_Zenit_Saint_Petersburg",
+          "status": "verified"
         }
       ]
     },
