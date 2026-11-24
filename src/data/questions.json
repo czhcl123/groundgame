@@ -2502,9 +2502,9 @@
       "storyZh": "姚明曾为上海大鲨鱼队效力，之后休斯敦火箭队在2002年NBA选秀中以状元身份选中了他。",
       "sources": [
         {
-          "title": "Wikipedia: Shanghai, China",
-          "url": "https://en.wikipedia.org/w/index.php?search=Shanghai%2C%20China",
-          "status": "unverified"
+          "title": "Wikipedia: Yao Ming",
+          "url": "https://en.wikipedia.org/wiki/Yao_Ming",
+          "status": "verified"
         }
       ]
     },
@@ -2523,13 +2523,13 @@
       "viewLat": 51.7084,
       "viewLng": -109.282,
       "promptZh": "AJ Dybantsa成为首位曾在这所大学打过大学篮球的NBA状元",
-      "story": "In Provo, AJ Dybantsa committed to BYU in 2025 before being selected No. 1 overall in the NBA draft, making his planned college stop a landmark for the Cougars.",
-      "storyZh": "在普罗沃，AJ·迪班察于2025年承诺加盟犹他大学，随后在NBA选秀中被列为状元，他计划效力的大学之旅也因此成为杨百翰大学值得铭记的里程碑。",
+      "story": "AJ Dybantsa played one season of college basketball at BYU in Provo before the Washington Wizards selected him first overall in the 2026 NBA Draft.",
+      "storyZh": "AJ Dybantsa在普罗沃的杨百翰大学打了一个赛季大学篮球，随后在2026年NBA选秀中被华盛顿奇才队以状元签选中。",
       "sources": [
         {
-          "title": "Wikipedia: Provo, Utah",
-          "url": "https://en.wikipedia.org/w/index.php?search=Provo%2C%20Utah",
-          "status": "unverified"
+          "title": "Wikipedia: AJ Dybantsa",
+          "url": "https://en.wikipedia.org/wiki/AJ_Dybantsa",
+          "status": "verified"
         }
       ]
     },
@@ -2572,14 +2572,14 @@
       ],
       "viewLat": 57.3211,
       "viewLng": -91.5301,
-      "promptZh": "Caitlin Clark于2024年在这座城市打破NCAA历史得分纪录",
-      "story": "Caitlin Clark broke the NCAA women’s career scoring record in Iowa City on March 3, 2024, reaching 3,951 points during her senior season at Iowa.",
-      "storyZh": "2024年3月3日，考特琳·克拉克在爱荷华城打破了NCAA女子篮球生涯得分纪录，在爱荷华大学大四赛季达到3951分。",
+      "promptZh": "2024年，Caitlin Clark在这里打破了NCAA历史得分纪录",
+      "story": "Playing for the Iowa Hawkeyes in Iowa City, Caitlin Clark passed Kelsey Plum for the NCAA women's career scoring record on February 15, 2024, then eclipsed Pete Maravich's overall Division I mark on March 3, finishing her college career with 3,951 points.",
+      "storyZh": "Caitlin Clark在爱荷华城代表爱荷华大学征战，2024年2月15日超越Kelsey Plum成为NCAA女子生涯得分王，3月3日又超越Pete Maravich成为NCAA历史总得分王，大学生涯共得3,951分。",
       "sources": [
         {
-          "title": "Wikipedia: Iowa City, Iowa",
-          "url": "https://en.wikipedia.org/w/index.php?search=Iowa%20City%2C%20Iowa",
-          "status": "unverified"
+          "title": "Wikipedia: Caitlin Clark",
+          "url": "https://en.wikipedia.org/wiki/Caitlin_Clark",
+          "status": "verified"
         }
       ]
     },
@@ -2625,32 +2625,32 @@
       "storyZh": "孟菲斯灰熊队的头六个NBA赛季于1995年至2001年在温哥华进行，随后在2001年迁往田纳西州。",
       "sources": [
         {
-          "title": "Wikipedia: Vancouver, British Columbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Vancouver%2C%20British%20Columbia",
-          "status": "unverified"
+          "title": "Wikipedia: Vancouver Grizzlies",
+          "url": "https://en.wikipedia.org/wiki/Vancouver_Grizzlies",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nba-memphis-2",
-      "prompt": "The NBA's first Chinese player, Wang Zhizhi, was born in this city",
-      "answer": "Shanghai, China",
-      "lat": 31.2304,
-      "lng": 121.4737,
+      "prompt": "The NBA's first Chinese player, Wang Zhizhi, was born in this capital",
+      "answer": "Beijing, China",
+      "lat": 39.9042,
+      "lng": 116.4074,
       "scope": "world",
       "sport": "basketball",
       "tags": [
         "NBA",
         "international"
       ],
-      "promptZh": "NBA首位中国球员王治郅出生在这座城市",
-      "story": "Wang Zhizhi, born in Shanghai in 1963, became the first Chinese player to enter the NBA when he joined the Dallas Mavericks in 1999.",
-      "storyZh": "王治郅于1963年出生在上海，并在1999年加盟达拉斯独行侠，成为首位进入NBA的中国球员。",
+      "promptZh": "NBA首位中国球员王治郅出生在这座首都城市",
+      "story": "Wang Zhizhi was born in Beijing in 1977 and became the first Chinese player in the NBA, debuting for the Dallas Mavericks in the 2000-01 season.",
+      "storyZh": "王治郅1977年出生于北京，2000-01赛季效力达拉斯独行侠队，成为首位登上NBA的中国球员。",
       "sources": [
         {
-          "title": "Wikipedia: Shanghai, China",
-          "url": "https://en.wikipedia.org/w/index.php?search=Shanghai%2C%20China",
-          "status": "unverified"
+          "title": "Wikipedia: Wang Zhizhi",
+          "url": "https://en.wikipedia.org/wiki/Wang_Zhizhi",
+          "status": "verified"
         }
       ]
     },
@@ -2681,10 +2681,10 @@
     },
     {
       "id": "nba-miami-7",
-      "prompt": "The 1997-98 Bulls' 72-10 record was broken by this team",
-      "answer": "Golden Valley, Minnesota",
-      "lat": 44.988,
-      "lng": -93.4683,
+      "prompt": "The 1995-96 Chicago Bulls' 72-10 record was broken by the 73-9 Warriors, who played in this Bay Area city",
+      "answer": "Oakland, California",
+      "lat": 37.8044,
+      "lng": -122.2712,
       "scope": "city",
       "sport": "basketball",
       "tags": [
@@ -2693,14 +2693,14 @@
       ],
       "viewLat": 32.0167,
       "viewLng": -96.1547,
-      "promptZh": "1997-98赛季Bulls的72胜10负纪录被这支球队打破",
-      "story": "Golden Valley is home to the Minnesota Timberwolves’ headquarters, a franchise that won 56 games in 2023–24 and advanced to the Western Conference finals.",
-      "storyZh": "金谷是明尼苏达森林狼队总部所在地，这支球队在2023至2024赛季取得56场胜利，并闯入西部决赛。",
+      "promptZh": "1995-96芝加哥公牛队72胜10负的纪录被73胜9负的勇士队打破，当时勇士队在这座湾区城市打球",
+      "story": "The 2015-16 Golden State Warriors went 73-9, breaking the 1995-96 Chicago Bulls' single-season wins record, playing their home games in Oakland.",
+      "storyZh": "2015-16赛季金州勇士队取得73胜9负，打破1995-96芝加哥公牛队72胜10负的单赛季胜场纪录，当时球队主场在奥克兰。",
       "sources": [
         {
-          "title": "Wikipedia: Golden Valley, Minnesota",
-          "url": "https://en.wikipedia.org/w/index.php?search=Golden%20Valley%2C%20Minnesota",
-          "status": "unverified"
+          "title": "Wikipedia: 2015–16 Golden State Warriors season",
+          "url": "https://en.wikipedia.org/wiki/2015%E2%80%9316_Golden_State_Warriors_season",
+          "status": "verified"
         }
       ]
     },
@@ -6463,7 +6463,7 @@
     },
     {
       "id": "mlb-seattle-washington",
-      "prompt": "This city is home to a baseball club that drew 3.4 million fans in its inaugural season, setting an MLB record.",
+      "prompt": "This city's baseball club won an American League record 116 games in the 2001 season",
       "answer": "Seattle, Washington",
       "lat": 47.6062,
       "lng": -122.3321,
@@ -6475,14 +6475,14 @@
       ],
       "viewLat": 43.2683,
       "viewLng": -129.7519,
-      "promptZh": "这座城市的球队首季吸引340万球迷，创下大联盟纪录。",
-      "story": "In their inaugural 1977 season, the Mariners drew 3.4 million fans and set an MLB attendance record.",
-      "storyZh": "该队在1977年的首个赛季吸引340万名球迷，创下大联盟观众人数纪录。",
+      "promptZh": "这座城市的棒球队在2001赛季取得116胜，创下美国联盟单赛季纪录",
+      "story": "The 2001 Seattle Mariners won 116 games, setting the American League single-season record and tying the 1906 Chicago Cubs for the Major League mark.",
+      "storyZh": "2001年的西雅图水手队取得116胜，创下美国联盟单赛季胜场纪录，并追平1906年芝加哥小熊队保持的MLB单季胜场纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Seattle, Washington",
-          "url": "https://en.wikipedia.org/w/index.php?search=Seattle%2C%20Washington",
-          "status": "unverified"
+          "title": "Wikipedia: Seattle Mariners",
+          "url": "https://en.wikipedia.org/wiki/Seattle_Mariners",
+          "status": "verified"
         }
       ]
     },
@@ -6819,7 +6819,7 @@
     },
     {
       "id": "mlb-seoul-south-korea",
-      "prompt": "This capital's KBO league draws the loudest crowds in Asia, reflecting the country's deep love of baseball.",
+      "prompt": "This capital hosted the first-ever KBO League game in 1982",
       "answer": "Seoul, South Korea",
       "lat": 37.5665,
       "lng": 126.978,
@@ -6829,20 +6829,20 @@
         "KBO",
         "Korea"
       ],
-      "promptZh": "这座首都的职棒联赛以亚洲最热烈的球迷闻名。",
-      "story": "The first KBO game was played in Seoul on April 23, 1982, when the OB Bears defeated the Haitai Eagles 3–0.",
-      "storyZh": "1982年4月23日，首场韩国职业棒球联赛比赛在首尔举行，OB熊队以3比0击败斗山熊队。",
+      "promptZh": "KBO联赛的首场比赛1982年在这座首都举行",
+      "story": "The KBO League's inaugural game was played at Dongdaemun Baseball Stadium in Seoul on March 27, 1982, with the Samsung Lions facing the MBC Chungyong.",
+      "storyZh": "KBO联赛首场比赛于1982年3月27日在首尔东大门棒球场举行，对阵双方是三星狮队和MBC青龙队。",
       "sources": [
         {
-          "title": "Wikipedia: Seoul, South Korea",
-          "url": "https://en.wikipedia.org/w/index.php?search=Seoul%2C%20South%20Korea",
-          "status": "unverified"
+          "title": "Wikipedia: KBO League",
+          "url": "https://en.wikipedia.org/wiki/KBO_League",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mlb-taipei-taiwan",
-      "prompt": "This capital's professional baseball league is regarded as one of Asia's toughest competitions for players.",
+      "prompt": "The ten-time champion Brothers of the Chinese Professional Baseball League were founded in this capital by the Brother Hotel",
       "answer": "Taipei, Taiwan",
       "lat": 25.033,
       "lng": 121.5654,
@@ -6852,20 +6852,25 @@
         "CPBL",
         "Taiwan"
       ],
-      "promptZh": "这座首都的职棒联赛被视为亚洲最具竞争力的赛事之一。",
-      "story": "The Chinese Professional Baseball League was founded in 1990 with four teams, and the Taipei-based Uni-President Lions won its first three championships.",
-      "storyZh": "中华职业棒球联赛于1990年成立，初期共有四支球队，总裁狮队随后夺得联盟前三个总冠军。",
+      "promptZh": "中华职棒十冠王兄弟队由兄弟大饭店在这座首都创立",
+      "story": "The club now known as the CTBC Brothers was founded in Taipei by the Brother Hotel in 1984 and has won ten Chinese Professional Baseball League championships.",
+      "storyZh": "现名中信兄弟的球队1984年由兄弟大饭店在台北创立，已十次夺得中华职棒总冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Taipei, Taiwan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Taipei%2C%20Taiwan",
-          "status": "unverified"
+          "title": "Wikipedia: CTBC Brothers",
+          "url": "https://en.wikipedia.org/wiki/CTBC_Brothers",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Chinese Professional Baseball League",
+          "url": "https://en.wikipedia.org/wiki/Chinese_Professional_Baseball_League",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mlb-tokyo-dome-japan",
-      "prompt": "This domed stadium has hosted three Major League Baseball opening-day games, beginning with an interleague matchup in 1993.",
+      "prompt": "This domed stadium in Japan's capital has opened the MLB season six times since 2000",
       "answer": "Tokyo Dome, Japan",
       "lat": 35.7056,
       "lng": 139.7519,
@@ -6875,14 +6880,14 @@
         "NPB",
         "Japan"
       ],
-      "promptZh": "这座穹顶球场曾举办三场美国职业棒球大联盟揭幕战。",
-      "story": "The dome became the first stadium outside the United States to host an MLB opening-day game in 1993, then hosted others in 2000 and 2004.",
-      "storyZh": "这座穹顶球场于1993年成为美国境外首座举办美国职业棒球大联盟揭幕战的球场，并于2000年和2004年再次承办。",
+      "promptZh": "这座位于日本首都的巨蛋球场自2000年以来六度承办MLB赛季揭幕战",
+      "story": "Tokyo Dome hosted Major League Baseball's first regular-season games in Japan in 2000 and has since opened the MLB season six times, most recently with the Dodgers-Cubs series in March 2025.",
+      "storyZh": "东京巨蛋在2000年承办了MLB在日本的首场常规赛，此后六度成为MLB赛季揭幕战举办地，最近一次是2025年3月道奇对小熊的系列赛。",
       "sources": [
         {
-          "title": "Wikipedia: Tokyo Dome, Japan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Tokyo%20Dome%2C%20Japan",
-          "status": "unverified"
+          "title": "Wikipedia: List of Major League Baseball games played outside the United States and Canada",
+          "url": "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_games_played_outside_the_United_States_and_Canada",
+          "status": "verified"
         }
       ]
     },
@@ -7066,15 +7071,15 @@
       "storyZh": "凯尔特人队在2024年获得队史第18个NBA总冠军，超越了联盟此前的纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Boston, Massachusetts",
-          "url": "https://en.wikipedia.org/w/index.php?search=Boston%2C%20Massachusetts",
-          "status": "unverified"
+          "title": "Wikipedia: Boston Celtics",
+          "url": "https://en.wikipedia.org/wiki/Boston_Celtics",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nba-miami-florida",
-      "prompt": "This city is home to the Heat, who won three consecutive titles from 2012 to 2014.",
+      "prompt": "This city's Heat reached four straight NBA Finals from 2011 to 2014, winning back-to-back titles in 2012 and 2013",
       "answer": "Miami, Florida",
       "lat": 25.7617,
       "lng": -80.1918,
@@ -7086,14 +7091,14 @@
       ],
       "viewLat": 26.2729,
       "viewLng": -79.0768,
-      "promptZh": "这座城市是热火队主场，2012至2014年三夺总冠军。",
-      "story": "Miami became the first team since the Chicago Bulls in the 1990s to win three consecutive NBA championships from 2012 through 2014.",
-      "storyZh": "迈阿密热火队在2012年至2014年连续三次夺得NBA总冠军，成为1990年代公牛队后首支实现这一壮举的球队。",
+      "promptZh": "这座城市的热火队在2011至2014年连续四年闯入NBA总决赛，并在2012和2013年实现两连冠",
+      "story": "The Miami Heat went to four consecutive NBA Finals from 2011 to 2014, winning back-to-back championships in 2012 and 2013.",
+      "storyZh": "迈阿密热火队2011至2014年连续四年闯入NBA总决赛，并在2012和2013年实现两连冠。",
       "sources": [
         {
-          "title": "Wikipedia: Miami, Florida",
-          "url": "https://en.wikipedia.org/w/index.php?search=Miami%2C%20Florida",
-          "status": "unverified"
+          "title": "Wikipedia: Miami Heat",
+          "url": "https://en.wikipedia.org/wiki/Miami_Heat",
+          "status": "verified"
         }
       ]
     },
@@ -7116,9 +7121,9 @@
       "storyZh": "达拉斯独行侠在2011年赢得队史首个NBA总冠军，六场击败迈阿密热火，德克·诺维茨基当选总决赛最有价值球员。",
       "sources": [
         {
-          "title": "Wikipedia: Dallas, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Dallas%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: 2011 NBA Finals",
+          "url": "https://en.wikipedia.org/wiki/2011_NBA_Finals",
+          "status": "verified"
         }
       ]
     },
@@ -7349,7 +7354,7 @@
     },
     {
       "id": "nba-brooklyn-new-york",
-      "prompt": "The basketball franchise based in this city completed its first NBA season in 1976.",
+      "prompt": "The NBA team based in this borough played its first NBA season in 1976-77, after the ABA merger",
       "answer": "Brooklyn, New York",
       "lat": 40.6782,
       "lng": -73.9442,
@@ -7361,14 +7366,14 @@
       ],
       "viewLat": 46.0914,
       "viewLng": -77.3349,
-      "promptZh": "该队1976年进入NBA，2012年迁入这座城市。",
+      "promptZh": "这支位于该行政区的球队在1976年ABA并入NBA后开启首个NBA赛季",
       "story": "The franchise played its first NBA season in 1976-77 as the New York Nets and moved to Brooklyn in 2012.",
       "storyZh": "该球队在1976至1977赛季以纽约网队身份征战NBA，并于2012年迁入布鲁克林。",
       "sources": [
         {
-          "title": "Wikipedia: Brooklyn, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=Brooklyn%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: Brooklyn Nets",
+          "url": "https://en.wikipedia.org/wiki/Brooklyn_Nets",
+          "status": "verified"
         }
       ]
     },
@@ -7622,7 +7627,7 @@
     },
     {
       "id": "nba-melbourne-australia",
-      "prompt": "This city in the southern hemisphere has a National Basketball League club called the Tigers.",
+      "prompt": "This Australian city's basketball club won NBL titles as the Tigers in the 1990s and again as United in 2018 and 2021",
       "answer": "Melbourne, Australia",
       "lat": -37.8136,
       "lng": 144.9631,
@@ -7631,14 +7636,14 @@
       "tags": [
         "NBL"
       ],
-      "promptZh": "这座南半球城市的NBL球队名为猛虎队。",
-      "story": "The Melbourne Tigers joined the National Basketball League during its inaugural 1979 season.",
-      "storyZh": "墨尔本猛虎队在国家篮球联赛创办的首个1979赛季加入赛事。",
+      "promptZh": "这座澳大利亚城市的篮球队在1990年代以老虎队之名夺得NBL总冠军，又在2018和2021年以联队之名再度夺冠",
+      "story": "The club now known as Melbourne United entered the National Basketball League in 1984 as the Melbourne Tigers, won two titles in the 1990s, and added championships in 2006, 2008, 2018 and 2021.",
+      "storyZh": "现名墨尔本联队的俱乐部1984年以墨尔本老虎队之名加入NBL，1990年代两夺总冠军，此后又在2006、2008、2018和2021年四次夺冠。",
       "sources": [
         {
-          "title": "Wikipedia: Melbourne, Australia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Melbourne%2C%20Australia",
-          "status": "unverified"
+          "title": "Wikipedia: Melbourne United",
+          "url": "https://en.wikipedia.org/wiki/Melbourne_United",
+          "status": "verified"
         }
       ]
     },
@@ -7779,7 +7784,7 @@
     },
     {
       "id": "nba-lagos-nigeria",
-      "prompt": "This megacity produced the first African player ever selected in the NBA draft, in 1984.",
+      "prompt": "This Nigerian megacity is the birthplace of Hakeem Olajuwon, the first overall pick of the 1984 NBA draft",
       "answer": "Lagos, Nigeria",
       "lat": 6.5244,
       "lng": 3.3792,
@@ -7789,14 +7794,14 @@
         "FIBA",
         "Africa"
       ],
-      "promptZh": "这座大城孕育了首位被NBA选中的非洲球员。",
-      "story": "Hakeem Olajuwon, born in Lagos in 1963, was chosen third overall in the 1984 NBA Draft.",
-      "storyZh": "奥拉朱旺1963年出生于拉各斯，并在1984年NBA选秀中以第三顺位被选中。",
+      "promptZh": "这座尼日利亚超级城市是1984年NBA选秀状元Hakeem Olajuwon的出生地",
+      "story": "Hakeem Olajuwon was born in Lagos, Nigeria, in 1963 and was selected first overall by the Houston Rockets in the 1984 NBA Draft.",
+      "storyZh": "Hakeem Olajuwon 1963年出生在尼日利亚拉各斯，1984年NBA选秀中被休斯顿火箭队用状元签选中。",
       "sources": [
         {
-          "title": "Wikipedia: Lagos, Nigeria",
-          "url": "https://en.wikipedia.org/w/index.php?search=Lagos%2C%20Nigeria",
-          "status": "unverified"
+          "title": "Wikipedia: Hakeem Olajuwon",
+          "url": "https://en.wikipedia.org/wiki/Hakeem_Olajuwon",
+          "status": "verified"
         }
       ]
     },
@@ -8215,7 +8220,7 @@
     },
     {
       "id": "nba-limassol-cyprus",
-      "prompt": "This island's second-largest city is home to a basketball club that reached the EuroCup final.",
+      "prompt": "Basketball club AEL, the only Cypriot club ever to win a European trophy, plays in this island's second-largest city",
       "answer": "Limassol, Cyprus",
       "lat": 34.7071,
       "lng": 33.0226,
@@ -8224,14 +8229,14 @@
       "tags": [
         "EuroCup"
       ],
-      "promptZh": "这座岛屿的第二大城市，有俱乐部打进欧洲篮球联赛决赛。",
-      "story": "AEL Limassol defeated Herbalife Gran Canaria 88–73 in the 2012 EuroCup final, winning the club's first European title.",
-      "storyZh": "利马索尔篮球俱乐部在2012年欧洲杯决赛中以88比73击败赫拉利夫格拉纳纳利卡，赢得队史首个欧洲冠军。",
+      "promptZh": "塞浦路斯唯一赢得过欧洲奖杯的篮球俱乐部AEL在这座岛屿的第二大城市打球",
+      "story": "AEL Limassol won the FIBA Europe Regional Challenge Cup in 2003, the only European trophy ever won by a sports club from Cyprus.",
+      "storyZh": "AEL利马索尔队在2003年夺得FIBA欧洲区域挑战杯，是塞浦路斯唯一赢得过欧洲奖杯的体育俱乐部。",
       "sources": [
         {
-          "title": "Wikipedia: Limassol, Cyprus",
-          "url": "https://en.wikipedia.org/w/index.php?search=Limassol%2C%20Cyprus",
-          "status": "unverified"
+          "title": "Wikipedia: AEL Limassol B.C.",
+          "url": "https://en.wikipedia.org/wiki/AEL_Limassol_B.C.",
+          "status": "verified"
         }
       ]
     },
