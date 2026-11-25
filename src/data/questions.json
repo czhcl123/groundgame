@@ -282,9 +282,9 @@
       "storyZh": "2024年，阿什顿·金蒂在博伊西州立大学冲球2,601码，并获得海斯曼奖投票第二名。",
       "sources": [
         {
-          "title": "Wikipedia: Boise, Idaho",
-          "url": "https://en.wikipedia.org/w/index.php?search=Boise%2C%20Idaho",
-          "status": "unverified"
+          "title": "Wikipedia: Ashton Jeanty",
+          "url": "https://en.wikipedia.org/wiki/Ashton_Jeanty",
+          "status": "verified"
         }
       ]
     },
@@ -415,7 +415,7 @@
     },
     {
       "id": "nfl-denver-1",
-      "prompt": "John Elway's 'The Drive' which went 98 yards to win the AFC Championship happened here in 1987",
+      "prompt": "John Elway's 'The Drive' carried his team 98 yards to tie the 1987 AFC Championship in this city",
       "answer": "Denver, Colorado",
       "lat": 39.7392,
       "lng": -104.9903,
@@ -427,14 +427,14 @@
       ],
       "viewLat": 51.2138,
       "viewLng": -102.6138,
-      "promptZh": "1987年，John Elway 完成了著名的“The Drive”，推进98码并赢得 AFC 冠军",
-      "story": "On January 10, 1987, John Elway capped The Drive with a 98-yard touchdown pass as Denver defeated Cleveland 43–38 for the AFC championship.",
-      "storyZh": "1987年1月10日，约翰·埃尔韦伊用一记98码达阵结束了那次著名的 Drive，丹佛以43比38击败克利夫兰夺得AFC冠军。",
+      "promptZh": "约翰·埃尔万的“The Drive”在这里带领丹佛推进98码追平1987年美联决赛",
+      "story": "On January 11, 1987, Elway led a 98-yard touchdown drive to tie the AFC Championship against Cleveland; Denver won 23–20 in overtime on a Rich Karlis field goal.",
+      "storyZh": "1987年1月11日，埃尔万率队打出98码达阵推进追平美联决赛；丹佛最终在加时靠里奇·卡利斯的射门以23比20获胜。",
       "sources": [
         {
-          "title": "Wikipedia: Denver, Colorado",
-          "url": "https://en.wikipedia.org/w/index.php?search=Denver%2C%20Colorado",
-          "status": "unverified"
+          "title": "Wikipedia: John Elway",
+          "url": "https://en.wikipedia.org/wiki/John_Elway",
+          "status": "verified"
         }
       ]
     },
@@ -540,10 +540,10 @@
     },
     {
       "id": "nfl-houston-1",
-      "prompt": "Kurt Warner was stocking shelves for $5.50/hr in Iowa before winning the Super Bowl for a team in this city",
-      "answer": "Sioux City, Iowa",
-      "lat": 42.4963,
-      "lng": -96.4049,
+      "prompt": "Kurt Warner stocked grocery shelves for $5.50 an hour in this Iowa city before winning Super Bowl XXXIV",
+      "answer": "Cedar Falls, Iowa",
+      "lat": 42.5247,
+      "lng": -92.4552,
       "scope": "city",
       "sport": "american football",
       "tags": [
@@ -552,14 +552,14 @@
       ],
       "viewLat": 37.7434,
       "viewLng": -102.1422,
-      "promptZh": "Kurt Warner 曾在爱荷华州以每小时5.50美元的价格补货，后来为这座城市的球队赢得 Super Bowl",
-      "story": "Sioux City High School’s 1990 graduate Kurt Warner later quarterbacked the St. Louis Rams to victory in Super Bowl XXXIV.",
-      "storyZh": "1990年毕业于苏克斯城高中库的库尔特·沃纳后来率领圣路易斯公羊队赢得第34届超级碗。",
+      "promptZh": "库尔特·华纳曾在这座爱荷华城市以每小时5.5美元的报酬在超市理货，后来赢得第34届超级碗",
+      "story": "Kurt Warner stocked shelves at a Hy-Vee in Cedar Falls, Iowa, for $5.50 an hour in 1994 before leading the St. Louis Rams to a Super Bowl XXXIV victory.",
+      "storyZh": "1994年，库尔特·华纳在爱荷华州锡达福尔斯的Hy-Vee超市以每小时5.5美元理货，后来率领圣路易斯公羊队赢得第34届超级碗。",
       "sources": [
         {
-          "title": "Wikipedia: Sioux City, Iowa",
-          "url": "https://en.wikipedia.org/w/index.php?search=Sioux%20City%2C%20Iowa",
-          "status": "unverified"
+          "title": "Wikipedia: Kurt Warner",
+          "url": "https://en.wikipedia.org/wiki/Kurt_Warner",
+          "status": "verified"
         }
       ]
     },
@@ -877,9 +877,9 @@
       "storyZh": "匹兹堡钢人队跑卫洛基·布莱尔在越南受伤后获授紫心勋章，后来又随队四次赢得超级碗。",
       "sources": [
         {
-          "title": "Wikipedia: Pittsburgh, Pennsylvania",
-          "url": "https://en.wikipedia.org/w/index.php?search=Pittsburgh%2C%20Pennsylvania",
-          "status": "unverified"
+          "title": "Wikipedia: Rocky Bleier",
+          "url": "https://en.wikipedia.org/wiki/Rocky_Bleier",
+          "status": "verified"
         }
       ]
     },
@@ -999,9 +999,9 @@
       "storyZh": "阿尔文是帕特里克·马霍姆斯二世长大的地方，他的父亲、前小联盟投手帕特里克·马霍姆斯一世曾在那里指导他；小马霍姆斯随后在2020年2月赢得第54届超级碗。",
       "sources": [
         {
-          "title": "Wikipedia: Alvin, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Alvin%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: Patrick Mahomes",
+          "url": "https://en.wikipedia.org/wiki/Patrick_Mahomes",
+          "status": "verified"
         }
       ]
     },
@@ -1253,9 +1253,9 @@
       "storyZh": "尤金是菲尔·耐特与田径教练比尔·鲍尔曼于1964年创办蓝带体育公司的所在地，这家公司后来发展为耐克，并推出了具有革命性的华夫鞋底。",
       "sources": [
         {
-          "title": "Wikipedia: Eugene, Oregon",
-          "url": "https://en.wikipedia.org/w/index.php?search=Eugene%2C%20Oregon",
-          "status": "unverified"
+          "title": "Wikipedia: Nike, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+          "status": "verified"
         }
       ]
     },
@@ -1943,13 +1943,13 @@
         "international"
       ],
       "promptZh": "十届金手套奖中外野手Andruw Jones出生于这座荷兰加勒比海岛屿的首府",
-      "story": "Willemstad was the birthplace of Andruw Jones on March 9, 1977; the center fielder went on to win 10 Gold Gloves.",
-      "storyZh": "1977年3月9日，安德鲁·琼斯出生于威廉斯塔德，后来这位中外野手共赢得10次金手套奖。",
+      "story": "Andruw Jones, winner of ten consecutive Gold Gloves from 1998 to 2007, was born in Willemstad, Curaçao, on April 23, 1977.",
+      "storyZh": "安德鲁·琼斯连续十年（1998–2007）获得金手套奖，1977年4月23日出生于库拉索岛的威廉斯塔德。",
       "sources": [
         {
-          "title": "Wikipedia: Willemstad, Curaçao",
-          "url": "https://en.wikipedia.org/w/index.php?search=Willemstad%2C%20Cura%C3%A7ao",
-          "status": "unverified"
+          "title": "Wikipedia: Andruw Jones",
+          "url": "https://en.wikipedia.org/wiki/Andruw_Jones",
+          "status": "verified"
         }
       ]
     },
@@ -2803,7 +2803,7 @@
     },
     {
       "id": "nba-okc-1",
-      "prompt": "Kevin Durant's 2012-13 scoring title came with a team based in this Sooner State city",
+      "prompt": "Kevin Durant's 2013–14 scoring title came with a team based in this Sooner State city",
       "answer": "Oklahoma City, Oklahoma",
       "lat": 35.4676,
       "lng": -97.5164,
@@ -2815,14 +2815,14 @@
       ],
       "viewLat": 31.3,
       "viewLng": -101,
-      "promptZh": "凯文·杜兰特2012-13赛季的得分王，是在这座俄克拉荷马州城市效力时拿到的",
-      "story": "The team moved to Oklahoma City in 2008 and, with Durant as its leading scorer, won the 2012-13 scoring title before trading him to the Warriors.",
-      "storyZh": "该球队2008年迁至俄克拉荷马城，杜兰特成为球队核心后拿下2012-13赛季得分王，之后被球队交易至勇士。",
+      "promptZh": "凯文·杜兰特2013-14赛季的得分王头衔，来自这座俄克拉荷马州城市效力的球队",
+      "story": "The franchise moved to Oklahoma City in 2008; Kevin Durant won the 2013–14 scoring title with the Thunder before being traded to the Warriors in 2016.",
+      "storyZh": "球队2008年迁至俄克拉荷马城；杜兰特2013-14赛季在这里赢得得分王，2016年被交易至勇士。",
       "sources": [
         {
-          "title": "Wikipedia: Oklahoma City, Oklahoma",
-          "url": "https://en.wikipedia.org/w/index.php?search=Oklahoma%20City%2C%20Oklahoma",
-          "status": "unverified"
+          "title": "Wikipedia: Kevin Durant",
+          "url": "https://en.wikipedia.org/wiki/Kevin_Durant",
+          "status": "verified"
         }
       ]
     },
@@ -3875,10 +3875,10 @@
     },
     {
       "id": "nhl-losangeles-1",
-      "prompt": "Back-to-back championships in '94 and '95 earned this team's home the nickname 'Clutch City'",
-      "answer": "Raleigh, North Carolina",
-      "lat": 35.7796,
-      "lng": -78.6382,
+      "prompt": "This Texas city earned the nickname 'Clutch City' after its NBA team won back-to-back championships in 1994 and 1995",
+      "answer": "Houston, Texas",
+      "lat": 29.7604,
+      "lng": -95.3698,
       "scope": "city",
       "sport": "ice hockey",
       "tags": [
@@ -3887,14 +3887,14 @@
       ],
       "viewLat": 24.7063,
       "viewLng": -73.1016,
-      "promptZh": "连续赢得1994年和1995年冠军后，这支球队的主场被称为“Clutch City”",
-      "story": "Raleigh earned the nickname “Clutch City” after the Carolina Hurricanes won consecutive Stanley Cups in 1994 and 1995.",
-      "storyZh": "卡罗来纳飓风队在1994年和1995年连续夺得斯坦利杯，正是在这两次夺冠之后，罗利赢得了“关键之城”的称号。",
+      "promptZh": "这座德克萨斯城市因当地NBA球队在1994和1995年连续夺冠而获得“关键之城”的绰号",
+      "story": "Houston earned the nickname 'Clutch City' after the Rockets won consecutive NBA titles in 1994 and 1995.",
+      "storyZh": "休斯顿火箭队1994和1995年连续夺得NBA总冠军，城市因此获得“Clutch City（关键之城）”的绰号。",
       "sources": [
         {
-          "title": "Wikipedia: Raleigh, North Carolina",
-          "url": "https://en.wikipedia.org/w/index.php?search=Raleigh%2C%20North%20Carolina",
-          "status": "unverified"
+          "title": "Wikipedia: Clutch City",
+          "url": "https://en.wikipedia.org/wiki/Clutch_City",
+          "status": "verified"
         }
       ]
     },
@@ -3936,13 +3936,13 @@
       "viewLat": 41.235,
       "viewLng": -92.9933,
       "promptZh": "迁往 Tennessee 之前，Titans 球队使用着另一个名字，并在这座城市效力",
-      "story": "The franchise known as the Houston Oilers played in Texas from 1979 until 1997, when it moved to Nashville and became the Tennessee Titans.",
-      "storyZh": "曾以休斯敦油人队闻名的球队自1979年至1997年在得州效力，随后迁往纳什维尔并更名为田纳西泰坦队。",
+      "story": "The Houston Oilers played in Houston from 1960 to 1996 before moving to Nashville; they played the 1997 season in Memphis while waiting for a new stadium.",
+      "storyZh": "休斯顿油人队1960至1996年在休斯顿比赛，后迁往纳什维尔；1997赛季他们在孟菲斯过渡一年，等待新球场建成。",
       "sources": [
         {
-          "title": "Wikipedia: Houston, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Houston%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: Tennessee Titans",
+          "url": "https://en.wikipedia.org/wiki/Tennessee_Titans",
+          "status": "verified"
         }
       ]
     },
@@ -5112,9 +5112,9 @@
       "storyZh": "自1988年澳大利亚网球公开赛从库扬迁至全新的墨尔本公园球场以来，这项赛事一直以墨尔本为举办地。",
       "sources": [
         {
-          "title": "Wikipedia: Melbourne, Australia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Melbourne%2C%20Australia",
-          "status": "unverified"
+          "title": "Wikipedia: Australian Open",
+          "url": "https://en.wikipedia.org/wiki/Australian_Open",
+          "status": "verified"
         }
       ]
     },
@@ -5182,9 +5182,9 @@
       "storyZh": "塞雷娜和维纳斯·威廉姆斯曾在康普顿破裂的公共球场上学球，并在那里磨练出后来帮助姐妹俩统治温网的技艺。",
       "sources": [
         {
-          "title": "Wikipedia: Compton, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Compton%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Serena Williams",
+          "url": "https://en.wikipedia.org/wiki/Serena_Williams",
+          "status": "verified"
         }
       ]
     },
@@ -5684,9 +5684,9 @@
       "storyZh": "达拉斯牛仔队于1960年开始参赛，自2009年以来一直以附近的阿灵顿AT&T球场为主场。",
       "sources": [
         {
-          "title": "Wikipedia: Dallas, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Dallas%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: Dallas Cowboys",
+          "url": "https://en.wikipedia.org/wiki/Dallas_Cowboys",
+          "status": "verified"
         }
       ]
     },
@@ -5832,9 +5832,9 @@
       "storyZh": "橄榄球名人堂于1963年在坎顿正式落成，此后每年夏天这座城市都会举办入选者庆典。",
       "sources": [
         {
-          "title": "Wikipedia: Canton, Ohio",
-          "url": "https://en.wikipedia.org/w/index.php?search=Canton%2C%20Ohio",
-          "status": "unverified"
+          "title": "Wikipedia: Pro Football Hall of Fame",
+          "url": "https://en.wikipedia.org/wiki/Pro_Football_Hall_of_Fame",
+          "status": "verified"
         }
       ]
     },
@@ -6087,9 +6087,9 @@
       "storyZh": "公羊队于1946年从克利夫兰迁至洛杉矶，在纪念体育场征战三个十年，之后于1980年迁往阿纳海姆。",
       "sources": [
         {
-          "title": "Wikipedia: Los Angeles, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Los%20Angeles%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Los Angeles Rams",
+          "url": "https://en.wikipedia.org/wiki/Los_Angeles_Rams",
+          "status": "verified"
         }
       ]
     },
@@ -6311,13 +6311,13 @@
       "viewLat": 38.5025,
       "viewLng": -75.0334,
       "promptZh": "“奇迹队”所在的这座城市曾赢得1969年世界大赛。",
-      "story": "The Mets played at Shea Stadium from 1964 through 2008 before moving to their current ballpark.",
-      "storyZh": "大都会队从1964年到2008年在谢亚球场比赛，之后迁入现在的棒球场。",
+      "story": "The Miracle Mets won the 1969 World Series; the franchise played at Shea Stadium from 1964 through 2008 before moving to Citi Field.",
+      "storyZh": "“奇迹大都会”夺得1969年世界大赛冠军；球队1964至2008年在谢亚球场作战，之后迁入花旗球场。",
       "sources": [
         {
-          "title": "Wikipedia: New York City, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=New%20York%20City%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: New York Mets",
+          "url": "https://en.wikipedia.org/wiki/New_York_Mets",
+          "status": "verified"
         }
       ]
     },
@@ -6411,13 +6411,13 @@
       "viewLat": 36.3757,
       "viewLng": -76.3409,
       "promptZh": "这座城市的球队曾赢得2008年世界大赛冠军。",
-      "story": "The Phillies have won World Series championships in 1955, 1980, and 2008.",
-      "storyZh": "费城人队分别在1955年、1980年和2008年赢得过世界大赛冠军。",
+      "story": "The Phillies won World Series titles in 1980 and 2008, their only two championships.",
+      "storyZh": "费城人队1980年和2008年两夺世界大赛冠军，这是队史仅有的两次夺冠。",
       "sources": [
         {
-          "title": "Wikipedia: Philadelphia, Pennsylvania",
-          "url": "https://en.wikipedia.org/w/index.php?search=Philadelphia%2C%20Pennsylvania",
-          "status": "unverified"
+          "title": "Wikipedia: Philadelphia Phillies",
+          "url": "https://en.wikipedia.org/wiki/Philadelphia_Phillies",
+          "status": "verified"
         }
       ]
     },
@@ -6711,9 +6711,9 @@
       "storyZh": "阪神大地震于1995年1月17日袭击神户，造成了大范围破坏。",
       "sources": [
         {
-          "title": "Wikipedia: Kobe, Japan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kobe%2C%20Japan",
-          "status": "unverified"
+          "title": "Wikipedia: Hanshin Tigers",
+          "url": "https://en.wikipedia.org/wiki/Hanshin_Tigers",
+          "status": "verified"
         }
       ]
     },
@@ -7506,9 +7506,9 @@
       "storyZh": "华盛顿子弹队在七场四胜制的总决赛中击败芝加哥公牛，夺得1978年NBA总冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Washington, District of Columbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Washington%2C%20District%20of%20Columbia",
-          "status": "unverified"
+          "title": "Wikipedia: Washington Wizards",
+          "url": "https://en.wikipedia.org/wiki/Washington_Wizards",
+          "status": "verified"
         }
       ]
     },
@@ -7531,9 +7531,9 @@
       "storyZh": "印第安纳步行者队闯入2000年NBA总决赛，距离总冠军仅差一场胜利。",
       "sources": [
         {
-          "title": "Wikipedia: Indianapolis, Indiana",
-          "url": "https://en.wikipedia.org/w/index.php?search=Indianapolis%2C%20Indiana",
-          "status": "unverified"
+          "title": "Wikipedia: Indiana Pacers",
+          "url": "https://en.wikipedia.org/wiki/Indiana_Pacers",
+          "status": "verified"
         }
       ]
     },
@@ -8069,7 +8069,7 @@
     },
     {
       "id": "nfl-seattle-washington-2",
-      "prompt": "This city’s Seahawks play in a stadium widely recognized as the NFL’s loudest.",
+      "prompt": "Fans of this city's NFL team twice set the Guinness record for loudest crowd roar, in 2013 and 2014",
       "answer": "Seattle, Washington",
       "lat": 47.6062,
       "lng": -122.3321,
@@ -8081,14 +8081,14 @@
       ],
       "viewLat": 44.3591,
       "viewLng": -127.498,
-      "promptZh": "这座城市的海鹰队主场球场被公认为NFL最响亮。",
-      "story": "Seattle's stadium recorded a noise level of 137 decibels during a 2014 home game.",
-      "storyZh": "2014年的一场主场比赛中，西雅图球场记录了137分贝的噪声。",
+      "promptZh": "这座城市NFL球队的球迷在2013和2014年两次创下吉尼斯最响亮的观众呐喊纪录",
+      "story": "Seahawks fans at Lumen Field set the Guinness World Record for loudest crowd roar at an outdoor stadium in 2013 and again in 2014.",
+      "storyZh": "海鹰队球迷在卢门球场两次创下吉尼斯室外体育场最响观众呐喊纪录，分别在2013和2014年。",
       "sources": [
         {
-          "title": "Wikipedia: Seattle, Washington",
-          "url": "https://en.wikipedia.org/w/index.php?search=Seattle%2C%20Washington",
-          "status": "unverified"
+          "title": "Wikipedia: Lumen Field",
+          "url": "https://en.wikipedia.org/wiki/Lumen_Field",
+          "status": "verified"
         }
       ]
     },
@@ -8696,9 +8696,9 @@
       "storyZh": "阿纳海姆的本田中心球馆于1993年开放，座位容量约为17500个。",
       "sources": [
         {
-          "title": "Wikipedia: Anaheim, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Anaheim%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Anaheim Ducks",
+          "url": "https://en.wikipedia.org/wiki/Anaheim_Ducks",
+          "status": "verified"
         }
       ]
     },
@@ -8984,13 +8984,13 @@
         "CHL"
       ],
       "promptZh": "这座城市的青年俱乐部昵称“喷火战机队”，曾多次夺得纪念杯。",
-      "story": "The Windsor Spitfires won the Memorial Cup in 2017 and also captured the title in 2010.",
-      "storyZh": "温莎喷火战机队曾赢得2017年纪念杯，并在2010年再次夺冠。",
+      "story": "The Windsor Spitfires won back-to-back Memorial Cups in 2009 and 2010, then added a third in 2017.",
+      "storyZh": "温莎喷火者队2009和2010年连续夺得纪念杯，2017年再添一冠。",
       "sources": [
         {
-          "title": "Wikipedia: Windsor, Ontario",
-          "url": "https://en.wikipedia.org/w/index.php?search=Windsor%2C%20Ontario",
-          "status": "unverified"
+          "title": "Wikipedia: Windsor Spitfires",
+          "url": "https://en.wikipedia.org/wiki/Windsor_Spitfires",
+          "status": "verified"
         }
       ]
     },
@@ -9487,13 +9487,13 @@
       "viewLat": 47.5248,
       "viewLng": 1.279,
       "promptZh": "这座城市是欧洲劲旅主场，其黄色看台举世闻名。",
-      "story": "The city's St. Reinholdi Church was rebuilt in the 1960s after its original structure was destroyed in World War II.",
-      "storyZh": "这座城市的圣莱因霍尔迪教堂在二战中原址被毁，随后于20世纪60年代重建。",
+      "story": "Borussia Dortmund's Westfalenstadion, home since 1974, features the Yellow Wall — Europe's largest standing terrace in the South Stand.",
+      "storyZh": "多特蒙德自1974年起以威斯特法伦球场为主场，南看台的“黄墙”是欧洲最大的站席看台。",
       "sources": [
         {
-          "title": "Wikipedia: Dortmund, Germany",
-          "url": "https://en.wikipedia.org/w/index.php?search=Dortmund%2C%20Germany",
-          "status": "unverified"
+          "title": "Wikipedia: Borussia Dortmund",
+          "url": "https://en.wikipedia.org/wiki/Borussia_Dortmund",
+          "status": "verified"
         }
       ]
     },
@@ -10271,7 +10271,7 @@
     },
     {
       "id": "soccer-tbilisi-georgia",
-      "prompt": "This Caucasus capital is home to Dinamo, which won the 1981 UEFA Cup Winners' Cup.",
+      "prompt": "This Caucasus capital is home to the club that won the 1981 Cup Winners' Cup, named after the city itself",
       "answer": "Tbilisi, Georgia",
       "lat": 41.7151,
       "lng": 44.8271,
@@ -10281,14 +10281,14 @@
         "soccer",
         "Europe"
       ],
-      "promptZh": "这座高加索首都的主场球队曾赢得1981年欧洲优胜者杯。",
-      "story": "The club was founded in 1925 and captured Soviet league championships in 1981 and 1984.",
-      "storyZh": "该俱乐部成立于1925年，并于1981年和1984年夺得苏联联赛冠军。",
+      "promptZh": "这座高加索首都的第比利斯迪纳摩夺得了1981年欧洲优胜者杯",
+      "story": "Dinamo Tbilisi beat Carl Zeiss Jena 2–1 in the 1981 Cup Winners' Cup final in Düsseldorf.",
+      "storyZh": "第比利斯迪纳摩在杜塞尔多夫举行的1981年欧洲优胜者杯决赛中2比1击败耶拿卡尔·蔡司夺冠。",
       "sources": [
         {
-          "title": "Wikipedia: Tbilisi, Georgia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Tbilisi%2C%20Georgia",
-          "status": "unverified"
+          "title": "Wikipedia: FC Dinamo Tbilisi",
+          "url": "https://en.wikipedia.org/wiki/FC_Dinamo_Tbilisi",
+          "status": "verified"
         }
       ]
     },
@@ -10959,7 +10959,7 @@
     },
     {
       "id": "golf-royal-troon-scotland",
-      "prompt": "This town is home to a links course that hosted eight Open Championships between 1923 and 2021.",
+      "prompt": "This Scottish town's links course has hosted The Open ten times, most recently in 2024",
       "answer": "Royal Troon, Scotland",
       "lat": 55.5417,
       "lng": -4.6597,
@@ -10971,14 +10971,14 @@
       ],
       "viewLat": 61.8099,
       "viewLng": -0.5152,
-      "promptZh": "这座小镇的林克斯球场曾举办八届英国公开赛。",
-      "story": "Royal Troon Golf Club was founded in 1878. It has two courses, and the Old Course is famous for its deep rough and strong winds.",
-      "storyZh": "皇家特罗恩高尔夫俱乐部创立于1878年，拥有两座球场，其中老球场以深草和强风著称。",
+      "promptZh": "这座苏格兰小镇的林克斯球场已十次举办英国公开赛，最近一次是2024年",
+      "story": "Royal Troon's Old Course has hosted The Open ten times since 1923, most recently in 2024.",
+      "storyZh": "皇家特伦老球场自1923年起已十次举办英国公开赛，最近一次在2024年。",
       "sources": [
         {
-          "title": "Wikipedia: Royal Troon, Scotland",
-          "url": "https://en.wikipedia.org/w/index.php?search=Royal%20Troon%2C%20Scotland",
-          "status": "unverified"
+          "title": "Wikipedia: Royal Troon Golf Club",
+          "url": "https://en.wikipedia.org/wiki/Royal_Troon_Golf_Club",
+          "status": "verified"
         }
       ]
     },
@@ -11034,7 +11034,7 @@
     },
     {
       "id": "golf-westerly-rhode-island",
-      "prompt": "This town is home to a course that has hosted five U.S. Opens, most recently in 1964.",
+      "prompt": "A William F. Davis-designed course in this Rhode Island town was redesigned by Donald Ross in 1938",
       "answer": "Westerly, Rhode Island",
       "lat": 41.3801,
       "lng": -71.8292,
@@ -11046,14 +11046,14 @@
       ],
       "viewLat": 44.3734,
       "viewLng": -79.3915,
-      "promptZh": "这个小镇的球场曾五次承办美国公开赛，末次是1964年。",
-      "story": "Rhode Island Country Club was designed by William F. Davis, with Donald Ross overseeing changes to the course in 1938.",
-      "storyZh": "罗得岛乡村俱乐部由威廉·戴维斯设计，唐纳德·罗斯于1938年负责监督球场的改造。",
+      "promptZh": "这座罗德岛小镇上由威廉·F·戴维斯设计的球场，1938年由唐纳德·罗斯重新设计",
+      "story": "Rhode Island Country Club in Westerly was designed by William F. Davis, with Donald Ross overseeing changes to the course in 1938.",
+      "storyZh": "位于韦斯特利的罗德岛乡村俱乐部由威廉·F·戴维斯设计，1938年由唐纳德·罗斯主持改造。",
       "sources": [
         {
-          "title": "Wikipedia: Westerly, Rhode Island",
-          "url": "https://en.wikipedia.org/w/index.php?search=Westerly%2C%20Rhode%20Island",
-          "status": "unverified"
+          "title": "Wikipedia: Rhode Island Country Club",
+          "url": "https://en.wikipedia.org/wiki/Rhode_Island_Country_Club",
+          "status": "verified"
         }
       ]
     },
@@ -11484,24 +11484,24 @@
     },
     {
       "id": "golf-trophade-france",
-      "prompt": "This continental course hosted the 2018 Ryder Cup, won by Team Europe.",
-      "answer": "Trophade, France",
-      "lat": 47.7753,
-      "lng": -2.5058,
+      "prompt": "This Paris suburb's course hosted the 2018 Ryder Cup, won by Team Europe",
+      "answer": "Guyancourt, France",
+      "lat": 48.7773,
+      "lng": 2.0619,
       "scope": "world",
       "sport": "golf",
       "tags": [
         "golf",
         "Europe"
       ],
-      "promptZh": "这座欧洲球场举办了2018年莱德杯，欧洲队获胜。",
-      "story": "Le Golf National hosted the 2018 Ryder Cup near Paris. Europe defeated the United States 17½–8½.",
-      "storyZh": "国家高尔夫俱乐部在巴黎附近举办了2018年莱德杯。欧洲队以17½比8½击败美国队。",
+      "promptZh": "这座巴黎近郊的球场举办了2018年莱德杯，欧洲队获胜",
+      "story": "Le Golf National in Guyancourt, southwest of Paris, hosted the 2018 Ryder Cup; Europe beat the United States 17½–10½.",
+      "storyZh": "位于巴黎西南郊吉扬库尔的法国国家高尔夫俱乐部举办了2018年莱德杯，欧洲队以17.5比10.5击败美国队。",
       "sources": [
         {
-          "title": "Wikipedia: Trophade, France",
-          "url": "https://en.wikipedia.org/w/index.php?search=Trophade%2C%20France",
-          "status": "unverified"
+          "title": "Wikipedia: Le Golf National",
+          "url": "https://en.wikipedia.org/wiki/Le_Golf_National",
+          "status": "verified"
         }
       ]
     },
@@ -12047,9 +12047,9 @@
       "storyZh": "2020年奥运会因新冠疫情推迟一年举行，但保留了原赛事名称。",
       "sources": [
         {
-          "title": "Wikipedia: Tokyo, Japan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Tokyo%2C%20Japan",
-          "status": "unverified"
+          "title": "Wikipedia: 1964 Summer Olympics",
+          "url": "https://en.wikipedia.org/wiki/1964_Summer_Olympics",
+          "status": "verified"
         }
       ]
     },
