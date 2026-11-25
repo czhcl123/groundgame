@@ -1992,13 +1992,13 @@
       "viewLat": 22.6821,
       "viewLng": -78.864,
       "promptZh": "1974年，Hank Aaron在这座城市的球场打破了Babe Ruth的本垒打生涯纪录",
-      "story": "On April 4, 1974, Hank Aaron hit his 715th home run at Atlanta-Fulton County Stadium, breaking Babe Ruth's career record.",
-      "storyZh": "1974年4月4日，汉克·艾伦在亚特兰大富尔顿县球场击出本垒打715次，打破了贝比·鲁斯保持的职业生涯纪录。",
+      "story": "On April 8, 1974, Hank Aaron hit his 715th home run at Atlanta-Fulton County Stadium, breaking Babe Ruth's career record.",
+      "storyZh": "1974年4月8日，汉克·艾伦在亚特兰大富尔顿县球场击出生涯第715支本垒打，打破贝比·鲁斯保持的职业生涯纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Atlanta, Georgia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Atlanta%2C%20Georgia",
-          "status": "unverified"
+          "title": "Wikipedia: Hank Aaron",
+          "url": "https://en.wikipedia.org/wiki/Hank_Aaron",
+          "status": "verified"
         }
       ]
     },
@@ -3314,7 +3314,7 @@
     },
     {
       "id": "us-nba-memphis-1",
-      "prompt": "Before becoming the NBA's first unanimous MVP, this guard led a tiny school here to the 2008 Elite Eight",
+      "prompt": "In 2008 this city's Tigers, led by freshman Derrick Rose under coach John Calipari, reached the NCAA championship game",
       "answer": "Memphis, Tennessee",
       "lat": 35.1495,
       "lng": -90.049,
@@ -3326,14 +3326,14 @@
       ],
       "viewLat": 24.3495,
       "viewLng": -90.049,
-      "promptZh": "这位后卫在成为NBA首位全票MVP之前，曾率领当地一所小学校打进2008年精英八强",
-      "story": "Memphis State reached the 1973 NCAA championship game and faced John Wooden’s UCLA, a landmark achievement in the school’s basketball history.",
-      "storyZh": "孟菲斯州立大学曾闯入1973年NCAA冠军赛，与约翰·伍登执教的UCLA正面对决，这是校史篮球最辉煌的篇章之一。",
+      "promptZh": "2008年，这座城市的老虎队在主帅约翰·卡利帕里和大一新生德里克·罗斯带领下闯入NCAA冠军赛",
+      "story": "Memphis's 2007–08 Tigers reached the 2008 NCAA title game behind freshman Derrick Rose and coach John Calipari; the season's wins were later vacated over Rose's eligibility.",
+      "storyZh": "2007-08赛季的孟菲斯老虎队在大一新生德里克·罗斯和主帅卡利帕里带领下闯入2008年NCAA冠军赛，后因罗斯参赛资格问题被取消该赛季战绩。",
       "sources": [
         {
-          "title": "Wikipedia: Memphis, Tennessee",
-          "url": "https://en.wikipedia.org/w/index.php?search=Memphis%2C%20Tennessee",
-          "status": "unverified"
+          "title": "Wikipedia: 2007–08 Memphis Tigers men's basketball team",
+          "url": "https://en.wikipedia.org/wiki/2007%E2%80%9308_Memphis_Tigers_men%27s_basketball_team",
+          "status": "verified"
         }
       ]
     },
@@ -4991,9 +4991,9 @@
       "storyZh": "2022年12月18日，卢赛尔体育场举行国际足联世界杯决赛，阿根廷通过点球大战击败法国，梅西终于举起了冠军奖杯。",
       "sources": [
         {
-          "title": "Wikipedia: Lusail, Qatar",
-          "url": "https://en.wikipedia.org/w/index.php?search=Lusail%2C%20Qatar",
-          "status": "unverified"
+          "title": "Wikipedia: 2022 FIFA World Cup final",
+          "url": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final",
+          "status": "verified"
         }
       ]
     },
@@ -5010,13 +5010,18 @@
         "1930"
       ],
       "promptZh": "1930年首届世界杯在这座南美城市举行，美国队取得队史世界杯最佳成绩——季军",
-      "story": "Uruguay finished third at the inaugural 1930 FIFA World Cup in Montevideo, defeating Brazil 4–2 for the nation’s best result in the tournament’s early history.",
-      "storyZh": "在1930年首届国际足联世界杯举办地蒙得维的亚，乌拉圭以4比2击败巴西，获得队史在早期世界杯中的最佳名次——季军。",
+      "story": "The United States reached the semifinals of the inaugural 1930 World Cup, whose matches were all played in Montevideo — a finish later recognized as third place and still the best result by an American men's team.",
+      "storyZh": "美国队闯入1930年首届世界杯四强（该届赛事全部比赛在蒙得维的亚举行），这一成绩后来被认定为季军，至今仍是美国男足的世界杯最佳战绩。",
       "sources": [
         {
-          "title": "Wikipedia: Montevideo, Uruguay",
-          "url": "https://en.wikipedia.org/w/index.php?search=Montevideo%2C%20Uruguay",
-          "status": "unverified"
+          "title": "Wikipedia: United States at the FIFA World Cup",
+          "url": "https://en.wikipedia.org/wiki/United_States_at_the_FIFA_World_Cup",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: 1930 FIFA World Cup",
+          "url": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup",
+          "status": "verified"
         }
       ]
     },
@@ -5047,7 +5052,7 @@
     },
     {
       "id": "worldcup-uruguay-1",
-      "prompt": "The most-attended World Cup match ever drew an estimated 173,850 to this stadium in 1950",
+      "prompt": "The most-attended World Cup match ever drew an officially recorded 173,850 to this city's Maracanã in 1950",
       "answer": "Rio de Janeiro, Brazil",
       "lat": -22.9068,
       "lng": -43.1729,
@@ -5057,14 +5062,14 @@
         "FIFA",
         "1950"
       ],
-      "promptZh": "1950年，史上观众人数最多的世界杯比赛在这座球场所在的这座城市举行，估计有173,850人到场",
-      "story": "Rio de Janeiro’s Maracanã hosted the decisive 1950 World Cup match between Brazil and Uruguay before an estimated crowd of 173,850, an often-cited attendance record.",
-      "storyZh": "1950年，巴西与乌拉圭在里约热内卢的马拉卡纳体育场进行决定性比赛，预计观众人数达到173,850人，这一数字常被视为世界杯上座纪录。",
+      "promptZh": "1950年，史上观众人数最多的世界杯比赛在这座城市的马拉卡纳体育场举行，官方记录到场173,850人",
+      "story": "The decisive 1950 World Cup match between Brazil and Uruguay at the Maracanã drew an officially recorded crowd of 173,850 — an all-time high in paid attendance for a football match.",
+      "storyZh": "1950年世界杯巴西对乌拉圭的决定性一战在马拉卡纳体育场举行，官方记录观众173,850人，创足球比赛付费入场人数的历史之最。",
       "sources": [
         {
-          "title": "Wikipedia: Rio de Janeiro, Brazil",
-          "url": "https://en.wikipedia.org/w/index.php?search=Rio%20de%20Janeiro%2C%20Brazil",
-          "status": "unverified"
+          "title": "Wikipedia: Maracanazo",
+          "url": "https://en.wikipedia.org/wiki/Maracanazo",
+          "status": "verified"
         }
       ]
     },
@@ -5139,7 +5144,7 @@
     },
     {
       "id": "tennis-serbia-1",
-      "prompt": "Tennis's all-time leader in Grand Slams was born in this captial city in 1987",
+      "prompt": "Men's tennis's all-time leader in Grand Slam singles titles was born in this capital city in 1987",
       "answer": "Belgrade, Serbia",
       "lat": 44.7866,
       "lng": 20.4489,
@@ -5148,14 +5153,14 @@
       "tags": [
         "ATP"
       ],
-      "promptZh": "这位网球史上大满贯纪录保持者于1987年出生在这座首都城市",
-      "story": "Novak Djokovic was born in Belgrade in 1987 and became tennis's all-time leader in Grand Slam titles, building his record with 24 major championships.",
-      "storyZh": "诺瓦克·德约科维奇于1987年出生在贝尔格莱德，后来以24座大满贯奖杯成为网球生涯大满贯冠军总数纪录保持者。",
+      "promptZh": "男子网球大满贯单打冠军数历史第一人于1987年出生在这座首都城市",
+      "story": "Novak Djokovic was born in Belgrade in 1987 and holds the men's record of 24 Grand Slam singles titles.",
+      "storyZh": "诺瓦克·德约科维奇1987年出生于贝尔格莱德，以24座大满贯单打冠军保持男子网坛历史纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Belgrade, Serbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Belgrade%2C%20Serbia",
-          "status": "unverified"
+          "title": "Wikipedia: Novak Djokovic",
+          "url": "https://en.wikipedia.org/wiki/Novak_Djokovic",
+          "status": "verified"
         }
       ]
     },
@@ -9611,9 +9616,9 @@
       "storyZh": "尤文图斯于1897年在都灵成立，俱乐部现址球场于2011年启用。",
       "sources": [
         {
-          "title": "Wikipedia: Turin, Italy",
-          "url": "https://en.wikipedia.org/w/index.php?search=Turin%2C%20Italy",
-          "status": "unverified"
+          "title": "Wikipedia: Juventus F.C.",
+          "url": "https://en.wikipedia.org/wiki/Juventus_F.C.",
+          "status": "verified"
         }
       ]
     },
@@ -9964,7 +9969,7 @@
     },
     {
       "id": "soccer-uruguay",
-      "prompt": "This country won the first two FIFA World Cups and the 1950 Maracanazo.",
+      "prompt": "This country won the inaugural World Cup at home in 1930 and pulled off the 1950 Maracanazo.",
       "answer": "Uruguay",
       "lat": -32.5228,
       "lng": -55.7658,
@@ -9973,14 +9978,19 @@
       "tags": [
         "World Cup"
       ],
-      "promptZh": "这个国家赢得前两届世界杯及1950年的马卡纳佐。",
-      "story": "The 1930 final at Estadio Centenario ended 4–2 against Argentina, and Uruguay won again in 1934.",
-      "storyZh": "1930年，决赛在世纪球场举行，乌拉圭以4比2击败阿根廷，并在1934年再次夺冠。",
+      "promptZh": "这个国家1930年在本土夺得首届世界杯，并在1950年制造了著名的“马拉卡纳惨案”。",
+      "story": "The 1930 final at Estadio Centenario ended 4–2 against Argentina, and Uruguay took the title again at the 1950 Maracanazo against Brazil.",
+      "storyZh": "1930年决赛在世纪球场以4比2击败阿根廷；1950年又在马拉卡纳击败巴西再度捧杯，史称“马拉卡纳惨案”。",
       "sources": [
         {
-          "title": "Wikipedia: Uruguay",
-          "url": "https://en.wikipedia.org/w/index.php?search=Uruguay",
-          "status": "unverified"
+          "title": "Wikipedia: 1930 FIFA World Cup",
+          "url": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Maracanazo",
+          "url": "https://en.wikipedia.org/wiki/Maracanazo",
+          "status": "verified"
         }
       ]
     },
@@ -10146,7 +10156,7 @@
     },
     {
       "id": "soccer-zagreb-croatia",
-      "prompt": "This city staged the 2018 FIFA World Cup final, the first championship final held in a former Yugoslav republic.",
+      "prompt": "The only Croatian club to win a European trophy — the 1967 Inter-Cities Fairs Cup — plays in this city",
       "answer": "Zagreb, Croatia",
       "lat": 45.815,
       "lng": 15.9819,
@@ -10156,14 +10166,14 @@
         "soccer",
         "Europe"
       ],
-      "promptZh": "这座城市举办了2018年世界杯决赛，也是南斯拉夫首次。",
-      "story": "The 2018 FIFA World Cup final was played at Maksimir Stadium, with Croatia defeating France 4–2.",
-      "storyZh": "2018年国际足联世界杯决赛在马克西米尔球场举行，克罗地亚以4比2击败法国。",
+      "promptZh": "唯一赢得过欧洲赛事奖杯（1967年国际城市博览会杯）的克罗地亚俱乐部来自这座城市",
+      "story": "Dinamo Zagreb defeated Leeds United in the 1966–67 Inter-Cities Fairs Cup final — to this day the only European trophy won by a Croatian club.",
+      "storyZh": "萨格勒布迪纳摩在1966-67赛季国际城市博览会杯决赛中击败利兹联夺冠，至今仍是克罗地亚俱乐部赢得的唯一一座欧洲奖杯。",
       "sources": [
         {
-          "title": "Wikipedia: Zagreb, Croatia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Zagreb%2C%20Croatia",
-          "status": "unverified"
+          "title": "Wikipedia: GNK Dinamo Zagreb",
+          "url": "https://en.wikipedia.org/wiki/GNK_Dinamo_Zagreb",
+          "status": "verified"
         }
       ]
     },
@@ -11583,9 +11593,9 @@
       "storyZh": "澳大利亚网球公开赛于1905年首次举办，自1988年以来一直在墨尔本公园举行。",
       "sources": [
         {
-          "title": "Wikipedia: Melbourne, Australia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Melbourne%2C%20Australia",
-          "status": "unverified"
+          "title": "Wikipedia: Australian Open",
+          "url": "https://en.wikipedia.org/wiki/Australian_Open",
+          "status": "verified"
         }
       ]
     },
@@ -11608,9 +11618,9 @@
       "storyZh": "女子单打锦标赛于1884年首次开赛。",
       "sources": [
         {
-          "title": "Wikipedia: Wimbledon, England",
-          "url": "https://en.wikipedia.org/w/index.php?search=Wimbledon%2C%20England",
-          "status": "unverified"
+          "title": "Wikipedia: Wimbledon Championships",
+          "url": "https://en.wikipedia.org/wiki/Wimbledon_Championships",
+          "status": "verified"
         }
       ]
     },
@@ -11679,13 +11689,13 @@
       "viewLat": 35.2403,
       "viewLng": -6.7562,
       "promptZh": "这座城市每年举办春季红土场的1000分大师赛网球赛。",
-      "story": "The 2022 men's final was the first Masters 1000 final to be played as best of five sets.",
-      "storyZh": "2022年男单决赛成为首场采用五盘三胜制的1000分大师赛决赛。",
+      "story": "The 2022 Madrid Open concluded with Carlos Alcaraz defeating Alexander Zverev 6–3, 6–1 in the final at the Caja Mágica.",
+      "storyZh": "2022年马德里公开赛决赛，卡洛斯·阿尔卡拉斯在魔力盒球场以6比3、6比1击败亚历山大·兹维列夫夺冠。",
       "sources": [
         {
-          "title": "Wikipedia: Madrid, Spain",
-          "url": "https://en.wikipedia.org/w/index.php?search=Madrid%2C%20Spain",
-          "status": "unverified"
+          "title": "Wikipedia: 2022 Mutua Madrid Open",
+          "url": "https://en.wikipedia.org/wiki/2022_Mutua_Madrid_Open",
+          "status": "verified"
         }
       ]
     },
@@ -11741,7 +11751,7 @@
     },
     {
       "id": "tennis-montreal-quebec",
-      "prompt": "This city hosts a summer hard-court Masters 1000 tournament still known by a traditional country-derived title.",
+      "prompt": "This Quebec city's IGA Stadium shares the Canadian Open — the world's second-oldest tennis tournament — with Toronto",
       "answer": "Montreal, Quebec",
       "lat": 45.5017,
       "lng": -73.5673,
@@ -11753,20 +11763,20 @@
       ],
       "viewLat": 49.5226,
       "viewLng": -78.0698,
-      "promptZh": "这座城市举办沿用国名的夏季硬地场1000分大师赛。",
-      "story": "The tournament was first held in this city in 1974.",
-      "storyZh": "该赛事于1974年首次在这座城市举办。",
+      "promptZh": "这座魁北克城市的IGA球场与多伦多轮流举办加拿大网球公开赛——世界第二古老的网球赛事",
+      "story": "First played in 1881, the Canadian Open is the second-oldest tennis tournament in the world after Wimbledon; it now alternates between Montreal's IGA Stadium and Toronto's Sobeys Stadium.",
+      "storyZh": "加拿大网球公开赛创办于1881年，是仅次于温网的世界第二古老网球赛事，现由蒙特利尔IGA球场与多伦多Sobeys球场轮流承办。",
       "sources": [
         {
-          "title": "Wikipedia: Montreal, Quebec",
-          "url": "https://en.wikipedia.org/w/index.php?search=Montreal%2C%20Quebec",
-          "status": "unverified"
+          "title": "Wikipedia: Canadian Open (tennis)",
+          "url": "https://en.wikipedia.org/wiki/Canadian_Open_(tennis)",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "tennis-cincinnati-ohio",
-      "prompt": "This Ohio city hosts a summer Masters 1000 tournament whose event was upgraded in 2009.",
+      "prompt": "This Ohio city gives its name to a summer Masters 1000 tennis tournament first played in 1899",
       "answer": "Cincinnati, Ohio",
       "lat": 39.1031,
       "lng": -84.512,
@@ -11778,14 +11788,14 @@
       ],
       "viewLat": 34.1188,
       "viewLng": -88.2435,
-      "promptZh": "这座城市的赛事于2009年升级为1000分大师赛。",
-      "story": "Rafael Nadal won the singles title here a record ten times.",
-      "storyZh": "拉斐尔·纳达尔曾十次在这里赢得男单冠军，创下赛事纪录。",
+      "promptZh": "一项始于1899年的夏季1000分网球大师赛以这座俄亥俄州城市命名",
+      "story": "First played in 1899, the Cincinnati Open is the oldest tennis tournament in the United States still played near its original city; Roger Federer holds the record with seven singles titles.",
+      "storyZh": "辛辛那提公开赛创办于1899年，是美国历史最悠久且仍在原址附近举办的网球赛事；费德勒以7个单打冠军保持赛会纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Cincinnati, Ohio",
-          "url": "https://en.wikipedia.org/w/index.php?search=Cincinnati%2C%20Ohio",
-          "status": "unverified"
+          "title": "Wikipedia: Cincinnati Open",
+          "url": "https://en.wikipedia.org/wiki/Cincinnati_Open",
+          "status": "verified"
         }
       ]
     },
@@ -11804,13 +11814,13 @@
       "viewLat": 25.0572,
       "viewLng": 114.4419,
       "promptZh": "这座城市每年举办秋季室外硬地场的1000分大师赛。",
-      "story": "The tournament was first held in this city in 2009.",
-      "storyZh": "该赛事于2009年首次在这座城市举办。",
+      "story": "First held in 2009 at the Qizhong Forest Sports City Arena, the Shanghai Masters is the only ATP Masters 1000 event outside Europe and North America.",
+      "storyZh": "上海大师赛2009年首次举办，比赛地为旗忠森林体育城网球中心，是ATP唯一设在欧洲和北美之外的1000分大师赛。",
       "sources": [
         {
-          "title": "Wikipedia: Shanghai, China",
-          "url": "https://en.wikipedia.org/w/index.php?search=Shanghai%2C%20China",
-          "status": "unverified"
+          "title": "Wikipedia: Shanghai Masters (tennis)",
+          "url": "https://en.wikipedia.org/wiki/Shanghai_Masters_(tennis)",
+          "status": "verified"
         }
       ]
     },
@@ -11863,29 +11873,30 @@
     },
     {
       "id": "tennis-novi-sad-serbia",
-      "prompt": "This Serbian city saw Djokovic claim his first Masters title in 2006 and hosted the season-ending world championships in the 1990s.",
+      "prompt": "This Serbian city is home to FK Vojvodina, founded in 1914 and champions of Yugoslavia in 1966 and 1989",
       "answer": "Novi Sad, Serbia",
       "lat": 45.2671,
       "lng": 19.8335,
       "scope": "world",
-      "sport": "tennis",
+      "sport": "soccer",
       "tags": [
-        "tennis"
+        "soccer",
+        "FK Vojvodina"
       ],
-      "promptZh": "这座塞尔维亚城市见证德约科维奇2006年首夺大师赛冠军。",
-      "story": "The season-ending World Championships were staged in Novi Sad from 1990 to 1995, before moving on to Stuttgart.",
-      "storyZh": "年终世界锦标赛曾于1990年至1995年在诺维萨德举行，随后移往斯图加特。",
+      "promptZh": "这座塞尔维亚城市是伏伊伏丁那足球俱乐部的主场，该队成立于1914年，曾于1966年和1989年夺得南斯拉夫联赛冠军",
+      "story": "FK Vojvodina was founded in Novi Sad in 1914 and won the Yugoslav First League twice, in 1966 and 1989.",
+      "storyZh": "伏伊伏丁那俱乐部1914年成立于诺维萨德，曾于1966年和1989年两夺南斯拉夫甲级联赛冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Novi Sad, Serbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Novi%20Sad%2C%20Serbia",
-          "status": "unverified"
+          "title": "Wikipedia: FK Vojvodina",
+          "url": "https://en.wikipedia.org/wiki/FK_Vojvodina",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "tennis-turin-italy",
-      "prompt": "This Italian city hosted the season-ending ATP Finals for five consecutive editions, from 2018 through 2022.",
+      "prompt": "This Italian city hosted the season-ending ATP Finals for five consecutive editions, from 2021 through 2025",
       "answer": "Turin, Italy",
       "lat": 45.0703,
       "lng": 7.6869,
@@ -11895,14 +11906,14 @@
         "tennis",
         "ATP Finals"
       ],
-      "promptZh": "这座意大利城市曾连续五届举办ATP年终总决赛。",
-      "story": "The Italian Open in Turin is one of the oldest clay-court tournaments in the world, played since 1930.",
-      "storyZh": "都灵的意大利公开赛是世界上最古老的红土赛事之一，创办于1930年。",
+      "promptZh": "这座意大利城市在2021至2025年连续五届举办ATP年终总决赛",
+      "story": "Turin took over the ATP Finals from London's O2 Arena, hosting the season-ending championship from 2021 through 2025.",
+      "storyZh": "都灵从伦敦O2体育馆手中接过ATP年终总决赛举办权，2021至2025年连续承办这一赛季收官战。",
       "sources": [
         {
-          "title": "Wikipedia: Turin, Italy",
-          "url": "https://en.wikipedia.org/w/index.php?search=Turin%2C%20Italy",
-          "status": "unverified"
+          "title": "Wikipedia: ATP Finals",
+          "url": "https://en.wikipedia.org/wiki/ATP_Finals",
+          "status": "verified"
         }
       ]
     },
@@ -11931,7 +11942,7 @@
     },
     {
       "id": "tennis-basel-switzerland",
-      "prompt": "This Swiss city has staged an indoor hard-court tournament since 1975, one of the tour's oldest events.",
+      "prompt": "Roger Federer holds the record with ten singles titles at this Swiss city's indoor tournament, created in 1970",
       "answer": "Basel, Switzerland",
       "lat": 47.5596,
       "lng": 7.5886,
@@ -11940,20 +11951,20 @@
       "tags": [
         "tennis"
       ],
-      "promptZh": "这座瑞士城市自1975年起举办一项室内硬地赛事。",
-      "story": "Since 2009 the Swiss Indoors has been played at St. Jakobshalle, following earlier editions at the Mustermesse fairground.",
-      "storyZh": "自2009年起，瑞士室内赛改在圣雅各布会堂举行，此前在展览中心举行。",
+      "promptZh": "罗杰·费德勒在这座瑞士城市的室内网球赛（创办于1970年）十夺单打冠军，保持赛会纪录",
+      "story": "The Swiss Indoors, created in 1970, has been played at the St. Jakobshalle since 1995; Basel native Roger Federer holds the record with ten singles titles.",
+      "storyZh": "瑞士室内赛创办于1970年，自1995年起在圣雅各布会堂举行；巴塞尔本地名将费德勒以10个单打冠军保持赛会纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Basel, Switzerland",
-          "url": "https://en.wikipedia.org/w/index.php?search=Basel%2C%20Switzerland",
-          "status": "unverified"
+          "title": "Wikipedia: Swiss Indoors",
+          "url": "https://en.wikipedia.org/wiki/Swiss_Indoors",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "tennis-hamburg-germany",
-      "prompt": "This city hosts the country's oldest clay-court tennis tournament, which was founded in 1897.",
+      "prompt": "This city hosts Germany's oldest tennis tournament, first contested in 1892",
       "answer": "Hamburg, Germany",
       "lat": 53.5511,
       "lng": 9.9937,
@@ -11962,14 +11973,14 @@
       "tags": [
         "tennis"
       ],
-      "promptZh": "这座城市举办该国历史最悠久的红土网球赛。",
-      "story": "Rafael Nadal won his first ATP singles title at this tournament in 1995, at the age of 17.",
-      "storyZh": "拉斐尔·纳达尔于1995年在该赛事赢得个人首个ATP单打冠军，当时年仅17岁。",
+      "promptZh": "这座城市举办德国历史最悠久的网球赛事，始创于1892年",
+      "story": "The Hamburg Open, first contested in 1892, is the fifth-oldest tennis tournament in the world; in 1993, world No. 1 Monica Seles was stabbed during a match at the Rothenbaum.",
+      "storyZh": "汉堡公开赛创办于1892年，是世界上第五古老的网球赛事；1993年，时任世界第一的莫妮卡·塞莱斯在罗滕鲍姆球场的比赛期间遇刺。",
       "sources": [
         {
-          "title": "Wikipedia: Hamburg, Germany",
-          "url": "https://en.wikipedia.org/w/index.php?search=Hamburg%2C%20Germany",
-          "status": "unverified"
+          "title": "Wikipedia: Hamburg European Open",
+          "url": "https://en.wikipedia.org/wiki/Hamburg_European_Open",
+          "status": "verified"
         }
       ]
     },
@@ -11997,23 +12008,24 @@
     },
     {
       "id": "tennis-bologna-italy",
-      "prompt": "This city hosts the oldest tennis tournament in the world, whose origins date to 1099.",
+      "prompt": "In May 2025 the football club from this Italian city beat Milan 1–0 to win the Coppa Italia, its first major trophy since 1974",
       "answer": "Bologna, Italy",
       "lat": 44.4949,
       "lng": 11.3426,
       "scope": "world",
-      "sport": "tennis",
+      "sport": "soccer",
       "tags": [
-        "tennis"
+        "soccer",
+        "Coppa Italia"
       ],
-      "promptZh": "这座城市举办世界上最古老的网球赛事。",
-      "story": "The tournament's modern edition began in 1895 before the event moved to Rome in 1911.",
-      "storyZh": "该赛事的现代版本始于1895年，并于1911年迁往罗马。",
+      "promptZh": "2025年5月，这座意大利城市的足球俱乐部在意大利杯决赛中1比0击败AC米兰，夺得1974年以来的首座重要奖杯",
+      "story": "Bologna beat Milan 1–0 in the Coppa Italia final on 14 May 2025, the club's first major trophy since 1974; the season before, Bologna had returned to the Champions League after a 60-year absence.",
+      "storyZh": "2025年5月14日，博洛尼亚在意大利杯决赛中1比0击败AC米兰，夺得1974年以来的首座重要奖杯；此前一个赛季，博洛尼亚时隔60年重返欧冠联赛。",
       "sources": [
         {
-          "title": "Wikipedia: Bologna, Italy",
-          "url": "https://en.wikipedia.org/w/index.php?search=Bologna%2C%20Italy",
-          "status": "unverified"
+          "title": "Wikipedia: 2024–25 Bologna FC 1909 season",
+          "url": "https://en.wikipedia.org/wiki/2024%E2%80%9325_Bologna_FC_1909_season",
+          "status": "verified"
         }
       ]
     },
