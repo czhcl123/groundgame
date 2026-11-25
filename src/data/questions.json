@@ -115,10 +115,10 @@
     },
     {
       "id": "nba-cleveland-1",
-      "prompt": "Bears QB Caleb Williams was born and raised in this city",
-      "answer": "Inglewood, California",
-      "lat": 33.9617,
-      "lng": -118.3531,
+      "prompt": "Bears QB Caleb Williams was born on November 18, 2001, in this US capital city",
+      "answer": "Washington, District of Columbia",
+      "lat": 38.9072,
+      "lng": -77.0369,
       "scope": "city",
       "sport": "american football",
       "tags": [
@@ -127,9 +127,9 @@
       ],
       "viewLat": 22.8884,
       "viewLng": -123.8897,
-      "promptZh": "Bears 四分卫 Caleb Williams 出生并成长于这座城市",
-      "story": "Caleb Williams was born in Inglewood, California, on November 11, 2002, and grew up in the city before becoming the Chicago Bears’ quarterback.",
-      "storyZh": "卡莱布·威廉姆斯于2002年11月11日出生在加利福尼亚州英格伍德，并在当地长大，后来成为芝加哥熊队四分卫。",
+      "promptZh": "熊队四分卫凯勒布·威廉姆斯2001年11月18日出生于华盛顿特区",
+      "story": "Caleb Williams was born in Washington, D.C., on November 18, 2001, and later became the Chicago Bears' starting quarterback.",
+      "storyZh": "凯勒布·威廉姆斯2001年11月18日出生于华盛顿特区，后来成为芝加哥熊队的首发四分卫。",
       "sources": [
         {
           "title": "Wikipedia: Inglewood, California",
@@ -974,9 +974,9 @@
       "storyZh": "费耶特维尔是费耶特维尔州立大学的所在地，该校也是NCAA美国联盟足球队在2016年成立时的创始成员之一；附近的布拉格堡于2023年更名为自由堡，并在2025年恢复历史名称。",
       "sources": [
         {
-          "title": "Wikipedia: Fayetteville, North Carolina",
-          "url": "https://en.wikipedia.org/w/index.php?search=Fayetteville%2C%20North%20Carolina",
-          "status": "unverified"
+          "title": "Wikipedia: North Dakota State Bison football",
+          "url": "https://en.wikipedia.org/wiki/North_Dakota_State_Bison_football",
+          "status": "verified"
         }
       ]
     },
@@ -1129,9 +1129,9 @@
       "storyZh": "包装工队自1957年起一直在格林贝的兰博球场进行主场比赛，这座球场也因此获得了“冻结苔原”的持久称号。",
       "sources": [
         {
-          "title": "Wikipedia: Green Bay, Wisconsin",
-          "url": "https://en.wikipedia.org/w/index.php?search=Green%20Bay%2C%20Wisconsin",
-          "status": "unverified"
+          "title": "Wikipedia: Lambeau Field",
+          "url": "https://en.wikipedia.org/wiki/Lambeau_Field",
+          "status": "verified"
         }
       ]
     },
@@ -2142,9 +2142,9 @@
       "storyZh": "鲍勃·库西效力于沃切斯特霍利克罗斯大学队，该队闯入1947年NCAA决赛并加时负于肯塔基大学。",
       "sources": [
         {
-          "title": "Wikipedia: Worcester, Massachusetts",
-          "url": "https://en.wikipedia.org/w/index.php?search=Worcester%2C%20Massachusetts",
-          "status": "unverified"
+          "title": "Wikipedia: Bob Cousy",
+          "url": "https://en.wikipedia.org/wiki/Bob_Cousy",
+          "status": "verified"
         }
       ]
     },
@@ -2706,7 +2706,7 @@
     },
     {
       "id": "nba-michigan-1",
-      "prompt": "Magic Johnson was 'Earvin' until a writer saw him post 36-18-16 at this high school",
+      "prompt": "Magic Johnson earned his nickname in high school in this Michigan city after a 36-18-16 game",
       "answer": "Lansing, Michigan",
       "lat": 42.7325,
       "lng": -84.5555,
@@ -2718,9 +2718,9 @@
       ],
       "viewLat": 42.7325,
       "viewLng": -78.3455,
-      "promptZh": "Magic Johnson本名是Earvin，直到一名记者看到他在这所高中打出36分18篮板16助攻",
-      "story": "At Lansing Central High School, Earvin Johnson Jr. posted 36 points, 18 rebounds, and 16 assists, inspiring the nickname that became Magic Johnson.",
-      "storyZh": "在兰辛中央高中，埃尔文·约翰逊二世砍下36分、18个篮板和16次助攻的表现，促成了后来广为人知的“魔术”约翰逊这一昵称。",
+      "promptZh": "魔术师约翰逊在这座密歇根城市的高中打出36分18篮板16助攻后获得绰号",
+      "story": "Earvin Johnson Jr., born in Lansing, earned the nickname 'Magic' while at Everett High School after a 36-point, 18-rebound, 16-assist game.",
+      "storyZh": "小厄文·约翰逊出生于兰辛，在埃弗雷特高中打出36分18篮板16助攻后获得“魔术师”绰号。",
       "sources": [
         {
           "title": "Wikipedia: Lansing, Michigan",
@@ -2754,10 +2754,10 @@
     },
     {
       "id": "nba-north carolina-1",
-      "prompt": "Cameron Indoor Stadium, which has sold out every NCAAB game since 1990, sits here",
-      "answer": "Greensboro, North Carolina",
-      "lat": 36.0726,
-      "lng": -79.792,
+      "prompt": "Cameron Indoor Stadium, sold out for every men's game since 1990, sits on this university's campus",
+      "answer": "Durham, North Carolina",
+      "lat": 35.994,
+      "lng": -78.8986,
       "scope": "city",
       "sport": "basketball",
       "tags": [
@@ -2765,9 +2765,9 @@
       ],
       "viewLat": 28.4358,
       "viewLng": -83.6104,
-      "promptZh": "自1990年以来每场NCAAB比赛都售罄的Cameron Indoor Stadium坐落在这里",
-      "story": "Greensboro's Cameron Indoor Stadium has sold out every men's NCAA basketball game since 1990, creating one of college basketball's most famous home-court records.",
-      "storyZh": "自1990年以来，格林斯伯勒的卡梅隆室内体育馆场场座无虚席，创造了大学篮球史上最著名的主场纪录之一。",
+      "promptZh": "自1990年以来每场男篮球赛都满座的卡梅隆室内体育馆，位于这座城市的大学校园内",
+      "story": "Cameron Indoor Stadium is on Duke University's campus in Durham and has sold out every men's basketball game since 1990.",
+      "storyZh": "卡梅隆室内体育馆位于达勒姆的杜克大学校园内，自1990年以来每场男子篮球赛均满座。",
       "sources": [
         {
           "title": "Wikipedia: Greensboro, North Carolina",
@@ -2941,9 +2941,9 @@
       "storyZh": "自1983年起，狐狸“The Coyote”一直是圣安东尼奥马刺队场边的非官方表演者，见证了球队五夺NBA总冠军的历程。",
       "sources": [
         {
-          "title": "Wikipedia: San Antonio, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=San%20Antonio%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: San Antonio Spurs",
+          "url": "https://en.wikipedia.org/wiki/San_Antonio_Spurs",
+          "status": "verified"
         }
       ]
     },
@@ -3159,9 +3159,9 @@
       "storyZh": "2015年4月4日弗兰克·卡明斯基领衔的威斯康星队在印第安纳波利斯的卢卡斯油橄榄球场以71比64击败肯塔基，终结对手38连胜，而这座球场正是印第安纳波利斯小马队的主场。",
       "sources": [
         {
-          "title": "Wikipedia: Indianapolis, Indiana",
-          "url": "https://en.wikipedia.org/w/index.php?search=Indianapolis%2C%20Indiana",
-          "status": "unverified"
+          "title": "Wikipedia: 2015 NCAA Division I men's basketball tournament",
+          "url": "https://en.wikipedia.org/wiki/2015_NCAA_Division_I_men%27s_basketball_tournament",
+          "status": "verified"
         }
       ]
     },
@@ -3216,7 +3216,7 @@
     },
     {
       "id": "nca-west-point-1",
-      "prompt": "Mike Krzyzewski played for Bobby Knight at this service academy from 1965-69",
+      "prompt": "Mike Krzyzewski played point guard for Bobby Knight at this service academy from 1966 to 1969",
       "answer": "West Point, New York",
       "lat": 41.3915,
       "lng": -73.9616,
@@ -3228,9 +3228,9 @@
       ],
       "viewLat": 47.3843,
       "viewLng": -81.1956,
-      "promptZh": "Mike Krzyzewski于1965年至1969年在这所军校为Bobby Knight效力",
-      "story": "Mike Krzyzewski played point guard for the Army Black Knights at West Point from 1965 to 1969 under Bobby Knight, the same partnership that later defined Duke basketball.",
-      "storyZh": "1965年至1969年迈克·沙舍夫斯基在西点军校为陆军黑骑士队担任控球后卫，主教练正是博比·奈特，这段师徒组合后来定义了杜克大学的篮球传奇。",
+      "promptZh": "迈克·克日泽夫斯基1966至1969年在阿姆斯特朗服役期间为陆军球队打控卫，师从鲍比·奈特",
+      "story": "Mike Krzyzewski played point guard at Army from 1966 to 1969 under coach Bob Knight, captainting the Cadets in his senior season.",
+      "storyZh": "迈克·克日泽夫斯基1966至1969年在陆军学院（西点）担任控卫，师从鲍比·奈特，并在大四赛季担任队长。",
       "sources": [
         {
           "title": "Wikipedia: West Point, New York",
@@ -3639,21 +3639,21 @@
     },
     {
       "id": "nba-detroit-7",
-      "prompt": "Kerri Strug, the gymnast whose 10.0 ended her 1996 campaign, was born in this Michigan city",
-      "answer": "Bellaire, Michigan",
-      "lat": 42.9806,
-      "lng": -83.0161,
+      "prompt": "This Arizona city is the birthplace of Kerri Strug, whose vault clinched the 1996 Olympic team gold",
+      "answer": "Tucson, Arizona",
+      "lat": 32.2226,
+      "lng": -110.9747,
       "scope": "city",
       "sport": "gymnastics",
       "tags": [
-        "Olympics",
-        "1996"
+        "gymnastics",
+        "Olympics"
       ],
       "viewLat": 52.9585,
       "viewLng": -85.0826,
-      "promptZh": "拿到10.0分并结束1996年征程的体操运动员 Kerri Strug，出生在密歇根州这座城市",
-      "story": "Kerri Strug was born in Bellaire, Michigan, on October 10, 1976, and received a perfect 10.0 for her final vault at the 1996 Atlanta Olympics.",
-      "storyZh": "凯莉·斯特鲁格于1976年10月10日出生在密歇根州贝莱尔，并在1996年亚特兰大奥运会的最后一次跳马中获得满分10.0。",
+      "promptZh": "这座亚利桑那城市是克里·斯特鲁格的出生地，她的跳马帮助美国队夺得1996年奥运团体金牌",
+      "story": "Kerri Strug was born in Tucson, Arizona, on November 19, 1977; her vault clinched the U.S. women's team gold at the 1996 Atlanta Olympics.",
+      "storyZh": "克里·斯特鲁格1977年11月19日出生于亚利桑那州图森；她在1996年亚特兰大奥运会的跳马帮助美国女队夺得团体金牌。",
       "sources": [
         {
           "title": "Wikipedia: Bellaire, Michigan",
@@ -4848,8 +4848,8 @@
         "international"
       ],
       "promptZh": "Cristiano Ronaldo在这里出生并长大，12岁前离开",
-      "story": "Cristiano Ronaldo was born in Funchal on February 5, 1982, and left his home island of Madeira for Sporting CP at age 12.",
-      "storyZh": "克里斯蒂亚诺·罗纳尔多于1982年2月5日出生在丰沙尔，并在12岁时离开马德拉岛前往里斯本竞技。",
+      "story": "Cristiano Ronaldo was born in Funchal on February 5, 1985, and left Madeira for Sporting CP at age 12 in 1997.",
+      "storyZh": "克里斯蒂亚诺·罗纳尔多1985年2月5日出生于丰沙尔，1997年12岁时离开马德拉岛加盟葡萄牙体育。",
       "sources": [
         {
           "title": "Wikipedia: Funchal, Portugal",
@@ -5287,7 +5287,7 @@
     },
     {
       "id": "nfl-buffalo-new-york-2",
-      "prompt": "This city was buried under the Great Blizzard of 2014, which shut down the NFL Wild Card weekend.",
+      "prompt": "A November 2014 lake-effect storm buried parts of this city under more than 60 inches of snow",
       "answer": "Buffalo, New York",
       "lat": 42.8864,
       "lng": -78.8784,
@@ -5299,9 +5299,9 @@
       ],
       "viewLat": 47.6988,
       "viewLng": -72.2402,
-      "promptZh": "2014年大暴雪令这座城市瘫痪，NFL首轮被迫延期。",
-      "story": "October 2014 lake-effect storm brought more than 60 inches of snow to parts of western New York and forced two Wild Card games to be postponed.",
-      "storyZh": "2014年10月的湖效应风暴给纽约州西部部分地区带来超过60英寸降雪，并迫使两场外卡赛延期。",
+      "promptZh": "2014年11月的一场湖效应暴风雪让这座城市部分地区积雪超过60英寸",
+      "story": "The November 2014 lake-effect storm dumped more than 60 inches of snow on parts of western New York, including Buffalo.",
+      "storyZh": "2014年11月的湖效应暴风雪在纽约州西部部分地区（包括布法罗）降下超过60英寸的积雪。",
       "sources": [
         {
           "title": "Wikipedia: Buffalo, New York",
@@ -6037,9 +6037,9 @@
       "storyZh": "俄亥俄州立大学行进乐队被称为“铜管乐队”，成立于1906年，而其书写俄亥俄州缩写的传统可追溯至1938年。",
       "sources": [
         {
-          "title": "Wikipedia: Columbus, Ohio",
-          "url": "https://en.wikipedia.org/w/index.php?search=Columbus%2C%20Ohio",
-          "status": "unverified"
+          "title": "Wikipedia: Ohio State marching band",
+          "url": "https://en.wikipedia.org/wiki/Ohio_State_marching_band",
+          "status": "verified"
         }
       ]
     },
@@ -6142,9 +6142,9 @@
       "storyZh": "《绿野仙踪》的世界首映于1939年12月12日在卡普梅剧院举行。",
       "sources": [
         {
-          "title": "Wikipedia: Philadelphia, Pennsylvania",
-          "url": "https://en.wikipedia.org/w/index.php?search=Philadelphia%2C%20Pennsylvania",
-          "status": "unverified"
+          "title": "Wikipedia: The Wizard of Oz (1939 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)",
+          "status": "verified"
         }
       ]
     },
@@ -6217,9 +6217,9 @@
       "storyZh": "奥岑体育场于1967年在俄勒冈大学校园附近建成。",
       "sources": [
         {
-          "title": "Wikipedia: Eugene, Oregon",
-          "url": "https://en.wikipedia.org/w/index.php?search=Eugene%2C%20Oregon",
-          "status": "unverified"
+          "title": "Wikipedia: Autzen Stadium",
+          "url": "https://en.wikipedia.org/wiki/Autzen_Stadium",
+          "status": "verified"
         }
       ]
     },
@@ -6540,9 +6540,9 @@
       "storyZh": "托尼· Gwynn在1994年的缩短赛季中打出.394的打击率，职业生涯平均打击率为.354。",
       "sources": [
         {
-          "title": "Wikipedia: San Diego, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=San%20Diego%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Tony Gwynn",
+          "url": "https://en.wikipedia.org/wiki/Tony_Gwynn",
+          "status": "verified"
         }
       ]
     },
@@ -7177,8 +7177,8 @@
       "viewLat": 34.5259,
       "viewLng": -101.8443,
       "promptZh": "这座城市的球队以传球体系五次夺得NBA总冠军。",
-      "story": "The San Antonio Spurs won five NBA championships between 1999 and 2014, with Tim Duncan taking Finals MVP honors three times.",
-      "storyZh": "圣安东尼奥马刺在1999年至2014年间五次夺得NBA总冠军，其中蒂姆·邓肯三次当选总决赛最有价值球员。",
+      "story": "The San Antonio Spurs won five NBA championships between 1999 and 2014, built around Tim Duncan and a passing offense.",
+      "storyZh": "圣安东尼奥马刺队在1999至2014年间五夺NBA总冠军，以邓肯为核心、强调团队传球。",
       "sources": [
         {
           "title": "Wikipedia: San Antonio, Texas",
@@ -7464,7 +7464,7 @@
     },
     {
       "id": "nba-charlotte-north-carolina",
-      "prompt": "This city welcomed the Hornets back in 2004 after their relocation to New Orleans.",
+      "prompt": "An expansion team called the Bobcats began play in this city in 2004, later reclaiming the Hornets name",
       "answer": "Charlotte, North Carolina",
       "lat": 35.2271,
       "lng": -80.8431,
@@ -7476,9 +7476,9 @@
       ],
       "viewLat": 33.5292,
       "viewLng": -86.1585,
-      "promptZh": "黄蜂队迁往新奥尔良后，于2004年重返这座城市。",
-      "story": "The Charlotte Hornets returned to Charlotte in 2004, two years after the franchise had moved to New Orleans.",
-      "storyZh": "夏洛特黄蜂队在迁往新奥尔良两年后，于2004年重返夏洛特。",
+      "promptZh": "一支名为山猫队的扩军球队2004年在这座城市开始比赛，后来重拾黄蜂队名称",
+      "story": "After the original Hornets moved to New Orleans in 2002, Charlotte received a new expansion team, the Bobcats, in 2004; it renamed itself the Hornets in 2014.",
+      "storyZh": "原黄蜂队2002年迁往新奥尔良后，夏洛特2004年迎来扩军球队山猫队，2014年重新启用黄蜂队名称。",
       "sources": [
         {
           "title": "Wikipedia: Charlotte, North Carolina",
@@ -7581,9 +7581,9 @@
       "storyZh": "奥兰多魔术队在1989至1990赛季开始参加NBA，自2010年以来一直在基亚中心主场比赛。",
       "sources": [
         {
-          "title": "Wikipedia: Orlando, Florida",
-          "url": "https://en.wikipedia.org/w/index.php?search=Orlando%2C%20Florida",
-          "status": "unverified"
+          "title": "Wikipedia: Orlando Magic",
+          "url": "https://en.wikipedia.org/wiki/Orlando_Magic",
+          "status": "verified"
         }
       ]
     },
@@ -7606,9 +7606,9 @@
       "storyZh": "峰顶体育馆于1975年在休斯敦开放，2003年关闭，此前曾作为火箭队的主场。",
       "sources": [
         {
-          "title": "Wikipedia: Houston, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Houston%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: Houston Rockets",
+          "url": "https://en.wikipedia.org/wiki/Houston_Rockets",
+          "status": "verified"
         }
       ]
     },
@@ -7786,9 +7786,9 @@
       "storyZh": "埃里温的阶梯建筑群在2011年至2015年间进行了全面修复。",
       "sources": [
         {
-          "title": "Wikipedia: Yerevan, Armenia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Yerevan%2C%20Armenia",
-          "status": "unverified"
+          "title": "Wikipedia: Yerevan",
+          "url": "https://en.wikipedia.org/wiki/Yerevan",
+          "status": "verified"
         }
       ]
     },
@@ -8629,7 +8629,7 @@
     },
     {
       "id": "nhl-nashville-tennessee",
-      "prompt": "This city is home to a hockey team that relocated from Atlanta and began play here in 1998.",
+      "prompt": "This city has been home to an NHL expansion team since 1998, the Predators",
       "answer": "Nashville, Tennessee",
       "lat": 36.1627,
       "lng": -86.7816,
@@ -8641,9 +8641,9 @@
       ],
       "viewLat": 32.3722,
       "viewLng": -93.9712,
-      "promptZh": "球队1998年从亚特兰大迁来，主场就在这座城市。",
-      "story": "The Nashville Predators franchise began as the Atlanta Thrashers in 1992. It relocated to Nashville in 1998 and adopted the Predators name that summer.",
-      "storyZh": "纳什维尔掠食者队的前身于1992年在亚特兰大成立。球队在1998年迁至纳什维尔，并于当年夏天采用掠食者队名。",
+      "promptZh": "这座城市自1998年起拥有NHL扩军球队捕食者队",
+      "story": "The Nashville Predators were founded as an expansion franchise in 1997 and began play in 1998–99; they did not relocate from Atlanta.",
+      "storyZh": "纳什维尔捕食者队1997年作为扩军球队成立，1998-99赛季开始征战；球队并非从亚特兰大迁来。",
       "sources": [
         {
           "title": "Wikipedia: Nashville, Tennessee",
@@ -9152,8 +9152,8 @@
       "viewLat": 44.1232,
       "viewLng": 9.3154,
       "promptZh": "这座加泰罗尼亚城市的俱乐部格言意为“不只是俱乐部”。",
-      "story": "Camp Nou opened in 1957 and hosted the 2009 UEFA Champions League final.",
-      "storyZh": "诺坎普球场于1957年启用，并举办了2009年欧洲冠军联赛决赛。",
+      "story": "Camp Nou, home of FC Barcelona since 1957, hosted European Cup/Champions League finals in 1989 and 1999.",
+      "storyZh": "诺坎普球场自1957年起成为巴塞罗那俱乐部主场，曾举办1989和1999年欧洲冠军杯/欧冠决赛。",
       "sources": [
         {
           "title": "Wikipedia: Barcelona, Spain",
@@ -9829,9 +9829,9 @@
       "storyZh": "2022年的胜利使阿根廷继1978年和1986年后第三次夺得世界杯冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Argentina",
-          "url": "https://en.wikipedia.org/w/index.php?search=Argentina",
-          "status": "unverified"
+          "title": "Wikipedia: Argentina national football team",
+          "url": "https://en.wikipedia.org/wiki/Argentina_national_football_team",
+          "status": "verified"
         }
       ]
     },
@@ -10703,9 +10703,9 @@
       "storyZh": "2005年，这座城市庆祝建城一千年，喀山克里姆林宫同年被列入世界遗产名录。",
       "sources": [
         {
-          "title": "Wikipedia: Kazan, Russia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kazan%2C%20Russia",
-          "status": "unverified"
+          "title": "Wikipedia: Kazan",
+          "url": "https://en.wikipedia.org/wiki/Kazan",
+          "status": "verified"
         }
       ]
     },
@@ -11289,8 +11289,8 @@
         "Australia"
       ],
       "promptZh": "这座墨尔本附近的澳大利亚球场举办了2018年总统杯，最终由国际队夺冠。",
-      "story": "The 2018 Presidents Cup was the twelfth edition of the event, played at Royal Melbourne Golf Club, where the International team won 10.5 to 7.5 behind Tiger Woods' three victories.",
-      "storyZh": "2018年总统杯是该项赛事的第十二届，在墨尔本皇家高尔夫俱乐部举行，国际队以10.5比7.5获胜，泰格·伍兹贡献三场胜利。",
+      "story": "The 2018 Presidents Cup at Royal Melbourne was the twelfth edition; the International team won 10½–7½.",
+      "storyZh": "2018年在皇家墨尔本举行的总统杯是第12届赛事，国际队以10.5比7.5获胜。",
       "sources": [
         {
           "title": "Wikipedia: Royal Melbourne, Victoria",
@@ -11507,7 +11507,7 @@
     },
     {
       "id": "golf-whistling-straits-wisconsin",
-      "prompt": "This golf course hosted the 2003 and 2015 editions of the PGA Championship.",
+      "prompt": "This Wisconsin course hosted the PGA Championship in 2004 and 2010 and the 2021 Ryder Cup",
       "answer": "Whistling Straits, Wisconsin",
       "lat": 43.5614,
       "lng": -87.8158,
@@ -11517,9 +11517,9 @@
         "golf",
         "PGA"
       ],
-      "promptZh": "这里在2003年和2015年两度举办PGA锦标赛。",
-      "story": "Whistling Straits hosted the PGA Championship in 2003 and 2015. Tiger Woods won in 2003, while Justin Rose won in 2015.",
-      "storyZh": "哨兵海峡球场在2003年和2015年两度承办PGA锦标赛。泰格·伍兹赢得2003年冠军，贾斯汀·罗斯赢得2015年冠军。",
+      "promptZh": "这座威斯康星州球场2004和2010年举办PGA锦标赛，2021年举办莱德杯",
+      "story": "Whistling Straits hosted the PGA Championship in 2004 and 2010; the United States won the 2021 Ryder Cup there 19–9.",
+      "storyZh": "呼啸海峡球场2004和2010年举办PGA锦标赛；2021年莱德杯在此举行，美国队19比9获胜。",
       "sources": [
         {
           "title": "Wikipedia: Whistling Straits, Wisconsin",
@@ -11668,9 +11668,9 @@
       "storyZh": "美国网球公开赛于1978年迁至今日的法拉盛赛场。",
       "sources": [
         {
-          "title": "Wikipedia: New York City, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=New%20York%20City%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: US Open (tennis)",
+          "url": "https://en.wikipedia.org/wiki/US_Open_(tennis)",
+          "status": "verified"
         }
       ]
     },
@@ -11718,9 +11718,9 @@
       "storyZh": "该赛事自2009年起一直在福尔意大利科举行。",
       "sources": [
         {
-          "title": "Wikipedia: Rome, Italy",
-          "url": "https://en.wikipedia.org/w/index.php?search=Rome%2C%20Italy",
-          "status": "unverified"
+          "title": "Wikipedia: Italian Open (tennis)",
+          "url": "https://en.wikipedia.org/wiki/Italian_Open_(tennis)",
+          "status": "verified"
         }
       ]
     },
