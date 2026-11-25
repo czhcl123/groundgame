@@ -315,7 +315,7 @@
     },
     {
       "id": "nfl-chicago-1",
-      "prompt": "The NFL franchise that began in 1919 as the Staleys of a small Illinois manufacturing city played its home games in this city",
+      "prompt": "This Midwestern city was where an NFL franchise began in 1919 as a starch company's works team",
       "answer": "Decatur, Illinois",
       "lat": 39.8403,
       "lng": -88.9548,
@@ -327,14 +327,14 @@
       ],
       "viewLat": 36.6528,
       "viewLng": -90.1852,
-      "promptZh": "1919年在伊利诺伊州一座小工业城市以“斯泰利队”之名创立的NFL球队，主场在这座城市",
-      "story": "The franchise was founded in 1919 by the Staley family, who ran a starch and animal-feed business in Decatur, and moved to Chicago in 1921 to play at Normal Park.",
-      "storyZh": "该球队1919年由经营淀粉和饲料生意的斯泰利家族在迪凯特创立，1921年迁至芝加哥，在诺马公园球场比赛。",
+      "promptZh": "1919年以迪凯特斯泰利队名义在这里成立的NFL球队，1921年迁往芝加哥",
+      "story": "The franchise was founded in Decatur, Illinois, in 1919 as a company team of the A.E. Staley starch business, becoming the Decatur Staleys before moving to Chicago in 1921.",
+      "storyZh": "该球队1919年在伊利诺伊州迪凯特作为A.E.斯泰利淀粉公司的企业队成立，后称迪凯特斯泰利队，1921年迁至芝加哥。",
       "sources": [
         {
-          "title": "Wikipedia: Decatur, Illinois",
-          "url": "https://en.wikipedia.org/w/index.php?search=Decatur%2C%20Illinois",
-          "status": "unverified"
+          "title": "Wikipedia: Chicago Bears",
+          "url": "https://en.wikipedia.org/wiki/Chicago_Bears",
+          "status": "verified"
         }
       ]
     },
@@ -660,10 +660,10 @@
     },
     {
       "id": "nfl-marshall-1",
-      "prompt": "A 1970 plane crash killed 75 including 37 college football players headed home to this city",
-      "answer": "Marshall, Texas",
-      "lat": 32.2396,
-      "lng": -94.3705,
+      "prompt": "A 1970 plane crash near this West Virginia city killed 37 Marshall football players",
+      "answer": "Huntington, West Virginia",
+      "lat": 38.4192,
+      "lng": -82.4457,
       "scope": "city",
       "sport": "american football",
       "tags": [
@@ -672,14 +672,14 @@
       ],
       "viewLat": 19.2683,
       "viewLng": -97.0569,
-      "promptZh": "1970年一场飞机失事造成75人死亡，其中包括37名准备返回这座城市的大学橄榄球运动员",
-      "story": "On October 10, 1970, Southern Airways Flight 242 crashed near Marshall, Texas, killing 75 people, including 37 Marshall University football players traveling home.",
-      "storyZh": "1970年10月10日，南方航空242号航班在得克萨斯州马歇尔附近坠毁，机上75人死亡，其中包括37名返乡的马歇尔大学橄榄球队员。",
+      "promptZh": "1970年在这座西弗吉尼亚城市附近发生的空难，夺走了37名马歇尔大学橄榄球队员的生命",
+      "story": "Southern Airways Flight 932 crashed near Huntington, West Virginia, on November 14, 1970, killing all 75 aboard, including 37 Marshall University football players returning home.",
+      "storyZh": "1970年11月14日，南方航空932号航班在西弗吉尼亚州亨廷顿附近坠毁，机上75人全部遇难，其中包括37名返家的马歇尔大学橄榄球队员。",
       "sources": [
         {
-          "title": "Wikipedia: Marshall, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Marshall%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: Southern Airways Flight 932",
+          "url": "https://en.wikipedia.org/wiki/Southern_Airways_Flight_932",
+          "status": "verified"
         }
       ]
     },
@@ -735,10 +735,10 @@
     },
     {
       "id": "nfl-nfl-1",
-      "prompt": "Antonio Brown, the 4x All-Pro WR, was J.J. Watt's teammate at this university",
-      "answer": "Columbus, Ohio",
-      "lat": 39.9612,
-      "lng": -82.9988,
+      "prompt": "Antonio Brown and J.J. Watt were teammates at this Midwestern university",
+      "answer": "Mount Pleasant, Michigan",
+      "lat": 43.5892,
+      "lng": -84.6597,
       "scope": "city",
       "sport": "american football",
       "tags": [
@@ -747,14 +747,14 @@
       ],
       "viewLat": 33.9684,
       "viewLng": -75.7648,
-      "promptZh": "四届最佳阵容外接手Antonio Brown曾与J.J. Watt是这所大学的队友",
-      "story": "Columbus is home to Ohio State University, founded in 1870, whose Buckeyes football program became one of the most storied in college sports.",
-      "storyZh": "哥伦布市是1870年创立的俄亥俄州立大学所在地，其Buckeyes橄榄球队后来成为大学体育中最负盛名的项目之一。",
+      "promptZh": "安东尼奥·布朗和J.J.瓦特曾在这所中西部大学做队友",
+      "story": "Antonio Brown and J.J. Watt played together at Central Michigan University in 2007 and 2008.",
+      "storyZh": "安东尼奥·布朗和J.J.瓦特2007和2008赛季共同效力于中密歇根大学。",
       "sources": [
         {
-          "title": "Wikipedia: Columbus, Ohio",
-          "url": "https://en.wikipedia.org/w/index.php?search=Columbus%2C%20Ohio",
-          "status": "unverified"
+          "title": "Wikipedia: Antonio Brown",
+          "url": "https://en.wikipedia.org/wiki/Antonio_Brown",
+          "status": "verified"
         }
       ]
     },
@@ -1807,7 +1807,7 @@
     },
     {
       "id": "nba-queens-1",
-      "prompt": "The Mets won the World Series in '69 and '86 while playing at Shea Stadium which sits here",
+      "prompt": "The Mets won the World Series in 1969 and 1986 while based in this New York City borough",
       "answer": "Flushing, New York",
       "lat": 40.7445,
       "lng": -73.8453,
@@ -1819,14 +1819,14 @@
       ],
       "viewLat": 30.7666,
       "viewLng": -71.7788,
-      "promptZh": "Mets在1969年和1986年夺得世界大赛冠军，当时的主场Shea Stadium坐落于此",
-      "story": "The New York Mets won the World Series in 1969 and 1986 while playing their home games at Shea Stadium in Flushing.",
-      "storyZh": "纽约大都会队曾以弗拉欣的谢伊体育场为主场，并在1969年和1986年两次夺得世界大赛冠军。",
+      "promptZh": "大都会队在这座纽约市辖区夺得1969和1986年世界大赛冠军",
+      "story": "The New York Mets won the World Series in 1969 and 1986 while playing at Shea Stadium in Flushing, Queens.",
+      "storyZh": "纽约大都会队在皇后区法拉盛的谢亚球场夺得1969和1986年世界大赛冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Flushing, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=Flushing%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: New York Mets",
+          "url": "https://en.wikipedia.org/wiki/New_York_Mets",
+          "status": "verified"
         }
       ]
     },
@@ -2004,7 +2004,7 @@
     },
     {
       "id": "basketball-sudan-1",
-      "prompt": "Manute Bol, the 7'7 NBA legend who drank beer before games to keep weight on, grew up in this East African nation",
+      "prompt": "Manute Bol, the 7'7 NBA shot-blocker from South Sudan, grew up in this village",
       "answer": "Turalei, South Sudan",
       "lat": 6.6,
       "lng": 31.6667,
@@ -2014,14 +2014,14 @@
         "NBA",
         "international"
       ],
-      "promptZh": "这位身高7英尺7英寸的NBA传奇Manute Bol靠赛前喝啤酒控制体重，并在这个东非国家长大",
-      "story": "Manute Bol was born in Turalei on October 16, 1962, and grew to 7 feet 7 inches before becoming an NBA center.",
-      "storyZh": "1962年10月16日，马努特·博尔出生于图拉莱，身高达到7英尺7英寸，后来成为NBA中锋。",
+      "promptZh": "来自南苏丹的7尺7寸NBA盖帽手马努特·波尔在这座村庄长大",
+      "story": "Manute Bol was born in Turalei, in what is now South Sudan; his listed birth date of October 16, 1962 was later admitted to be fabricated.",
+      "storyZh": "马努特·波尔出生于图拉莱（今南苏丹）；他申报的1962年10月16日出生日期后来被承认是虚构的。",
       "sources": [
         {
-          "title": "Wikipedia: Turalei, South Sudan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Turalei%2C%20South%20Sudan",
-          "status": "unverified"
+          "title": "Wikipedia: Manute Bol",
+          "url": "https://en.wikipedia.org/wiki/Manute_Bol",
+          "status": "verified"
         }
       ]
     },
@@ -2441,7 +2441,7 @@
     },
     {
       "id": "nba-europe-1",
-      "prompt": "Before he was drafted during a Taco Bell commercial in 2014, Nikola Jokić was playing professionally here",
+      "prompt": "Nikola Jokić was playing in this Balkan homeland when Denver drafted him 41st in 2014",
       "answer": "Belgrade, Serbia",
       "lat": 44.7866,
       "lng": 20.4489,
@@ -2451,14 +2451,14 @@
         "NBA",
         "international"
       ],
-      "promptZh": "2014年在一则Taco Bell广告中被选中的Nikola Jokić，此前一直在这座城市效力",
-      "story": "Nikola Jokić was playing for Mega Basket in Belgrade when the Denver Nuggets selected him with the 41st pick in the 2014 NBA Draft.",
-      "storyZh": "尼古拉·约基奇在贝尔格莱德效力于梅加巴斯卡时，丹佛掘金队在2014年NBA选秀中以第41顺位选中了约基奇。",
+      "promptZh": "掘金队2014年以第41顺位选中约基奇时，他正在塞尔维亚本土打球",
+      "story": "Nikola Jokić was playing for Mega Vizura in Serbia when the Denver Nuggets selected him 41st overall in the 2014 NBA draft — during a Taco Bell commercial shoot.",
+      "storyZh": "2014年NBA选秀，掘金以第41顺位选中正在塞尔维亚梅加维祖拉队效力的约基奇——选秀当时正在进行一场塔可贝尔广告拍摄。",
       "sources": [
         {
-          "title": "Wikipedia: Belgrade, Serbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Belgrade%2C%20Serbia",
-          "status": "unverified"
+          "title": "Wikipedia: Nikola Jokić",
+          "url": "https://en.wikipedia.org/wiki/Nikola_Joki%C4%87",
+          "status": "verified"
         }
       ]
     },
@@ -3016,9 +3016,9 @@
       "storyZh": "克莱德“The Glide”德雷克勒的22号球衣于2004年被波特兰开拓者队退役，并悬挂球馆上空，以纪念这位球队传奇前锋。",
       "sources": [
         {
-          "title": "Wikipedia: Portland, Oregon",
-          "url": "https://en.wikipedia.org/w/index.php?search=Portland%2C%20Oregon",
-          "status": "unverified"
+          "title": "Wikipedia: Clyde Drexler",
+          "url": "https://en.wikipedia.org/wiki/Clyde_Drexler",
+          "status": "verified"
         }
       ]
     },
@@ -4554,7 +4554,7 @@
     },
     {
       "id": "nba-nashville-1",
-      "prompt": "The World Cup kicks off in 30 days at this storied stadium in the capital city of one of the 3 host countries",
+      "prompt": "The 2026 World Cup opens at this historic stadium in the capital of one of the three host nations",
       "answer": "Mexico City, Mexico",
       "lat": 19.4326,
       "lng": -99.1332,
@@ -4564,14 +4564,14 @@
         "FIFA",
         "2026"
       ],
-      "promptZh": "世界杯将在30天后于这座历史悠久的体育场开幕，它位于三个主办国之一的首都",
-      "story": "The 2026 FIFA World Cup will begin in Mexico City at the Estadio Azteca on June 11, with the tournament also staged in Guadalajara and Monterrey.",
-      "storyZh": "2026年国际足联世界杯将于6月11日在墨西哥城的阿兹特克体育场揭幕，赛事还将在瓜达拉哈拉和蒙特雷举行。",
+      "promptZh": "2026年世界杯将在三个主办国之一的这座首都城市的历史球场揭幕",
+      "story": "The 2026 FIFA World Cup is scheduled to open at Estadio Azteca in Mexico City on June 11, with matches also in Guadalajara and Monterrey.",
+      "storyZh": "2026年国际足联世界杯定于6月11日在墨西哥城的阿兹特克体育场揭幕，瓜达拉哈拉和蒙特雷也将承办比赛。",
       "sources": [
         {
-          "title": "Wikipedia: Mexico City, Mexico",
-          "url": "https://en.wikipedia.org/w/index.php?search=Mexico%20City%2C%20Mexico",
-          "status": "unverified"
+          "title": "Wikipedia: 2026 FIFA World Cup",
+          "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+          "status": "verified"
         }
       ]
     },
@@ -4783,9 +4783,9 @@
       "storyZh": "都灵是尤文图斯的主场，著名的北看台球迷组织“Curva Nord”数十年来用编排有序的横幅装点看台。这座城市与俱乐部的黑白传统密不可分。",
       "sources": [
         {
-          "title": "Wikipedia: Turin, Italy",
-          "url": "https://en.wikipedia.org/w/index.php?search=Turin%2C%20Italy",
-          "status": "unverified"
+          "title": "Wikipedia: Juventus F.C.",
+          "url": "https://en.wikipedia.org/wiki/Juventus_F.C.",
+          "status": "verified"
         }
       ]
     },
@@ -5044,9 +5044,9 @@
       "storyZh": "1994年7月17日，帕萨迪纳的玫瑰碗体育场举行国际足联世界杯决赛，巴西在点球大战中击败意大利，现场观众为94,194人。",
       "sources": [
         {
-          "title": "Wikipedia: Pasadena, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Pasadena%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: 1994 FIFA World Cup",
+          "url": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup",
+          "status": "verified"
         }
       ]
     },
@@ -5120,25 +5120,26 @@
     },
     {
       "id": "nba-houston-3",
-      "prompt": "Billie Jean King, who won 39 Grand Slams and beat Bobby Riggs in the 1973 'Battle of the Sexes,' grew up in this city",
+      "prompt": "Billie Jean King, winner of the 1973 Battle of the Sexes, grew up in this California city",
       "answer": "Long Beach, California",
       "lat": 33.7701,
       "lng": -118.1937,
       "scope": "city",
       "sport": "tennis",
       "tags": [
-        "WTA"
+        "tennis",
+        "Billie Jean King"
       ],
       "viewLat": 46.1901,
       "viewLng": -118.1937,
-      "promptZh": "赢得39项大满贯并在1973年“性别大战”中击败Bobby Riggs的Billie Jean King在这座城市长大",
-      "story": "Billie Jean King grew up in Long Beach and famously defeated Bobby Riggs in the 1973 Battle of the Sexes, a match that became a landmark in tennis history.",
-      "storyZh": "比莉·简·金在长滩长大，并在1973年的“性别之战”中击败鲍比·里格斯，这场比赛成为网球史上的标志性事件。",
+      "promptZh": "1973年“性别之战”的胜利者比利·简·金在这座加利福尼亚城市长大",
+      "story": "Billie Jean King was born and raised in Long Beach and beat Bobby Riggs in the 1973 Battle of the Sexes.",
+      "storyZh": "比利·简·金在长滩出生长大，并在1973年“性别之战”中击败鲍比·里格斯。",
       "sources": [
         {
-          "title": "Wikipedia: Long Beach, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Long%20Beach%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Billie Jean King",
+          "url": "https://en.wikipedia.org/wiki/Billie_Jean_King",
+          "status": "verified"
         }
       ]
     },
@@ -5337,7 +5338,7 @@
     },
     {
       "id": "nfl-cleveland-ohio-2",
-      "prompt": "This city once had the world's busiest lakefront terminal, and its Browns lost the 1946 NFL title game.",
+      "prompt": "This city's Union Terminal opened in 1930 as a grand railroad station",
       "answer": "Cleveland, Ohio",
       "lat": 41.4993,
       "lng": -81.6944,
@@ -5349,14 +5350,14 @@
       ],
       "viewLat": 36.1385,
       "viewLng": -75.0258,
-      "promptZh": "此城有世界最繁忙的湖滨站，球队输掉1946年决赛。",
-      "story": "Cleveland's Union Terminal opened in 1930 and once handled more passengers than any other bus station in the world.",
-      "storyZh": "克利夫兰联合车站于1930年启用，一度比世界上任何其他公共汽车站接待的乘客都多。",
+      "promptZh": "这座城市的联合车站1930年启用，是一座宏伟的火车站",
+      "story": "Cleveland Union Terminal, built for the city's railroad lines, was dedicated and opened in 1930; the Browns lost the 1946 NFL title game.",
+      "storyZh": "克利夫兰联合车站为全市铁路线而建，1930年正式启用；布朗队则在1946年NFL冠军赛中落败。",
       "sources": [
         {
-          "title": "Wikipedia: Cleveland, Ohio",
-          "url": "https://en.wikipedia.org/w/index.php?search=Cleveland%2C%20Ohio",
-          "status": "unverified"
+          "title": "Wikipedia: Cleveland Union Terminal",
+          "url": "https://en.wikipedia.org/wiki/Cleveland_Union_Terminal",
+          "status": "verified"
         }
       ]
     },
@@ -5537,7 +5538,7 @@
     },
     {
       "id": "nfl-atlanta-georgia",
-      "prompt": "This city hosts the Falcons, whose ownership once included an NFL commissioner.",
+      "prompt": "This city's NFL franchise once counted a future league commissioner among its investors",
       "answer": "Atlanta, Georgia",
       "lat": 33.749,
       "lng": -84.388,
@@ -5549,14 +5550,14 @@
       ],
       "viewLat": 32.9039,
       "viewLng": -83.3306,
-      "promptZh": "这座城市是猎鹰队主场，老板曾兼任美国橄榄球联盟总监。",
-      "story": "Pete Rozelle, who served as NFL commissioner from 1970 to 1989, was once part of the Falcons' ownership group.",
-      "storyZh": "曾于1970年至1989年担任NFL总监的皮特·罗泽尔，一度是猎鹰队的股东之一。",
+      "promptZh": "这座城市的NFL球队曾在投资人中拥有一位未来的联盟总裁",
+      "story": "Pete Rozelle, NFL commissioner from 1960 to 1989, was a part-owner of the Atlanta Falcons before taking the commissioner job.",
+      "storyZh": "1960至1989年担任NFL总裁的皮特·罗泽尔，出任总裁前曾是亚特兰大猎鹰队的小股东。",
       "sources": [
         {
-          "title": "Wikipedia: Atlanta, Georgia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Atlanta%2C%20Georgia",
-          "status": "unverified"
+          "title": "Wikipedia: Pete Rozelle",
+          "url": "https://en.wikipedia.org/wiki/Pete_Rozelle",
+          "status": "verified"
         }
       ]
     },
@@ -5858,8 +5859,8 @@
       "sources": [
         {
           "title": "Wikipedia: Terre Haute, Indiana",
-          "url": "https://en.wikipedia.org/w/index.php?search=Terre%20Haute%2C%20Indiana",
-          "status": "unverified"
+          "url": "https://en.wikipedia.org/wiki/Terre_Haute,_Indiana",
+          "status": "verified"
         }
       ]
     },
@@ -6242,8 +6243,8 @@
       "sources": [
         {
           "title": "Wikipedia: Moscow, Idaho",
-          "url": "https://en.wikipedia.org/w/index.php?search=Moscow%2C%20Idaho",
-          "status": "unverified"
+          "url": "https://en.wikipedia.org/wiki/Moscow,_Idaho",
+          "status": "verified"
         }
       ]
     },
@@ -6755,9 +6756,9 @@
       "storyZh": "多米尼加国家棒球学院于1991年在圣多明各成立。",
       "sources": [
         {
-          "title": "Wikipedia: Santo Domingo, Dominican Republic",
-          "url": "https://en.wikipedia.org/w/index.php?search=Santo%20Domingo%2C%20Dominican%20Republic",
-          "status": "unverified"
+          "title": "Wikipedia: Santo Domingo",
+          "url": "https://en.wikipedia.org/wiki/Santo_Domingo",
+          "status": "verified"
         }
       ]
     },
@@ -6962,9 +6963,9 @@
       "storyZh": "自1996年国际业余球员签约制度启动以来，已有超过300名多米尼加球员进入美国职业棒球大联盟。",
       "sources": [
         {
-          "title": "Wikipedia: Dominican Republic",
-          "url": "https://en.wikipedia.org/w/index.php?search=Dominican%20Republic",
-          "status": "unverified"
+          "title": "Wikipedia: Dominican Republic national baseball team",
+          "url": "https://en.wikipedia.org/wiki/Dominican_Republic_national_baseball_team",
+          "status": "verified"
         }
       ]
     },
@@ -7231,9 +7232,9 @@
       "storyZh": "太阳队自1992年起在这座城市市中心的一座球馆主场作战，该建筑由埃勒比·贝克特设计，铜色可开合屋顶很有名。",
       "sources": [
         {
-          "title": "Wikipedia: Phoenix, Arizona",
-          "url": "https://en.wikipedia.org/w/index.php?search=Phoenix%2C%20Arizona",
-          "status": "unverified"
+          "title": "Wikipedia: Phoenix Suns",
+          "url": "https://en.wikipedia.org/wiki/Phoenix_Suns",
+          "status": "verified"
         }
       ]
     },
@@ -7919,7 +7920,7 @@
     },
     {
       "id": "nfl-cleveland-ohio-3",
-      "prompt": "This city's NFL team retired jersey No. 14 for football legend Jim Thorpe, a remarkable athlete and champion.",
+      "prompt": "This city's NFL team retired jersey No. 14 for Jim Thorpe, a 1912 Olympic champion",
       "answer": "Cleveland, Ohio",
       "lat": 41.4993,
       "lng": -81.6944,
@@ -7931,14 +7932,14 @@
       ],
       "viewLat": 44.0888,
       "viewLng": -76.1065,
-      "promptZh": "这座城市的NFL队为橄榄球传奇吉姆·索普退役14号球衣。",
-      "story": "Jim Thorpe won Olympic gold medals in 1912 and played professional football for several Cleveland clubs during the mid-1920s.",
-      "storyZh": "吉姆·索普在1912年获得奥运金牌，并在20世纪20年代中期为克利夫兰的数支球队效力。",
+      "promptZh": "这座城市的NFL球队为1912年奥运冠军吉姆·索普退役了14号球衣",
+      "story": "The Cleveland Browns retired No. 14 in honor of Jim Thorpe, who won Olympic gold in 1912 and played professional football for Cleveland teams in the 1920s.",
+      "storyZh": "克利夫兰布朗队为吉姆·索普退役14号球衣；索普1912年夺得奥运金牌，1920年代曾在克利夫兰的球队打职业橄榄球。",
       "sources": [
         {
-          "title": "Wikipedia: Cleveland, Ohio",
-          "url": "https://en.wikipedia.org/w/index.php?search=Cleveland%2C%20Ohio",
-          "status": "unverified"
+          "title": "Wikipedia: Jim Thorpe",
+          "url": "https://en.wikipedia.org/wiki/Jim_Thorpe",
+          "status": "verified"
         }
       ]
     },
@@ -8279,7 +8280,7 @@
     },
     {
       "id": "nhl-detroit-michigan",
-      "prompt": "This city, nicknamed Hockeytown, is home to a team that won 11 Stanley Cups.",
+      "prompt": "This Midwestern city's team, nicknamed Hockeytown, has won 11 Stanley Cups and moved into a new downtown arena in 2017",
       "answer": "Detroit, Michigan",
       "lat": 42.3314,
       "lng": -83.0458,
@@ -8291,14 +8292,14 @@
       ],
       "viewLat": 47.1921,
       "viewLng": -76.4675,
-      "promptZh": "这座被称为冰球城的城市，其主队赢得11次斯坦利杯。",
-      "story": "The Red Wings began playing at Little Caesars Arena in 1997, reflecting Detroit's long-standing hockey tradition.",
-      "storyZh": "红翼队自1997年起在李 Caesars 竞技场比赛，这 reflects 了底特律深厚的冰球传统。",
+      "promptZh": "“冰球之城”的球队赢得过11次斯坦利杯，并于2017年迁入市中心新球馆",
+      "story": "The Detroit Red Wings have won 11 Stanley Cups, the most of any U.S.-based NHL franchise, and began playing at Little Caesars Arena in 2017.",
+      "storyZh": "底特律红翼队11次夺得斯坦利杯，是美国NHL球队中最多；球队2017年起在小凯撒竞技场比赛。",
       "sources": [
         {
-          "title": "Wikipedia: Detroit, Michigan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Detroit%2C%20Michigan",
-          "status": "unverified"
+          "title": "Wikipedia: Detroit Red Wings",
+          "url": "https://en.wikipedia.org/wiki/Detroit_Red_Wings",
+          "status": "verified"
         }
       ]
     },
@@ -8371,9 +8372,9 @@
       "storyZh": "流浪者队自1995年起使用麦迪逊广场花园，并曾于1998年、2000年、2003年和2012年在那里举办户外冰球赛。",
       "sources": [
         {
-          "title": "Wikipedia: New York City, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=New%20York%20City%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: Madison Square Garden",
+          "url": "https://en.wikipedia.org/wiki/Madison_Square_Garden",
+          "status": "verified"
         }
       ]
     },
@@ -8421,9 +8422,9 @@
       "storyZh": "波士顿分别于1974年、1990年和1996年三次举办NHL全明星赛。",
       "sources": [
         {
-          "title": "Wikipedia: Boston, Massachusetts",
-          "url": "https://en.wikipedia.org/w/index.php?search=Boston%2C%20Massachusetts",
-          "status": "unverified"
+          "title": "Wikipedia: Boston Bruins",
+          "url": "https://en.wikipedia.org/wiki/Boston_Bruins",
+          "status": "verified"
         }
       ]
     },
@@ -8895,13 +8896,13 @@
         "Lightning"
       ],
       "promptZh": "这座城市的球队连续赢得2020年、2021年斯坦利杯。",
-      "story": "Amalie Arena opened in 1991 and seats roughly 19,000 spectators for hockey games.",
-      "storyZh": "阿马利竞技场于1991年启用，冰球赛事容量约为1.9万人。",
+      "story": "The Tampa Bay Lightning won back-to-back Stanley Cups in 2020 and 2021, beating the Dallas Stars and Montreal Canadiens in the finals.",
+      "storyZh": "坦帕湾闪电队2020和2021年连续夺得斯坦利杯，决赛分别击败达拉斯星队和蒙特利尔加拿大人队。",
       "sources": [
         {
-          "title": "Wikipedia: Tampa, Florida",
-          "url": "https://en.wikipedia.org/w/index.php?search=Tampa%2C%20Florida",
-          "status": "unverified"
+          "title": "Wikipedia: Tampa Bay Lightning",
+          "url": "https://en.wikipedia.org/wiki/Tampa_Bay_Lightning",
+          "status": "verified"
         }
       ]
     },
@@ -8952,7 +8953,7 @@
     },
     {
       "id": "nhl-victoria-british-columbia",
-      "prompt": "This city’s junior hockey team won the Memorial Cup, helping establish its place in Canadian hockey history.",
+      "prompt": "This city's Cougars won the 1925 Stanley Cup before the franchise's players were purchased to form Detroit's NHL team",
       "answer": "Victoria, British Columbia",
       "lat": 48.4284,
       "lng": -123.3656,
@@ -8961,14 +8962,14 @@
       "tags": [
         "WHL"
       ],
-      "promptZh": "这座城市的青年队曾赢得纪念杯，写下冰球史上的重要篇章。",
-      "story": "The Victoria Cougars captured the 1975 Memorial Cup, becoming a notable junior hockey champion from British Columbia.",
-      "storyZh": "维多利亚美洲狮队夺得了1975年纪念杯，成为不列颠哥伦比亚省著名的青年冰球冠军。",
+      "promptZh": "这座城市的美洲狮队1925年夺得斯坦利杯，随后球队球员被买下组建底特律的NHL球队",
+      "story": "The Victoria Cougars won the 1925 Stanley Cup and reached the 1926 final; their players were then purchased to form the Detroit Cougars, now the Red Wings.",
+      "storyZh": "维多利亚美洲狮队1925年夺得斯坦利杯，1926年再进决赛；随后球队球员被买下组建底特律美洲狮队（今红翼队）。",
       "sources": [
         {
-          "title": "Wikipedia: Victoria, British Columbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Victoria%2C%20British%20Columbia",
-          "status": "unverified"
+          "title": "Wikipedia: Detroit Red Wings",
+          "url": "https://en.wikipedia.org/wiki/Detroit_Red_Wings",
+          "status": "verified"
         }
       ]
     },
@@ -9050,13 +9051,13 @@
         "KHL"
       ],
       "promptZh": "这个国家在苏联解体后统治了奥运冰球，多次夺得金牌。",
-      "story": "Russia’s men’s national team won Olympic ice hockey gold in 2008 and 2014, exemplifying the country’s post-Soviet dominance.",
-      "storyZh": "俄罗斯男子国家队在2008年和2014年两度夺得奥运冰球金牌，体现了苏联解体后的统治力。",
+      "story": "Russia's men won Olympic ice hockey gold in 2008 and 2014, though the 2014 title came under the Olympic Athletes from Russia banner.",
+      "storyZh": "俄罗斯男冰球队2008和2014年两夺奥运金牌，不过2014年的冠军是以“俄罗斯奥运运动员”名义获得的。",
       "sources": [
         {
-          "title": "Wikipedia: Russia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Russia",
-          "status": "unverified"
+          "title": "Wikipedia: Russia men's national ice hockey team",
+          "url": "https://en.wikipedia.org/wiki/Russia_men%27s_national_ice_hockey_team",
+          "status": "verified"
         }
       ]
     },
@@ -9873,9 +9874,9 @@
       "storyZh": "法国队在1998年本土世界杯上夺冠，并在2018年俄罗斯世界杯上再次夺冠。",
       "sources": [
         {
-          "title": "Wikipedia: France",
-          "url": "https://en.wikipedia.org/w/index.php?search=France",
-          "status": "unverified"
+          "title": "Wikipedia: France national football team",
+          "url": "https://en.wikipedia.org/wiki/France_national_football_team",
+          "status": "verified"
         }
       ]
     },
@@ -9891,13 +9892,13 @@
         "World Cup"
       ],
       "promptZh": "这个国家发明了这项运动，并在温布利赢得1966年世界杯冠军。",
-      "story": "England won the 1966 World Cup at Wembley, defeating West Germany 4–2 in the final.",
-      "storyZh": "英格兰队在温布利赢得1966年世界杯冠军，决赛中以4比2击败西德。",
+      "story": "England won the 1966 World Cup at Wembley, beating West Germany 4–2 in the final.",
+      "storyZh": "英格兰在温布利举行的1966年世界杯决赛中4比2击败西德夺冠。",
       "sources": [
         {
-          "title": "Wikipedia: England",
-          "url": "https://en.wikipedia.org/w/index.php?search=England",
-          "status": "unverified"
+          "title": "Wikipedia: England national football team",
+          "url": "https://en.wikipedia.org/wiki/England_national_football_team",
+          "status": "verified"
         }
       ]
     },
@@ -10544,9 +10545,9 @@
       "storyZh": "佩尔吉亚进入1994年亚洲俱乐部锦标赛决赛，佩利塔再也曾夺得1982年冠军并闯入1983年决赛。",
       "sources": [
         {
-          "title": "Wikipedia: Jakarta, Indonesia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Jakarta%2C%20Indonesia",
-          "status": "unverified"
+          "title": "Wikipedia: Persija Jakarta",
+          "url": "https://en.wikipedia.org/wiki/Persija_Jakarta",
+          "status": "verified"
         }
       ]
     },
@@ -10665,7 +10666,7 @@
     },
     {
       "id": "soccer-yekaterinburg-russia",
-      "prompt": "This city hosted the opening match of the 2018 FIFA World Cup on 14 June.",
+      "prompt": "This Russian city was renamed Sverdlovsk in 1924 and hosted matches at the 2018 World Cup",
       "answer": "Yekaterinburg, Russia",
       "lat": 56.8389,
       "lng": 60.6057,
@@ -10675,14 +10676,14 @@
         "soccer",
         "Europe"
       ],
-      "promptZh": "这座城市举办了2018年国际足联世界杯揭幕战。",
-      "story": "This city was renamed Sverdlovsk in 1924, and its original name was restored in 1991.",
-      "storyZh": "这座城市于1924年被改名为斯维尔德洛夫斯克，1991年恢复原名。",
+      "promptZh": "这座俄罗斯城市1924年更名为斯维尔德洛夫斯克，并举办了2018年世界杯比赛",
+      "story": "Yekaterinburg was renamed Sverdlovsk in 1924 and regained its original name in 1991; it hosted four matches at the 2018 FIFA World Cup.",
+      "storyZh": "叶卡捷琳堡1924年更名为斯维尔德洛夫斯克，1991年恢复原名；2018年世界杯在此举办四场比赛。",
       "sources": [
         {
-          "title": "Wikipedia: Yekaterinburg, Russia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Yekaterinburg%2C%20Russia",
-          "status": "unverified"
+          "title": "Wikipedia: Yekaterinburg",
+          "url": "https://en.wikipedia.org/wiki/Yekaterinburg",
+          "status": "verified"
         }
       ]
     },
@@ -10859,7 +10860,7 @@
     },
     {
       "id": "golf-troon-arizona",
-      "prompt": "Point to this town, whose resort has hosted the Phoenix Open, a notable PGA Tour event.",
+      "prompt": "This Arizona town lends its name to a golf resort near Scottsdale with two 18-hole courses",
       "answer": "Troon, Arizona",
       "lat": 33.7455,
       "lng": -111.9787,
@@ -10871,14 +10872,14 @@
       ],
       "viewLat": 38.8267,
       "viewLng": -104.2672,
-      "promptZh": "这座小镇的度假球场举办凤凰城公开赛。",
-      "story": "The resort includes Troon North and Troon South, both designed by Tom Fazio.",
-      "storyZh": "该度假区包括由汤姆·法齐奥设计的特罗恩北场和特罗恩南场。",
+      "promptZh": "这座亚利桑那小镇的名字被用于斯科茨代尔附近一处拥有两个18洞球场的高尔夫度假村",
+      "story": "Troon North and Troon South are golf courses in Scottsdale, Arizona, named after Troon, Scotland; the Phoenix Open is played at TPC Scottsdale.",
+      "storyZh": "北特伦和南特伦是亚利桑那州斯科茨代尔的高尔夫球场，名字源自苏格兰特伦；凤凰城公开赛在TPC斯科茨代尔举行。",
       "sources": [
         {
           "title": "Wikipedia: Troon, Arizona",
-          "url": "https://en.wikipedia.org/w/index.php?search=Troon%2C%20Arizona",
-          "status": "unverified"
+          "url": "https://en.wikipedia.org/wiki/Troon,_Arizona",
+          "status": "verified"
         }
       ]
     },
