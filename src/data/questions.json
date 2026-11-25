@@ -945,9 +945,9 @@
       ],
       "viewLat": 31.2077,
       "viewLng": -78.1834,
-      "promptZh": "Peyton Manning 选择了这所东南联盟学校，而非父亲 Archie 的母校 Ole Miss",
-      "story": "Peyton Manning played at Tennessee from 1993 to 1997, leading the Volunteers to the 1996 national championship after choosing the school over his father Archie’s alma mater, Ole Miss.",
-      "storyZh": "佩顿·曼宁在1993年至1997年效力田纳西大学，并率队赢得1996年全国冠军；他选择这所学校，而非父亲阿奇就读的密西西比大学。",
+      "promptZh": "Peyton Manning 选择了这所东南联盟学校，并率队赢得1996年全国冠军",
+      "story": "Peyton Manning played at Tennessee from 1993 to 1997 and led the Volunteers to the 1996 national championship.",
+      "storyZh": "佩顿·曼宁1993年至1997年效力田纳西大学，并率志愿军队赢得1996年全国冠军。",
       "sources": [
         {
           "title": "Wikipedia: Knoxville, Tennessee",
@@ -1151,8 +1151,8 @@
       "viewLat": 51.5139,
       "viewLng": -74.4593,
       "promptZh": "1972年，弗兰科·哈里斯在这座城市接到的“幸运一接”达阵赢下了一场美联季后赛",
-      "story": "On December 23, 1972, Franco Harris made the 'Immaculate Reception' at Three Rivers Stadium in Pittsburgh, giving the Steelers a 13-7 playoff win over Oakland. It was their first playoff victory; they lost the AFC Championship game that season and did not reach Super Bowl IX until two years later.",
-      "storyZh": "1972年12月23日，弗兰科·哈里斯在匹兹堡三河体育场完成著名的“完美接球”（Immaculate Reception），帮助钢人队以13比7击败突袭者队，取得队史首场季后赛胜利；但该赛季他们止步美联决赛，直到两年后才打进第九届超级碗。",
+      "story": "On December 23, 1972, Franco Harris made the 'Immaculate Reception' at Three Rivers Stadium in Pittsburgh, giving the Steelers their first playoff victory, 13–7 over Oakland.",
+      "storyZh": "1972年12月23日，弗兰科·哈里斯在匹兹堡三河体育场完成著名的“完美接球”（Immaculate Reception），帮助钢人队以13比7击败突袭者队，取得队史首场季后赛胜利。",
       "sources": [
         {
           "title": "Wikipedia: Immaculate Reception",
@@ -2027,7 +2027,7 @@
     },
     {
       "id": "intl-nba-houston-1",
-      "prompt": "Hakeem Olajuwon, the NBA's all-time blocks leader, was born in this city and didn't play hoops until age 15",
+      "prompt": "NBA's all-time blocks leader Hakeem Olajuwon was born in this West African city on January 21, 1963",
       "answer": "Lagos, Nigeria",
       "lat": 6.5244,
       "lng": 3.3792,
@@ -2037,9 +2037,9 @@
         "NBA",
         "international"
       ],
-      "promptZh": "NBA历史盖帽王Hakeem Olajuwon出生在这座城市，15岁才开始打篮球",
-      "story": "Hakeem Olajuwon was born in Lagos on January 11, 1963, and did not begin playing basketball until age 15.",
-      "storyZh": "1963年1月11日，哈基姆·奥拉朱旺出生于拉各斯，直到15岁才开始打篮球。",
+      "promptZh": "NBA历史盖帽王哈基姆·奥拉朱旺1963年1月21日出生在这座西非城市",
+      "story": "Hakeem Olajuwon was born in Lagos on January 21, 1963, and did not start playing basketball until he was 15.",
+      "storyZh": "哈基姆·奥拉朱旺1963年1月21日出生于拉各斯，15岁才开始打篮球。",
       "sources": [
         {
           "title": "Wikipedia: Lagos, Nigeria",
@@ -2213,8 +2213,8 @@
       "viewLat": 46.8544,
       "viewLng": -78.3271,
       "promptZh": "1975至1984年担任 NBA 总裁的拉里·奥布莱恩出生在这座马萨诸塞州城市",
-      "story": "Larry O'Brien was born in Springfield, Massachusetts, on July 7, 1917. He served as NBA commissioner from 1975 to 1984 — nine years, not the longest in league history; David Stern held the post for three decades. The NBA championship trophy is named after O'Brien.",
-      "storyZh": "拉里·奥布莱恩1917年7月7日出生于马萨诸塞州斯普林菲尔德。他于1975至1984年担任 NBA 总裁共九年，并非任期最长（大卫·斯特恩任职三十年）。NBA 总冠军奖杯以他的名字命名。",
+      "story": "Larry O'Brien was born in Springfield, Massachusetts, on July 7, 1917, and served as NBA commissioner from 1975 to 1984. The NBA championship trophy is named after him.",
+      "storyZh": "拉里·奥布莱恩1917年7月7日出生于马萨诸塞州斯普林菲尔德，1975至1984年担任NBA总裁。NBA总冠军奖杯以他的名字命名。",
       "sources": [
         {
           "title": "Wikipedia: Larry O'Brien",
@@ -2331,8 +2331,8 @@
       "viewLat": 34,
       "viewLng": -92,
       "promptZh": "1947年，这座中西部城市举办了史上第一次 NBA 选秀（当时称 BAA 选秀）",
-      "story": "The first NBA draft — then the Basketball Association of America draft — was held on June 2, 1947, at the Leland Hotel in Detroit. The NBA traces its history to that event, although it did not take the NBA name until 1949.",
-      "storyZh": "史上第一次 NBA 选秀（当时称 BAA 选秀）于1947年6月2日在底特律 Leland 酒店举行；NBA 把这次选秀视为自身历史的起点，尽管“NBA”这一名称到1949年才启用。",
+      "story": "The first NBA draft — then called the Basketball Association of America draft — was held on June 2, 1947, at the Leland Hotel in Detroit; the league adopted the NBA name in 1949.",
+      "storyZh": "史上第一次NBA选秀（当时称BAA选秀）1947年6月2日在底特律Leland酒店举行；联盟1949年改用NBA这一名称。",
       "sources": [
         {
           "title": "Wikipedia: 1947 BAA draft",
@@ -3532,8 +3532,8 @@
         "Phil Mickelson"
       ],
       "promptZh": "菲尔·米克尔森通过赢得 2021 年 PGA 锦标赛，成为高尔夫史上最年长的大满贯冠军",
-      "story": "At age 50, Phil Mickelson won the 2021 PGA Championship at the Ocean Course on Kiawah Island, South Carolina, becoming the oldest major champion in men's golf history. The event was not held in Kailua-Kona, Hawaii.",
-      "storyZh": "菲尔·米克尔森以 50 岁高龄（非 51 岁）在南卡罗来纳州基阿瓦岛海洋球场赢得 2021 年 PGA 锦标赛，成为男子高尔夫史上最年长大满贯冠军。该赛事并非在夏威夷凯卢阿-科纳举行。",
+      "story": "At age 50, Phil Mickelson won the 2021 PGA Championship at the Ocean Course on Kiawah Island, South Carolina, becoming the oldest major champion in men's golf history.",
+      "storyZh": "菲尔·米克尔森50岁时在南卡罗来纳州基阿瓦岛海洋球场赢得2021年PGA锦标赛，成为男子高尔夫史上最年长的大满贯冠军。",
       "sources": [
         {
           "title": "Britannica: Phil Mickelson",
@@ -4424,8 +4424,8 @@
         "marathon"
       ],
       "promptZh": "这座肯尼亚小镇是埃鲁德·基普乔格备战纪录马拉松的高海拔训练基地",
-      "story": "Eliud Kipchoge trained at a high-altitude camp in Kaptagat, Kenya, and in 2019 became the first person to run a marathon under two hours, clocking 1:59:40 in a specially staged event in Vienna. That time was not officially recognized.",
-      "storyZh": "埃鲁德·基普乔格在肯尼亚卡普塔加特的高海拔训练营训练。2019 年，他在维也纳一场特别赛事中以 1 小时 59 分 40 秒成为首位跑进两小时的马拉松选手，但该成绩未被官方承认。",
+      "story": "Eliud Kipchoge trained at a high-altitude camp in Kaptagat, Kenya, and in 2019 clocked 1:59:40 in a specially staged marathon event in Vienna.",
+      "storyZh": "埃鲁德·基普乔格在肯尼亚卡普塔加特的高海拔训练营训练，2019年在维也纳一场特别赛事中跑出1小时59分40秒。",
       "sources": [
         {
           "title": "Britannica: Eliud Kipchoge",
@@ -5412,7 +5412,7 @@
     },
     {
       "id": "nfl-cincinnati-ohio",
-      "prompt": "This city is home to the Bengals, whose quarterback set a Super Bowl completions record in the 1980s",
+      "prompt": "This city is home to the Bengals, whose quarterback Ken Anderson set a Super Bowl completions record in the 1980s",
       "answer": "Cincinnati, Ohio",
       "lat": 39.1031,
       "lng": -84.512,
@@ -5424,9 +5424,9 @@
       ],
       "viewLat": 37.4675,
       "viewLng": -88.2148,
-      "promptZh": "这座城市是孟加拉虎队所在地，该队四分卫在1980年代创下超级碗传球完成数纪录",
-      "story": "Bengals quarterback Ken Anderson completed 25 passes in Super Bowl XVI — a Super Bowl record at the time, later broken by Tom Brady. He was not perfect: his passer rating in that game was about 100, not 158.3.",
-      "storyZh": "孟加拉虎队四分卫肯·安德森在第十六届超级碗完成25次传球，创下当时的超级碗纪录，后被汤姆·布雷迪打破。他并非完美评分：该场评分约100，而非158.3。",
+      "promptZh": "这座城市是孟加拉虎队的所在地，该队四分卫肯·安德森在1980年代创下超级碗传球完成数纪录",
+      "story": "Bengals quarterback Ken Anderson completed 25 passes in Super Bowl XVI, a Super Bowl record at the time later broken by Tom Brady.",
+      "storyZh": "孟加拉虎队四分卫肯·安德森在第十六届超级碗完成25次传球，创下当时的超级碗纪录，后来被汤姆·布雷迪打破。",
       "sources": [
         {
           "title": "Wikipedia: Ken Anderson (quarterback)",
@@ -8007,8 +8007,8 @@
       "viewLat": 34.1188,
       "viewLng": -88.2435,
       "promptZh": "这座城市的孟加拉虎队四分卫在1995年常规赛中打出过满分传球评分",
-      "story": "On October 19, 1995, Bengals quarterback Jeff Blake became the only player in franchise history with a perfect 158.3 passer rating, in a 27-9 win over Pittsburgh. No quarterback has ever posted a perfect rating in a Super Bowl.",
-      "storyZh": "1995年10月19日，孟加拉虎队四分卫杰夫·布莱克以27比9击败钢人队，成为队史唯一打出158.3满分传球评分的球员；超级碗史上从未有人打出满分评分。",
+      "story": "On October 19, 1995, Bengals quarterback Jeff Blake threw a perfect 158.3 passer rating in a 27–9 win over Pittsburgh, the only such game in franchise history.",
+      "storyZh": "1995年10月19日，孟加拉虎队四分卫杰夫·布莱克在27比9击败钢人队的比赛中打出158.3的满分传球评分，这是队史唯一一次。",
       "sources": [
         {
           "title": "Wikipedia: List of NFL players who have posted a perfect passer rating",
@@ -8592,8 +8592,8 @@
       "viewLat": 43.0516,
       "viewLng": -78.5469,
       "promptZh": "这座城市的前 NHL 球队北部人队于 1995 年迁往丹佛，成为雪崩队",
-      "story": "The Quebec Nordiques played in the NHL from 1979 to 1995 before relocating to Denver, where they became the Colorado Avalanche. The 1983 Hart Trophy went to Wayne Gretzky (Edmonton); the Nordiques never won an Adams Cup.",
-      "storyZh": "魁北克北部人队 1979 年至 1995 年征战 NHL，后迁往丹佛成为科罗拉多雪崩队。1983 年哈特奖得主是韦恩·格雷茨基（爱德蒙顿油人）；北部人队从未获得过亚当斯杯。",
+      "story": "The Quebec Nordiques played in the NHL from 1979 to 1995 before relocating to Denver, where they became the Colorado Avalanche. Wayne Gretzky won the 1983 Hart Trophy.",
+      "storyZh": "魁北克北部人队1979年至1995年征战NHL，后迁往丹佛成为科罗拉多雪崩队；韦恩·格雷茨基获得了1983年哈特奖。",
       "sources": [
         {
           "title": "Britannica: Quebec Nordiques",
@@ -8717,8 +8717,8 @@
       "viewLat": 44.3591,
       "viewLng": -127.498,
       "promptZh": "这座城市的 NHL 扩充球队克拉肯队于 2021 年开始征战",
-      "story": "The Seattle Kraken entered the NHL as an expansion team for the 2021–22 season. They reached the playoffs in their second year but have not yet won a Stanley Cup.",
-      "storyZh": "西雅图克拉肯队作为扩充球队于 2021-22 赛季加入 NHL。球队第二年闯入季后赛，但尚未获得斯坦利杯。",
+      "story": "The Seattle Kraken joined the NHL as an expansion team in 2021 and reached the playoffs in their second season.",
+      "storyZh": "西雅图克拉肯队2021年以扩充球队身份加入NHL，并在第二个赛季闯入季后赛。",
       "sources": [
         {
           "title": "Britannica: Seattle Kraken",
@@ -9722,7 +9722,7 @@
     },
     {
       "id": "soccer-japan",
-      "prompt": "This country hosts the J.League and co-hosted the 2022 FIFA World Cup",
+      "prompt": "This country co-hosted the 2002 World Cup with South Korea and beat Germany 2–1 in Qatar in 2022",
       "answer": "Japan",
       "lat": 36.2048,
       "lng": 138.2529,
@@ -9731,9 +9731,9 @@
       "tags": [
         "J.League"
       ],
-      "promptZh": "这个国家拥有J联赛，并联合举办了2022年世界杯",
-      "story": "Japan co-hosted the 2002 World Cup with South Korea and beat Germany 2-1 in a group match at the 2022 World Cup in Qatar; the 2022 win was not its first World Cup victory.",
-      "storyZh": "日本与韩国联合主办了2002年世界杯；在2022年卡塔尔世界杯小组赛中2比1击败德国，但这并非日本队的世界杯首胜。",
+      "promptZh": "这个国家与韩国联合主办了2002年世界杯，并在2022年卡塔尔世界杯2比1击败德国",
+      "story": "Japan co-hosted the 2002 World Cup with South Korea and opened its 2022 campaign by beating defending champions Germany 2–1 in Qatar.",
+      "storyZh": "日本与韩国联合主办了2002年世界杯；2022年卡塔尔世界杯首战，日本以2比1爆冷击败卫冕冠军德国。",
       "sources": [
         {
           "title": "Wikipedia: 2022 FIFA World Cup Group E",
@@ -9749,7 +9749,7 @@
     },
     {
       "id": "soccer-morocco",
-      "prompt": "This North African country reached the 2022 World Cup semifinal, the first African and Arab nation to do so",
+      "prompt": "This North African country reached the 2022 World Cup semifinal and won its first Africa Cup of Nations in 1976",
       "answer": "Morocco",
       "lat": 31.7917,
       "lng": -7.0926,
@@ -9758,9 +9758,9 @@
       "tags": [
         "World Cup"
       ],
-      "promptZh": "这个北非国家闯入2022年世界杯半决赛，是首支做到的非洲及阿拉伯国家",
-      "story": "Morocco reached the 2022 World Cup semifinal, the first African and Arab team to do so. Its first Africa Cup of Nations title came in 1976, not 2018.",
-      "storyZh": "摩洛哥闯入2022年世界杯半决赛，成为首支做到的非洲及阿拉伯球队；球队首个非洲杯冠军来自1976年而非2018年。",
+      "promptZh": "这个北非国家闯入2022年世界杯半决赛，并于1976年首夺非洲杯冠军",
+      "story": "Morocco reached the 2022 World Cup semifinal, the first African and Arab team to do so, and won its first Africa Cup of Nations title in 1976.",
+      "storyZh": "摩洛哥闯入2022年世界杯半决赛，成为首支做到的非洲及阿拉伯球队；球队1976年首夺非洲杯冠军。",
       "sources": [
         {
           "title": "Wikipedia: Morocco national football team",
@@ -10294,7 +10294,7 @@
     },
     {
       "id": "soccer-lagos-nigeria",
-      "prompt": "This West African megacity was once home to the first Nigerian club to win a CAF title, Shooting Stars of Ibadan",
+      "prompt": "Point to this West African megacity, where Hakeem Olajuwon was born before moving to the United States",
       "answer": "Lagos, Nigeria",
       "lat": 6.5244,
       "lng": 3.3792,
@@ -10304,9 +10304,9 @@
         "soccer",
         "Africa"
       ],
-      "promptZh": "这座西非大都市曾是第一支赢得非洲俱乐部冠军的尼日利亚球队（伊巴丹射击之星）的主场",
-      "story": "Shooting Stars of Ibadan won the 1976 African Cup Winners' Cup, Nigeria's first CAF club trophy; Enyimba, the two-time African Champions League winner, is based in Aba, not Lagos.",
-      "storyZh": "伊巴丹的射击之星队1976年夺得非洲优胜者杯，是尼日利亚首座非洲俱乐部奖杯；两夺非洲冠军联赛的恩伊姆巴队位于阿巴而非拉各斯。",
+      "promptZh": "指向这座西非大都市，哈基姆·奥拉朱旺在此出生后移居美国",
+      "story": "Lagos is the birthplace of Hakeem Olajuwon, who began playing basketball at 15 and later became the NBA's all-time blocks leader.",
+      "storyZh": "拉各斯是哈基姆·奥拉朱旺的出生地，他15岁才开始打篮球，后来成为NBA历史盖帽王。",
       "sources": [
         {
           "title": "Wikipedia: Shooting Stars S.C.",
@@ -10711,7 +10711,7 @@
     },
     {
       "id": "soccer-saint-petersburg-russia",
-      "prompt": "This Russian city is home to the club that won the UEFA Cup in 2008",
+      "prompt": "This Russian city is home to Zenit, winners of the 2008 UEFA Cup and the 2008 UEFA Super Cup",
       "answer": "Saint Petersburg, Russia",
       "lat": 59.9311,
       "lng": 30.3609,
@@ -10721,9 +10721,9 @@
         "soccer",
         "Europe"
       ],
-      "promptZh": "这座俄罗斯城市是2008年欧洲联盟杯冠军俱乐部的所在地",
-      "story": "Zenit St Petersburg won the 2008 UEFA Cup, becoming the first Russian club to claim the trophy; the Soviet Union never won the European Cup.",
-      "storyZh": "圣彼得堡泽尼特队2008年夺得欧洲联盟杯，是首个获此奖杯的俄罗斯俱乐部；苏联从未赢得欧洲冠军杯。",
+      "promptZh": "这座俄罗斯城市是泽尼特队的所在地，该队夺得了2008年欧洲联盟杯和欧洲超级杯",
+      "story": "Zenit St Petersburg won the 2008 UEFA Cup and went on to claim the 2008 UEFA Super Cup, the first Russian club to lift either trophy.",
+      "storyZh": "圣彼得堡泽尼特队2008年夺得欧洲联盟杯，随后又赢得欧洲超级杯，是首支捧起这两座奖杯的俄罗斯俱乐部。",
       "sources": [
         {
           "title": "Wikipedia: FC Zenit Saint Petersburg",
@@ -10934,7 +10934,7 @@
     },
     {
       "id": "golf-muirfield-scotland",
-      "prompt": "Point to this town, whose golf course hosted the first Open Championship in 1860",
+      "prompt": "Point to this Scottish town, whose golf club staged the very first Open Championship in 1860",
       "answer": "Prestwick, Scotland",
       "lat": 55.5,
       "lng": -4.6167,
@@ -10946,9 +10946,9 @@
       ],
       "viewLat": 60.4066,
       "viewLng": -8.8805,
-      "promptZh": "指向这个小镇，其高尔夫球场于 1860 年举办了首届英国公开赛",
-      "story": "The first Open Championship in 1860 was played at Prestwick Golf Club in Scotland, not Muirfield. Rory McIlroy won the 2014 Open at Royal Liverpool (Hoylake) by two strokes, not eight at Muirfield.",
-      "storyZh": "首届英国公开赛于 1860 年在苏格兰普雷斯特维克高尔夫俱乐部举行，而非缪尔菲尔德。罗里·麦克罗伊在 2014 年于皇家利物浦球场（霍伊莱克）以两杆优势（非八杆）赢得公开赛冠军。",
+      "promptZh": "指向这座苏格兰小镇，当地高尔夫俱乐部于1860年举办了首届英国公开赛",
+      "story": "The Open Championship was first played at Prestwick Golf Club in 1860; the event returned there 24 times through 1925.",
+      "storyZh": "英国公开赛于1860年首次在普雷斯特维克高尔夫俱乐部举行，此后至1925年共24次回到这里举办。",
       "sources": [
         {
           "title": "Britannica: Prestwick Golf Club",
@@ -11301,7 +11301,7 @@
     },
     {
       "id": "golf-kingsbarns-scotland",
-      "prompt": "This Scottish links hosted the 2022 Open Championship, won by Zach Johnson",
+      "prompt": "This Scottish links has co-hosted the Alfred Dunhill Links Championship since 2001 alongside St Andrews and Carnoustie",
       "answer": "Kingsbarns, Scotland",
       "lat": 56.2958,
       "lng": -2.6556,
@@ -11311,9 +11311,9 @@
         "golf",
         "Open"
       ],
-      "promptZh": "这座苏格兰林克斯球场举办了 2022 年英国公开赛，扎克·约翰逊夺冠",
-      "story": "The 2022 Open Championship (150th) was played at St Andrews, where Cameron Smith won. Kingsbarns Golf Links hosted the 2017 Alfred Dunhill Links Championship but has never hosted The Open. Zach Johnson won The Open in 2007 and 2015.",
-      "storyZh": "2022 年英国公开赛（第 150 届）在圣安德鲁斯举行，卡梅隆·史密斯夺冠。金斯巴恩斯高尔夫林克斯曾举办 2017 年邓希尔林克斯锦标赛，但从未承办过英国公开赛。扎克·约翰逊于 2007 和 2015 年两夺公开赛冠军。",
+      "promptZh": "这片苏格兰林克斯球场自2001年起与圣安德鲁斯、卡诺斯蒂共同举办邓希尔林克斯锦标赛",
+      "story": "Kingsbarns Golf Links has co-hosted the Alfred Dunhill Links Championship since 2001, alongside the Old Course at St Andrews and Carnoustie.",
+      "storyZh": "金斯巴恩斯高尔夫林克斯自2001年起与圣安德鲁斯老球场、卡诺斯蒂共同举办邓希尔林克斯锦标赛。",
       "sources": [
         {
           "title": "Britannica: British Open",
@@ -11346,7 +11346,7 @@
     },
     {
       "id": "golf-doonbeg-ireland",
-      "prompt": "This Irish links hosted the 2012 U.S. Open, won by Rory McIlroy by three strokes",
+      "prompt": "This Irish links course was designed by Donald Trump's golf company and opened in 2007",
       "answer": "Doonbeg, Ireland",
       "lat": 52.8253,
       "lng": -9.4869,
@@ -11356,9 +11356,9 @@
         "golf",
         "Open"
       ],
-      "promptZh": "这座爱尔兰林克斯球场举办了 2012 年美国公开赛，罗里·麦克罗伊以三杆优势夺冠",
-      "story": "The 2012 U.S. Open was played at the Olympic Club in San Francisco, where Rory McIlroy won by eight strokes (not three) for his first major title. Doonbeg, Ireland, has never hosted a U.S. Open.",
-      "storyZh": "2012 年美国公开赛在旧金山奥林匹克俱乐部举行，罗里·麦克罗伊以八杆优势（非三杆）夺得首个大满贯冠军。爱尔兰杜恩贝格从未举办过美国公开赛。",
+      "promptZh": "这座爱尔兰林克斯球场由特朗普的高尔夫公司设计，2007年开业",
+      "story": "Trump International Golf Links & Hotel Ireland at Doonbeg opened in 2007; its links course was designed by Donald Trump's golf company.",
+      "storyZh": "位于杜恩贝格的特朗普国际高尔夫球场及酒店于2007年开业，林克斯球场由特朗普的高尔夫公司设计。",
       "sources": [
         {
           "title": "Britannica: U.S. Open (golf)",
@@ -11986,7 +11986,7 @@
     },
     {
       "id": "tennis-halle-germany",
-      "prompt": "This town hosts a grass-court tennis tournament that has run continuously since 1993.",
+      "prompt": "Roger Federer won this German town's grass-court tournament a record ten times",
       "answer": "Halle, Germany",
       "lat": 51.4966,
       "lng": 11.9804,
@@ -11995,9 +11995,9 @@
       "tags": [
         "tennis"
       ],
-      "promptZh": "这个小镇的草地网球赛自1993年起持续举办。",
-      "story": "The Halle Open has been played on grass in Halle, Germany, since 1993. Novak Djokovic reached the final in 2009 but lost to Tommy Haas; he never won the title here.",
-      "storyZh": "哈雷公开赛自1993年起在德国哈雷的草地上举行。诺瓦克·德约科维奇2009年打进决赛但负于汤米·哈斯，从未在此夺冠。",
+      "promptZh": "罗杰·费德勒在这座德国小镇的草地网球赛十夺冠军，保持赛会纪录",
+      "story": "The Halle Open has been played on grass in Halle, Germany, since 1993; Roger Federer won the singles title a record ten times.",
+      "storyZh": "哈雷公开赛自1993年起在德国哈雷的草地上举行；费德勒以10个单打冠军保持赛会纪录。",
       "sources": [
         {
           "title": "Wikipedia: Halle Open",
