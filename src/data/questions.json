@@ -2063,13 +2063,13 @@
       "viewLat": 28.1101,
       "viewLng": -84.2054,
       "promptZh": "LeBron James读高中三年级时登上Sports Illustrated封面，当时生活在这座城市",
-      "story": "LeBron James attended St. Vincent–St. Mary in Akron and appeared on the cover of Sports Illustrated in March 2002 while he was a high-school junior.",
-      "storyZh": "2002年3月，勒布朗·詹姆斯还是阿克伦圣文森特—圣玛丽中学的三年级学生时，便登上了《体育画报》封面。",
+      "story": "LeBron James attended St. Vincent–St. Mary in Akron and appeared on the cover of Sports Illustrated during his junior season, becoming the first high school underclassman to make the magazine's cover.",
+      "storyZh": "勒布朗·詹姆斯就读于阿克伦的圣文森特—圣玛丽中学，高中三年级赛季登上《体育画报》封面，成为首位登上该刊封面的高中非毕业班球员。",
       "sources": [
         {
-          "title": "Wikipedia: Akron, Ohio",
-          "url": "https://en.wikipedia.org/w/index.php?search=Akron%2C%20Ohio",
-          "status": "unverified"
+          "title": "Wikipedia: LeBron James",
+          "url": "https://en.wikipedia.org/wiki/LeBron_James",
+          "status": "verified"
         }
       ]
     },
@@ -2240,9 +2240,9 @@
       "storyZh": "德拉任·彼得罗维奇于1964年出生在希贝尼克，并在当地成长，后来成为篮球名人堂成员和篮网队球星。",
       "sources": [
         {
-          "title": "Wikipedia: Šibenik, Croatia",
-          "url": "https://en.wikipedia.org/w/index.php?search=%C5%A0ibenik%2C%20Croatia",
-          "status": "unverified"
+          "title": "Wikipedia: Dražen Petrović",
+          "url": "https://en.wikipedia.org/wiki/Dra%C5%BEen_Petrovi%C4%87",
+          "status": "verified"
         }
       ]
     },
@@ -2360,9 +2360,9 @@
       "storyZh": "斯波坎是约翰·斯托克顿效力于冈萨加大学的地方，而他在NBA生涯结束时成为历史助攻数和抢断数双榜第一。",
       "sources": [
         {
-          "title": "Wikipedia: Spokane, Washington",
-          "url": "https://en.wikipedia.org/w/index.php?search=Spokane%2C%20Washington",
-          "status": "unverified"
+          "title": "Wikipedia: John Stockton",
+          "url": "https://en.wikipedia.org/wiki/John_Stockton",
+          "status": "verified"
         }
       ]
     },
@@ -3289,7 +3289,7 @@
     },
     {
       "id": "olympics-phoenix-1",
-      "prompt": "Stephen Curry made 4 three-pointers in the final 3 minutes as the USA beat France for gold in this city",
+      "prompt": "In the 1993 NBA Finals, this city's Suns took Michael Jordan's Bulls to six games.",
       "answer": "Phoenix, Arizona",
       "lat": 33.4484,
       "lng": -112.074,
@@ -3301,14 +3301,14 @@
       ],
       "viewLat": 33.4484,
       "viewLng": -106.674,
-      "promptZh": "Stephen Curry在最后3分钟命中4记三分球，帮助美国队在这座城市击败法国队夺得金牌",
-      "story": "Phoenix remembers the 1993 NBA Finals, when the Suns reached the championship series and pushed Michael Jordan’s Chicago Bulls to seven games before losing in Game 4.",
-      "storyZh": "凤凰城让人铭记1993年NBA总决赛，当时太阳队闯入冠军系列赛，将迈克尔·乔丹的芝加哥公牛逼入抢七，才在第四场落败。",
+      "promptZh": "1993 年 NBA 总决赛，这座城市的太阳队与迈克尔·乔丹的公牛队大战六场。",
+      "story": "Charles Barkley's 62-win Phoenix Suns lost the 1993 NBA Finals to the Chicago Bulls in six games; John Paxson's three-pointer in Game 6 sealed the Bulls' first 'three-peat'.",
+      "storyZh": "查尔斯·巴克利率领的 62 胜太阳队在 1993 年 NBA 总决赛六场不敌芝加哥公牛队；第 6 场约翰·帕克森的三分球帮助公牛队完成首个“三连冠”。",
       "sources": [
         {
-          "title": "Wikipedia: Phoenix, Arizona",
-          "url": "https://en.wikipedia.org/w/index.php?search=Phoenix%2C%20Arizona",
-          "status": "unverified"
+          "title": "Wikipedia: 1993 NBA Finals",
+          "url": "https://en.wikipedia.org/wiki/1993_NBA_Finals",
+          "status": "verified"
         }
       ]
     },
@@ -3464,9 +3464,14 @@
       "storyZh": "兰斯·阿姆斯特朗曾七次赢得环法自行车赛，所有赛段都在巴黎收官，但他的冠军头衔于2012年被剥夺。",
       "sources": [
         {
-          "title": "Wikipedia: Paris, France",
-          "url": "https://en.wikipedia.org/w/index.php?search=Paris%2C%20France",
-          "status": "unverified"
+          "title": "Wikipedia: Lance Armstrong",
+          "url": "https://en.wikipedia.org/wiki/Lance_Armstrong",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Tour de France",
+          "url": "https://en.wikipedia.org/wiki/Tour_de_France",
+          "status": "verified"
         }
       ]
     },
@@ -3569,10 +3574,10 @@
     },
     {
       "id": "golf-ohio-1",
-      "prompt": "Donald Ross designed the No. 2 course here, host to more golf championships than any other site in America",
-      "answer": "Beverly Hills, California",
-      "lat": 34.0736,
-      "lng": -118.4004,
+      "prompt": "This North Carolina golf village's No. 2 course, designed by Donald Ross, has hosted five men's majors.",
+      "answer": "Pinehurst, North Carolina",
+      "lat": 35.1955,
+      "lng": -79.4692,
       "scope": "city",
       "sport": "golf",
       "tags": [
@@ -3580,14 +3585,14 @@
       ],
       "viewLat": 24.1458,
       "viewLng": -113.4365,
-      "promptZh": "Donald Ross 设计了这里的2号球场，它承办的高尔夫锦标赛比美国任何其他场地都多",
-      "story": "Donald Ross designed the celebrated No. 2 course at Beverly Hills Golf Club, which has hosted numerous professional championships.",
-      "storyZh": "唐纳德·罗斯设计了在比佛利山高尔夫俱乐部久负盛名的2号球场，这座球场曾举办过多项职业赛事。",
+      "promptZh": "这座北卡罗来纳高尔夫小镇的 2 号球场由唐纳德·罗斯设计，已举办五场男子大满贯赛事。",
+      "story": "Pinehurst No. 2 opened in 1907 to Donald Ross's design and has hosted the 1936 PGA Championship plus the U.S. Opens of 1999, 2005, 2014 and 2024; the USGA has named Pinehurst its first 'anchor site'.",
+      "storyZh": "松树丛 2 号球场 1907 年按唐纳德·罗斯的设计建成，承办过 1936 年 PGA 锦标赛以及 1999、2005、2014、2024 年美国公开赛；USGA 已将松树丛列为首个“锚定赛事场地”。",
       "sources": [
         {
-          "title": "Wikipedia: Beverly Hills, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Beverly%20Hills%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Pinehurst Resort",
+          "url": "https://en.wikipedia.org/wiki/Pinehurst_Resort",
+          "status": "verified"
         }
       ]
     },
@@ -3727,13 +3732,13 @@
       "viewLat": 28.8464,
       "viewLng": -78.8784,
       "promptZh": "1999年斯坦利杯决赛三加时赛中的争议“零进球”，至今仍让这座城市的蓝金球衣球迷心中刺痛",
-      "story": "On May 14, 1999, Dallas defeated Buffalo 3-2 when Brett Hull scored at 14:32 of the third overtime in Game 6 of the Stanley Cup Final; Hull’s disputed no-goal non-call in Game 5 remains equally infamous.",
-      "storyZh": "1999年5月14日，斯坦利杯总决赛第六场，布雷特·赫尔在第三个加时赛第14分32秒进球，以3比2击败布法罗；第五场那次有争议的“无效进球”同样令人难忘。",
+      "story": "The Dallas Stars took Game 6 of the 1999 Stanley Cup Final in triple overtime on Brett Hull's controversial goal — replays showed his skate in the crease — and Sabres fans still call it 'No Goal'.",
+      "storyZh": "1999 年斯坦利杯决赛第 6 场，达拉斯星队在第三个加时凭借布雷特·赫尔的争议进球取胜——慢镜显示他的冰刀在球门区内——水牛城球迷至今称之为“不存在的进球”。",
       "sources": [
         {
-          "title": "Wikipedia: Buffalo, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=Buffalo%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: 1999 Stanley Cup Final",
+          "url": "https://en.wikipedia.org/wiki/1999_Stanley_Cup_Final",
+          "status": "verified"
         }
       ]
     },
@@ -3948,24 +3953,24 @@
     },
     {
       "id": "nhl-newyork-1",
-      "prompt": "Before becoming the 'One-Two Three, Four, Five' Henrik, longtime Rangers goalie, Henrik Lundqvist was born here",
-      "answer": "Stockholm, Sweden",
-      "lat": 59.3293,
-      "lng": 18.0686,
+      "prompt": "Longtime Rangers goaltender known as 'King Henrik' was born in this Swedish town.",
+      "answer": "Åre, Sweden",
+      "lat": 63.3983,
+      "lng": 13.0811,
       "scope": "world",
       "sport": "ice hockey",
       "tags": [
         "NHL",
         "Rangers"
       ],
-      "promptZh": "在成为“One-Two Three, Four, Five”Henrik 之前，Rangers 的长期守门员 Henrik Lundqvist 出生在这里",
-      "story": "Future Rangers goaltender Henrik Lundqvist was born in Stockholm on June 3, 1975, beginning his journey toward the nickname “The King.”",
-      "storyZh": "后来成为纽约游骑兵队守门员的亨利克·伦德奎斯特于1975年6月3日出生在斯德哥尔摩，并由此开启了他“国王”的传奇生涯。",
+      "promptZh": "绰号“国王亨利克”的纽约游骑兵队传奇门将出生在这座瑞典小镇。",
+      "story": "Henrik Lundqvist was born in Åre on March 2, 1982, and backstopped the New York Rangers for 15 seasons, earning the nickname 'King Henrik' and a place in the Hockey Hall of Fame in 2023.",
+      "storyZh": "亨里克·伦德奎斯特 1982 年 3 月 2 日出生于奥勒，为纽约游骑兵队把守球门 15 个赛季，绰号“国王亨利克”，2023 年入选冰球名人堂。",
       "sources": [
         {
-          "title": "Wikipedia: Stockholm, Sweden",
-          "url": "https://en.wikipedia.org/w/index.php?search=Stockholm%2C%20Sweden",
-          "status": "unverified"
+          "title": "Wikipedia: Henrik Lundqvist",
+          "url": "https://en.wikipedia.org/wiki/Henrik_Lundqvist",
+          "status": "verified"
         }
       ]
     },
@@ -4042,24 +4047,24 @@
     },
     {
       "id": "nhl-utah-1",
-      "prompt": "A franchise whose musical name and note-shaped logo were carried from here to Utah in 1979",
-      "answer": "Montreal, Quebec",
-      "lat": 45.5017,
-      "lng": -73.5673,
+      "prompt": "This city's NBA team kept its musical name when the franchise moved to Utah in 1979.",
+      "answer": "New Orleans, Louisiana",
+      "lat": 29.9511,
+      "lng": -90.0715,
       "scope": "world",
-      "sport": "ice hockey",
+      "sport": "basketball",
       "tags": [
         "NHL",
         "international"
       ],
-      "promptZh": "这里的球队于1979年迁往Utah，并沿用了音乐名称和音符形标志",
-      "story": "The Colorado Rockies adopted the name Montreal Canadiens and its distinctive note-shaped logo when the franchise moved from Montreal to Utah in 1979.",
-      "storyZh": "1979年，球队从蒙特利尔迁往犹他州科罗拉多时，沿用了蒙特利尔加拿大人队的队名和独特的音符形标志。",
+      "promptZh": "这座城市的 NBA 球队 1979 年迁往犹他时保留了它与音乐有关的队名。",
+      "story": "The New Orleans Jazz joined the NBA in 1974 and relocated to Salt Lake City in 1979, keeping the Jazz name.",
+      "storyZh": "新奥尔良爵士队 1974 年加入 NBA，1979 年迁往盐湖城，保留了“爵士”这一队名。",
       "sources": [
         {
-          "title": "Wikipedia: Montreal, Quebec",
-          "url": "https://en.wikipedia.org/w/index.php?search=Montreal%2C%20Quebec",
-          "status": "unverified"
+          "title": "Wikipedia: Utah Jazz",
+          "url": "https://en.wikipedia.org/wiki/Utah_Jazz",
+          "status": "verified"
         }
       ]
     },
@@ -4148,13 +4153,18 @@
       "viewLat": 41.6717,
       "viewLng": -65.9293,
       "promptZh": "ESPN自1979年起一直在其位于这座城市的总部播出SportsCenter",
-      "story": "ESPN has produced SportsCenter from its Bristol headquarters since 1979, making the Connecticut town one of the program’s most recognizable homes.",
-      "storyZh": "自1979年以来，ESPN一直在康涅狄格州布里斯托尔总部制作《体育中心》，这座城市因此成为该节目的标志性驻地。",
+      "story": "SportsCenter premiered on September 7, 1979, the day ESPN launched; the network is headquartered in Bristol, Connecticut.",
+      "storyZh": "SportsCenter 于 1979 年 9 月 7 日与 ESPN 同日开播；ESPN 总部设在康涅狄格州布里斯托尔。",
       "sources": [
         {
-          "title": "Wikipedia: Bristol, Connecticut",
-          "url": "https://en.wikipedia.org/w/index.php?search=Bristol%2C%20Connecticut",
-          "status": "unverified"
+          "title": "Wikipedia: ESPN",
+          "url": "https://en.wikipedia.org/wiki/ESPN",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: SportsCenter",
+          "url": "https://en.wikipedia.org/wiki/SportsCenter",
+          "status": "verified"
         }
       ]
     },
@@ -4392,7 +4402,7 @@
     },
     {
       "id": "rugby-southafrica-1",
-      "prompt": "For 25 years, the Rugby Sevens Series stopped at this stadium, whose South Stand rained beer and worse onto the pitch",
+      "prompt": "The South Stand at this city's famous rugby sevens tournament is legendary for its beer-soaked party atmosphere.",
       "answer": "Hong Kong",
       "lat": 22.3193,
       "lng": 114.1694,
@@ -4401,14 +4411,14 @@
       "tags": [
         "rugby sevens"
       ],
-      "promptZh": "橄榄球七人制系列赛曾在这里的体育场停办25年，其南看台还曾向球场倾倒啤酒等液体",
-      "story": "After being staged annually from 1979 through 2004, the Hong Kong Sevens returned to the stadium in 2011, while its notorious South Stand was known for throwing beer and debris onto the pitch.",
-      "storyZh": "香港七人制橄榄球赛在1979年至2004年间每年举办，2011年重返赛场，而以向球场投掷啤酒和其他杂物闻名的南看台也长期令人难忘。",
+      "promptZh": "这座城市著名七人榄球赛的“南看台”以啤酒狂欢氛围闻名于世。",
+      "story": "First played in 1976, the Hong Kong Sevens is the premier stop on the World Rugby Sevens Series, and its South Stand is famous for fancy-dress fans and thrown beer jugs.",
+      "storyZh": "香港七人榄球赛 1976 年创办，是世界橄榄球七人系列赛最负盛名的分站；南看台以奇装异服的球迷和抛掷啤酒杯的狂欢氛围闻名。",
       "sources": [
         {
-          "title": "Wikipedia: Hong Kong",
-          "url": "https://en.wikipedia.org/w/index.php?search=Hong%20Kong",
-          "status": "unverified"
+          "title": "Wikipedia: Hong Kong Sevens",
+          "url": "https://en.wikipedia.org/wiki/Hong_Kong_Sevens",
+          "status": "verified"
         }
       ]
     },
@@ -4743,10 +4753,10 @@
     },
     {
       "id": "soccer-italy-2",
-      "prompt": "Roberto Baggio's 1994 World Cup penalty miss happened in this American city",
-      "answer": "Dallas, Texas",
-      "lat": 32.7767,
-      "lng": -96.797,
+      "prompt": "Roberto Baggio's missed penalty in the 1994 World Cup final shootout happened in this American city.",
+      "answer": "Pasadena, California",
+      "lat": 34.1478,
+      "lng": -118.1445,
       "scope": "city",
       "sport": "soccer",
       "tags": [
@@ -4755,14 +4765,14 @@
       ],
       "viewLat": 46.8167,
       "viewLng": -96.797,
-      "promptZh": "Roberto Baggio在1994年世界杯罚失的点球发生在这座美国城市",
-      "story": "Roberto Baggio’s infamous penalty miss for Italy against Spain occurred at Dallas’s Cotton Bowl on July 4, 1994. His failed kick ended Italy’s hopes in the knockout round of that World Cup.",
-      "storyZh": "1994年7月4日，罗伯托·巴乔在达拉斯棉花球场代表意大利对阵西班牙时罚失点球。这粒失点终结了意大利在该届世界杯淘汰赛中的希望。",
+      "promptZh": "罗伯特·巴乔在 1994 年世界杯决赛点球大战中射失关键点球，就发生在这座美国城市。",
+      "story": "Brazil beat Italy on penalties after a 0–0 draw at the Rose Bowl in Pasadena on July 17, 1994; Roberto Baggio skied the decisive kick in the shootout.",
+      "storyZh": "1994 年 7 月 17 日，世界杯决赛在帕萨迪纳玫瑰碗球场 0-0 战平后点球决胜，巴西击败意大利；巴乔在点球大战中射失了决定性的一球。",
       "sources": [
         {
-          "title": "Wikipedia: Dallas, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Dallas%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: 1994 FIFA World Cup final",
+          "url": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_final",
+          "status": "verified"
         }
       ]
     },
@@ -5191,7 +5201,7 @@
     },
     {
       "id": "tennis-sweden-1",
-      "prompt": "Bjorn Borg won 5 straight Wimbledon titles from 1976-80 and then retired at 26. He's from this European city",
+      "prompt": "Bjorn Borg won 5 straight Wimbledon titles from 1976-80 and then retired at 25. He's from this European city",
       "answer": "Stockholm, Sweden",
       "lat": 59.3293,
       "lng": 18.0686,
@@ -5200,14 +5210,14 @@
       "tags": [
         "Wimbledon"
       ],
-      "promptZh": "Bjorn Borg 在1976年至1980年间连续5次夺得 Wimbledon 冠军，26岁退役。他来自这座欧洲城市",
-      "story": "Björn Borg was born in Stockholm and won five consecutive Wimbledon men's singles titles from 1976 through 1980 before retiring at age 26.",
-      "storyZh": "比约恩·博格出生于斯德哥尔摩，并在1976年至1980年间连续五次夺得温网男子单打冠军，26岁时退役。",
+      "promptZh": "比约恩·博格 1976-80 年连续五次夺得温网冠军，25 岁便退役。他来自这座欧洲城市",
+      "story": "Björn Borg was born in Stockholm and won five consecutive Wimbledon men’s singles titles from 1976 through 1980 before unexpectedly retiring at 25.",
+      "storyZh": "比约恩·博格出生于斯德哥尔摩，1976 至 1980 年连续五次夺得温网男单冠军，随后在 25 岁令人意外地退役。",
       "sources": [
         {
-          "title": "Wikipedia: Stockholm, Sweden",
-          "url": "https://en.wikipedia.org/w/index.php?search=Stockholm%2C%20Sweden",
-          "status": "unverified"
+          "title": "Wikipedia: Björn Borg",
+          "url": "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Borg",
+          "status": "verified"
         }
       ]
     },
@@ -5438,7 +5448,7 @@
     },
     {
       "id": "nfl-baltimore-maryland",
-      "prompt": "This city is home to the Ravens, whose Super Bowl XLVII victory featured the infamous Joe Flacco diaper moment.",
+      "prompt": "This city is home to the Ravens, whose Super Bowl XLVII victory became known as the Blackout Bowl after a power outage stopped play.",
       "answer": "Baltimore, Maryland",
       "lat": 39.2904,
       "lng": -76.6122,
@@ -5450,14 +5460,14 @@
       ],
       "viewLat": 38.3063,
       "viewLng": -75.88,
-      "promptZh": "这座城市曾见证第47届超级碗的乔·弗拉科尿布时刻。",
-      "story": "Joe Flacco threw three touchdown passes and won Super Bowl XLVII MVP in Baltimore's 34-31 victory over the San Francisco 49ers.",
-      "storyZh": "乔·弗拉科在2013年第47届超级碗中传出3次达阵并当选最有价值球员，乌鸦队以34比31击败旧金山49人队。",
+      "promptZh": "这座城市是乌鸦队主场，乌鸦队赢下的第 47 届超级碗因停电中断被称为“停电碗”。",
+      "story": "The Ravens beat the San Francisco 49ers 34–31 in Super Bowl XLVII on February 3, 2013; a partial power outage at the Superdome suspended play for 34 minutes, and Joe Flacco threw three touchdown passes to win MVP.",
+      "storyZh": "2013 年 2 月 3 日的第 47 届超级碗，乌鸦队 34-31 击败 49 人队；超级穹顶体育场部分停电导致比赛中断 34 分钟，乔·弗拉科传出 3 记达阵当选 MVP。",
       "sources": [
         {
-          "title": "Wikipedia: Baltimore, Maryland",
-          "url": "https://en.wikipedia.org/w/index.php?search=Baltimore%2C%20Maryland",
-          "status": "unverified"
+          "title": "Wikipedia: Super Bowl XLVII",
+          "url": "https://en.wikipedia.org/wiki/Super_Bowl_XLVII",
+          "status": "verified"
         }
       ]
     },
@@ -5996,7 +6006,7 @@
     },
     {
       "id": "nfl-norman-oklahoma",
-      "prompt": "This city is home to a college football program that led the nation in rushing for three consecutive seasons.",
+      "prompt": "This city's college football program owns Division I's longest winning streak: 47 games in a row.",
       "answer": "Norman, Oklahoma",
       "lat": 35.2226,
       "lng": -97.4395,
@@ -6008,14 +6018,19 @@
       ],
       "viewLat": 35.0104,
       "viewLng": -96.7565,
-      "promptZh": "这座城市有一支连续三个赛季冲球排名第一的大学橄榄球队。",
-      "story": "Gaylord Family Oklahoma Memorial Stadium opened in 1925 and was fully renovated in 2016, giving the venue a capacity of roughly 80,000 seats.",
-      "storyZh": "盖伊洛德家族俄克拉何马纪念体育场于1925年启用，2016年完成全面翻新后可容纳约8万名观众。",
+      "promptZh": "这座城市的大学橄榄球队保持着 NCAA 一级联赛最长连胜纪录：47 连胜。",
+      "story": "The Oklahoma Sooners' 47-game winning streak is the longest in Division I college football history. They play at Gaylord Family Oklahoma Memorial Stadium, whose capacity is 80,126.",
+      "storyZh": "俄克拉荷马捷足者队的 47 连胜是 NCAA 一级橄榄球史上最长连胜。球队主场是盖洛德家族俄克拉荷马纪念体育场，可容纳 80,126 人。",
       "sources": [
         {
-          "title": "Wikipedia: Norman, Oklahoma",
-          "url": "https://en.wikipedia.org/w/index.php?search=Norman%2C%20Oklahoma",
-          "status": "unverified"
+          "title": "Wikipedia: Oklahoma Sooners football",
+          "url": "https://en.wikipedia.org/wiki/Oklahoma_Sooners_football",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Gaylord Family Oklahoma Memorial Stadium",
+          "url": "https://en.wikipedia.org/wiki/Gaylord_Family_Oklahoma_Memorial_Stadium",
+          "status": "verified"
         }
       ]
     },
@@ -6262,13 +6277,13 @@
       "viewLat": 48.6411,
       "viewLng": -114.2546,
       "promptZh": "蒙大拿灰熊队美式橄榄球队所在地就是这座城市。",
-      "story": "Washington-Grizzly Stadium opened in 1927 on the University of Montana campus.",
-      "storyZh": "华盛顿灰熊体育场于1927年在蒙大拿大学校园内建成。",
+      "story": "Washington–Grizzly Stadium opened in 1986 on the University of Montana campus and seats 25,217, making it the largest stadium in Montana.",
+      "storyZh": "华盛顿-灰熊球场 1986 年在蒙大拿大学校园启用，可容纳 25,217 人，是蒙大拿州最大的体育场。",
       "sources": [
         {
-          "title": "Wikipedia: Missoula, Montana",
-          "url": "https://en.wikipedia.org/w/index.php?search=Missoula%2C%20Montana",
-          "status": "unverified"
+          "title": "Wikipedia: Washington–Grizzly Stadium",
+          "url": "https://en.wikipedia.org/wiki/Washington%E2%80%93Grizzly_Stadium",
+          "status": "verified"
         }
       ]
     },
@@ -6674,7 +6689,7 @@
     },
     {
       "id": "mlb-tokyo-japan",
-      "prompt": "This city is home to the Yakult Swallows and the Giants, whose stadium is known as the “Cathedral of Baseball”.",
+      "prompt": "This city is home to two Nippon Professional Baseball clubs: the Yomiuri Giants and the Yakult Swallows.",
       "answer": "Tokyo, Japan",
       "lat": 35.6762,
       "lng": 139.6503,
@@ -6684,14 +6699,14 @@
         "NPB",
         "Japan"
       ],
-      "promptZh": "这座城市有燕子队和巨人队，后者球场素称“棒球大教堂”。",
-      "story": "Tokyo Dome opened in March 1988 and has remained the Yomiuri Giants’ home venue since then.",
-      "storyZh": "东京巨蛋于1988年3月启用，此后一直是读卖巨人队的主场。",
+      "promptZh": "这座城市拥有两支日本职棒球队：读卖巨人队和养乐多燕子队。",
+      "story": "Tokyo hosts NPB’s two clubs: the Yomiuri Giants and the Tokyo Yakult Swallows, who have played at Meiji Jingu Stadium since 1964.",
+      "storyZh": "东京拥有两支 NPB 球队：读卖巨人队和养乐多燕子队，后者自 1964 年起以明治神宫球场为主场。",
       "sources": [
         {
-          "title": "Wikipedia: Tokyo, Japan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Tokyo%2C%20Japan",
-          "status": "unverified"
+          "title": "Wikipedia: Tokyo Yakult Swallows",
+          "url": "https://en.wikipedia.org/wiki/Tokyo_Yakult_Swallows",
+          "status": "verified"
         }
       ]
     },
@@ -7207,9 +7222,9 @@
       "storyZh": "费城76人队1967年在威尔特·张伯伦带领下夺冠，1983年又依靠摩西·马龙再夺总冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Philadelphia, Pennsylvania",
-          "url": "https://en.wikipedia.org/w/index.php?search=Philadelphia%2C%20Pennsylvania",
-          "status": "unverified"
+          "title": "Wikipedia: Philadelphia 76ers",
+          "url": "https://en.wikipedia.org/wiki/Philadelphia_76ers",
+          "status": "verified"
         }
       ]
     },
@@ -7253,13 +7268,13 @@
       "viewLat": 45.0541,
       "viewLng": -122.0885,
       "promptZh": "这座城市的球迷被称为Rip City，主场是开拓者队。",
-      "story": "The Trail Blazers' home opened in 1995 as the Rose Garden, and the Rip City nickname dates back to the team's 1978 playoff run.",
-      "storyZh": "开拓者队的主场球馆1995年以玫瑰园之名开放，而Rip City这一昵称源自球队1978年的季后赛之旅。",
+      "story": "Broadcaster Bill Schonely coined 'Rip City' during a Trail Blazers–Lakers game on February 18, 1971, and the nickname has been tied to the team ever since.",
+      "storyZh": "1971 年 2 月 18 日开拓者对阵湖人的比赛中，解说员比尔·肖内利喊出“Rip City”，此后这一绰号一直与球队相伴。",
       "sources": [
         {
-          "title": "Wikipedia: Portland, Oregon",
-          "url": "https://en.wikipedia.org/w/index.php?search=Portland%2C%20Oregon",
-          "status": "unverified"
+          "title": "Wikipedia: Nicknames of Portland, Oregon",
+          "url": "https://en.wikipedia.org/wiki/Nicknames_of_Portland,_Oregon",
+          "status": "verified"
         }
       ]
     },
@@ -7290,7 +7305,7 @@
     },
     {
       "id": "nba-milwaukee-wisconsin",
-      "prompt": "This city's basketball club plays under the Bucks name and belongs to a city with century-old brewing roots.",
+      "prompt": "This city’s Bucks won NBA championships 50 years apart, in 1971 and 2021.",
       "answer": "Milwaukee, Wisconsin",
       "lat": 43.0389,
       "lng": -87.9065,
@@ -7302,14 +7317,14 @@
       ],
       "viewLat": 48.0389,
       "viewLng": -80.9065,
-      "promptZh": "这座城市的球队名为雄鹿，当地有延续百年的酿酒传统。",
-      "story": "Milwaukee's brewing tradition dates to the 19th century, and the Bucks won NBA championships in 1971 and 2021.",
-      "storyZh": "密尔沃基的啤酒酿造传统可追溯至19世纪，雄鹿队曾于1971年和2021年夺冠。",
+      "promptZh": "这座城市的雄鹿队相隔 50 年两夺 NBA 总冠军：1971 年和 2021 年。",
+      "story": "The Milwaukee Bucks won their first NBA championship in 1971 and their second in 2021 — fifty years apart.",
+      "storyZh": "密尔沃基雄鹿队 1971 年首夺 NBA 总冠军，2021 年再度登顶，两次夺冠相隔 50 年。",
       "sources": [
         {
-          "title": "Wikipedia: Milwaukee, Wisconsin",
-          "url": "https://en.wikipedia.org/w/index.php?search=Milwaukee%2C%20Wisconsin",
-          "status": "unverified"
+          "title": "Wikipedia: Milwaukee Bucks",
+          "url": "https://en.wikipedia.org/wiki/Milwaukee_Bucks",
+          "status": "verified"
         }
       ]
     },
@@ -7557,9 +7572,14 @@
       "storyZh": "坏小子活塞队在1988年至1990年间连续三次打进NBA总决赛。",
       "sources": [
         {
-          "title": "Wikipedia: Detroit, Michigan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Detroit%2C%20Michigan",
-          "status": "unverified"
+          "title": "Wikipedia: Detroit Pistons",
+          "url": "https://en.wikipedia.org/wiki/Detroit_Pistons",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: 1988 NBA Finals",
+          "url": "https://en.wikipedia.org/wiki/1988_NBA_Finals",
+          "status": "verified"
         }
       ]
     },
@@ -8095,7 +8115,7 @@
     },
     {
       "id": "mlb-anaheim-california",
-      "prompt": "this city is home to the baseball team that retired number 33 for Wally Joyner, nicknamed 'The Big Red Hammer'.",
+      "prompt": "This city is home to the Angels, whose 2002 World Series win remains the franchise's only championship.",
       "answer": "Anaheim, California",
       "lat": 33.8366,
       "lng": -117.9143,
@@ -8107,14 +8127,14 @@
       ],
       "viewLat": 40.612,
       "viewLng": -111.5851,
-      "promptZh": "“大红重锤”沃利·乔纳的33号球衣由这座城市的球队退役。",
-      "story": "The Angels retired Wally Joyner's No. 33 on May 7, 2022.",
-      "storyZh": "洛杉矶天使队于2022年5月7日为沃利·乔纳退役了33号球衣。",
+      "promptZh": "这座城市是天使队主场，天使队 2002 年世界大赛夺冠，是球队迄今唯一的总冠军。",
+      "story": "The Angels beat the San Francisco Giants in seven games in the 2002 World Series, the franchise's only title; the team has played at Angel Stadium in Anaheim since 1966.",
+      "storyZh": "天使队在 2002 年世界大赛七场大战中击败旧金山巨人队，夺得队史唯一总冠军；球队自 1966 年起在阿纳海姆的天使体育场比赛。",
       "sources": [
         {
-          "title": "Wikipedia: Anaheim, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Anaheim%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Los Angeles Angels",
+          "url": "https://en.wikipedia.org/wiki/Los_Angeles_Angels",
+          "status": "verified"
         }
       ]
     },
@@ -8165,8 +8185,8 @@
     },
     {
       "id": "nba-bayern-germany",
-      "prompt": "this city is home to the basketball club that won the 2014 German Bundesliga championship.",
-      "answer": "Bayern, Germany",
+      "prompt": "This city is home to the basketball club that won the 2014 Basketball Bundesliga championship.",
+      "answer": "Munich, Germany",
       "lat": 48.7904,
       "lng": 11.4967,
       "scope": "world",
@@ -8174,14 +8194,14 @@
       "tags": [
         "EuroLeague"
       ],
-      "promptZh": "这座城市的篮球队赢得2014年德国篮球甲级联赛冠军。",
-      "story": "FC Bayern Munich beat the Fraport Skyliners 3–1 in the 2014 Bundesliga Finals.",
-      "storyZh": "拜仁慕尼黑篮球队在2014年德国篮球甲级联赛总决赛中以3比1击败法兰克福天行者队。",
+      "promptZh": "这座城市拥有一家赢得 2014 年德国篮球甲级联赛冠军的俱乐部。",
+      "story": "FC Bayern Munich's basketball team won its third German title in 2014, beating ALBA Berlin 3–1 in the Basketball Bundesliga Finals.",
+      "storyZh": "拜仁慕尼黑篮球队在 2014 年德国篮球甲级联赛总决赛中 3-1 击败 ALBA 柏林，夺得队史第三个德国冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Bayern, Germany",
-          "url": "https://en.wikipedia.org/w/index.php?search=Bayern%2C%20Germany",
-          "status": "unverified"
+          "title": "Wikipedia: 2013–14 Basketball Bundesliga",
+          "url": "https://en.wikipedia.org/wiki/2013%E2%80%9314_Basketball_Bundesliga",
+          "status": "verified"
         }
       ]
     },
@@ -9400,7 +9420,7 @@
     },
     {
       "id": "soccer-dakar-senegal",
-      "prompt": "This city hosted the 2021 Africa Cup of Nations final at its national football stadium.",
+      "prompt": "This West African capital's national team won its first Africa Cup of Nations title in 2022.",
       "answer": "Dakar, Senegal",
       "lat": 14.7167,
       "lng": -17.4677,
@@ -9412,14 +9432,14 @@
       ],
       "viewLat": 12.2098,
       "viewLng": -13.321,
-      "promptZh": "这座城市举办了2021年非洲国家杯决赛。",
-      "story": "Founded as a French colonial settlement in the 17th century, Dakar developed around a major Atlantic harbor.",
-      "storyZh": "达喀尔始建于17世纪的法国殖民定居时期，并围绕一处重要的大西洋港口发展。",
+      "promptZh": "这座西非首都的国家队在 2022 年夺得该国首个非洲国家杯冠军。",
+      "story": "Senegal won its first Africa Cup of Nations championship in February 2022, beating Egypt on penalties after a 0–0 draw in the final of the 2021 tournament.",
+      "storyZh": "2022 年 2 月，塞内加尔队在 2021 年非洲国家杯决赛中点球击败埃及队，为该国夺得首个非洲国家杯冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Dakar, Senegal",
-          "url": "https://en.wikipedia.org/w/index.php?search=Dakar%2C%20Senegal",
-          "status": "unverified"
+          "title": "Wikipedia: 2021 Africa Cup of Nations",
+          "url": "https://en.wikipedia.org/wiki/2021_Africa_Cup_of_Nations",
+          "status": "verified"
         }
       ]
     },
@@ -9500,7 +9520,7 @@
     },
     {
       "id": "soccer-hamburg-germany",
-      "prompt": "This city is home to a club that won both the 1983 European Cup and the 1997 UEFA Cup.",
+      "prompt": "This city is home to the club that won the 1977 Cup Winners' Cup and the 1983 European Cup.",
       "answer": "Hamburg, Germany",
       "lat": 53.5511,
       "lng": 9.9937,
@@ -9512,14 +9532,14 @@
       ],
       "viewLat": 47.5537,
       "viewLng": 16.4656,
-      "promptZh": "这座城市主队曾夺1983年欧洲杯和1997年欧足联杯。",
-      "story": "Hamburg's neo-Renaissance city hall was rebuilt between 1886 and 1897 after a city fire damaged the previous structure.",
-      "storyZh": "汉堡的新文艺复兴式市政厅于1886年至1897年间重建，此前建筑毁于城市大火。",
+      "promptZh": "这座城市拥有一家赢得 1977 年欧洲优胜者杯和 1983 年欧洲冠军杯的俱乐部。",
+      "story": "Hamburger SV won the 1976–77 European Cup Winners' Cup and the 1982–83 European Cup, the peak of the club's history.",
+      "storyZh": "汉堡足球俱乐部赢得 1976-77 赛季欧洲优胜者杯和 1982-83 赛季欧洲冠军杯，那是俱乐部历史的巅峰。",
       "sources": [
         {
-          "title": "Wikipedia: Hamburg, Germany",
-          "url": "https://en.wikipedia.org/w/index.php?search=Hamburg%2C%20Germany",
-          "status": "unverified"
+          "title": "Wikipedia: Hamburger SV",
+          "url": "https://en.wikipedia.org/wiki/Hamburger_SV",
+          "status": "verified"
         }
       ]
     },
@@ -10107,7 +10127,7 @@
     },
     {
       "id": "soccer-athens-greece",
-      "prompt": "This city staged the 2004 European Championship final, in which the host nation lost to Portugal.",
+      "prompt": "This city hosted the 2004 Summer Olympics, where Argentina's footballers won gold without conceding a goal.",
       "answer": "Athens, Greece",
       "lat": 37.9838,
       "lng": 23.7275,
@@ -10116,14 +10136,14 @@
       "tags": [
         "Euro"
       ],
-      "promptZh": "这座城市举办了2004年欧洲杯决赛，东道主最终失利。",
-      "story": "The 2004 European Championship final was played in Athens, where Portugal defeated Greece 2–1.",
-      "storyZh": "2004年欧洲杯决赛在雅典举行，葡萄牙以2比1击败希腊。",
+      "promptZh": "这座城市举办了 2004 年夏季奥运会，阿根廷男足全程零失球夺得金牌。",
+      "story": "Athens staged the 2004 Summer Olympics, and Argentina's men won the football gold medal without conceding a single goal in the tournament.",
+      "storyZh": "雅典举办 2004 年夏季奥运会，阿根廷男足全程一球未失赢得奥运金牌。",
       "sources": [
         {
-          "title": "Wikipedia: Athens, Greece",
-          "url": "https://en.wikipedia.org/w/index.php?search=Athens%2C%20Greece",
-          "status": "unverified"
+          "title": "Wikipedia: Football at the 2004 Summer Olympics",
+          "url": "https://en.wikipedia.org/wiki/Football_at_the_2004_Summer_Olympics",
+          "status": "verified"
         }
       ]
     },
@@ -10180,7 +10200,7 @@
     },
     {
       "id": "soccer-kyiv-ukraine",
-      "prompt": "This city is home to the club that won the 1975 European Cup Winners' Cup and the 1986 and 1987 UEFA Cups.",
+      "prompt": "This city is home to the club that won the European Cup Winners' Cup in 1975 and 1986.",
       "answer": "Kyiv, Ukraine",
       "lat": 50.4501,
       "lng": 30.5234,
@@ -10190,14 +10210,24 @@
         "soccer",
         "Europe"
       ],
-      "promptZh": "这座城市的主队赢得过欧洲优胜者杯及两次联盟杯。",
-      "story": "Dynamo Kyiv won the 1975 European Cup Winners' Cup and consecutive UEFA Cups in 1986 and 1987.",
-      "storyZh": "基辅迪纳摩曾赢得1975年欧洲优胜者杯，并在1986年和1987年连续夺得欧洲联盟杯。",
+      "promptZh": "这座城市拥有一家在 1975 年和 1986 年两夺欧洲优胜者杯的俱乐部。",
+      "story": "Dynamo Kyiv won the European Cup Winners' Cup in 1975, beating Ferencváros 3–0, and again in 1986, beating Atlético Madrid 3–0.",
+      "storyZh": "迪纳摩基辅 1975 年决赛 3-0 击败费伦茨瓦罗斯，1986 年决赛 3-0 击败马德里竞技，两夺欧洲优胜者杯。",
       "sources": [
         {
-          "title": "Wikipedia: Kyiv, Ukraine",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kyiv%2C%20Ukraine",
-          "status": "unverified"
+          "title": "Wikipedia: FC Dynamo Kyiv",
+          "url": "https://en.wikipedia.org/wiki/FC_Dynamo_Kyiv",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: 1975 European Cup Winners' Cup final",
+          "url": "https://en.wikipedia.org/wiki/1975_European_Cup_Winners%27_Cup_final",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: 1986 European Cup Winners' Cup final",
+          "url": "https://en.wikipedia.org/wiki/1986_European_Cup_Winners%27_Cup_final",
+          "status": "verified"
         }
       ]
     },
@@ -10323,7 +10353,7 @@
     },
     {
       "id": "soccer-kinshasa-dr-congo",
-      "prompt": "This city is the capital of a Central African nation whose club TP Mazembe reached the 1974 African Cup of Champions Clubs final.",
+      "prompt": "This city is the capital of a Central African nation whose club TP Mazembe became the first African side to reach the Club World Cup final in 2010.",
       "answer": "Kinshasa, DR Congo",
       "lat": -4.4419,
       "lng": 15.2663,
@@ -10333,14 +10363,14 @@
         "soccer",
         "Africa"
       ],
-      "promptZh": "这座非洲中部城市所在国球队进入1974年非洲杯决赛。",
-      "story": "The city was founded as Léopoldville in 1881 and was renamed Kinshasa in 1966.",
-      "storyZh": "这座城市于1881年以利奥波德维尔之名建立，1966年改名为金沙萨。",
+      "promptZh": "这座城市是一个中非国家的首都，该国的 TP 马赞比队在 2010 年成为首支打进世俱杯决赛的非洲球队。",
+      "story": "TP Mazembe, from Lubumbashi in the DR Congo, reached the 2010 FIFA Club World Cup final — the first African club to get that far — losing 3–0 to Inter Milan.",
+      "storyZh": "来自刚果（金）卢本巴希的 TP 马赞比队，在 2010 年世俱杯成为首支打进决赛的非洲球队，最终 0-3 负于国际米兰。",
       "sources": [
         {
-          "title": "Wikipedia: Kinshasa, DR Congo",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kinshasa%2C%20DR%20Congo",
-          "status": "unverified"
+          "title": "Wikipedia: TP Mazembe",
+          "url": "https://en.wikipedia.org/wiki/TP_Mazembe",
+          "status": "verified"
         }
       ]
     },
@@ -11085,7 +11115,7 @@
     },
     {
       "id": "golf-olympia-fields-illinois",
-      "prompt": "This town's course hosted the 2003 U.S. Open, won by Justin Leonard.",
+      "prompt": "This town's course hosted the 2003 U.S. Open, won by Jim Furyk.",
       "answer": "Olympia Fields, Illinois",
       "lat": 41.6131,
       "lng": -87.7851,
@@ -11097,14 +11127,14 @@
       ],
       "viewLat": 47.9261,
       "viewLng": -92.4441,
-      "promptZh": "这座小镇的球场承办了2003年美国公开赛。",
-      "story": "Justin Leonard won the 2003 U.S. Open at Olympia Fields, and Rory McIlroy won the 2012 edition at age 22.",
-      "storyZh": "贾斯汀·伦纳德赢得了2003年奥林匹亚菲尔兹美国公开赛，22岁的罗里·麦克罗伊则夺得了2012年赛事冠军。",
+      "promptZh": "这座小镇的球场承办了 2003 年美国公开赛，冠军是吉姆·福瑞克。",
+      "story": "Jim Furyk won his only major championship at the 2003 U.S. Open, held on the North Course of Olympia Fields Country Club, three shots clear of runner-up Stephen Leaney.",
+      "storyZh": "2003 年美国公开赛在奥林匹亚菲尔兹乡村俱乐部北球场举行，吉姆·福瑞克以 3 杆优势夺冠，拿下他职业生涯唯一的大满贯。",
       "sources": [
         {
-          "title": "Wikipedia: Olympia Fields, Illinois",
-          "url": "https://en.wikipedia.org/w/index.php?search=Olympia%20Fields%2C%20Illinois",
-          "status": "unverified"
+          "title": "Wikipedia: 2003 U.S. Open (golf)",
+          "url": "https://en.wikipedia.org/wiki/2003_U.S._Open_(golf)",
+          "status": "verified"
         }
       ]
     },
@@ -11439,7 +11469,7 @@
     },
     {
       "id": "golf-hirono-japan",
-      "prompt": "This seaside resort town’s course hosted the 2019 Asia-Pacific Open for professional golfers.",
+      "prompt": "This town's seaside golf course hosted the 2005 Japan Open Golf Championship, won by Shingo Katayama.",
       "answer": "Hirono, Japan",
       "lat": 34.9268,
       "lng": 135.1461,
@@ -11449,14 +11479,14 @@
         "golf",
         "Japan"
       ],
-      "promptZh": "这个海滨小镇的球场举办了2019年亚太公开赛。",
-      "story": "The 2019 Asia-Pacific Open was played at Hirono Golf Club in Hirono, Japan. Yani Tseng won the tournament.",
-      "storyZh": "2019年亚太公开赛在日本广野的广野高尔夫俱乐部举行。雅尼·曾赢得该届赛事冠军。",
+      "promptZh": "这座海滨小镇的高尔夫球场承办了 2005 年日本高尔夫公开赛，冠军是片山晋吴。",
+      "story": "Hirono Golf Club hosted the Japan Open Golf Championship in 2005, when Shingo Katayama won by two strokes; the course has hosted the national open five times.",
+      "storyZh": "广野高尔夫俱乐部 2005 年承办日本高尔夫公开赛，片山晋吴以 2 杆优势夺冠；该球场共五次承办这项日本国家级公开赛。",
       "sources": [
         {
-          "title": "Wikipedia: Hirono, Japan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Hirono%2C%20Japan",
-          "status": "unverified"
+          "title": "Wikipedia: Japan Open Golf Championship",
+          "url": "https://en.wikipedia.org/wiki/Japan_Open_Golf_Championship",
+          "status": "verified"
         }
       ]
     },
