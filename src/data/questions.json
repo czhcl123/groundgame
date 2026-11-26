@@ -190,10 +190,10 @@
     },
     {
       "id": "nfl-army-1",
-      "prompt": "Pat Tillman left a $3.6 million NFL contract in this city to enlist as an Army Ranger after 9/11",
-      "answer": "Fresno, California",
-      "lat": 36.7378,
-      "lng": -119.7871,
+      "prompt": "Pat Tillman, who left the NFL to become an Army Ranger after 9/11, played college football in this city.",
+      "answer": "Tempe, Arizona",
+      "lat": 33.4255,
+      "lng": -111.94,
       "scope": "city",
       "sport": "american football",
       "tags": [
@@ -202,14 +202,14 @@
       ],
       "viewLat": 25.6645,
       "viewLng": -125.3237,
-      "promptZh": "“9·11”事件后，Pat Tillman 在这座城市放弃一份价值 360 万美元的 NFL 合同，报名成为 Army Ranger",
-      "story": "Fresno State alumnus Pat Tillman turned down a $3.6 million NFL contract in 2002 to enlist as an Army Ranger; he was killed on April 22, 2004.",
-      "storyZh": "Fresno State校友帕特·蒂尔曼在2002年拒绝了价值360万美元的NFL合同，志愿加入陆军并成为游骑兵；他于2004年4月22日阵亡。",
+      "promptZh": "9·11 后离开 NFL 加入陆军游骑兵的帕特·蒂尔曼，在这座城市读的大学橄榄球。",
+      "story": "Pat Tillman starred at Arizona State in Tempe before a four-year NFL career with the Cardinals; he enlisted in 2002 and was killed in Afghanistan in 2004.",
+      "storyZh": "帕特·蒂尔曼在坦佩的亚利桑那州立大学成名，随后为红雀队效力四个赛季；2002 年入伍，2004 年在阿富汗阵亡。",
       "sources": [
         {
-          "title": "Wikipedia: Fresno, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Fresno%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Pat Tillman",
+          "url": "https://en.wikipedia.org/wiki/Pat_Tillman",
+          "status": "verified"
         }
       ]
     },
@@ -520,10 +520,10 @@
     },
     {
       "id": "nfl-detroit-5",
-      "prompt": "This is the city where the NFL was founded in 1920, in a meeting above a candy shop",
-      "answer": "New York, New York",
-      "lat": 40.7128,
-      "lng": -74.006,
+      "prompt": "The NFL’s forerunner was founded in 1920 in this Ohio city, at a car dealership.",
+      "answer": "Canton, Ohio",
+      "lat": 40.7989,
+      "lng": -81.3784,
       "scope": "city",
       "sport": "american football",
       "tags": [
@@ -532,14 +532,14 @@
       ],
       "viewLat": 33.076,
       "viewLng": -77.8244,
-      "promptZh": "1920年，NFL 在一家糖果店楼上的会议中诞生于这座城市",
-      "story": "The NFL was founded in New York on August 27, 1920, when representatives of 10 clubs met at the New York YMCA to create the American Professional Football Association.",
-      "storyZh": "NFL于1920年8月27日在纽约成立，当时10支球队的代表齐聚纽约YMCA，创立了美国职业橄榄球协会。",
+      "promptZh": "NFL 的前身 1920 年在这座俄亥俄城市的汽车经销店成立。",
+      "story": "The American Professional Football Association — the NFL’s forerunner — was organized in Canton, Ohio, in September 1920 at Ralph Hay’s automobile dealership.",
+      "storyZh": "NFL 的前身“美国职业橄榄球协会”1920 年 9 月在俄亥俄州坎顿的拉尔夫·海汽车经销店成立。",
       "sources": [
         {
-          "title": "Wikipedia: New York, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=New%20York%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: National Football League",
+          "url": "https://en.wikipedia.org/wiki/National_Football_League",
+          "status": "verified"
         }
       ]
     },
@@ -594,10 +594,10 @@
     },
     {
       "id": "nfl-jacksonville-1",
-      "prompt": "Since 2017, college football fans in this city have waved to children watching from a hospital overlooking the stadium",
-      "answer": "Jacksonville, Florida",
-      "lat": 30.3322,
-      "lng": -81.6557,
+      "prompt": "Since 2017, fans at this university’s stadium have waved to children watching from the hospital overlooking it.",
+      "answer": "Iowa City, Iowa",
+      "lat": 41.6611,
+      "lng": -91.5302,
       "scope": "city",
       "sport": "american football",
       "tags": [
@@ -606,14 +606,14 @@
       ],
       "viewLat": 14.6722,
       "viewLng": -81.6557,
-      "promptZh": "自2017年以来，这座城市的大学橄榄球球迷一直向俯瞰球场的医院里的孩子们挥手",
-      "story": "Since 2017, Jacksonville Jaguars fans have waved to children at Wolfson Children’s Hospital, which overlooks the stadium and has made their gestures a city tradition.",
-      "storyZh": "自2017年起，杰克逊维尔美洲虎队球迷一直向俯瞰球场的沃尔夫森儿童医院里的孩子挥手，这一举动已成为当地的一项传统。",
+      "promptZh": "2017 年起，这所大学球场的球迷会向对面医院里观看比赛的孩子们挥手致意。",
+      "story": "Since 2017, Iowa Hawkeyes fans at Kinnick Stadium have waved toward the Stead Family Children’s Hospital between the first and second quarters.",
+      "storyZh": "2017 年起，爱荷华鹰眼队球迷在 Kinnick 球场第一节与第二节之间，向斯特德家族儿童医院挥手致意。",
       "sources": [
         {
-          "title": "Wikipedia: Jacksonville, Florida",
-          "url": "https://en.wikipedia.org/w/index.php?search=Jacksonville%2C%20Florida",
-          "status": "unverified"
+          "title": "Wikipedia: Kinnick Stadium",
+          "url": "https://en.wikipedia.org/wiki/Kinnick_Stadium",
+          "status": "verified"
         }
       ]
     },
@@ -1711,9 +1711,9 @@
       "storyZh": "米格尔·卡布雷拉于1983年4月18日出生在马拉凯，并在2012年赢得三冠王，同时领跑大联盟的打击率、本垒打和打点。",
       "sources": [
         {
-          "title": "Wikipedia: Maracay, Venezuela",
-          "url": "https://en.wikipedia.org/w/index.php?search=Maracay%2C%20Venezuela",
-          "status": "unverified"
+          "title": "Wikipedia: Miguel Cabrera",
+          "url": "https://en.wikipedia.org/wiki/Miguel_Cabrera",
+          "status": "verified"
         }
       ]
     },
@@ -1770,9 +1770,9 @@
     {
       "id": "nba-miami-3",
       "prompt": "Cuban flamethrower Aroldis Chapman, owner of the fastest pitch in MLB history, hails from this city",
-      "answer": "Havana, Cuba",
-      "lat": 23.1136,
-      "lng": -82.3666,
+      "answer": "Holguín, Cuba",
+      "lat": 20.8872,
+      "lng": -76.2631,
       "scope": "world",
       "sport": "baseball",
       "tags": [
@@ -1780,13 +1780,13 @@
         "international"
       ],
       "promptZh": "拥有MLB历史最快球速的古巴火焰投手Aroldis Chapman来自这座城市",
-      "story": "Havana is the birthplace of Aroldis Chapman, whose 105.1 mph pitch became the fastest ever recorded by the MLB.",
-      "storyZh": "阿罗尔迪斯·查普曼出生于哈瓦那，他投出的105.1英里速球创造了MLB最快球速纪录。",
+      "story": "Aroldis Chapman, born in Holguín in 1988, holds the record for the fastest recorded pitch in MLB history at 105.8 mph.",
+      "storyZh": "阿罗尔迪斯·查普曼 1988 年出生于奥尔金，以 105.8 英里/小时保持着 MLB 最快投球纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Havana, Cuba",
-          "url": "https://en.wikipedia.org/w/index.php?search=Havana%2C%20Cuba",
-          "status": "unverified"
+          "title": "Wikipedia: Aroldis Chapman",
+          "url": "https://en.wikipedia.org/wiki/Aroldis_Chapman",
+          "status": "verified"
         }
       ]
     },
@@ -2426,7 +2426,7 @@
     },
     {
       "id": "nba-detroit-24",
-      "prompt": "This Indiana city's team won the 1940 NBL title under a name taken from the piston-making business that owned it",
+      "prompt": "This Indiana city’s team won NBL titles in 1944 and 1945 under a name taken from the piston-making business.",
       "answer": "Fort Wayne, Indiana",
       "lat": 41.0793,
       "lng": -85.1394,
@@ -2438,14 +2438,14 @@
       ],
       "viewLat": 37.3,
       "viewLng": -89,
-      "promptZh": "这座印第安纳城市的球队以东家活塞制造企业的名字，拿下了1940年NBL总冠军",
-      "story": "The Fort Wayne Zollner Pistons, founded by Fred and Louis Zollner who owned a piston manufacturing company, won the 1940 National Basketball League title.",
-      "storyZh": "韦恩堡佐尔纳活塞队由活塞机制造商企业的弗雷德与路易斯·佐尔纳兄弟创立，夺得了1940年美国国家篮球联赛总冠军。",
+      "promptZh": "这座印第安纳城市的球队 1944、1945 年两夺 NBL 冠军，队名来自其活塞制造生意。",
+      "story": "The Fort Wayne Zollner Pistons, owned by piston manufacturer Fred Zollner, won NBL championships in 1944 and 1945.",
+      "storyZh": "由活塞制造商弗雷德·佐尔纳拥有的韦恩堡佐尔纳活塞队 1944、1945 年两夺 NBL 冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Fort Wayne, Indiana",
-          "url": "https://en.wikipedia.org/w/index.php?search=Fort%20Wayne%2C%20Indiana",
-          "status": "unverified"
+          "title": "Wikipedia: Detroit Pistons",
+          "url": "https://en.wikipedia.org/wiki/Detroit_Pistons",
+          "status": "verified"
         }
       ]
     },
@@ -2666,10 +2666,10 @@
     },
     {
       "id": "nba-miami-6",
-      "prompt": "This university's 1987 NCAA title game, where a free throw made it 74-74, is still called the 'greatest game ever played'",
-      "answer": "Indianapolis, Indiana",
-      "lat": 39.7684,
-      "lng": -86.1581,
+      "prompt": "This city’s Superdome hosted the 1987 NCAA final, where Indiana beat Syracuse 74–73.",
+      "answer": "New Orleans, Louisiana",
+      "lat": 29.9511,
+      "lng": -90.0715,
       "scope": "city",
       "sport": "basketball",
       "tags": [
@@ -2678,14 +2678,14 @@
       ],
       "viewLat": 29.8406,
       "viewLng": -91.122,
-      "promptZh": "这所大学的1987年NCAA冠军赛仍被称为“最伟大的一场比赛”，一记罚球曾将比分扳成74-74",
-      "story": "At Indianapolis’s Hoosier Dome on March 30, 1987, Indiana defeated Syracuse 65–60 in overtime in a championship game often called the greatest ever played.",
-      "storyZh": "1987年3月30日，印第安纳队在印第安波利斯的主场穹顶体育馆通过加时赛以65比60击败锡拉丘兹大学，这场比赛后来常被誉为NCAA史上最伟大的比赛。",
+      "promptZh": "这座城市的超级穹顶球馆举办了 1987 年 NCAA 决赛，印第安纳 74-73 击败雪城。",
+      "story": "Indiana beat Syracuse 74–73 in the 1987 NCAA championship game at the Louisiana Superdome in New Orleans, with Keith Smart hitting the winning shot.",
+      "storyZh": "1987 年 NCAA 决赛在新奥尔良路易斯安那超级穹顶举行，印第安纳 74-73 击败雪城，基思·斯马特投中制胜球。",
       "sources": [
         {
-          "title": "Wikipedia: Indianapolis, Indiana",
-          "url": "https://en.wikipedia.org/w/index.php?search=Indianapolis%2C%20Indiana",
-          "status": "unverified"
+          "title": "Wikipedia: 1987 NCAA Division I men’s basketball tournament",
+          "url": "https://en.wikipedia.org/wiki/1987_NCAA_Division_I_men%27s_basketball_tournament",
+          "status": "verified"
         }
       ]
     },
@@ -2976,9 +2976,9 @@
       "storyZh": "查尔斯·巴克利于1963年2月20日出生在阿拉巴马州利兹，后来成为NBA最具统治力的内线球员之一。",
       "sources": [
         {
-          "title": "Wikipedia: Leeds, Alabama",
-          "url": "https://en.wikipedia.org/w/index.php?search=Leeds%2C%20Alabama",
-          "status": "unverified"
+          "title": "Wikipedia: Charles Barkley",
+          "url": "https://en.wikipedia.org/wiki/Charles_Barkley",
+          "status": "verified"
         }
       ]
     },
@@ -3797,9 +3797,9 @@
       "storyZh": "1944年6月6日登陆日当天，19岁的耶奇·贝拉服役于美国海军，从登陆艇上向诺曼底外海的德军阵地发射火箭。",
       "sources": [
         {
-          "title": "Wikipedia: Normandy, France",
-          "url": "https://en.wikipedia.org/w/index.php?search=Normandy%2C%20France",
-          "status": "unverified"
+          "title": "Wikipedia: Yogi Berra",
+          "url": "https://en.wikipedia.org/wiki/Yogi_Berra",
+          "status": "verified"
         }
       ]
     },
@@ -4409,9 +4409,14 @@
       "storyZh": "惠灵顿自1865年起一直是新西兰首都，也是以赛前表演哈卡舞而闻名的全黑队的重要基地。",
       "sources": [
         {
-          "title": "Wikipedia: Wellington, New Zealand",
-          "url": "https://en.wikipedia.org/w/index.php?search=Wellington%2C%20New%20Zealand",
-          "status": "unverified"
+          "title": "Wikipedia: Wellington",
+          "url": "https://en.wikipedia.org/wiki/Wellington",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: New Zealand national rugby union team",
+          "url": "https://en.wikipedia.org/wiki/New_Zealand_national_rugby_union_team",
+          "status": "verified"
         }
       ]
     },
@@ -4924,9 +4929,9 @@
       "storyZh": "阿姆斯特丹是阿贾克斯辉煌1970年代的主场，这支球队在1971年至1973年间连续三度赢得欧洲冠军杯。",
       "sources": [
         {
-          "title": "Wikipedia: Amsterdam, Netherlands",
-          "url": "https://en.wikipedia.org/w/index.php?search=Amsterdam%2C%20Netherlands",
-          "status": "unverified"
+          "title": "Wikipedia: AFC Ajax",
+          "url": "https://en.wikipedia.org/wiki/AFC_Ajax",
+          "status": "verified"
         }
       ]
     },
@@ -5338,7 +5343,7 @@
     },
     {
       "id": "nfl-cleveland-ohio",
-      "prompt": "This city is home to the Browns, whose retired number 14 honors football pioneer Jim Thorpe.",
+      "prompt": "This city’s Browns retired number 14 for Otto Graham, who led them to seven NFL championships.",
       "answer": "Cleveland, Ohio",
       "lat": 41.4993,
       "lng": -81.6944,
@@ -5350,14 +5355,14 @@
       ],
       "viewLat": 36.1385,
       "viewLng": -75.0258,
-      "promptZh": "这座城市是布朗斯队主场，14号退役以纪念吉姆·索普。",
-      "story": "The Browns retired number 14 in 1994 to honor Jim Thorpe, who played halfback for the Cleveland Indians and the Los Angeles Rams.",
-      "storyZh": "布朗斯队于1994年为吉姆·索普退役14号，他曾效力克利夫兰印第安人队和洛杉矶公羊队。",
+      "promptZh": "这座城市的布朗队为奥托·格拉汉姆退役了 14 号——他率队七夺 NFL 冠军。",
+      "story": "Otto Graham quarterbacked the Browns to seven league championships in their first 10 seasons, and the club retired his No. 14.",
+      "storyZh": "奥托·格拉汉姆在布朗队前 10 个赛季中率队七夺联赛冠军，球队退役了他的 14 号球衣。",
       "sources": [
         {
-          "title": "Wikipedia: Cleveland, Ohio",
-          "url": "https://en.wikipedia.org/w/index.php?search=Cleveland%2C%20Ohio",
-          "status": "unverified"
+          "title": "Wikipedia: Cleveland Browns",
+          "url": "https://en.wikipedia.org/wiki/Cleveland_Browns",
+          "status": "verified"
         }
       ]
     },
@@ -5501,13 +5506,13 @@
       "viewLat": 43.2683,
       "viewLng": -129.7519,
       "promptZh": "这座城市是海鹰队主场，其球场以NFL最高音量闻名。",
-      "story": "Seattle won Super Bowl XLVIII in February 2014, defeating the New England Patriots 43-8.",
-      "storyZh": "西雅图海鹰队在2014年2月赢得第48届超级碗，以43比8击败新英格兰爱国者队。",
+      "story": "The Seahawks won Super Bowl XLVIII in February 2014, beating the Denver Broncos 43–8 at MetLife Stadium.",
+      "storyZh": "海鹰队 2014 年 2 月在 MetLife 球场 43-8 击败丹佛野马，赢得第 48 届超级碗。",
       "sources": [
         {
-          "title": "Wikipedia: Seattle, Washington",
-          "url": "https://en.wikipedia.org/w/index.php?search=Seattle%2C%20Washington",
-          "status": "unverified"
+          "title": "Wikipedia: Super Bowl XLVIII",
+          "url": "https://en.wikipedia.org/wiki/Super_Bowl_XLVIII",
+          "status": "verified"
         }
       ]
     },
@@ -5556,13 +5561,13 @@
       "viewLat": 34.7392,
       "viewLng": -97.9903,
       "promptZh": "这座城市是野马队主场，其球场海拔整整一英里。",
-      "story": "The Broncos hosted Super Bowl 50 in February 2016 and lost 24–10 to the Carolina Panthers.",
-      "storyZh": "2016年2月，野马队主办了第50届超级碗，最终以10比24负于卡罗来纳黑豹队。",
+      "story": "The Broncos won Super Bowl 50 in February 2016, beating the Carolina Panthers 24–10 at Levi’s Stadium.",
+      "storyZh": "野马队 2016 年 2 月在李维斯球场 24-10 击败卡罗莱纳黑豹，赢得第 50 届超级碗。",
       "sources": [
         {
-          "title": "Wikipedia: Denver, Colorado",
-          "url": "https://en.wikipedia.org/w/index.php?search=Denver%2C%20Colorado",
-          "status": "unverified"
+          "title": "Wikipedia: Super Bowl 50",
+          "url": "https://en.wikipedia.org/wiki/Super_Bowl_50",
+          "status": "verified"
         }
       ]
     },
@@ -6402,13 +6407,13 @@
       "viewLat": 42.0063,
       "viewLng": -81.7332,
       "promptZh": "这座城市结束108年等待后，赢得2016年世界大赛。",
-      "story": "The Cubs won three consecutive World Series titles from 2016 through 2018.",
-      "storyZh": "小熊队在2016年至2018年间连续三次赢得世界大赛冠军。",
+      "story": "The Cubs won the 2016 World Series — their first title since 1908 — ending the longest championship drought in North American sports.",
+      "storyZh": "小熊队 2016 年夺得世界大赛冠军，终结自 1908 年以来、北美职业体育史上最长的冠军荒。",
       "sources": [
         {
-          "title": "Wikipedia: Chicago, Illinois",
-          "url": "https://en.wikipedia.org/w/index.php?search=Chicago%2C%20Illinois",
-          "status": "unverified"
+          "title": "Wikipedia: Chicago Cubs",
+          "url": "https://en.wikipedia.org/wiki/Chicago_Cubs",
+          "status": "verified"
         }
       ]
     },
@@ -6556,9 +6561,9 @@
       "storyZh": "该队在1967年和1968年连续两届夺得世界大赛冠军。",
       "sources": [
         {
-          "title": "Wikipedia: St. Louis, Missouri",
-          "url": "https://en.wikipedia.org/w/index.php?search=St.%20Louis%2C%20Missouri",
-          "status": "unverified"
+          "title": "Wikipedia: St. Louis Cardinals",
+          "url": "https://en.wikipedia.org/wiki/St._Louis_Cardinals",
+          "status": "verified"
         }
       ]
     },
@@ -6967,7 +6972,7 @@
     },
     {
       "id": "mlb-cuba",
-      "prompt": "This island nation has produced more Major League Baseball players than any country except the United States.",
+      "prompt": "This island nation won 25 Baseball World Cups between 1939 and 2005, 22 more than any other country.",
       "answer": "Cuba",
       "lat": 21.5218,
       "lng": -77.7812,
@@ -6976,14 +6981,14 @@
       "tags": [
         "Cuban baseball"
       ],
-      "promptZh": "这个加勒比岛屿国家培养的职棒大联盟球员数量仅次于美国。",
-      "story": "Cuba's national team won the 1939, 1941, 1942, and 1946 Amateur World Series, establishing its historic international dominance.",
-      "storyZh": "古巴国家队曾赢得1939年、1941年、1942年和1946年四届业余世界棒球锦标赛，奠定了其国际棒球霸主的地位。",
+      "promptZh": "这个岛国在 1939 至 2005 年间 25 次夺得棒球世界杯，比任何国家都多 22 次。",
+      "story": "Cuba dominated the Baseball World Cup, winning 25 titles from 1939 to 2005 — 22 more than the next-closest nation.",
+      "storyZh": "古巴长期统治棒球世界杯，1939 至 2005 年共 25 次夺冠，比第二名多 22 次。",
       "sources": [
         {
-          "title": "Wikipedia: Cuba",
-          "url": "https://en.wikipedia.org/w/index.php?search=Cuba",
-          "status": "unverified"
+          "title": "Wikipedia: Cuba national baseball team",
+          "url": "https://en.wikipedia.org/wiki/Cuba_national_baseball_team",
+          "status": "verified"
         }
       ]
     },
@@ -7863,7 +7868,7 @@
     },
     {
       "id": "nba-johannesburg-south-africa",
-      "prompt": "This city was where the Basketball Africa League was founded to expand professional basketball across the continent.",
+      "prompt": "This city hosted the first NBA Africa Game in 2015.",
       "answer": "Johannesburg, South Africa",
       "lat": -26.2041,
       "lng": 28.0473,
@@ -7872,14 +7877,14 @@
       "tags": [
         "Basketball Africa League"
       ],
-      "promptZh": "这座城市是非洲篮球职业联赛的创立之地。",
-      "story": "NBA Africa Games were played in Johannesburg in both 2015 and 2017.",
-      "storyZh": "NBA非洲赛曾于2015年和2017年两度在约翰内斯堡举行。",
+      "promptZh": "这座城市在 2015 年承办了首届 NBA 非洲赛。",
+      "story": "The first NBA Africa Game was played at Ellis Park Arena in Johannesburg on August 1, 2015, with Team World beating Team Africa 101–97.",
+      "storyZh": "首届 NBA 非洲赛 2015 年 8 月 1 日在约翰内斯堡埃利斯公园球馆举行，世界队 101-97 击败非洲队。",
       "sources": [
         {
-          "title": "Wikipedia: Johannesburg, South Africa",
-          "url": "https://en.wikipedia.org/w/index.php?search=Johannesburg%2C%20South%20Africa",
-          "status": "unverified"
+          "title": "Wikipedia: NBA Africa Game 2015",
+          "url": "https://en.wikipedia.org/wiki/NBA_Africa_Game_2015",
+          "status": "verified"
         }
       ]
     },
@@ -8193,7 +8198,7 @@
     },
     {
       "id": "nba-barcelona-spain",
-      "prompt": "this city was home to the club that contested the 2019 and 2021 EuroLeague Finals.",
+      "prompt": "This city’s basketball club completed a triple crown in 2003, winning its league, cup and the EuroLeague.",
       "answer": "Barcelona, Spain",
       "lat": 41.3874,
       "lng": 2.1686,
@@ -8202,14 +8207,14 @@
       "tags": [
         "EuroLeague"
       ],
-      "promptZh": "这座城市的俱乐部打进2019和2021年欧洲总决赛。",
-      "story": "FC Barcelona appeared in the 2019, 2021 and 2022 EuroLeague Finals and won the championship in both 2021 and 2022.",
-      "storyZh": "巴塞罗那篮球俱乐部参加了2019、2021和2022年欧洲联赛总决赛，并在2021年和2022年两次夺冠。",
+      "promptZh": "这座城市的篮球队在 2003 年完成三冠王：联赛、杯赛与欧洲联赛。",
+      "story": "FC Barcelona Bàsquet, founded in 1926 and based in Barcelona, completed a triple crown in 2003 by winning the league, cup and EuroLeague.",
+      "storyZh": "巴塞罗那篮球俱乐部 1926 年成立，2003 年包揽联赛、杯赛和欧洲联赛，完成三冠王。",
       "sources": [
         {
-          "title": "Wikipedia: Barcelona, Spain",
-          "url": "https://en.wikipedia.org/w/index.php?search=Barcelona%2C%20Spain",
-          "status": "unverified"
+          "title": "Wikipedia: FC Barcelona Bàsquet",
+          "url": "https://en.wikipedia.org/wiki/FC_Barcelona_B%C3%A0squet",
+          "status": "verified"
         }
       ]
     },
@@ -8397,9 +8402,9 @@
       "storyZh": "该队在1927年改名为枫叶队，此后共赢得13次斯坦利杯。",
       "sources": [
         {
-          "title": "Wikipedia: Toronto, Ontario",
-          "url": "https://en.wikipedia.org/w/index.php?search=Toronto%2C%20Ontario",
-          "status": "unverified"
+          "title": "Wikipedia: Toronto Maple Leafs",
+          "url": "https://en.wikipedia.org/wiki/Toronto_Maple_Leafs",
+          "status": "verified"
         }
       ]
     },
@@ -8443,13 +8448,13 @@
       "viewLat": 45.4248,
       "viewLng": -80.1754,
       "promptZh": "这座城市的黑鹰队结束49年等待，夺得2010年斯坦利杯。",
-      "story": "Chicago hosted the 1996 Summer Olympics, and the city's NHL franchise began play in 1926.",
-      "storyZh": "芝加哥于1996年主办夏季奥运会，该市的NHL球队于1926年开始征战。",
+      "story": "The Blackhawks won the 2010 Stanley Cup — their first title since 1961 — and added more in 2013 and 2015.",
+      "storyZh": "黑鹰队 2010 年夺得斯坦利杯，终结自 1961 年以来的等待，并在 2013、2015 年再夺冠。",
       "sources": [
         {
-          "title": "Wikipedia: Chicago, Illinois",
-          "url": "https://en.wikipedia.org/w/index.php?search=Chicago%2C%20Illinois",
-          "status": "unverified"
+          "title": "Wikipedia: Chicago Blackhawks",
+          "url": "https://en.wikipedia.org/wiki/Chicago_Blackhawks",
+          "status": "verified"
         }
       ]
     },
@@ -8847,7 +8852,7 @@
     },
     {
       "id": "nhl-prague-czech-republic",
-      "prompt": "This capital was home to the national team that won the 1998 IIHF World Championship.",
+      "prompt": "This capital’s national team won the 1998 IIHF World Championship.",
       "answer": "Prague, Czech Republic",
       "lat": 50.0755,
       "lng": 14.4378,
@@ -8856,14 +8861,14 @@
       "tags": [
         "KHL"
       ],
-      "promptZh": "这座首都球队代表国家赢得了1998年世界冰球锦标赛。",
-      "story": "Prague's historic centre was inscribed on the UNESCO World Heritage List in 1992.",
-      "storyZh": "布拉格历史中心于1992年被列入联合国教科文组织世界遗产名录。",
+      "promptZh": "这座首都的国家队赢得了 1998 年 IIHF 世界锦标赛冠军。",
+      "story": "The Czech Republic, whose capital is Prague, won the 1998 IIHF World Championship, held in Switzerland.",
+      "storyZh": "首都为布拉格的捷克共和国夺得了 1998 年在瑞士举行的 IIHF 世锦赛冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Prague, Czech Republic",
-          "url": "https://en.wikipedia.org/w/index.php?search=Prague%2C%20Czech%20Republic",
-          "status": "unverified"
+          "title": "Wikipedia: 1998 IIHF World Championship",
+          "url": "https://en.wikipedia.org/wiki/1998_IIHF_World_Championship",
+          "status": "verified"
         }
       ]
     },
@@ -8991,13 +8996,13 @@
         "AHL"
       ],
       "promptZh": "这座城市的美国冰球联盟球队灰熊队曾赢得卡尔德杯。",
-      "story": "Van Andel Arena opened in 1999 and has a hockey capacity of 10,334 spectators.",
-      "storyZh": "范安德尔竞技场于1999年启用，冰球容量为10,334人。",
+      "story": "The Griffins won Calder Cups in 2013 and 2017 and play at Van Andel Arena, their home since the franchise began in 1996.",
+      "storyZh": "格里芬队 2013、2017 年两夺 Calder 杯，主场是球队 1996 年成立以来的 Van Andel 球馆。",
       "sources": [
         {
-          "title": "Wikipedia: Grand Rapids, Michigan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Grand%20Rapids%2C%20Michigan",
-          "status": "unverified"
+          "title": "Wikipedia: Grand Rapids Griffins",
+          "url": "https://en.wikipedia.org/wiki/Grand_Rapids_Griffins",
+          "status": "verified"
         }
       ]
     },
@@ -9320,7 +9325,7 @@
     },
     {
       "id": "soccer-rio-de-janeiro-brazil",
-      "prompt": "This city hosted the 1950 World Cup final, where the home side lost, and is based for a major red-and-black club.",
+      "prompt": "This city hosted the decisive 1950 World Cup match, where the home side lost, and is home to a major red-and-black club.",
       "answer": "Rio de Janeiro, Brazil",
       "lat": -22.9068,
       "lng": -43.1729,
@@ -9332,14 +9337,19 @@
       ],
       "viewLat": -26.9665,
       "viewLng": -39.1882,
-      "promptZh": "这座城市有红黑军团主场，也是1950年世界杯决赛举办地。",
-      "story": "Flamengo was founded on July 5, 1895, as Fluminense Football Club. It adopted its current name in 1914 and has won more Campeonato Carioca titles than any club.",
-      "storyZh": "弗拉门戈足球俱乐部于1895年7月5日成立，曾名弗拉门迪诺足球俱乐部，1914年改为现名，并创造了州甲联赛夺冠次数纪录。",
+      "promptZh": "这座城市承办了 1950 年世界杯的决胜之战（东道主失利），并拥有一家红黑配色的豪门俱乐部。",
+      "story": "Rio’s Maracanã hosted the decisive 1950 World Cup match, where Uruguay beat Brazil 2–1; the city is home to Flamengo, founded as a rowing club in 1895.",
+      "storyZh": "里约马拉卡纳球场承办了 1950 年世界杯决胜战，乌拉圭 2-1 击败巴西；这座城市也是 1895 年以赛艇俱乐部起家的弗拉门戈所在地。",
       "sources": [
         {
-          "title": "Wikipedia: Rio de Janeiro, Brazil",
-          "url": "https://en.wikipedia.org/w/index.php?search=Rio%20de%20Janeiro%2C%20Brazil",
-          "status": "unverified"
+          "title": "Wikipedia: CR Flamengo",
+          "url": "https://en.wikipedia.org/wiki/CR_Flamengo",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: 1950 FIFA World Cup",
+          "url": "https://en.wikipedia.org/wiki/1950_FIFA_World_Cup",
+          "status": "verified"
         }
       ]
     },
@@ -9851,9 +9861,9 @@
       "storyZh": "西德在1974年赢得国际足联世界杯，而统一后的德国于2006年主办了该赛事。",
       "sources": [
         {
-          "title": "Wikipedia: Germany",
-          "url": "https://en.wikipedia.org/w/index.php?search=Germany",
-          "status": "unverified"
+          "title": "Wikipedia: Germany national football team",
+          "url": "https://en.wikipedia.org/wiki/Germany_national_football_team",
+          "status": "verified"
         }
       ]
     },
@@ -10076,9 +10086,9 @@
       "storyZh": "比利时队的2018年征程以在季军战中2比0战胜英格兰队告终。",
       "sources": [
         {
-          "title": "Wikipedia: Belgium",
-          "url": "https://en.wikipedia.org/w/index.php?search=Belgium",
-          "status": "unverified"
+          "title": "Wikipedia: Belgium national football team",
+          "url": "https://en.wikipedia.org/wiki/Belgium_national_football_team",
+          "status": "verified"
         }
       ]
     },
@@ -10513,7 +10523,7 @@
     },
     {
       "id": "soccer-seoul-south-korea",
-      "prompt": "The Pohang Steelers won the 2002 AFC Champions League, and this capital was in their country.",
+      "prompt": "This capital’s World Cup stadium hosted the 2002 opening match, where Senegal beat holders France.",
       "answer": "Seoul, South Korea",
       "lat": 37.5665,
       "lng": 126.978,
@@ -10523,14 +10533,19 @@
         "soccer",
         "Asia"
       ],
-      "promptZh": "这座首都所在国家的浦光制铁曾夺得2002年亚冠冠军。",
-      "story": "Seoul hosted four matches during the 2002 FIFA World Cup, including the quarterfinal between South Korea and Spain.",
-      "storyZh": "首尔承办了2002年国际足联世界杯的四场比赛，其中包括韩国对阵西班牙的四分之一决赛。",
+      "promptZh": "这座首都的世界杯球场举办了 2002 年揭幕战，塞内加尔击败卫冕冠军法国。",
+      "story": "Seoul World Cup Stadium, built for the tournament, hosted the 2002 opener — Senegal’s 1–0 upset of defending champions France — and a semifinal between South Korea and Germany.",
+      "storyZh": "为首尔世界杯而建的首尔世界杯球场承办了 2002 年揭幕战（塞内加尔 1-0 爆冷胜法国）以及韩国对德国的半决赛。",
       "sources": [
         {
-          "title": "Wikipedia: Seoul, South Korea",
-          "url": "https://en.wikipedia.org/w/index.php?search=Seoul%2C%20South%20Korea",
-          "status": "unverified"
+          "title": "Wikipedia: Seoul World Cup Stadium",
+          "url": "https://en.wikipedia.org/wiki/Seoul_World_Cup_Stadium",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: 2002 FIFA World Cup",
+          "url": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
+          "status": "verified"
         }
       ]
     },
@@ -10559,7 +10574,7 @@
     },
     {
       "id": "soccer-yokohama-japan",
-      "prompt": "This port city hosted several matches during the 1958 FIFA World Cup.",
+      "prompt": "This port city’s F. Marinos have won the J-League title five times.",
       "answer": "Yokohama, Japan",
       "lat": 35.4437,
       "lng": 139.638,
@@ -10569,14 +10584,14 @@
         "soccer",
         "Asia"
       ],
-      "promptZh": "这座港口城市曾承办1958年世界杯多场比赛。",
-      "story": "Yokohama hosted four matches in 1958, including England's 2–0 victory over Austria.",
-      "storyZh": "1958年，横滨承办了四场比赛，其中包括英格兰以2比0战胜奥地利的比赛。",
+      "promptZh": "这座港口城市的横滨水手队五次夺得 J 联赛冠军。",
+      "story": "Yokohama F. Marinos, founded as Nissan Motor’s company team and based in Yokohama, have won five J-League titles.",
+      "storyZh": "横滨水手以日产汽车厂队起家、主场在横滨，已五次夺得 J 联赛冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Yokohama, Japan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Yokohama%2C%20Japan",
-          "status": "unverified"
+          "title": "Wikipedia: Yokohama F. Marinos",
+          "url": "https://en.wikipedia.org/wiki/Yokohama_F._Marinos",
+          "status": "verified"
         }
       ]
     },
@@ -11902,7 +11917,7 @@
     },
     {
       "id": "tennis-madrid-spain-2",
-      "prompt": "This Spanish capital staged the ATP Masters Series here from 2002 to 2006 and now hosts a clay-court tournament.",
+      "prompt": "This capital has hosted an ATP 1000 event since 2002 — on hard courts until 2008, then on clay.",
       "answer": "Madrid, Spain",
       "lat": 40.4168,
       "lng": -3.7038,
@@ -11914,20 +11929,20 @@
       ],
       "viewLat": 35.2403,
       "viewLng": -6.7562,
-      "promptZh": "这座西班牙首都曾在2002年至2006年举办ATP大师赛。",
-      "story": "The Masters Series event ran in the Spanish capital for five seasons before merging into the Monte Carlo Masters in 2007.",
-      "storyZh": "该大师赛在这座西班牙首都连续举办五季后，于2007年并入蒙特卡洛大师赛。",
+      "promptZh": "这座首都自 2002 年起举办 ATP 1000 赛事——2008 年前为硬地，此后改为红土。",
+      "story": "The Madrid Open has been an ATP 1000 tournament since 2002, moving from hard courts to red clay in 2009 at the Caja Mágica.",
+      "storyZh": "马德里公开赛自 2002 年起为 ATP 1000 赛事，2009 年迁至魔盒球场并改为红土。",
       "sources": [
         {
-          "title": "Wikipedia: Madrid, Spain",
-          "url": "https://en.wikipedia.org/w/index.php?search=Madrid%2C%20Spain",
-          "status": "unverified"
+          "title": "Wikipedia: Madrid Open (tennis)",
+          "url": "https://en.wikipedia.org/wiki/Madrid_Open_%28tennis%29",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "tennis-belgrade-serbia",
-      "prompt": "This Serbian capital hosted the 2009 ATP World Tour Finals and is home to a golden generation of tennis champions.",
+      "prompt": "This capital is the birthplace of Novak Djokovic, winner of a record 24 Grand Slam singles titles.",
       "answer": "Belgrade, Serbia",
       "lat": 44.7866,
       "lng": 20.4489,
@@ -11936,14 +11951,14 @@
       "tags": [
         "tennis"
       ],
-      "promptZh": "这座塞尔维亚首都曾举办2009年ATP年终总决赛。",
-      "story": "Novak Djokovic, Ana Ivanovic and Jelena Jankovic all came through the Red Star Tennis Club in the Serbian capital.",
-      "storyZh": "德约科维奇、伊万诺维奇和扬科维奇都出自该市的红星网球俱乐部。",
+      "promptZh": "这座首都是诺瓦克·德约科维奇的出生地——他保持着 24 座大满贯单打冠军的纪录。",
+      "story": "Novak Djokovic was born in Belgrade in 1987 and has won a record 24 Grand Slam singles titles.",
+      "storyZh": "诺瓦克·德约科维奇 1987 年出生于贝尔格莱德，保持着 24 座大满贯单打冠军的纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Belgrade, Serbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Belgrade%2C%20Serbia",
-          "status": "unverified"
+          "title": "Wikipedia: Novak Djokovic",
+          "url": "https://en.wikipedia.org/wiki/Novak_Djokovic",
+          "status": "verified"
         }
       ]
     },
