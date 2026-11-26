@@ -365,10 +365,10 @@
     },
     {
       "id": "nfl-cowboys-1",
-      "prompt": "A 1985 rap video recorded by the roster before a Super Bowl blowout became a pop-culture hit for the team here",
-      "answer": "Irving, Texas",
-      "lat": 32.814,
-      "lng": -96.9489,
+      "prompt": "This city’s 1985 Bears recorded “The Super Bowl Shuffle” before winning Super Bowl XX.",
+      "answer": "Chicago, Illinois",
+      "lat": 41.8781,
+      "lng": -87.6298,
       "scope": "city",
       "sport": "american football",
       "tags": [
@@ -377,14 +377,19 @@
       ],
       "viewLat": 18.346,
       "viewLng": -93.9525,
-      "promptZh": "1985年，这支球队的全体成员在一场超级碗惨败前录制了一支说唱视频，并成为流行文化爆款",
-      "story": "The Irving-based Dallas Cowboys’ 1985 rap video featured the roster before its 46–10 Super Bowl XX victory and became a pop-culture hit.",
-      "storyZh": "以欧文为主场的达拉斯牛仔队在1985年与全体队员共同出演了一支说唱音乐录影带，内容出现在他们以46比10赢得第20届超级碗之前，后来成为流行文化热门作品。",
+      "promptZh": "这座城市 1985 年的熊队在赢得第 20 届超级碗前录制了《超级碗摇摆舞》。",
+      "story": "The Chicago Bears’ 1985 charity single “The Super Bowl Shuffle” was released before their 46–10 win over the Patriots in Super Bowl XX.",
+      "storyZh": "芝加哥熊队 1985 年的公益单曲《超级碗摇摆舞》在球队 46-10 击败爱国者赢得超级碗 XX 之前发行。",
       "sources": [
         {
-          "title": "Wikipedia: Irving, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Irving%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: The Super Bowl Shuffle",
+          "url": "https://en.wikipedia.org/wiki/The_Super_Bowl_Shuffle",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Super Bowl XX",
+          "url": "https://en.wikipedia.org/wiki/Super_Bowl_XX",
+          "status": "verified"
         }
       ]
     },
@@ -951,13 +956,13 @@
       "viewLat": 31.2077,
       "viewLng": -78.1834,
       "promptZh": "Peyton Manning 选择了这所东南联盟学校，并率队赢得1996年全国冠军",
-      "story": "Peyton Manning played at Tennessee from 1993 to 1997 and led the Volunteers to the 1996 national championship.",
-      "storyZh": "佩顿·曼宁1993年至1997年效力田纳西大学，并率志愿军队赢得1996年全国冠军。",
+      "story": "Peyton Manning played quarterback for the Tennessee Volunteers and won the 1997 SEC Championship before going first overall in the 1998 NFL draft.",
+      "storyZh": "佩顿·曼宁在田纳西志愿者队担任四分卫，1997 年夺得 SEC 冠军，随后在 1998 年 NFL 选秀中以状元身份被选中。",
       "sources": [
         {
-          "title": "Wikipedia: Knoxville, Tennessee",
-          "url": "https://en.wikipedia.org/w/index.php?search=Knoxville%2C%20Tennessee",
-          "status": "unverified"
+          "title": "Wikipedia: Peyton Manning",
+          "url": "https://en.wikipedia.org/wiki/Peyton_Manning",
+          "status": "verified"
         }
       ]
     },
@@ -1804,9 +1809,9 @@
       "storyZh": "总部位于芝加哥的 A.G. Spalding & Bros. 创立于 1876 年，成为棒球史上最具影响力的棒球及体育器材制造商之一。",
       "sources": [
         {
-          "title": "Britannica: baseball equipment - Spalding",
-          "url": "https://www.britannica.com/sports/baseball-equipment",
-          "status": "unverified"
+          "title": "Wikipedia: Spalding (company)",
+          "url": "https://en.wikipedia.org/wiki/Spalding_%28company%29",
+          "status": "verified"
         }
       ]
     },
@@ -2275,7 +2280,7 @@
     },
     {
       "id": "nba-carmelo-1",
-      "prompt": "Manu Ginobili grew up playing soccer in this city before becoming one of basketball's greatest international stars",
+      "prompt": "Manu Ginóbili, a four-time NBA champion with the Spurs, grew up in this Argentine coastal city.",
       "answer": "Bahía Blanca, Argentina",
       "lat": -38.7167,
       "lng": -62.2667,
@@ -2285,14 +2290,14 @@
         "NBA",
         "international"
       ],
-      "promptZh": "Manu Ginobili小时候在这座城市踢足球，后来成为篮球史上最伟大的国际球星之一",
-      "story": "Manu Ginóbili was born in Bahía Blanca in 1977 and played soccer there before switching to basketball and becoming an NBA champion.",
-      "storyZh": "马努·吉诺比利于1977年出生在巴伊亚布兰卡，先在当地踢足球，后来转向篮球并成为NBA总冠军。",
+      "promptZh": "四届 NBA 总冠军马努·吉诺比利在这座阿根廷海滨城市长大。",
+      "story": "Manu Ginóbili was born in Bahía Blanca in 1977 and won four NBA titles with the San Antonio Spurs and Olympic gold with Argentina in 2004.",
+      "storyZh": "马努·吉诺比利 1977 年出生于布兰卡港，随圣安东尼奥马刺四夺 NBA 总冠军，2004 年随阿根廷夺得奥运金牌。",
       "sources": [
         {
-          "title": "Wikipedia: Bahía Blanca, Argentina",
-          "url": "https://en.wikipedia.org/w/index.php?search=Bah%C3%ADa%20Blanca%2C%20Argentina",
-          "status": "unverified"
+          "title": "Wikipedia: Manu Ginóbili",
+          "url": "https://en.wikipedia.org/wiki/Manu_Gin%C3%B3bili",
+          "status": "verified"
         }
       ]
     },
@@ -2413,9 +2418,9 @@
       "storyZh": "1941年，弗雷德·佐尔纳在韦恩堡创办了韦恩堡佐尔纳活塞队，这支球队后来成为底特律活塞队。",
       "sources": [
         {
-          "title": "Wikipedia: Fort Wayne, Indiana",
-          "url": "https://en.wikipedia.org/w/index.php?search=Fort%20Wayne%2C%20Indiana",
-          "status": "unverified"
+          "title": "Wikipedia: Detroit Pistons",
+          "url": "https://en.wikipedia.org/wiki/Detroit_Pistons",
+          "status": "verified"
         }
       ]
     },
@@ -3184,13 +3189,13 @@
       "viewLat": 28.9049,
       "viewLng": -101.7212,
       "promptZh": "“Shockers”队以9号种子身份上演黑马之旅，代表这座城市闯入2013年最终四强",
-      "story": "A 9-seed Wichita State shock the 2013 NCAA tournament by reaching the Final Four, where the Shockers fell to Louisville, 78-68, after rising from 6-20 the previous season.",
-      "storyZh": "作为9号种子的威奇托州立大学在2013年NCAA锦标赛中制造了灰姑娘奇迹闯入四强，但在决赛圈以68比78不敌路易斯维尔，而他们此前一季战绩仅6胜20负。",
+      "story": "A 9-seed, Wichita State became the first No. 9 seed to reach the Final Four since 1985; the Shockers lost there to eventual champion Louisville.",
+      "storyZh": "9 号种子威奇托州立成为 1985 年以来首支打进四强的 9 号种子，但在四强赛负于最终冠军路易斯维尔。",
       "sources": [
         {
-          "title": "Wikipedia: Wichita, Kansas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Wichita%2C%20Kansas",
-          "status": "unverified"
+          "title": "Wikipedia: 2013 NCAA Division I men’s basketball tournament",
+          "url": "https://en.wikipedia.org/wiki/2013_NCAA_Division_I_men%27s_basketball_tournament",
+          "status": "verified"
         }
       ]
     },
@@ -3810,13 +3815,13 @@
         "NHL"
       ],
       "promptZh": "Bobby Orr 革新了冰球运动，并连续8次当选 Norris Trophy 最佳防守球员，他来自这座小镇",
-      "story": "Bobby Orr was born in Parry Sound on March 6, 1948, and won eight consecutive Norris Trophies from 1968 through 1975.",
-      "storyZh": "鲍比·奥尔于1948年3月6日出生在帕里桑德，并在1968年至1975年间连续八次获得诺里斯奖。",
+      "story": "Bobby Orr was born in Parry Sound on March 20, 1948, and won eight consecutive Norris Trophies from 1968 through 1975.",
+      "storyZh": "博比·奥尔 1948 年 3 月 20 日出生于帕里桑德，1968 至 1975 年连续八次获得诺里斯奖。",
       "sources": [
         {
-          "title": "Wikipedia: Parry Sound, Ontario",
-          "url": "https://en.wikipedia.org/w/index.php?search=Parry%20Sound%2C%20Ontario",
-          "status": "unverified"
+          "title": "Wikipedia: Bobby Orr",
+          "url": "https://en.wikipedia.org/wiki/Bobby_Orr",
+          "status": "verified"
         }
       ]
     },
@@ -4194,9 +4199,9 @@
       "storyZh": "加德满都是珠穆朗玛峰探险的传统出发点，夏尔巴登山者经常协助攀登者从这里启程前往世界最高峰。",
       "sources": [
         {
-          "title": "Wikipedia: Kathmandu, Nepal",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kathmandu%2C%20Nepal",
-          "status": "unverified"
+          "title": "Wikipedia: Mount Everest",
+          "url": "https://en.wikipedia.org/wiki/Mount_Everest",
+          "status": "verified"
         }
       ]
     },
@@ -4504,24 +4509,24 @@
     },
     {
       "id": "football-london-1",
-      "prompt": "An uncalled handball denied the USMNT a likely equalizer in a 2002 World Cup quarterfinal in this city",
-      "answer": "Daegu, South Korea",
-      "lat": 35.8714,
-      "lng": 128.6014,
+      "prompt": "An uncalled handball on the goal line denied the USMNT a likely equalizer in a 2002 World Cup quarterfinal in this city.",
+      "answer": "Ulsan, South Korea",
+      "lat": 35.5384,
+      "lng": 129.3114,
       "scope": "world",
       "sport": "soccer",
       "tags": [
         "FIFA",
         "2002"
       ],
-      "promptZh": "2002年世界杯四分之一决赛中，一次未被判罚的手球让 USMNT 错失扳平机会，比赛在这座城市举行",
-      "story": "Daegu hosted the June 21, 2002 World Cup quarterfinal in which Brazil defeated the United States 2–1, including Brazil’s controversial second goal after an alleged handball.",
-      "storyZh": "2002年6月21日，世界杯四分之一决赛在大邱举行巴西对美国的比赛，最终巴西以2比1获胜，其中第二个进球因疑似手球未判罚而引发争议。",
+      "promptZh": "2002 年世界杯 1/4 决赛，一次未被吹罚的门线手球让美国队错失扳平机会——比赛在这座城市举行。",
+      "story": "Germany beat the United States 1–0 in the June 21, 2002 World Cup quarterfinal in Ulsan, a match remembered for an uncalled handball on the goal line.",
+      "storyZh": "2002 年 6 月 21 日，世界杯 1/4 决赛在蔚山举行，德国 1-0 击败美国，比赛中一次门线手球未被判罚成为争议焦点。",
       "sources": [
         {
-          "title": "Wikipedia: Daegu, South Korea",
-          "url": "https://en.wikipedia.org/w/index.php?search=Daegu%2C%20South%20Korea",
-          "status": "unverified"
+          "title": "Wikipedia: Ulsan Munsu Football Stadium",
+          "url": "https://en.wikipedia.org/wiki/Ulsan_Munsu_Football_Stadium",
+          "status": "verified"
         }
       ]
     },
@@ -4566,9 +4571,9 @@
       "storyZh": "巴塞罗那在梅西13岁时将他纳入拉马西亚青训营，他于2004年10月16日在那里完成了巴萨一线队正式首秀。",
       "sources": [
         {
-          "title": "Wikipedia: Barcelona, Spain",
-          "url": "https://en.wikipedia.org/w/index.php?search=Barcelona%2C%20Spain",
-          "status": "unverified"
+          "title": "Wikipedia: Lionel Messi",
+          "url": "https://en.wikipedia.org/wiki/Lionel_Messi",
+          "status": "verified"
         }
       ]
     },
@@ -4755,9 +4760,9 @@
       "storyZh": "1986年6月22日，迭戈·马拉多纳在墨西哥城连续晃过多名英格兰后卫后进球得分。被国际足联认定为20世纪最佳进球。",
       "sources": [
         {
-          "title": "Wikipedia: Mexico City, Mexico",
-          "url": "https://en.wikipedia.org/w/index.php?search=Mexico%20City%2C%20Mexico",
-          "status": "unverified"
+          "title": "Wikipedia: Argentina v England (1986 FIFA World Cup)",
+          "url": "https://en.wikipedia.org/wiki/Argentina_v_England_%281986_FIFA_World_Cup%29",
+          "status": "verified"
         }
       ]
     },
@@ -5588,7 +5593,7 @@
     },
     {
       "id": "nfl-new-orleans-louisiana",
-      "prompt": "This city hosts the Saints, who won Super Bowl XLIV here after Hurricane Katrina closed the city.",
+      "prompt": "This city’s Saints won Super Bowl XLIV in 2010, four years after Hurricane Katrina devastated the city.",
       "answer": "New Orleans, Louisiana",
       "lat": 29.9511,
       "lng": -90.0715,
@@ -5600,14 +5605,14 @@
       ],
       "viewLat": 34.9511,
       "viewLng": -97.0715,
-      "promptZh": "这座城市是圣徒队主场，飓风封城后球队在此赢得超级碗。",
-      "story": "The Saints defeated the Indianapolis Colts 31–17 in Super Bowl XLIV on February 7, 2010.",
-      "storyZh": "2010年2月7日，圣徒队在第44届超级碗中以31比17击败印第安波利斯小马队。",
+      "promptZh": "这座城市的圣徒队在 2010 年赢得第 44 届超级碗，距卡特里娜飓风重创这座城市四年。",
+      "story": "The Saints beat the Colts 31–17 in Super Bowl XLIV at Sun Life Stadium in Miami Gardens on February 7, 2010 — a morale boost for New Orleans after Katrina.",
+      "storyZh": "2010 年 2 月 7 日，圣徒队在迈阿密花园的太阳生活体育场 31-17 击败小马队夺得第 44 届超级碗，为灾后的新奥尔良注入士气。",
       "sources": [
         {
-          "title": "Wikipedia: New Orleans, Louisiana",
-          "url": "https://en.wikipedia.org/w/index.php?search=New%20Orleans%2C%20Louisiana",
-          "status": "unverified"
+          "title": "Wikipedia: Super Bowl XLIV",
+          "url": "https://en.wikipedia.org/wiki/Super_Bowl_XLIV",
+          "status": "verified"
         }
       ]
     },
@@ -5718,7 +5723,7 @@
     },
     {
       "id": "nfl-philadelphia-pennsylvania",
-      "prompt": "This city is home to the Eagles, whose 2017 championship squad was nicknamed the “Jolly Rogers” after The Pirate Movie’s skull logo.",
+      "prompt": "This city’s Eagles won Super Bowl LII in 2018, beating the Patriots behind backup QB Nick Foles.",
       "answer": "Philadelphia, Pennsylvania",
       "lat": 39.9526,
       "lng": -75.1652,
@@ -5730,20 +5735,20 @@
       ],
       "viewLat": 36.3757,
       "viewLng": -76.3409,
-      "promptZh": "这座城市是雄鹰队主场，冠军队被称为“欢乐罗杰”。",
-      "story": "The Eagles defeated the New England Patriots 41–33 to win Super Bowl LII on February 4, 2018.",
-      "storyZh": "2018年2月4日，雄鹰队以41比33击败新英格兰爱国者队，赢得第52届超级碗。",
+      "promptZh": "这座城市的鹰队在 2018 年凭借替补四分卫尼克·福尔斯的出色发挥击败爱国者赢得第 52 届超级碗。",
+      "story": "The Philadelphia Eagles beat the New England Patriots 41–33 in Super Bowl LII on February 4, 2018; backup quarterback Nick Foles was named MVP.",
+      "storyZh": "2018 年 2 月 4 日，费城老鹰队在超级碗 LII 41-33 击败新英格兰爱国者，替补四分卫尼克·福尔斯当选 MVP。",
       "sources": [
         {
-          "title": "Wikipedia: Philadelphia, Pennsylvania",
-          "url": "https://en.wikipedia.org/w/index.php?search=Philadelphia%2C%20Pennsylvania",
-          "status": "unverified"
+          "title": "Wikipedia: Super Bowl LII",
+          "url": "https://en.wikipedia.org/wiki/Super_Bowl_LII",
+          "status": "verified"
         }
       ]
     },
     {
       "id": "nfl-tennessee",
-      "prompt": "This state hosts the Titans and the Volunteers, whose football program claims nine national championships.",
+      "prompt": "This state hosts the Titans and the Volunteers, whose football program claims six national championships.",
       "answer": "Tennessee",
       "lat": 36.1627,
       "lng": -86.7816,
@@ -5753,14 +5758,14 @@
         "NFL",
         "Titans"
       ],
-      "promptZh": "这个州有泰坦队，志愿者队宣称赢得九次全国冠军。",
-      "story": "The Tennessee Titans have played their home games at Nissan Stadium in Nashville since 2015.",
-      "storyZh": "自2015年以来，田纳西泰坦队一直以纳西体育场为主场。",
+      "promptZh": "这个州拥有泰坦队和志愿者队，后者的橄榄球项目声称六次全国冠军。",
+      "story": "The Volunteers claim six national titles, most recently in 1998, and play at 101,915-seat Neyland Stadium in Knoxville.",
+      "storyZh": "田纳西志愿者队声称六次全国冠军（最近一次 1998 年），主场是诺克斯维尔可容纳 101,915 人的尼兰体育场。",
       "sources": [
         {
-          "title": "Wikipedia: Tennessee",
-          "url": "https://en.wikipedia.org/w/index.php?search=Tennessee",
-          "status": "unverified"
+          "title": "Wikipedia: Tennessee Volunteers football",
+          "url": "https://en.wikipedia.org/wiki/Tennessee_Volunteers_football",
+          "status": "verified"
         }
       ]
     },
@@ -5792,7 +5797,7 @@
     {
       "id": "nfl-sofi-stadium-california",
       "prompt": "This stadium is shared by two NFL teams and hosted Super Bowl LVI in 2022.",
-      "answer": "SoFi Stadium, California",
+      "answer": "Inglewood, California",
       "lat": 33.9535,
       "lng": -118.3392,
       "scope": "city",
@@ -5808,9 +5813,14 @@
       "storyZh": "2022年2月13日，第56届超级碗在该球场举行，洛杉矶公羊队以23比20击败辛辛那提猛虎队。",
       "sources": [
         {
-          "title": "Wikipedia: SoFi Stadium, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=SoFi%20Stadium%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: SoFi Stadium",
+          "url": "https://en.wikipedia.org/wiki/SoFi_Stadium",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Super Bowl LVI",
+          "url": "https://en.wikipedia.org/wiki/Super_Bowl_LVI",
+          "status": "verified"
         }
       ]
     },
@@ -6838,7 +6848,7 @@
     },
     {
       "id": "mlb-monterrey-mexico",
-      "prompt": "This northern city fields the Sultanes, who have won six league championships.",
+      "prompt": "This northern city fields the Sultanes, who have won ten league championships.",
       "answer": "Monterrey, Mexico",
       "lat": 25.6866,
       "lng": -100.3161,
@@ -6847,14 +6857,14 @@
       "tags": [
         "Mexican League"
       ],
-      "promptZh": "这座北方城市的苏丹人队已赢得六次联赛冠军。",
-      "story": "Monterrey's Parque Fundidora opened in 1991 on the site of a former steelmaking complex.",
-      "storyZh": "蒙特雷的钢铁主题公园于1991年在原钢铁厂遗址上开放。",
+      "promptZh": "这座北方城市拥有苏丹队，他们已十次夺得联赛冠军。",
+      "story": "The Sultanes de Monterrey, established in 1939, have won ten Mexican League titles, most recently in 2018.",
+      "storyZh": "蒙特雷苏丹队 1939 年成立，十次夺得墨西哥联盟冠军，最近一次是 2018 年。",
       "sources": [
         {
-          "title": "Wikipedia: Monterrey, Mexico",
-          "url": "https://en.wikipedia.org/w/index.php?search=Monterrey%2C%20Mexico",
-          "status": "unverified"
+          "title": "Wikipedia: Sultanes de Monterrey",
+          "url": "https://en.wikipedia.org/wiki/Sultanes_de_Monterrey",
+          "status": "verified"
         }
       ]
     },
@@ -7062,9 +7072,9 @@
       "storyZh": "湖人队在1980年代赢得五次NBA总冠军，魔术约翰逊和贾巴尔是球队的核心。",
       "sources": [
         {
-          "title": "Wikipedia: Los Angeles, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Los%20Angeles%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Los Angeles Lakers",
+          "url": "https://en.wikipedia.org/wiki/Los_Angeles_Lakers",
+          "status": "verified"
         }
       ]
     },
@@ -7370,7 +7380,7 @@
     },
     {
       "id": "nba-new-york-city-new-york",
-      "prompt": "The basketball team based in this city plays at a venue long called basketball's Mecca.",
+      "prompt": "This city’s NBA team plays at the oldest arena in the league, opened in 1968.",
       "answer": "New York City, New York",
       "lat": 40.7128,
       "lng": -74.006,
@@ -7382,14 +7392,14 @@
       ],
       "viewLat": 38.5025,
       "viewLng": -75.0334,
-      "promptZh": "这座城市的球队在一座被誉为篮球麦加的球馆主场作战。",
-      "story": "The New York Knicks began playing at Madison Square Garden in 1968, a venue nicknamed the Mecca of Basketball.",
-      "storyZh": "纽约尼克斯队自1968年起在麦迪逊广场花园比赛，该场馆被誉为篮球麦加。",
+      "promptZh": "这座城市的 NBA 球队主场是联盟最老的球馆，1968 年启用。",
+      "story": "The New York Knicks have played at Madison Square Garden since it opened in February 1968; it is the oldest arena in the NBA.",
+      "storyZh": "纽约尼克斯自 1968 年 2 月麦迪逊广场花园启用以来一直在此作战；它是 NBA 最老的球馆。",
       "sources": [
         {
-          "title": "Wikipedia: New York City, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=New%20York%20City%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: Madison Square Garden",
+          "url": "https://en.wikipedia.org/wiki/Madison_Square_Garden",
+          "status": "verified"
         }
       ]
     },
@@ -7470,7 +7480,7 @@
     },
     {
       "id": "nba-atlanta-georgia",
-      "prompt": "This city hosted a star point guard who wore number 23 before joining the Bulls.",
+      "prompt": "This city’s Hawks own the NBA’s second-longest title drought, having last won as the St. Louis Hawks in 1958.",
       "answer": "Atlanta, Georgia",
       "lat": 33.749,
       "lng": -84.388,
@@ -7482,14 +7492,14 @@
       ],
       "viewLat": 32.9039,
       "viewLng": -83.3306,
-      "promptZh": "这座城市曾迎来一位身穿23号球衣、后转投公牛的球星。",
-      "story": "Michael Jordan joined the Atlanta Hawks in 1984 and averaged 28.2 points per game as a rookie.",
-      "storyZh": "迈克尔·乔丹于1984年加盟亚特兰大老鹰，新秀赛季场均得到28.2分。",
+      "promptZh": "这座城市的老鹰队拥有 NBA 第二长的冠军荒——上次夺冠还是 1958 年的圣路易斯老鹰。",
+      "story": "The franchise moved from St. Louis to Atlanta in 1968; its only NBA championship came in 1958 as the St. Louis Hawks.",
+      "storyZh": "球队 1968 年从圣路易斯迁至亚特兰大；其唯一的 NBA 总冠军是 1958 年以圣路易斯老鹰之名所得。",
       "sources": [
         {
-          "title": "Wikipedia: Atlanta, Georgia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Atlanta%2C%20Georgia",
-          "status": "unverified"
+          "title": "Wikipedia: Atlanta Hawks",
+          "url": "https://en.wikipedia.org/wiki/Atlanta_Hawks",
+          "status": "verified"
         }
       ]
     },
@@ -7763,7 +7773,7 @@
     },
     {
       "id": "nba-belgrade-serbia",
-      "prompt": "This capital’s Partizan side reached the 1996 EuroLeague Final Four in European basketball.",
+      "prompt": "This city’s Partizan won the 1992 European League title, edging Joventut Badalona 71–70 in the final.",
       "answer": "Belgrade, Serbia",
       "lat": 44.7866,
       "lng": 20.4489,
@@ -7772,14 +7782,14 @@
       "tags": [
         "EuroLeague"
       ],
-      "promptZh": "这座首都的游击队曾闯入1996年欧洲篮球联赛四强。",
-      "story": "Partizan defeated Kinder Bologna 76–70 in the 1996 EuroLeague semifinal before reaching the Final Four.",
-      "storyZh": "游击队在1996年欧洲篮球联赛半决赛中以76比70击败金德博洛尼亚，随后闯入四强赛。",
+      "promptZh": "这座城市的游击队 1992 年欧洲联赛决赛 71-70 险胜巴达洛纳尤文图特夺冠。",
+      "story": "Partizan Belgrade won the 1991–92 FIBA European League, beating Montigalà Joventut 71–70 in the final at the Final Four in Istanbul.",
+      "storyZh": "贝尔格莱德游击队在伊斯坦布尔四强赛的决赛中 71-70 击败蒙蒂加拉·尤文图特，夺得 1991-92 赛季欧洲联赛冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Belgrade, Serbia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Belgrade%2C%20Serbia",
-          "status": "unverified"
+          "title": "Wikipedia: 1991–92 FIBA European League",
+          "url": "https://en.wikipedia.org/wiki/1991%E2%80%9392_FIBA_European_League",
+          "status": "verified"
         }
       ]
     },
@@ -8085,7 +8095,7 @@
     },
     {
       "id": "nfl-baltimore-maryland-2",
-      "prompt": "This city’s Ravens won Super Bowl XLVII, featuring the infamous Joe Flacco diaper moment.",
+      "prompt": "This city’s Ravens won Super Bowl XLVII, the game interrupted by a power outage.",
       "answer": "Baltimore, Maryland",
       "lat": 39.2904,
       "lng": -76.6122,
@@ -8097,14 +8107,14 @@
       ],
       "viewLat": 36.4587,
       "viewLng": -68.9939,
-      "promptZh": "这座城市的乌鸦赢得第47届超级碗，出现乔弗拉科尿布事件。",
-      "story": "The Ravens forced three turnovers in the 2013 victory, including an interception of Colin Kaepernick.",
-      "storyZh": "乌鸦队在2013年的胜利中制造了三次失误，其中包括拦截科勒·卡佩尼克的传球。",
+      "promptZh": "这座城市的乌鸦队赢得第 47 届超级碗，比赛因停电中断。",
+      "story": "The Ravens beat the 49ers 34–31 in Super Bowl XLVII on February 3, 2013; a partial power outage suspended play for 34 minutes.",
+      "storyZh": "2013 年 2 月 3 日第 47 届超级碗，乌鸦队 34-31 击败 49 人队；部分停电导致比赛中断 34 分钟。",
       "sources": [
         {
-          "title": "Wikipedia: Baltimore, Maryland",
-          "url": "https://en.wikipedia.org/w/index.php?search=Baltimore%2C%20Maryland",
-          "status": "unverified"
+          "title": "Wikipedia: Super Bowl XLVII",
+          "url": "https://en.wikipedia.org/wiki/Super_Bowl_XLVII",
+          "status": "verified"
         }
       ]
     },
@@ -8160,7 +8170,7 @@
     },
     {
       "id": "nba-shanghai-china",
-      "prompt": "this city was home to the basketball club that reached the 2018 CBA Finals.",
+      "prompt": "This city’s Sharks won their first CBA title in 2002, during Yao Ming’s final season before the NBA.",
       "answer": "Shanghai, China",
       "lat": 31.2304,
       "lng": 121.4737,
@@ -8170,14 +8180,14 @@
         "CBA",
         "China"
       ],
-      "promptZh": "这座城市的俱乐部打进了2018年CBA总决赛。",
-      "story": "The Shanghai Sharks reached the 2018 CBA Finals and lost the championship series 4–0 to the Liaoning Flying Tigers.",
-      "storyZh": "上海鲨鱼队在2018年CBA总决赛中以0比4负于辽宁本钢队。",
+      "promptZh": "这座城市的鲨鱼队在 2002 年首夺 CBA 冠军，那是姚明赴 NBA 前的最后一个赛季。",
+      "story": "The Shanghai Sharks, led by Yao Ming, reached three straight CBA finals from 2000 to 2002 and won the 2002 title, breaking the Bayi Rockets’ six-year reign.",
+      "storyZh": "姚明领衔的上海大鲨鱼 2000 至 2002 年连续三次打进 CBA 总决赛，2002 年首夺冠军，终结八一火箭的六连冠。",
       "sources": [
         {
-          "title": "Wikipedia: Shanghai, China",
-          "url": "https://en.wikipedia.org/w/index.php?search=Shanghai%2C%20China",
-          "status": "unverified"
+          "title": "Wikipedia: Shanghai Sharks",
+          "url": "https://en.wikipedia.org/wiki/Shanghai_Sharks",
+          "status": "verified"
         }
       ]
     },
@@ -9360,7 +9370,7 @@
     },
     {
       "id": "soccer-lisbon-portugal",
-      "prompt": "This city is home to Benfica, who surrendered a 2–0 Champions League final lead in 2017.",
+      "prompt": "This city’s Benfica won back-to-back European Cups in 1961 and 1962.",
       "answer": "Lisbon, Portugal",
       "lat": 38.7223,
       "lng": -9.1393,
@@ -9372,14 +9382,19 @@
       ],
       "viewLat": 45.1257,
       "viewLng": -3.1732,
-      "promptZh": "这座城市的主场球队曾在2017年欧冠决赛中痛失领先。",
-      "story": "Sport Lisboa e Benfica was founded in 1904 and has won five European Cups. Its 1962 European Cup final ended in a 6–5 victory over Real Madrid.",
-      "storyZh": "里斯本竞技足球俱乐部成立于1904年，共五次夺得欧洲冠军，并在1962年欧洲杯决赛中以6比5击败皇家马德里。",
+      "promptZh": "这座城市的本菲卡在 1961 和 1962 年蝉联欧洲冠军杯。",
+      "story": "Benfica, founded in Lisbon in 1904, won consecutive European Cups in 1961 and 1962, beating Real Madrid 5–3 in the 1962 final.",
+      "storyZh": "本菲卡 1904 年创立于里斯本，1961、1962 年蝉联欧洲冠军杯，1962 年决赛 5-3 击败皇家马德里。",
       "sources": [
         {
-          "title": "Wikipedia: Lisbon, Portugal",
-          "url": "https://en.wikipedia.org/w/index.php?search=Lisbon%2C%20Portugal",
-          "status": "unverified"
+          "title": "Wikipedia: S.L. Benfica",
+          "url": "https://en.wikipedia.org/wiki/S.L._Benfica",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: 1962 European Cup final",
+          "url": "https://en.wikipedia.org/wiki/1962_European_Cup_final",
+          "status": "verified"
         }
       ]
     },
@@ -9465,7 +9480,7 @@
     },
     {
       "id": "soccer-durban-south-africa",
-      "prompt": "This city staged the 2010 FIFA World Cup opening match at a stadium built for the tournament.",
+      "prompt": "This city’s Moses Mabhida Stadium hosted a 2010 World Cup semifinal, where Spain beat Germany.",
       "answer": "Durban, South Africa",
       "lat": -29.8587,
       "lng": 31.0218,
@@ -9477,14 +9492,19 @@
       ],
       "viewLat": -33.4293,
       "viewLng": 35.2096,
-      "promptZh": "这座城市举办2010年世界杯揭幕战，球场为赛事而建。",
-      "story": "Moses Mabhida Stadium, opened in 2009, was named after former African National Congress president Moses Mabhida.",
-      "storyZh": "莫塞斯·马比达体育场于2009年开放，以南非非洲民族大会前主席莫塞斯·马比达命名。",
+      "promptZh": "这座城市的摩西·马布海达球场举办了 2010 年世界杯半决赛，西班牙击败德国。",
+      "story": "Moses Mabhida Stadium in Durban, opened in 2009 and named after a former general secretary of the South African Communist Party, hosted the Spain-Germany semifinal at the 2010 World Cup.",
+      "storyZh": "德班的摩西·马布海达球场 2009 年启用，以南非共产党前总书记摩西·马布海达命名，承办了 2010 年世界杯西班牙对德国的半决赛。",
       "sources": [
         {
-          "title": "Wikipedia: Durban, South Africa",
-          "url": "https://en.wikipedia.org/w/index.php?search=Durban%2C%20South%20Africa",
-          "status": "unverified"
+          "title": "Wikipedia: Moses Mabhida Stadium",
+          "url": "https://en.wikipedia.org/wiki/Moses_Mabhida_Stadium",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: 2010 FIFA World Cup",
+          "url": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup",
+          "status": "verified"
         }
       ]
     },
@@ -9637,9 +9657,9 @@
       "storyZh": "罗马的奥林匹克体育场于1953年启用，并承办了1960年奥运会。",
       "sources": [
         {
-          "title": "Wikipedia: Rome, Italy",
-          "url": "https://en.wikipedia.org/w/index.php?search=Rome%2C%20Italy",
-          "status": "unverified"
+          "title": "Wikipedia: Stadio Olimpico",
+          "url": "https://en.wikipedia.org/wiki/Stadio_Olimpico",
+          "status": "verified"
         }
       ]
     },
@@ -9963,9 +9983,9 @@
       "storyZh": "西班牙赢得了2010年国际足联世界杯，随后又夺得2012年欧洲杯冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Spain",
-          "url": "https://en.wikipedia.org/w/index.php?search=Spain",
-          "status": "unverified"
+          "title": "Wikipedia: Spain national football team",
+          "url": "https://en.wikipedia.org/wiki/Spain_national_football_team",
+          "status": "verified"
         }
       ]
     },
@@ -10608,7 +10628,7 @@
     },
     {
       "id": "soccer-sydney-australia",
-      "prompt": "This city hosted the 2005 FIFA Club World Championship final, where its club faced Al Ahly.",
+      "prompt": "The OFC champion from this city lost 2–1 to Egypt’s Al Ahly at the 2005 FIFA Club World Championship in Japan.",
       "answer": "Sydney, Australia",
       "lat": -33.8688,
       "lng": 151.2093,
@@ -10618,14 +10638,14 @@
         "soccer",
         "Asia"
       ],
-      "promptZh": "这座城市的球队闯入2005年国际足联俱乐部世界杯决赛。",
-      "story": "Sydney FC lost 2–1 to Al Ahly in the 2005 FIFA Club World Championship final at Yokohama International Stadium.",
-      "storyZh": "悉尼FC在2005年国际足联俱乐部世界杯决赛中以1比2负于阿赫利。",
+      "promptZh": "这座城市的球队作为大洋洲冠军，在 2005 年日本世俱杯 1-2 负于埃及阿赫利。",
+      "story": "Sydney FC, the OFC representative, lost 2–1 to Al Ahly in the quarter-finals of the 2005 FIFA Club World Championship, hosted in Japan and won by São Paulo.",
+      "storyZh": "作为大洋洲代表的悉尼 FC 在 2005 年日本世俱杯 1/4 决赛 1-2 负于阿赫利；该届冠军是圣保罗。",
       "sources": [
         {
-          "title": "Wikipedia: Sydney, Australia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Sydney%2C%20Australia",
-          "status": "unverified"
+          "title": "Wikipedia: 2005 FIFA Club World Championship",
+          "url": "https://en.wikipedia.org/wiki/2005_FIFA_Club_World_Championship",
+          "status": "verified"
         }
       ]
     },
@@ -10890,7 +10910,7 @@
     },
     {
       "id": "golf-pinehurst-north-carolina",
-      "prompt": "Point to this town, home to the course that has hosted the U.S. Open five times.",
+      "prompt": "This North Carolina town’s No. 2 course has hosted the U.S. Open four times.",
       "answer": "Pinehurst, North Carolina",
       "lat": 35.1954,
       "lng": -79.4695,
@@ -10902,14 +10922,14 @@
       ],
       "viewLat": 38.0148,
       "viewLng": -73.1324,
-      "promptZh": "美国公开赛曾五次在这座小镇的球场举办。",
-      "story": "Walter Hagen won U.S. Opens here in 1951 and 1974.",
-      "storyZh": "沃尔特·哈根曾于1951年和1974年在这里赢得美国公开赛。",
+      "promptZh": "这座北卡罗来纳小镇的 2 号球场已四次承办美国公开赛。",
+      "story": "Pinehurst No. 2 has hosted the U.S. Open in 1999, 2005, 2014 and 2024, with more editions scheduled starting in 2029.",
+      "storyZh": "松树丛 2 号球场先后于 1999、2005、2014、2024 年承办美国公开赛，2029 年起还有更多届次。",
       "sources": [
         {
-          "title": "Wikipedia: Pinehurst, North Carolina",
-          "url": "https://en.wikipedia.org/w/index.php?search=Pinehurst%2C%20North%20Carolina",
-          "status": "unverified"
+          "title": "Wikipedia: Pinehurst Resort",
+          "url": "https://en.wikipedia.org/wiki/Pinehurst_Resort",
+          "status": "verified"
         }
       ]
     },
@@ -11264,7 +11284,7 @@
     },
     {
       "id": "golf-sarasota-florida",
-      "prompt": "This Florida city is home to O'Shea's and hosted the 2006 Senior PGA Championship.",
+      "prompt": "This Florida city’s country club hosted the Sara Bay Classic, a Symetra Tour event, from 2012 to 2017.",
       "answer": "Sarasota, Florida",
       "lat": 27.3364,
       "lng": -82.5307,
@@ -11275,14 +11295,14 @@
       ],
       "viewLat": 31.0642,
       "viewLng": -89.0244,
-      "promptZh": "佛罗里达州这座城市有奥谢斯，亦举办2006年PGA元老赛。",
-      "story": "Tom Watson won the 2006 Senior PGA Championship at John's Pass Village by four strokes.",
-      "storyZh": "汤姆·沃特森在约翰斯帕斯村举行的2006年高级PGA锦标赛中以四杆优势夺冠。",
+      "promptZh": "这座佛罗里达城市的乡村俱乐部在 2012 至 2017 年举办 Symetra 巡回赛萨拉湾精英赛。",
+      "story": "The Sara Bay Classic on the LPGA’s Symetra Tour was held at Sara Bay Country Club in Sarasota from 2012 to 2017.",
+      "storyZh": "LPGA 发展巡回赛（Symetra Tour）的萨拉湾精英赛 2012 至 2017 年在萨拉索塔的萨拉湾乡村俱乐部举行。",
       "sources": [
         {
-          "title": "Wikipedia: Sarasota, Florida",
-          "url": "https://en.wikipedia.org/w/index.php?search=Sarasota%2C%20Florida",
-          "status": "unverified"
+          "title": "Wikipedia: Sara Bay Classic",
+          "url": "https://en.wikipedia.org/wiki/Sara_Bay_Classic",
+          "status": "verified"
         }
       ]
     },
@@ -11586,24 +11606,24 @@
     },
     {
       "id": "golf-oak-hill-texas",
-      "prompt": "This golf course hosted the PGA Championship in 2005, 2013, and 2022.",
-      "answer": "Oak Hill, Texas",
-      "lat": 30.1755,
-      "lng": -97.6103,
+      "prompt": "This upstate New York club hosted the PGA Championship in 2003, 2013 and 2022.",
+      "answer": "Rochester, New York",
+      "lat": 43.1566,
+      "lng": -77.6088,
       "scope": "world",
       "sport": "golf",
       "tags": [
         "golf",
         "PGA"
       ],
-      "promptZh": "这座球场在三个年份举办过PGA锦标赛。",
-      "story": "Ben Hogan helped design the course in 1947, and Perry Maxwell Sr. rebuilt it in 1976.",
-      "storyZh": "本·霍根于1947年参与设计这座球场，佩里·麦克斯韦尔父子随后于1976年对其重建。",
+      "promptZh": "这座纽约州北部的俱乐部举办了 2003、2013 和 2022 年 PGA 锦标赛。",
+      "story": "Oak Hill Country Club in Pittsford, near Rochester, has hosted multiple majors, including the PGA Championship in 2003, 2013 and 2022.",
+      "storyZh": "罗切斯特附近的匹茨福德橡树山乡村俱乐部多次承办大满贯，包括 2003、2013 和 2022 年 PGA 锦标赛。",
       "sources": [
         {
-          "title": "Wikipedia: Oak Hill, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Oak%20Hill%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: Oak Hill Country Club",
+          "url": "https://en.wikipedia.org/wiki/Oak_Hill_Country_Club",
+          "status": "verified"
         }
       ]
     },
