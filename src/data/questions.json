@@ -465,10 +465,10 @@
     },
     {
       "id": "nfl-detroit-2",
-      "prompt": "The Fail Mary, decided by replacement refs on the final play, happened here in 2012",
-      "answer": "New Orleans, Louisiana",
-      "lat": 29.9511,
-      "lng": -90.0715,
+      "prompt": "The “Fail Mary”, a replacement-ref call on the final play, decided a 2012 Monday Night game in this city.",
+      "answer": "Seattle, Washington",
+      "lat": 47.6062,
+      "lng": -122.3321,
       "scope": "city",
       "sport": "american football",
       "tags": [
@@ -477,14 +477,14 @@
       ],
       "viewLat": 34.0841,
       "viewLng": -95.0604,
-      "promptZh": "2012年，决定比赛结果的“Fail Mary”（失败迈里）在这座城市上演",
-      "story": "The Fail Mary occurred in New Orleans on November 4, 2012, when replacement officials awarded the Giants a field goal after a controversial ruling involving Jim Harbaugh.",
-      "storyZh": "著名的“Fail Mary”（失败迈里）发生在2012年11月4日的新奥尔良，替补裁判在涉及吉姆·哈博的争议判罚后判给巨人队一记射门得分。",
+      "promptZh": "2012 年一场周一橄榄球之夜比赛的最后一攻由替补裁判的争议判罚“失败玛丽”定格在这座城市。",
+      "story": "On September 24, 2012, the Seahawks’ 14–12 win over the Packers ended with a disputed replacement-officials ruling on the final play — the “Fail Mary” — which helped end the referee lockout two days later.",
+      "storyZh": "2012 年 9 月 24 日，海鹰队 14-12 战胜包装工队，最后一攻的替补裁判争议判罚被称为“失败玛丽”，两天后裁判停摆宣告结束。",
       "sources": [
         {
-          "title": "Wikipedia: New Orleans, Louisiana",
-          "url": "https://en.wikipedia.org/w/index.php?search=New%20Orleans%2C%20Louisiana",
-          "status": "unverified"
+          "title": "Wikipedia: Fail Mary",
+          "url": "https://en.wikipedia.org/wiki/Fail_Mary",
+          "status": "verified"
         }
       ]
     },
@@ -900,9 +900,14 @@
       "storyZh": "檀香山连续三十年承办NFL职业碗，时间从1980年一直到2009年。",
       "sources": [
         {
-          "title": "Wikipedia: Honolulu, Hawaii",
-          "url": "https://en.wikipedia.org/w/index.php?search=Honolulu%2C%20Hawaii",
-          "status": "unverified"
+          "title": "Wikipedia: Pro Bowl",
+          "url": "https://en.wikipedia.org/wiki/Pro_Bowl",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Aloha Stadium",
+          "url": "https://en.wikipedia.org/wiki/Aloha_Stadium",
+          "status": "verified"
         }
       ]
     },
@@ -1535,10 +1540,10 @@
     },
     {
       "id": "mlb-milwaukee-2",
-      "prompt": "The highest-scoring World Series game of the century produced 25 runs in this inland port city",
-      "answer": "Cincinnati, Ohio",
-      "lat": 39.1031,
-      "lng": -84.512,
+      "prompt": "Game 5 of the 2017 World Series in this city produced 25 runs, the most in a World Series game this century.",
+      "answer": "Houston, Texas",
+      "lat": 29.7604,
+      "lng": -95.3698,
       "scope": "city",
       "sport": "baseball",
       "tags": [
@@ -1547,14 +1552,14 @@
       ],
       "viewLat": 29.1252,
       "viewLng": -86.5785,
-      "promptZh": "本世纪得分最高的 World Series 比赛在这座内陆港口城市共打出 25 分",
-      "story": "Cincinnati is the home of the Reds, whose modern ballpark era began when Great American Ball Park opened in 2003.",
-      "storyZh": "辛辛那提是红人队的主场，而随着大美国球场于2003年启用，这座城市也见证了红人队的新时代。",
+      "promptZh": "2017 年世界大赛第 5 场在这座城市打出 25 分，是本世纪世界大赛单场得分之最。",
+      "story": "The Astros’ 13–12, ten-inning win over the Dodgers in 2017 World Series Game 5 produced 25 runs and ended on Alex Bregman’s walk-off single.",
+      "storyZh": "2017 年世界大赛第 5 场，太空人队 13-12 十局再见打击败道奇队，全场共得 25 分，亚历克斯·布雷格曼打出再见安打。",
       "sources": [
         {
-          "title": "Wikipedia: Cincinnati, Ohio",
-          "url": "https://en.wikipedia.org/w/index.php?search=Cincinnati%2C%20Ohio",
-          "status": "unverified"
+          "title": "Wikipedia: 2017 World Series",
+          "url": "https://en.wikipedia.org/wiki/2017_World_Series",
+          "status": "verified"
         }
       ]
     },
@@ -1832,10 +1837,10 @@
     },
     {
       "id": "nba-seattle-1",
-      "prompt": "Felix Hernandez, who tossed a 2012 perfect game for Seattle, grew up in this city",
-      "answer": "Brewster, Washington",
-      "lat": 48.1683,
-      "lng": -122.4346,
+      "prompt": "Seattle Mariners ace Félix Hernández, who threw a perfect game in 2012, grew up in this Venezuelan city.",
+      "answer": "Valencia, Venezuela",
+      "lat": 10.162,
+      "lng": -68.0077,
       "scope": "city",
       "sport": "baseball",
       "tags": [
@@ -1844,14 +1849,14 @@
       ],
       "viewLat": 37.3683,
       "viewLng": -122.4346,
-      "promptZh": "Felix Hernandez曾为Seattle投出2012年的完美比赛，并在这座城市长大",
-      "story": "Brewster was the home of Felix Hernandez during his youth, and he later pitched a perfect game for Seattle on August 21, 2012.",
-      "storyZh": "费利克斯·埃尔南德斯在华盛顿州 Brewster 长大，并于2012年8月21日为西雅图投出一场无安打比赛。",
+      "promptZh": "西雅图水手队王牌费利克斯·埃尔南德斯在这座委内瑞拉城市长大，2012 年投出完全比赛。",
+      "story": "Félix Hernández was born and raised in Valencia, Venezuela, and threw a perfect game for the Seattle Mariners on August 15, 2012.",
+      "storyZh": "费利克斯·埃尔南德斯在委内瑞拉瓦伦西亚出生长大，2012 年 8 月 15 日为西雅图水手队投出完全比赛。",
       "sources": [
         {
-          "title": "Wikipedia: Brewster, Washington",
-          "url": "https://en.wikipedia.org/w/index.php?search=Brewster%2C%20Washington",
-          "status": "unverified"
+          "title": "Wikipedia: Félix Hernández",
+          "url": "https://en.wikipedia.org/wiki/F%C3%A9lix_Hern%C3%A1ndez",
+          "status": "verified"
         }
       ]
     },
@@ -1907,10 +1912,10 @@
     },
     {
       "id": "nfl-miami-4",
-      "prompt": "Ten Cent Beer Night in 1974 turned into a drunken riot and a forfeit for the MLB team who plays here",
-      "answer": "Arlington, Texas",
-      "lat": 32.7357,
-      "lng": -97.1081,
+      "prompt": "On “Ten-Cent Beer Night” in 1974, a beer-fueled riot forced this city’s MLB team to forfeit a game.",
+      "answer": "Cleveland, Ohio",
+      "lat": 41.4993,
+      "lng": -81.6944,
       "scope": "city",
       "sport": "baseball",
       "tags": [
@@ -1919,14 +1924,14 @@
       ],
       "viewLat": 27.3628,
       "viewLng": -90.6225,
-      "promptZh": "1974年的“十美分啤酒之夜”演变成醉汉暴乱，并导致一支效力于此城的MLB球队被判负",
-      "story": "Ten Cent Beer Night on April 17, 1974, ended in a riot at the Texas Rangers’ Arlington stadium and resulted in a forfeited game.",
-      "storyZh": "1974年4月17日的“十美分啤酒之夜”在德州游骑兵队所在的阿灵顿球场演变成骚乱，并导致比赛被判负。",
+      "promptZh": "1974 年“十分钱啤酒之夜”上，啤酒引发的骚乱迫使这座城市的 MLB 球队被判弃权。",
+      "story": "On June 4, 1974, the Cleveland Indians’ 10-cent beer promotion ended in a ninth-inning riot, and umpire Nestor Chylak forfeited the game to the Texas Rangers.",
+      "storyZh": "1974 年 6 月 4 日，克利夫兰印第安人队的十分钱啤酒促销活动以第九局骚乱收场，主裁内斯特·查拉克判球队弃权、游骑兵队获胜。",
       "sources": [
         {
-          "title": "Wikipedia: Arlington, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Arlington%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: Ten-Cent Beer Night",
+          "url": "https://en.wikipedia.org/wiki/Ten-Cent_Beer_Night",
+          "status": "verified"
         }
       ]
     },
@@ -2175,10 +2180,10 @@
     },
     {
       "id": "nba-boston-6",
-      "prompt": "Bob Cousy, the NBA's all-time leader in assists for 22 years, was born in this Massachusetts city",
-      "answer": "Brookline, Massachusetts",
-      "lat": 42.3318,
-      "lng": -71.1212,
+      "prompt": "Celtics legend Bob Cousy, the NBA assists leader for eight straight seasons, was born in this city.",
+      "answer": "New York City, New York",
+      "lat": 40.7128,
+      "lng": -74.006,
       "scope": "city",
       "sport": "basketball",
       "tags": [
@@ -2187,14 +2192,14 @@
       ],
       "viewLat": 51.1141,
       "viewLng": -75.5123,
-      "promptZh": "曾连续22年领跑NBA助攻榜的Bob Cousy出生在这座马萨诸塞州城市",
-      "story": "NBA legend Bob Cousy was born in Brookline on October 12, 1918, before earning eight championships with the Boston Celtics.",
-      "storyZh": "NBA传奇鲍勃·库西于1918年10月12日出生在布鲁克莱恩，后来随波士顿凯尔特人队赢得8次总冠军。",
+      "promptZh": "凯尔特人传奇鲍勃·库西——连续八个赛季的 NBA 助攻王——出生在这座城市。",
+      "story": "Bob Cousy was born in New York City in 1928 and won six NBA championships with the Boston Celtics; he led the NBA in assists eight seasons in a row.",
+      "storyZh": "鲍勃·库西 1928 年出生于纽约市，随波士顿凯尔特人队六夺 NBA 总冠军，并连续八个赛季领跑助攻榜。",
       "sources": [
         {
-          "title": "Wikipedia: Brookline, Massachusetts",
-          "url": "https://en.wikipedia.org/w/index.php?search=Brookline%2C%20Massachusetts",
-          "status": "unverified"
+          "title": "Wikipedia: Bob Cousy",
+          "url": "https://en.wikipedia.org/wiki/Bob_Cousy",
+          "status": "verified"
         }
       ]
     },
@@ -2464,7 +2469,7 @@
     },
     {
       "id": "nba-france-2",
-      "prompt": "4-time NBA Defensive Player of the Year, Rudy Gobert, was born in this European town",
+      "prompt": "Four-time NBA Defensive Player of the Year Rudy Gobert was born in this French overseas city in the Indian Ocean.",
       "answer": "Saint-Denis, Réunion",
       "lat": -20.8823,
       "lng": 55.4504,
@@ -2474,14 +2479,14 @@
         "NBA",
         "international"
       ],
-      "promptZh": "四届NBA最佳防守球员Rudy Gobert出生于这座欧洲城镇",
+      "promptZh": "四届 NBA 最佳防守球员鲁迪·戈贝尔出生在这座印度洋上的法属海外城市。",
       "story": "Four-time NBA Defensive Player of the Year Rudy Gobert was born on June 26, 1992, in Saint-Denis on the island of Réunion.",
       "storyZh": "四届NBA最佳防守球员鲁迪·戈贝尔于1992年6月26日出生在留尼汪岛圣但尼。",
       "sources": [
         {
-          "title": "Wikipedia: Saint-Denis, Réunion",
-          "url": "https://en.wikipedia.org/w/index.php?search=Saint-Denis%2C%20R%C3%A9union",
-          "status": "unverified"
+          "title": "Wikipedia: Rudy Gobert",
+          "url": "https://en.wikipedia.org/wiki/Rudy_Gobert",
+          "status": "verified"
         }
       ]
     },
@@ -2791,13 +2796,13 @@
       "viewLat": 46.6457,
       "viewLng": -77.9447,
       "promptZh": "Michael Jordan读大二时从校队阵容中被裁掉，当时他在这座沿海城市",
-      "story": "At New Hanover High School in Wilmington, Michael Jordan was cut from the varsity team as a sophomore, an early rejection that became a defining part of his rise.",
-      "storyZh": "迈克尔·乔丹在威尔明顿的新汉诺威高中读二年级时曾被校队裁掉，这次早期受挫后来成为他成长历程中极具象征意义的一页。",
+      "story": "As a sophomore at Emsley A. Laney High School in Wilmington, Michael Jordan was cut from the varsity team in favor of a taller classmate — a setback that fueled his rise.",
+      "storyZh": "迈克尔·乔丹高二时在威尔明顿的埃姆斯利·A·拉尼高中被校队拒之门外，一位更高的同学顶替了他——这次挫折反而点燃了他的崛起之路。",
       "sources": [
         {
-          "title": "Wikipedia: Wilmington, North Carolina",
-          "url": "https://en.wikipedia.org/w/index.php?search=Wilmington%2C%20North%20Carolina",
-          "status": "unverified"
+          "title": "Wikipedia: Michael Jordan",
+          "url": "https://en.wikipedia.org/wiki/Michael_Jordan",
+          "status": "verified"
         }
       ]
     },
@@ -2864,13 +2869,13 @@
       "viewLat": 33.9598,
       "viewLng": -82.3992,
       "promptZh": "在Memphis Grizzlies短暂效力3场后，Allen Iverson在这座城市结束了NBA生涯",
-      "story": "Allen Iverson finished his NBA career with the Philadelphia 76ers in the 2004–05 season, following a brief stint with Memphis and averaging 24.2 points per game.",
-      "storyZh": "艾伦·艾弗森在短暂效力孟菲斯后，于2004至2005赛季重返费城76人队并完成职业生涯最后一季，场均得到24.2分。",
+      "story": "After a brief stint with the Memphis Grizzlies in 2009, Allen Iverson ended his NBA career with the Philadelphia 76ers in the 2009–10 season.",
+      "storyZh": "2009 年短暂效力孟菲斯灰熊后，阿伦·艾弗森于 2009-10 赛季在费城 76 人队结束了自己的 NBA 生涯。",
       "sources": [
         {
-          "title": "Wikipedia: Philadelphia, Pennsylvania",
-          "url": "https://en.wikipedia.org/w/index.php?search=Philadelphia%2C%20Pennsylvania",
-          "status": "unverified"
+          "title": "Wikipedia: Allen Iverson",
+          "url": "https://en.wikipedia.org/wiki/Allen_Iverson",
+          "status": "verified"
         }
       ]
     },
@@ -3191,26 +3196,31 @@
     },
     {
       "id": "nca-michigan-1",
-      "prompt": "This Big Ten stadium took its unusual name from a Union Army training camp used during the Civil War",
-      "answer": "Ann Arbor, Michigan",
-      "lat": 42.2808,
-      "lng": -83.743,
+      "prompt": "This Big Ten stadium is named for a Union Army training camp used during the Civil War.",
+      "answer": "Madison, Wisconsin",
+      "lat": 43.0731,
+      "lng": -89.4012,
       "scope": "city",
-      "sport": "basketball",
+      "sport": "american football",
       "tags": [
         "NCAA",
         "Michigan"
       ],
       "viewLat": 47.0337,
       "viewLng": -78.0057,
-      "promptZh": "这座Big Ten球场的奇特名称源自南北战争期间使用过的联邦军训练营",
-      "story": "Michigan Stadium in Ann Arbor has been nicknamed the Big House since 1927, a name that came from the massive wooden barracks built by Union Army troops training on that ground during the Civil War.",
-      "storyZh": "安娜堡的密歇根大学体育场自1927年起便被称为Big House（大屋），这一名字源于南北战争期间在此驻扎训练、修建起巨大木制营房的北方联邦军士兵。",
+      "promptZh": "这座 Big Ten 球场以南北战争时期一座联邦军训练营命名。",
+      "story": "Camp Randall Stadium in Madison takes its name from the Civil War Union Army training camp that stood nearby; the Wisconsin Badgers have played there since 1917.",
+      "storyZh": "麦迪逊的坎德尔体育场之名来自附近的南北战争联邦军训练营；威斯康星獾队自 1917 年起在此比赛。",
       "sources": [
         {
-          "title": "Wikipedia: Ann Arbor, Michigan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Ann%20Arbor%2C%20Michigan",
-          "status": "unverified"
+          "title": "Wikipedia: Camp Randall Stadium",
+          "url": "https://en.wikipedia.org/wiki/Camp_Randall_Stadium",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Camp Randall",
+          "url": "https://en.wikipedia.org/wiki/Camp_Randall",
+          "status": "verified"
         }
       ]
     },
@@ -3406,7 +3416,7 @@
     },
     {
       "id": "boxing-mexico-1",
-      "prompt": "Canelo Álvarez, 4-belt undisputed super middleweight champion, was born in 1990 in the suburbs of this city",
+      "prompt": "Canelo Álvarez, boxing’s four-belt undisputed super middleweight champion, was born in 1990 in this Mexican city.",
       "answer": "Guadalajara, Mexico",
       "lat": 20.6597,
       "lng": -103.3496,
@@ -3415,14 +3425,14 @@
       "tags": [
         "international"
       ],
-      "promptZh": "这位拥有4条金腰带、undisputed（无可争议）超中量级拳王Canelo Álvarez于1990年出生在这座城市的郊区",
-      "story": "Canelo Álvarez was born in Guadalajara on July 17, 1990, beginning his rise from the western Mexican city to world boxing champion.",
-      "storyZh": "卡内洛·阿尔瓦雷斯于1990年7月17日出生在瓜达拉哈拉，从这座墨西哥西部城市踏上通往世界拳坛冠军的征程。",
+      "promptZh": "拳坛四带统一超中量级冠军卡内洛·阿尔瓦雷斯 1990 年出生在这座墨西哥城市。",
+      "story": "Canelo Álvarez was born in Guadalajara on July 18, 1990, and in 2021 became boxing’s first undisputed four-belt super middleweight champion.",
+      "storyZh": "卡内洛·阿尔瓦雷斯 1990 年 7 月 18 日出生于瓜达拉哈拉，2021 年成为拳击史上首位四大组织统一超中量级冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Guadalajara, Mexico",
-          "url": "https://en.wikipedia.org/w/index.php?search=Guadalajara%2C%20Mexico",
-          "status": "unverified"
+          "title": "Wikipedia: Canelo Álvarez",
+          "url": "https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez",
+          "status": "verified"
         }
       ]
     },
@@ -3493,9 +3503,9 @@
       "storyZh": "老虎·伍兹于1975年12月30日出生在加利福尼亚州赛普里斯，后来成长为高尔夫史上最著名的冠军之一。",
       "sources": [
         {
-          "title": "Wikipedia: Cypress, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Cypress%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Tiger Woods",
+          "url": "https://en.wikipedia.org/wiki/Tiger_Woods",
+          "status": "verified"
         }
       ]
     },
@@ -4022,10 +4032,10 @@
     },
     {
       "id": "nhl-tampa-1",
-      "prompt": "In 1993 an NHL team originally named for a Disney movie was founded by the studio here",
-      "answer": "Los Angeles, California",
-      "lat": 34.0522,
-      "lng": -118.2437,
+      "prompt": "This city’s NHL team was founded by Disney in 1993 and named after the studio’s 1992 film.",
+      "answer": "Anaheim, California",
+      "lat": 33.8366,
+      "lng": -117.9143,
       "scope": "city",
       "sport": "ice hockey",
       "tags": [
@@ -4034,14 +4044,14 @@
       ],
       "viewLat": 25.2699,
       "viewLng": -122.6348,
-      "promptZh": "1993年，Disney 工作室在这里创立了一支最初以一部 Disney 电影命名的 NHL 球队",
-      "story": "The Los Angeles Kings were founded in 1993 by the Walt Disney Company, whose organizers initially called the club “Disney’s Kings” in reference to The King and I.",
-      "storyZh": "洛杉矶国王队由华特迪士尼公司在1993年创立，创办者最初将其称为“迪士尼国王队”，名称灵感来自电影《国王与我》。",
+      "promptZh": "这座城市的 NHL 球队由迪士尼 1993 年创立，以该制片厂 1992 年的电影命名。",
+      "story": "The Mighty Ducks of Anaheim joined the NHL as an expansion team in 1993–94, owned by The Walt Disney Company and named after its 1992 film The Mighty Ducks; the club became the Anaheim Ducks in 2006.",
+      "storyZh": "安纳海姆大力鸭队 1993-94 赛季作为扩军球队加入 NHL，由华特迪士尼公司创立并以 1992 年电影《大力鸭》命名；2006 年更名为安纳海姆鸭队。",
       "sources": [
         {
-          "title": "Wikipedia: Los Angeles, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Los%20Angeles%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Anaheim Ducks",
+          "url": "https://en.wikipedia.org/wiki/Anaheim_Ducks",
+          "status": "verified"
         }
       ]
     },
@@ -4129,13 +4139,13 @@
         "2014"
       ],
       "promptZh": "在“金球”4年后，Sidney Crosby在这座城市赢得了个人第二枚奥运金牌",
-      "story": "Sochi hosted the 2014 Winter Olympics, where Sidney Crosby scored the Golden Goal to give Canada its second consecutive men’s Olympic hockey gold, four years after his 2010 triumph.",
-      "storyZh": "2014年，索契举办了冬季奥运会；锡尼·克罗斯比在男子冰球决赛中打进“金球”，继2010年夺冠后为加拿大队连续第二度夺得奥运金牌。",
+      "story": "Sochi hosted the 2014 Winter Olympics, where Canada beat Sweden in the final to retain the men’s hockey title — Sidney Crosby’s second Olympic gold, four years after his “Golden Goal” in Vancouver.",
+      "storyZh": "索契举办 2014 年冬奥会，加拿大队在男子冰球决赛击败瑞典队卫冕——这是西尼·克罗斯比的第二枚奥运金牌，距温哥华“金球”四年。",
       "sources": [
         {
-          "title": "Wikipedia: Sochi, Russia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Sochi%2C%20Russia",
-          "status": "unverified"
+          "title": "Wikipedia: Ice hockey at the 2014 Winter Olympics – Men’s tournament",
+          "url": "https://en.wikipedia.org/wiki/Ice_hockey_at_the_2014_Winter_Olympics_%E2%80%93_Men%27s_tournament",
+          "status": "verified"
         }
       ]
     },
@@ -4280,9 +4290,9 @@
       "storyZh": "1980年2月22日，美国冰球队在普莱西德湖以4比3击败保持不败的苏联队，创造了著名的“冰上奇迹”。",
       "sources": [
         {
-          "title": "Wikipedia: Lake Placid, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=Lake%20Placid%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: Miracle on Ice",
+          "url": "https://en.wikipedia.org/wiki/Miracle_on_Ice",
+          "status": "verified"
         }
       ]
     },
@@ -5273,7 +5283,7 @@
     },
     {
       "id": "nfl-buffalo-new-york",
-      "prompt": "This city is home to the Bills, who went 17 years without reaching the playoffs from 1996 to 2012.",
+      "prompt": "This city’s Bills are the only NFL franchise to reach four consecutive Super Bowls.",
       "answer": "Buffalo, New York",
       "lat": 42.8864,
       "lng": -78.8784,
@@ -5285,14 +5295,14 @@
       ],
       "viewLat": 47.6988,
       "viewLng": -72.2402,
-      "promptZh": "这座城市是比尔队主场，1996年起17年无缘季后赛。",
-      "story": "The drought ended on January 8, 2017, when Buffalo defeated Jacksonville 10-3 in overtime and reached the divisional round.",
-      "storyZh": "2017年1月8日，比尔队加时赛以10比3击败杰克逊维尔队，终于晋级季后赛。",
+      "promptZh": "这座城市的比尔队是 NFL 唯一连续四届打进超级碗的球队。",
+      "story": "The Buffalo Bills reached the Super Bowl after the 1990 through 1993 seasons — a record four straight — but lost them all.",
+      "storyZh": "布法罗比尔队在 1990 至 1993 赛季后连续四届打进超级碗（史上唯一），但四场皆负。",
       "sources": [
         {
-          "title": "Wikipedia: Buffalo, New York",
-          "url": "https://en.wikipedia.org/w/index.php?search=Buffalo%2C%20New%20York",
-          "status": "unverified"
+          "title": "Wikipedia: Buffalo Bills",
+          "url": "https://en.wikipedia.org/wiki/Buffalo_Bills",
+          "status": "verified"
         }
       ]
     },
@@ -6925,7 +6935,7 @@
     {
       "id": "mlb-cubs-arizona",
       "prompt": "This Arizona town hosts the Chicago club of the National League during spring training.",
-      "answer": "Cubs, Arizona",
+      "answer": "Mesa, Arizona",
       "lat": 33.2987,
       "lng": -111.8873,
       "scope": "world",
@@ -6935,13 +6945,13 @@
         "Spring Training"
       ],
       "promptZh": "这个亚利桑那小镇是芝加哥国联球队进行春训的所在地。",
-      "story": "The Cubs have held their spring-training camp in Mesa since 1994, and their current home, Sloan Park, opened for the 2015 season.",
-      "storyZh": "芝加哥小熊队自1994年起在梅萨进行春训，目前使用的主场斯隆公园于2015赛季启用。",
+      "story": "The Chicago Cubs train each spring at Sloan Park in Mesa, the largest spring-training stadium in Major League Baseball; it opened in 2014.",
+      "storyZh": "芝加哥小熊队每年春天在梅萨的斯隆公园训练，该球场 2014 年启用，是 MLB 春训基地中最大的一座。",
       "sources": [
         {
-          "title": "Wikipedia: Cubs, Arizona",
-          "url": "https://en.wikipedia.org/w/index.php?search=Cubs%2C%20Arizona",
-          "status": "unverified"
+          "title": "Wikipedia: Sloan Park",
+          "url": "https://en.wikipedia.org/wiki/Sloan_Park",
+          "status": "verified"
         }
       ]
     },
@@ -7285,7 +7295,7 @@
     },
     {
       "id": "nba-oklahoma-city-oklahoma",
-      "prompt": "The basketball team based in this city reached four consecutive NBA Finals and now plays beneath the Thunder name.",
+      "prompt": "This city’s Thunder won the 2025 NBA championship, beating the Indiana Pacers in seven games.",
       "answer": "Oklahoma City, Oklahoma",
       "lat": 35.4676,
       "lng": -97.5164,
@@ -7297,14 +7307,14 @@
       ],
       "viewLat": 38.1436,
       "viewLng": -92.0025,
-      "promptZh": "这座城市的球队曾连续四年打进NBA总决赛，现名雷霆。",
-      "story": "The Oklahoma City Thunder reached the NBA Finals in each year from 2012 through 2015.",
-      "storyZh": "俄克拉荷马城雷霆在2012年至2015年间连续闯入NBA总决赛。",
+      "promptZh": "这座城市的雷霆队在 2025 年 NBA 总决赛七场击败印第安纳步行者队夺冠。",
+      "story": "The Oklahoma City Thunder beat the Indiana Pacers in seven games in the 2025 NBA Finals to win the franchise’s first title since moving from Seattle in 2008.",
+      "storyZh": "俄克拉荷马城雷霆队在 2025 年 NBA 总决赛七场击败步行者队，夺得球队 2008 年从西雅图迁来后的首个总冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Oklahoma City, Oklahoma",
-          "url": "https://en.wikipedia.org/w/index.php?search=Oklahoma%20City%2C%20Oklahoma",
-          "status": "unverified"
+          "title": "Wikipedia: Oklahoma City Thunder",
+          "url": "https://en.wikipedia.org/wiki/Oklahoma_City_Thunder",
+          "status": "verified"
         }
       ]
     },
@@ -7731,7 +7741,7 @@
     },
     {
       "id": "nba-kaunas-lithuania",
-      "prompt": "This city’s club famously defeated a dominant Italian side to win the 1998 EuroLeague championship.",
+      "prompt": "This city’s Žalgiris won the 1999 EuroLeague, beating Italian power Kinder Bologna in the final.",
       "answer": "Kaunas, Lithuania",
       "lat": 54.8985,
       "lng": 23.9036,
@@ -7740,14 +7750,14 @@
       "tags": [
         "EuroLeague"
       ],
-      "promptZh": "该城球队击败意大利劲旅，夺得1998年欧洲篮球冠军。",
-      "story": "Žalgiris Kaunas defeated Kinder Bologna 65–57 in the 1998 EuroLeague final to claim European basketball’s biggest club prize.",
-      "storyZh": "扎利吉里斯在1998年欧洲篮球联赛决赛中以65比57击败金德博洛尼亚，夺得欧洲俱乐部最高荣誉。",
+      "promptZh": "这座城市的扎尔吉里斯队在 1999 年欧冠决赛击败意大利劲旅博洛尼亚夺冠。",
+      "story": "Žalgiris Kaunas won the 1999 EuroLeague, defeating Kinder Bologna in the final at the Final Four in Munich.",
+      "storyZh": "扎尔吉里斯·考纳斯在慕尼黑四强赛的决赛中击败博洛尼亚，夺得 1999 年欧洲篮球冠军联赛冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Kaunas, Lithuania",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kaunas%2C%20Lithuania",
-          "status": "unverified"
+          "title": "Wikipedia: 1998–99 FIBA EuroLeague",
+          "url": "https://en.wikipedia.org/wiki/1998%E2%80%9399_FIBA_EuroLeague",
+          "status": "verified"
         }
       ]
     },
@@ -8062,9 +8072,14 @@
       "storyZh": "2007年2月4日，小马队在第41届超级碗中以29比17击败芝加哥熊队。",
       "sources": [
         {
-          "title": "Wikipedia: Indianapolis, Indiana",
-          "url": "https://en.wikipedia.org/w/index.php?search=Indianapolis%2C%20Indiana",
-          "status": "unverified"
+          "title": "Wikipedia: Super Bowl XLI",
+          "url": "https://en.wikipedia.org/wiki/Super_Bowl_XLI",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Indianapolis 500",
+          "url": "https://en.wikipedia.org/wiki/Indianapolis_500",
+          "status": "verified"
         }
       ]
     },
@@ -8212,7 +8227,7 @@
     },
     {
       "id": "nba-athens-greece",
-      "prompt": "this capital hosted Panathinaikos' 2002 EuroLeague title victory in a home final.",
+      "prompt": "This city’s Panathinaikos beat hosts Kinder Bologna to win the 2002 EuroLeague title.",
       "answer": "Athens, Greece",
       "lat": 37.9838,
       "lng": 23.7275,
@@ -8221,14 +8236,14 @@
       "tags": [
         "EuroLeague"
       ],
-      "promptZh": "这座首都见证了泛雅典尼科斯2002年欧洲联赛主场夺冠。",
-      "story": "Panathinaikos defeated Kinder Bologna 94–80 in the 2002 EuroLeague final.",
-      "storyZh": "泛雅典尼科斯队在2002年欧洲联赛决赛中以94比80击败博洛尼亚基尔德队。",
+      "promptZh": "这座城市的帕纳辛奈科斯队在 2002 年欧冠决赛击败东道主博洛尼亚夺冠。",
+      "story": "Panathinaikos won the 2002 EuroLeague at the Final Four in Bologna, where Dejan Bodiroga was named MVP.",
+      "storyZh": "帕纳辛奈科斯在博洛尼亚举行的 2002 年欧冠四强赛中夺冠，德扬·博迪罗加当选 MVP。",
       "sources": [
         {
-          "title": "Wikipedia: Athens, Greece",
-          "url": "https://en.wikipedia.org/w/index.php?search=Athens%2C%20Greece",
-          "status": "unverified"
+          "title": "Wikipedia: 2002 Euroleague Final Four",
+          "url": "https://en.wikipedia.org/wiki/2002_Euroleague_Final_Four",
+          "status": "verified"
         }
       ]
     },
@@ -8572,9 +8587,9 @@
       "storyZh": "现温尼伯喷气机队曾在亚特兰大停留至2011年，随后迁回温尼伯。最初的温尼伯喷气机队曾于1979年至1996年在NHL效力。",
       "sources": [
         {
-          "title": "Wikipedia: Winnipeg, Manitoba",
-          "url": "https://en.wikipedia.org/w/index.php?search=Winnipeg%2C%20Manitoba",
-          "status": "unverified"
+          "title": "Wikipedia: Winnipeg Jets",
+          "url": "https://en.wikipedia.org/wiki/Winnipeg_Jets",
+          "status": "verified"
         }
       ]
     },
@@ -8766,13 +8781,13 @@
         "Flames"
       ],
       "promptZh": "这座城市是1989年斯坦利杯冠军“火焰队”的主场。",
-      "story": "Calgary's Olympic Plaza was developed for the 1988 Winter Olympics and hosted major Olympic events.",
-      "storyZh": "卡尔加里的奥林匹克广场为1988年冬奥会而建，并承办了多项奥运赛事。",
+      "story": "The Flames won the 1989 Stanley Cup, the franchise’s first and only title; the team had moved from Atlanta to Calgary in 1980.",
+      "storyZh": "火焰队 1989 年夺得队史首座也是唯一一座斯坦利杯；球队 1980 年从亚特兰大迁至卡尔加里。",
       "sources": [
         {
-          "title": "Wikipedia: Calgary, Alberta",
-          "url": "https://en.wikipedia.org/w/index.php?search=Calgary%2C%20Alberta",
-          "status": "unverified"
+          "title": "Wikipedia: Calgary Flames",
+          "url": "https://en.wikipedia.org/wiki/Calgary_Flames",
+          "status": "verified"
         }
       ]
     },
@@ -9088,7 +9103,7 @@
     },
     {
       "id": "nhl-finland",
-      "prompt": "This country’s “Flying Finns” dominated Olympic ice hockey in the 1920s, winning gold at two Games.",
+      "prompt": "This country’s “Lions” ice hockey team won its first Olympic gold medal in 2022.",
       "answer": "Finland",
       "lat": 61.9241,
       "lng": 25.7482,
@@ -9097,14 +9112,14 @@
       "tags": [
         "Liiga"
       ],
-      "promptZh": "这个国家的“飞翔芬兰人”曾称霸奥运冰球，夺得两届冠军。",
-      "story": "Finland won Olympic ice hockey gold in 1920 and 1928, when its teams became known as the Flying Finns.",
-      "storyZh": "芬兰在1920年和1928年两届奥运会上夺得冰球冠军，其球队也被称为“飞翔芬兰人”。",
+      "promptZh": "这个国家的“雄狮”冰球队在 2022 年赢得首枚奥运金牌。",
+      "story": "Finland’s national ice hockey team, nicknamed the Lions, won its first Olympic gold at the 2022 Beijing Games; its first world title came in 1995.",
+      "storyZh": "绰号“雄狮”的芬兰国家冰球队在 2022 年北京冬奥会夺得首枚奥运金牌；他们的首个世锦赛冠军是 1995 年。",
       "sources": [
         {
-          "title": "Wikipedia: Finland",
-          "url": "https://en.wikipedia.org/w/index.php?search=Finland",
-          "status": "unverified"
+          "title": "Wikipedia: Finland men’s national ice hockey team",
+          "url": "https://en.wikipedia.org/wiki/Finland_men%27s_national_ice_hockey_team",
+          "status": "verified"
         }
       ]
     },
@@ -9575,7 +9590,7 @@
     },
     {
       "id": "soccer-manchester-england-2",
-      "prompt": "This city hosted a Premier League winner that secured the 2018 title by 14 points.",
+      "prompt": "This city’s club won the 2017-18 Premier League with 100 points, 19 clear of second place.",
       "answer": "Manchester, England",
       "lat": 53.4808,
       "lng": -2.2426,
@@ -9587,14 +9602,19 @@
       ],
       "viewLat": 58.5744,
       "viewLng": -7.534,
-      "promptZh": "英超球队主场在这座城市，2018年曾以14分夺冠。",
-      "story": "Manchester's Etihad Stadium opened in 2002 for the Commonwealth Games.",
-      "storyZh": "曼彻斯特的伊蒂哈德球场于2002年为英联邦运动会启用。",
+      "promptZh": "这座城市的俱乐部以 100 分赢得 2017-18 英超冠军，领先第二名 19 分。",
+      "story": "Manchester City’s 100-point season in 2017–18 is the Premier League record; the club has played at the Etihad Stadium, built for the 2002 Commonwealth Games, since 2003.",
+      "storyZh": "曼城 2017-18 赛季以 100 分创下英超积分纪录；球队自 2003 年起使用为 2002 年英联邦运动会而建的伊蒂哈德球场。",
       "sources": [
         {
-          "title": "Wikipedia: Manchester, England",
-          "url": "https://en.wikipedia.org/w/index.php?search=Manchester%2C%20England",
-          "status": "unverified"
+          "title": "Wikipedia: 2017–18 Premier League",
+          "url": "https://en.wikipedia.org/wiki/2017%E2%80%9318_Premier_League",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Etihad Stadium",
+          "url": "https://en.wikipedia.org/wiki/Etihad_Stadium",
+          "status": "verified"
         }
       ]
     },
@@ -10427,7 +10447,7 @@
     },
     {
       "id": "soccer-rabat-morocco",
-      "prompt": "The national team reached the 2022 World Cup semifinals after playing in this capital.",
+      "prompt": "This capital’s national team became the first African side to reach a World Cup semifinal in 2022.",
       "answer": "Rabat, Morocco",
       "lat": 34.0209,
       "lng": -6.8416,
@@ -10437,14 +10457,14 @@
         "soccer",
         "Africa"
       ],
-      "promptZh": "国家队以这座首都为主场，曾打进2022年世界杯半决赛。",
-      "story": "Rabat became Morocco's administrative capital in 1912, following the establishment of the French protectorate.",
-      "storyZh": "1912年法国建立保护国后，拉巴特成为摩洛哥的行政首都。",
+      "promptZh": "这座首都的国家队在 2022 年成为首支打进世界杯四强的非洲球队。",
+      "story": "Morocco’s Atlas Lions, who play their home matches in Rabat, became the first African and first Arab team to reach a World Cup semifinal at the 2022 tournament.",
+      "storyZh": "摩洛哥“阿特拉斯雄狮”以拉巴特为主场，在 2022 年世界杯成为首支闯入四强的非洲及阿拉伯球队。",
       "sources": [
         {
-          "title": "Wikipedia: Rabat, Morocco",
-          "url": "https://en.wikipedia.org/w/index.php?search=Rabat%2C%20Morocco",
-          "status": "unverified"
+          "title": "Wikipedia: Morocco national football team",
+          "url": "https://en.wikipedia.org/wiki/Morocco_national_football_team",
+          "status": "verified"
         }
       ]
     },
@@ -10689,13 +10709,13 @@
         "World Cup"
       ],
       "promptZh": "这座城市曾举办1998年世界杯决赛，法国3比0击败巴西。",
-      "story": "Stade de France in Saint-Denis hosted the July 12, 1998 final, in which Brazil's Ronaldo missed two penalties.",
-      "storyZh": "1998年7月12日，法兰西体育场举办了世界杯决赛，巴西球星罗纳尔多两次罚失点球。",
+      "story": "France beat Brazil 3–0 in the 1998 World Cup final at the Stade de France, with two Zinédine Zidane headers; the match followed a pre-match scare over Ronaldo’s fitness.",
+      "storyZh": "1998 年世界杯决赛在法兰西体育场举行，法国队 3-0 击败巴西队，齐达内两次头球破门；赛前罗纳尔多的身体状况一度引发风波。",
       "sources": [
         {
-          "title": "Wikipedia: Saint-Denis, France",
-          "url": "https://en.wikipedia.org/w/index.php?search=Saint-Denis%2C%20France",
-          "status": "unverified"
+          "title": "Wikipedia: 1998 FIFA World Cup final",
+          "url": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final",
+          "status": "verified"
         }
       ]
     },
@@ -10845,7 +10865,7 @@
     },
     {
       "id": "golf-kiawah-island-south-carolina",
-      "prompt": "Point here, where the PGA Championship was held in 1991 and 2023.",
+      "prompt": "This island’s Ocean Course hosted the 1991 Ryder Cup and the 2012 PGA Championship.",
       "answer": "Kiawah Island, South Carolina",
       "lat": 32.6082,
       "lng": -80.0834,
@@ -10857,14 +10877,14 @@
       ],
       "viewLat": 37.5303,
       "viewLng": -85.7347,
-      "promptZh": "1991年及2023年的PGA锦标赛都在这里举办。",
-      "story": "The Ocean Course underwent a major renovation led by Pete Dye in 1996.",
-      "storyZh": "1996年，海洋球场在皮特·戴的主导下进行了全面改造。",
+      "promptZh": "这座岛屿的海洋球场举办了 1991 年莱德杯和 2012 年 PGA 锦标赛。",
+      "story": "Kiawah Island’s Ocean Course staged the 1991 Ryder Cup and its first major, the 2012 PGA Championship, which Rory McIlroy won by eight strokes.",
+      "storyZh": "基洼岛的海洋球场承办了 1991 年莱德杯，并在 2012 年迎来首场大满贯——PGA 锦标赛，麦克罗伊以 8 杆优势夺冠。",
       "sources": [
         {
-          "title": "Wikipedia: Kiawah Island, South Carolina",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kiawah%20Island%2C%20South%20Carolina",
-          "status": "unverified"
+          "title": "Wikipedia: 2012 PGA Championship",
+          "url": "https://en.wikipedia.org/wiki/2012_PGA_Championship",
+          "status": "verified"
         }
       ]
     },
@@ -11360,7 +11380,7 @@
     },
     {
       "id": "golf-dornoch-scotland",
-      "prompt": "This Scottish links town on the Sutherland coast is famed for the 1995 Open Championship runner-up finish.",
+      "prompt": "The famous links course in this Scottish town is ranked No. 2 among courses outside the United States.",
       "answer": "Dornoch, Scotland",
       "lat": 57.8799,
       "lng": -4.0294,
@@ -11369,14 +11389,14 @@
       "tags": [
         "golf"
       ],
-      "promptZh": "这座位于萨瑟兰海岸的苏格兰林克斯小镇，因1995年英国公开赛的亚军成绩而闻名。",
-      "story": "Royal Dornoch, laid out by Willie Fernie and opened in 1903, is one of Scotland's most celebrated links courses and a regular Open Championship qualifying venue.",
-      "storyZh": "皇家多诺赫由威利·弗尼设计，1903年启用，是苏格兰最受推崇的林克斯球场之一，也是英国公开赛资格赛的常办场地。",
+      "promptZh": "这座苏格兰林克斯小镇的著名球场被列为美国以外第二佳球场。",
+      "story": "Royal Dornoch’s Championship Course was ranked No. 2 on Golf Digest’s Top 100 International courses; the club has never hosted a modern professional tournament.",
+      "storyZh": "皇家多诺赫的锦标赛球场在《高尔夫文摘》国际百佳球场榜上排名第二；该俱乐部从未举办过现代职业赛事。",
       "sources": [
         {
-          "title": "Wikipedia: Dornoch, Scotland",
-          "url": "https://en.wikipedia.org/w/index.php?search=Dornoch%2C%20Scotland",
-          "status": "unverified"
+          "title": "Wikipedia: Royal Dornoch Golf Club",
+          "url": "https://en.wikipedia.org/wiki/Royal_Dornoch_Golf_Club",
+          "status": "verified"
         }
       ]
     },
@@ -11405,7 +11425,7 @@
     },
     {
       "id": "golf-nassau-bahamas",
-      "prompt": "This Bahamian capital is home to the Ocean Club, which hosted the 2012 PGA Championship.",
+      "prompt": "Tiger Woods hosts the Hero World Challenge each December at a resort near this Bahamian capital.",
       "answer": "Nassau, Bahamas",
       "lat": 25.0606,
       "lng": -77.3364,
@@ -11415,14 +11435,14 @@
         "golf",
         "PGA"
       ],
-      "promptZh": "这座巴哈马首都拥有的大西洋俱乐部举办了2012年PGA锦标赛。",
-      "story": "The Ocean Club in Nassau hosted the 2012 PGA Championship, where Rory McIlroy won by two strokes over Martin Kaymer.",
-      "storyZh": "拿骚的大西洋俱乐部举办了2012年PGA锦标赛，罗里·麦克罗伊以两杆优势击败马丁·凯默夺冠。",
+      "promptZh": "老虎·伍兹每年十二月在这座巴哈马首都附近的度假区主办英雄世界挑战赛。",
+      "story": "The Hero World Challenge, hosted by Tiger Woods, has been played at the Albany development in the Bahamas each December since 2015.",
+      "storyZh": "英雄世界挑战赛由老虎·伍兹主办，2015 年起每年十二月在巴哈马的奥尔巴尼度假区举行。",
       "sources": [
         {
-          "title": "Wikipedia: Nassau, Bahamas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Nassau%2C%20Bahamas",
-          "status": "unverified"
+          "title": "Wikipedia: Hero World Challenge",
+          "url": "https://en.wikipedia.org/wiki/Hero_World_Challenge",
+          "status": "verified"
         }
       ]
     },
