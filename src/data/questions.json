@@ -1104,9 +1104,9 @@
       "storyZh": "汤姆·布雷迪在圣马特奥的胡内罗·塞拉高中效力，后来新英格兰爱国者在2000年NFL选秀中用第199顺位选下了他。",
       "sources": [
         {
-          "title": "Wikipedia: San Mateo, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=San%20Mateo%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Tom Brady",
+          "url": "https://en.wikipedia.org/wiki/Tom_Brady",
+          "status": "verified"
         }
       ]
     },
@@ -1470,13 +1470,13 @@
       "viewLat": 31.4028,
       "viewLng": -85.7491,
       "promptZh": "Yankees 与 White Sox 曾在这座小镇的玉米田里、电影《梦幻球场》取景地旁进行过一场比赛",
-      "story": "On August 13, 1989, the New York Yankees and Chicago White Sox played an exhibition game in a cornfield near Dyersville’s Field of Dreams site.",
-      "storyZh": "1989年8月13日，纽约洋基与芝加哥白袜在代尔斯维尔“梦想_fields”电影场地附近的玉米田中进行了一场表演赛。",
+      "story": "The first Field of Dreams game was played on August 12, 2021, when the Chicago White Sox beat the New York Yankees 9–8 next to the movie site near Dyersville.",
+      "storyZh": "2021 年 8 月 12 日，首场“梦幻球场”比赛在戴尔斯维尔的电影取景地旁举行，芝加哥白袜队 9-8 击败纽约洋基队。",
       "sources": [
         {
-          "title": "Wikipedia: Dyersville, Iowa",
-          "url": "https://en.wikipedia.org/w/index.php?search=Dyersville%2C%20Iowa",
-          "status": "unverified"
+          "title": "Wikipedia: MLB at Field of Dreams",
+          "url": "https://en.wikipedia.org/wiki/MLB_at_Field_of_Dreams",
+          "status": "verified"
         }
       ]
     },
@@ -1560,10 +1560,10 @@
     },
     {
       "id": "mlb-minnesota-1",
-      "prompt": "This city opened an MLB ballpark in 2012 with a 450 gallon saltwater aquarium full of tropical fish behind home plate",
-      "answer": "Minneapolis, Minnesota",
-      "lat": 44.9778,
-      "lng": -93.265,
+      "prompt": "This city’s MLB ballpark opened in 2012 with saltwater aquariums full of tropical fish behind home plate.",
+      "answer": "Miami, Florida",
+      "lat": 25.7617,
+      "lng": -80.1918,
       "scope": "city",
       "sport": "baseball",
       "tags": [
@@ -1572,14 +1572,14 @@
       ],
       "viewLat": 34.1778,
       "viewLng": -93.265,
-      "promptZh": "这座城市于 2012 年启用一座 MLB 球场，主_plate 后方设有一个装有热带鱼的大型海水水族箱",
-      "story": "Minneapolis opened Target Field in 2012 with a striking 450-gallon saltwater aquarium filled with tropical fish behind home plate.",
-      "storyZh": "明尼阿波利斯于2012年启用 Target Field，并在主垒后方设置了一座引人注目的450加仑海水水族箱，里面养着热带鱼。",
+      "promptZh": "这座城市的 MLB 球场 2012 年启用，本垒板后方设有养着热带鱼的海水水族箱。",
+      "story": "The Miami Marlins’ ballpark opened in 2012 as Marlins Park (now loanDepot park), with saltwater aquariums full of tropical fish built in behind home plate.",
+      "storyZh": "迈阿密马林鱼队的球场 2012 年以“马林鱼公园”之名启用（现名 loanDepot park），本垒板后方建有养着热带鱼的海水水族箱。",
       "sources": [
         {
-          "title": "Wikipedia: Minneapolis, Minnesota",
-          "url": "https://en.wikipedia.org/w/index.php?search=Minneapolis%2C%20Minnesota",
-          "status": "unverified"
+          "title": "Wikipedia: LoanDepot Park",
+          "url": "https://en.wikipedia.org/wiki/LoanDepot_Park",
+          "status": "verified"
         }
       ]
     },
@@ -1873,9 +1873,9 @@
       "storyZh": "自1950年起，班夫德大学世界大赛便每年在奥马哈举行，使其成为棒球史上延续最久的冠军举办地之一。",
       "sources": [
         {
-          "title": "Wikipedia: Omaha, Nebraska",
-          "url": "https://en.wikipedia.org/w/index.php?search=Omaha%2C%20Nebraska",
-          "status": "unverified"
+          "title": "Wikipedia: College World Series",
+          "url": "https://en.wikipedia.org/wiki/College_World_Series",
+          "status": "verified"
         }
       ]
     },
@@ -2092,9 +2092,9 @@
       "storyZh": "2007年NBA选秀中，西雅图超音速队用第二顺位选中了凯文·杜兰特，后者以菜鸟身份荣膺年度最佳新秀。",
       "sources": [
         {
-          "title": "Wikipedia: Seattle, Washington",
-          "url": "https://en.wikipedia.org/w/index.php?search=Seattle%2C%20Washington",
-          "status": "unverified"
+          "title": "Wikipedia: Kevin Durant",
+          "url": "https://en.wikipedia.org/wiki/Kevin_Durant",
+          "status": "verified"
         }
       ]
     },
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "nba-celtics-1",
-      "prompt": "The 'parity' era Boston Celtics' 8 straight titles began with a 1957 championship in this city",
+      "prompt": "This city’s Hawks beat the Boston Celtics in six games in the 1958 NBA Finals for the franchise’s only title.",
       "answer": "St. Louis, Missouri",
       "lat": 38.627,
       "lng": -90.1994,
@@ -2305,14 +2305,14 @@
       ],
       "viewLat": 53.095,
       "viewLng": -87.203,
-      "promptZh": "处于“均势”时代的Boston Celtics八连冠始于1957年在这座城市夺得的总冠军",
-      "story": "In 1957, the St. Louis Hawks reached the NBA Finals by defeating the Minneapolis Lakers, beginning the franchise run of eight straight championships.",
-      "storyZh": "1957年，圣路易斯老鹰队击败明尼阿波利斯湖人队进入NBA总决赛，开启了球队连续8次夺冠的征程。",
+      "promptZh": "这座城市的老鹰队在 1958 年 NBA 总决赛六场击败波士顿凯尔特人队，夺得队史唯一冠军。",
+      "story": "Bob Pettit’s St. Louis Hawks defeated the Boston Celtics in the 1958 NBA Finals in six games — the franchise’s only NBA championship.",
+      "storyZh": "鲍勃·佩蒂特率领的圣路易斯老鹰队在 1958 年 NBA 总决赛六场击败波士顿凯尔特人队，夺得队史唯一的 NBA 总冠军。",
       "sources": [
         {
-          "title": "Wikipedia: St. Louis, Missouri",
-          "url": "https://en.wikipedia.org/w/index.php?search=St.%20Louis%2C%20Missouri",
-          "status": "unverified"
+          "title": "Wikipedia: 1958 NBA Finals",
+          "url": "https://en.wikipedia.org/wiki/1958_NBA_Finals",
+          "status": "verified"
         }
       ]
     },
@@ -2379,13 +2379,13 @@
         "international"
       ],
       "promptZh": "Dikembe Mutombo出生于这座非洲首都，后来前往Georgetown学习医学",
-      "story": "Dikembe Mutombo was born in Kinshasa on June 29, 1966, before moving to the United States to study medicine and basketball at Georgetown University.",
-      "storyZh": "迪肯贝·穆通博于1966年6月29日出生在金沙萨，随后赴美国在乔治城大学学习医学并打篮球。",
+      "story": "Dikembe Mutombo was born in Kinshasa on June 25, 1966, and moved to the United States at 21 to attend Georgetown University, where he first planned to study medicine.",
+      "storyZh": "迪肯贝·穆托姆博 1966 年 6 月 25 日出生于金沙萨，21 岁赴美进入乔治城大学，最初打算学医。",
       "sources": [
         {
-          "title": "Wikipedia: Kinshasa, DR Congo",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kinshasa%2C%20DR%20Congo",
-          "status": "unverified"
+          "title": "Wikipedia: Dikembe Mutombo",
+          "url": "https://en.wikipedia.org/wiki/Dikembe_Mutombo",
+          "status": "verified"
         }
       ]
     },
@@ -2602,9 +2602,9 @@
       "storyZh": "科比·布莱恩特于1996年毕业于下梅里恩高中，随后直接从高中进入NBA，并选择效力湖人队而不参加大学篮球比赛。",
       "sources": [
         {
-          "title": "Wikipedia: Lower Merion, Pennsylvania",
-          "url": "https://en.wikipedia.org/w/index.php?search=Lower%20Merion%2C%20Pennsylvania",
-          "status": "unverified"
+          "title": "Wikipedia: Kobe Bryant",
+          "url": "https://en.wikipedia.org/wiki/Kobe_Bryant",
+          "status": "verified"
         }
       ]
     },
@@ -4014,9 +4014,9 @@
       "storyZh": "1955年3月17日，NHL因场上冲突停赛了蒙特利尔Canadiens队球星莫里斯“火箭”理查德，引发当地球迷愤怒并发生骚乱。",
       "sources": [
         {
-          "title": "Wikipedia: Montreal, Quebec",
-          "url": "https://en.wikipedia.org/w/index.php?search=Montreal%2C%20Quebec",
-          "status": "unverified"
+          "title": "Wikipedia: Richard Riot",
+          "url": "https://en.wikipedia.org/wiki/Richard_Riot",
+          "status": "verified"
         }
       ]
     },
@@ -4621,13 +4621,13 @@
         "international"
       ],
       "promptZh": "Pelé于1940年出生在明纳斯吉拉斯州这座巴西小镇",
-      "story": "Pelé was born in Três Corações on October 23, 1940, before becoming Brazil’s three-time World Cup champion. The town remains closely tied to the famous “Black Pearl.”",
-      "storyZh": "贝利于1940年10月23日出生在特雷斯科拉松斯，后来成为三届世界杯冠军。这座小镇至今仍与“黑珍珠”的传奇紧密相连。",
+      "story": "Pelé was born in Três Corações on October 23, 1940, and won three World Cups with Brazil; he was known as “O Rei” — the King.",
+      "storyZh": "贝利 1940 年 10 月 23 日出生在特雷斯科拉松伊斯，随巴西队三夺世界杯，绰号“球王”（O Rei，意为国王）。",
       "sources": [
         {
-          "title": "Wikipedia: Três Corações, Brazil",
-          "url": "https://en.wikipedia.org/w/index.php?search=Tr%C3%AAs%20Cora%C3%A7%C3%B5es%2C%20Brazil",
-          "status": "unverified"
+          "title": "Wikipedia: Pelé",
+          "url": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+          "status": "verified"
         }
       ]
     },
@@ -5223,7 +5223,7 @@
     },
     {
       "id": "nfl-kansas-city-missouri",
-      "prompt": "This city is home to the Chiefs, whose general manager helped build the team that won three Super Bowls.",
+      "prompt": "This city’s Chiefs have won three Super Bowls since 2019: LIV, LVII and LVIII.",
       "answer": "Kansas City, Missouri",
       "lat": 39.0997,
       "lng": -94.5786,
@@ -5235,14 +5235,14 @@
       ],
       "viewLat": 37.9635,
       "viewLng": -99.3804,
-      "promptZh": "这座城市是酋长队主场，其GM曾协助球队赢得三座超级碗。",
-      "story": "Lamar Hunt founded the Dallas Texans in 1960, and the franchise relocated to Kansas City in 1963.",
-      "storyZh": "拉马尔·亨特于1960年创建达拉斯突袭者队，球队在1963年迁至堪萨斯城。",
+      "promptZh": "这座城市的酋长队自 2019 年以来三夺超级碗：第 LIV、LVII、LVIII 届。",
+      "story": "The franchise began as the Dallas Texans in 1960 under Lamar Hunt and moved to Kansas City in 1963; the Chiefs have won three Super Bowls in the Patrick Mahomes era.",
+      "storyZh": "该球队 1960 年以“达拉斯德州人”之名创立，老板是拉马尔·亨特，1963 年迁至堪萨斯城；酋长队在帕特里克·马霍姆斯时代三夺超级碗。",
       "sources": [
         {
-          "title": "Wikipedia: Kansas City, Missouri",
-          "url": "https://en.wikipedia.org/w/index.php?search=Kansas%20City%2C%20Missouri",
-          "status": "unverified"
+          "title": "Wikipedia: Kansas City Chiefs",
+          "url": "https://en.wikipedia.org/wiki/Kansas_City_Chiefs",
+          "status": "verified"
         }
       ]
     },
@@ -5515,9 +5515,14 @@
       "storyZh": "当地职业橄榄球队于1953年以现用队名加入NFL，并于1984年迁至印第安纳州。",
       "sources": [
         {
-          "title": "Wikipedia: Indianapolis, Indiana",
-          "url": "https://en.wikipedia.org/w/index.php?search=Indianapolis%2C%20Indiana",
-          "status": "unverified"
+          "title": "Wikipedia: Indianapolis Colts",
+          "url": "https://en.wikipedia.org/wiki/Indianapolis_Colts",
+          "status": "verified"
+        },
+        {
+          "title": "Wikipedia: Indianapolis 500",
+          "url": "https://en.wikipedia.org/wiki/Indianapolis_500",
+          "status": "verified"
         }
       ]
     },
@@ -5973,9 +5978,9 @@
       "storyZh": "长角牛队在2005赛季以13胜0负的不败战绩在主教练迈克·布朗带领下夺得全国冠军。",
       "sources": [
         {
-          "title": "Wikipedia: Austin, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Austin%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: Texas Longhorns football",
+          "url": "https://en.wikipedia.org/wiki/Texas_Longhorns_football",
+          "status": "verified"
         }
       ]
     },
@@ -6204,13 +6209,13 @@
       "viewLat": 34.419,
       "viewLng": -102.2382,
       "promptZh": "这座城市是得州理工大学红突袭者橄榄球队的所在地。",
-      "story": "Jones Stadium opened in 1940 and now has a seating capacity of 60,000.",
-      "storyZh": "琼斯体育场始建于1940年，如今可容纳6万名观众。",
+      "story": "Texas Tech’s stadium opened in 1947 and now seats 60,229; long known as Jones Stadium, it was renamed Galaxy Stadium in July 2026.",
+      "storyZh": "得州理工大学的球场 1947 年启用，现有座位 60,229 个；该球场长期名为琼斯体育场，2026 年 7 月更名为 Galaxy 体育场。",
       "sources": [
         {
-          "title": "Wikipedia: Lubbock, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Lubbock%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: Galaxy Stadium",
+          "url": "https://en.wikipedia.org/wiki/Galaxy_Stadium",
+          "status": "verified"
         }
       ]
     },
@@ -6289,7 +6294,7 @@
     },
     {
       "id": "mlb-los-angeles-california",
-      "prompt": "This city is home to the baseball club that won the 1981 World Series on a walk-off error.",
+      "prompt": "This city’s Dodgers won the 1981 World Series, reeling off four straight wins after losing the first two games to the Yankees.",
       "answer": "Los Angeles, California",
       "lat": 34.0522,
       "lng": -118.2437,
@@ -6301,14 +6306,14 @@
       ],
       "viewLat": 34.9212,
       "viewLng": -115.4818,
-      "promptZh": "这座城市的球队以决胜局失误赢得1981年世界大赛。",
-      "story": "Dodger Stadium opened in 1962, and the Dodgers have played every home game there since.",
-      "storyZh": "道奇体育场于1962年开放，此后道奇队的每一场主场比赛都在这里进行。",
+      "promptZh": "这座城市的道奇队赢得 1981 年世界大赛，在先负两场后连胜四场逆转洋基队。",
+      "story": "The Los Angeles Dodgers lost the first two 1981 World Series games to the New York Yankees, then won four in a row to take the title — the franchise’s first since 1965.",
+      "storyZh": "洛杉矶道奇队在 1981 年世界大赛先负两场，随后连胜四场击败纽约洋基队夺冠，终结了自 1965 年以来的冠军荒。",
       "sources": [
         {
-          "title": "Wikipedia: Los Angeles, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Los%20Angeles%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: 1981 World Series",
+          "url": "https://en.wikipedia.org/wiki/1981_World_Series",
+          "status": "verified"
         }
       ]
     },
@@ -7072,9 +7077,9 @@
       "storyZh": "公牛队在1990年代赢得六次NBA总冠军，并在1991年至1993年连续三次夺冠。",
       "sources": [
         {
-          "title": "Wikipedia: Chicago, Illinois",
-          "url": "https://en.wikipedia.org/w/index.php?search=Chicago%2C%20Illinois",
-          "status": "unverified"
+          "title": "Wikipedia: Chicago Bulls",
+          "url": "https://en.wikipedia.org/wiki/Chicago_Bulls",
+          "status": "verified"
         }
       ]
     },
@@ -7430,7 +7435,7 @@
     },
     {
       "id": "nba-sacramento-california",
-      "prompt": "This city became home to the Kings after their 16-year NBA playoff drought ended in 2023.",
+      "prompt": "This city’s Kings ended a 16-year NBA playoff drought in 2023.",
       "answer": "Sacramento, California",
       "lat": 38.5816,
       "lng": -121.4944,
@@ -7442,14 +7447,14 @@
       ],
       "viewLat": 34.5416,
       "viewLng": -124.2163,
-      "promptZh": "这座城市的主队在2023年结束了长达16年的季后赛荒。",
-      "story": "The Sacramento Kings reached the playoffs in 2023, ending their 16-year postseason drought.",
-      "storyZh": "萨克拉门托国王队在2023年重返季后赛，结束了长达16年的季后赛荒。",
+      "promptZh": "这座城市的国王队在 2023 年结束了长达 16 年的 NBA 季后赛荒。",
+      "story": "The Sacramento Kings returned to the NBA playoffs in 2023, ending the longest postseason drought in major North American sports, which dated to 2006.",
+      "storyZh": "萨克拉门托国王队 2023 年重返 NBA 季后赛，终结了北美职业体育史上最长的季后赛荒（自 2006 年起）。",
       "sources": [
         {
-          "title": "Wikipedia: Sacramento, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Sacramento%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: Sacramento Kings",
+          "url": "https://en.wikipedia.org/wiki/Sacramento_Kings",
+          "status": "verified"
         }
       ]
     },
@@ -7635,7 +7640,7 @@
     },
     {
       "id": "nba-manila-philippines",
-      "prompt": "This Asian capital hosted the 1954 FIBA World Championship at its main indoor arena.",
+      "prompt": "This city’s Rizal Memorial Coliseum hosted the 1978 FIBA World Championship, the first held in Asia.",
       "answer": "Manila, Philippines",
       "lat": 14.5995,
       "lng": 120.9842,
@@ -7645,14 +7650,14 @@
         "PBA",
         "Asia"
       ],
-      "promptZh": "这座亚洲首都曾举办1954年国际篮联世界锦标赛。",
-      "story": "The 1954 FIBA World Championship was the second men's world championship, and the Soviet Union won gold.",
-      "storyZh": "1954年国际篮联世界锦标赛是第二届男子篮球世界杯，苏联队夺得冠军。",
+      "promptZh": "这座城市的黎刹纪念球馆举办了 1978 年男篮世锦赛，是该项赛事首次在亚洲举行。",
+      "story": "The 1978 FIBA World Championship, the first FIBA World Championship held in Asia, was played at Manila’s Rizal Memorial Coliseum and the Araneta Coliseum in nearby Quezon City.",
+      "storyZh": "1978 年男篮世锦赛是该项赛事首次在亚洲举行，比赛在马尼拉的黎刹纪念球馆和近郊奎松市的阿拉内塔球馆进行。",
       "sources": [
         {
-          "title": "Wikipedia: Manila, Philippines",
-          "url": "https://en.wikipedia.org/w/index.php?search=Manila%2C%20Philippines",
-          "status": "unverified"
+          "title": "Wikipedia: 1978 FIBA World Championship",
+          "url": "https://en.wikipedia.org/wiki/1978_FIBA_World_Championship",
+          "status": "verified"
         }
       ]
     },
@@ -7680,7 +7685,7 @@
     },
     {
       "id": "nba-beijing-china",
-      "prompt": "This capital hosted the 2015 FIBA Asia Champions Cup, won by the national team.",
+      "prompt": "This city’s Wukesong Indoor Stadium hosted the basketball tournament at the 2008 Summer Olympics.",
       "answer": "Beijing, China",
       "lat": 39.9042,
       "lng": 116.4074,
@@ -7690,14 +7695,14 @@
         "CBA",
         "China"
       ],
-      "promptZh": "这座首都的国家队赢得了2015年国际篮联亚洲冠军杯。",
-      "story": "The 2015 FIBA Asia Champions Cup was played at Beijing's Cadillac Arena from August 29 to September 12.",
-      "storyZh": "2015年国际篮联亚洲冠军杯于8月29日至9月12日在北京的凯迪拉克中心举行。",
+      "promptZh": "这座城市的五棵松体育馆承办了 2008 年夏季奥运会篮球比赛。",
+      "story": "The basketball tournament at the 2008 Summer Olympics was played at Beijing’s Wukesong Indoor Stadium from August 9 to 24.",
+      "storyZh": "2008 年夏季奥运会篮球比赛 8 月 9 日至 24 日在北京五棵松体育馆举行。",
       "sources": [
         {
-          "title": "Wikipedia: Beijing, China",
-          "url": "https://en.wikipedia.org/w/index.php?search=Beijing%2C%20China",
-          "status": "unverified"
+          "title": "Wikipedia: Basketball at the 2008 Summer Olympics",
+          "url": "https://en.wikipedia.org/wiki/Basketball_at_the_2008_Summer_Olympics",
+          "status": "verified"
         }
       ]
     },
@@ -8692,9 +8697,9 @@
       "storyZh": "明尼苏达北方星队于1993年迁至达拉斯，并在当赛季改名为达拉斯星队。此后球队一直留在达拉斯地区参赛。",
       "sources": [
         {
-          "title": "Wikipedia: Dallas, Texas",
-          "url": "https://en.wikipedia.org/w/index.php?search=Dallas%2C%20Texas",
-          "status": "unverified"
+          "title": "Wikipedia: Dallas Stars",
+          "url": "https://en.wikipedia.org/wiki/Dallas_Stars",
+          "status": "verified"
         }
       ]
     },
@@ -8795,7 +8800,7 @@
     },
     {
       "id": "nhl-moscow-russia",
-      "prompt": "This capital was the home of the Red Army team that won the 1972 Summit Series.",
+      "prompt": "This capital’s CSKA hockey club — the “Red Army team” — has won more Soviet championships than any other.",
       "answer": "Moscow, Russia",
       "lat": 55.7558,
       "lng": 37.6173,
@@ -8804,14 +8809,14 @@
       "tags": [
         "KHL"
       ],
-      "promptZh": "这座首都是1972年巅峰系列赛冠军红军队的所在地。",
-      "story": "The Moscow Kremlin and Red Square were designated a UNESCO World Heritage Site in 1990.",
-      "storyZh": "莫斯科克里姆林宫和红场于1990年被列为联合国教科文组织世界遗产。",
+      "promptZh": "这座首都的 CSKA 冰球队——“红军”——夺得的苏联联赛冠军比任何球队都多。",
+      "story": "HC CSKA Moscow, known in the West as the Red Army team, won more Soviet championships and European Cups than any other club and has added KHL Gagarin Cups in 2019, 2022 and 2023.",
+      "storyZh": "莫斯科中央陆军冰球俱乐部在西方被称为“红军”，夺得的苏联冠军和欧洲冠军杯数量为各队之最，近年又在 2019、2022、2023 年三夺 KHL 加加林杯。",
       "sources": [
         {
-          "title": "Wikipedia: Moscow, Russia",
-          "url": "https://en.wikipedia.org/w/index.php?search=Moscow%2C%20Russia",
-          "status": "unverified"
+          "title": "Wikipedia: HC CSKA Moscow",
+          "url": "https://en.wikipedia.org/wiki/HC_CSKA_Moscow",
+          "status": "verified"
         }
       ]
     },
@@ -8928,24 +8933,24 @@
     },
     {
       "id": "nhl-wilmington-delaware",
-      "prompt": "This city hosts the minor league hockey team known as the Blue Rocks.",
+      "prompt": "This Delaware city’s minor-league baseball team is known as the Blue Rocks.",
       "answer": "Wilmington, Delaware",
       "lat": 39.7391,
       "lng": -75.5398,
       "scope": "world",
-      "sport": "ice hockey",
+      "sport": "baseball",
       "tags": [
         "NHL",
         "Minor League"
       ],
-      "promptZh": "这座城市是蓝石队进行小联盟冰球比赛的所在地。",
-      "story": "The Blue Rocks franchise began play in 1996 and relocated to Frawley Stadium in 2014.",
-      "storyZh": "蓝石队于1996年开始参赛，并于2014年迁入弗劳利体育场。",
+      "promptZh": "这座特拉华州城市的职棒小联盟球队名叫“蓝岩”。",
+      "story": "The Wilmington Blue Rocks are a High-A minor-league baseball team affiliated with the Washington Nationals, playing at Daniel S. Frawley Stadium.",
+      "storyZh": "威尔明顿蓝岩队是隶属于华盛顿国民的高阶 1A 职棒小联盟球队，主场是丹尼尔·S·弗劳利体育场。",
       "sources": [
         {
-          "title": "Wikipedia: Wilmington, Delaware",
-          "url": "https://en.wikipedia.org/w/index.php?search=Wilmington%2C%20Delaware",
-          "status": "unverified"
+          "title": "Wikipedia: Wilmington Blue Rocks",
+          "url": "https://en.wikipedia.org/wiki/Wilmington_Blue_Rocks",
+          "status": "verified"
         }
       ]
     },
@@ -9039,7 +9044,7 @@
     },
     {
       "id": "nhl-sweden",
-      "prompt": "This country has earned nine Ice Hockey World Championship gold medals, making it one of the sport’s leading powers.",
+      "prompt": "This country’s “Tre Kronor” has won 11 Ice Hockey World Championship gold medals.",
       "answer": "Sweden",
       "lat": 60.1282,
       "lng": 18.6435,
@@ -9048,14 +9053,14 @@
       "tags": [
         "IIHF"
       ],
-      "promptZh": "这个国家已赢得九次冰球世锦赛冠军，是这项运动的强国之一。",
-      "story": "Sweden has won nine IIHF World Championship gold medals, including titles in 1953, 1982, and 2013.",
-      "storyZh": "瑞典共九次夺得国际冰联世界锦标赛金牌，其中包括1953年、1982年和2013年的冠军。",
+      "promptZh": "这个国家的“三冠”冰球队 11 次夺得世界锦标赛冠军。",
+      "story": "Sweden’s Tre Kronor has won 11 IIHF World Championship gold medals, the latest in 2018, with titles including 1953, 2013 and 2018.",
+      "storyZh": "瑞典“三冠”队 11 次夺得 IIHF 世锦赛金牌，最近一次是 2018 年；夺冠年份包括 1953、2013 和 2018 年。",
       "sources": [
         {
-          "title": "Wikipedia: Sweden",
-          "url": "https://en.wikipedia.org/w/index.php?search=Sweden",
-          "status": "unverified"
+          "title": "Wikipedia: Sweden men’s national ice hockey team",
+          "url": "https://en.wikipedia.org/wiki/Sweden_men%27s_national_ice_hockey_team",
+          "status": "verified"
         }
       ]
     },
@@ -9408,13 +9413,13 @@
       "viewLat": 23.1426,
       "viewLng": 34.9061,
       "promptZh": "这座城市是阿赫利主场，该队获得的非洲冠军数冠绝群雄。",
-      "story": "Cairo Tower opened in 1931 and rises 187 metres above the city. It was built as part of the development of Nasr City.",
-      "storyZh": "开罗塔于1931年正式启用，高187米，是纳斯尔城发展规划中修建的地标之一。",
+      "story": "Al Ahly, founded in Cairo in 1907, is the most decorated club in world football with 125 official titles, including a record 12 CAF Champions League crowns.",
+      "storyZh": "阿赫利俱乐部 1907 年创立于开罗，是世界足坛奖杯最多的俱乐部（125 座官方奖杯），其中包括创纪录的 12 座非洲冠军联赛奖杯。",
       "sources": [
         {
-          "title": "Wikipedia: Cairo, Egypt",
-          "url": "https://en.wikipedia.org/w/index.php?search=Cairo%2C%20Egypt",
-          "status": "unverified"
+          "title": "Wikipedia: Al Ahly SC",
+          "url": "https://en.wikipedia.org/wiki/Al_Ahly_SC",
+          "status": "verified"
         }
       ]
     },
@@ -10491,24 +10496,24 @@
     },
     {
       "id": "soccer-saitama-japan",
-      "prompt": "This city is home to the stadium that hosted the 2002 FIFA World Cup final.",
-      "answer": "Saitama, Japan",
-      "lat": 35.8617,
-      "lng": 139.6497,
+      "prompt": "This city’s stadium hosted the 2002 FIFA World Cup final, where Brazil beat Germany 2–0.",
+      "answer": "Yokohama, Japan",
+      "lat": 35.4437,
+      "lng": 139.638,
       "scope": "world",
       "sport": "soccer",
       "tags": [
         "soccer",
         "Asia"
       ],
-      "promptZh": "这座城市的球场举办了2002年世界杯决赛。",
-      "story": "The final on 30 June 2002 was held at Saitama Stadium, where Brazil defeated Germany 2–0.",
-      "storyZh": "2002年6月30日的世界杯决赛在埼玉体育场举行，巴西以2比0击败德国。",
+      "promptZh": "这座城市的球场举办了 2002 年世界杯决赛，巴西 2-0 击败德国。",
+      "story": "The 2002 World Cup final was played at the International Stadium in Yokohama on June 30, 2002, with Brazil beating Germany 2–0 for a record fifth title.",
+      "storyZh": "2002 年 6 月 30 日，世界杯决赛在横滨国际体育场举行，巴西 2-0 击败德国，创下五次夺冠的纪录。",
       "sources": [
         {
-          "title": "Wikipedia: Saitama, Japan",
-          "url": "https://en.wikipedia.org/w/index.php?search=Saitama%2C%20Japan",
-          "status": "unverified"
+          "title": "Wikipedia: 2002 FIFA World Cup final",
+          "url": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_final",
+          "status": "verified"
         }
       ]
     },
@@ -10629,7 +10634,7 @@
     },
     {
       "id": "soccer-los-angeles-california",
-      "prompt": "This city hosted matches during the 1994 and 1999 Women's World Cup tournaments.",
+      "prompt": "This city’s metropolitan area hosted the 1999 Women’s World Cup final at the Rose Bowl, where the USA beat China on penalties.",
       "answer": "Los Angeles, California",
       "lat": 34.0522,
       "lng": -118.2437,
@@ -10638,14 +10643,14 @@
       "tags": [
         "WWC"
       ],
-      "promptZh": "这座城市举办过1994年和1999年女足世界杯比赛。",
-      "story": "The 1994 third-place match was held at Pasadena's Rose Bowl, while the 1999 equivalent took place at Los Angeles Memorial Coliseum.",
-      "storyZh": "1994年的三四名决赛在帕萨迪纳的玫瑰碗举行，1999年的同场比赛则在洛杉矶纪念体育场举行。",
+      "promptZh": "这座城市的都会区在玫瑰碗球场举办了 1999 年女足世界杯决赛，美国队点球击败中国队。",
+      "story": "The 1999 Women’s World Cup final at the Rose Bowl drew 90,185 fans — a record for a women’s sporting event — and the USA beat China 5–4 on penalties after a 0–0 draw.",
+      "storyZh": "1999 年女足世界杯决赛在玫瑰碗球场吸引 90,185 名观众，创下女子体育赛事纪录；美国队 0-0 战平后点球 5-4 击败中国队。",
       "sources": [
         {
-          "title": "Wikipedia: Los Angeles, California",
-          "url": "https://en.wikipedia.org/w/index.php?search=Los%20Angeles%2C%20California",
-          "status": "unverified"
+          "title": "Wikipedia: 1999 FIFA Women’s World Cup",
+          "url": "https://en.wikipedia.org/wiki/1999_FIFA_Women%27s_World_Cup",
+          "status": "verified"
         }
       ]
     },
@@ -10815,7 +10820,7 @@
     },
     {
       "id": "golf-pebble-beach-california",
-      "prompt": "This Monterey Peninsula town hosts a coastal golf resort that has staged the AT&T Pro-Am since 1947",
+      "prompt": "This Monterey Peninsula town hosts the AT&T Pro-Am, the PGA Tour’s famous celebrity tournament, each February.",
       "answer": "Pebble Beach, California",
       "lat": 36.568,
       "lng": -121.95,
@@ -10827,14 +10832,14 @@
       ],
       "viewLat": 39.3387,
       "viewLng": -125.9083,
-      "promptZh": "这座蒙特雷半岛小镇拥有一座海滨高尔夫度假村，自 1947 年起承办 AT&T 圆石滩职业-业余配对赛",
-      "story": "Pebble Beach Golf Links opened in 1919. The tournament now known as the AT&T Pebble Beach Pro-Am began in 1937 but settled at Pebble Beach in 1947, where it has been held almost every year since.",
-      "storyZh": "圆石滩高尔夫球场于 1919 年开业。如今名为 AT&T 圆石滩职业-业余配对赛的赛事始于 1937 年，但 1947 年迁至圆石滩，此后几乎每年在此举行。",
+      "promptZh": "这座蒙特雷半岛小镇每年二月举办 PGA 巡回赛著名的名人职业-业余配对赛 AT&T Pro-Am。",
+      "story": "The AT&T Pebble Beach Pro-Am began as the Bing Crosby National Pro-Amateur; AT&T became title sponsor in 1986, and the event is played at Pebble Beach Golf Links.",
+      "storyZh": "AT&T 圆石滩职业-业余配对赛前身为“克罗斯比职业-业余赛”，1986 年起由 AT&T 冠名，在圆石滩高尔夫林克斯举行。",
       "sources": [
         {
-          "title": "Britannica: golf - British tournaments and players",
-          "url": "https://www.britannica.com/sports/golf",
-          "status": "unverified"
+          "title": "Wikipedia: AT&T Pebble Beach Pro-Am",
+          "url": "https://en.wikipedia.org/wiki/AT%26T_Pebble_Beach_Pro-Am",
+          "status": "verified"
         }
       ]
     },
@@ -11215,7 +11220,7 @@
     },
     {
       "id": "golf-coral-gables-florida",
-      "prompt": "The 1991 US Open was played here on a course in this Florida city.",
+      "prompt": "This Florida city’s Biltmore course hosted a PGA Tour event in 1931-37 and again in 1959-62.",
       "answer": "Coral Gables, Florida",
       "lat": 25.7215,
       "lng": -80.2684,
@@ -11226,14 +11231,14 @@
       ],
       "viewLat": 32.1702,
       "viewLng": -88.4669,
-      "promptZh": "佛罗里达州这座城市的主球场曾举办1991年美国公开赛。",
-      "story": "The Biltmore Hotel's course hosted the 1926 PGA Championship, won by Walter Hagen.",
-      "storyZh": "比尔特莫尔酒店的球场举办了1926年PGA锦标赛，冠军是沃尔特·哈根。",
+      "promptZh": "这座佛罗里达城市的比尔特莫尔球场在 1931-37 年和 1959-62 年举办过 PGA 巡回赛赛事。",
+      "story": "The Coral Gables Open Invitational — also known as the Miami Biltmore Open — was played on the PGA Tour at the Miami Biltmore Golf Course in Coral Gables in 1931–37 and 1959–62.",
+      "storyZh": "科勒尔盖布尔斯公开赛（又名迈阿密比尔特莫尔公开赛）1931-37 年和 1959-62 年在科勒尔盖布尔斯的迈阿密比尔特莫尔高尔夫球场作为 PGA 巡回赛的一站举行。",
       "sources": [
         {
-          "title": "Wikipedia: Coral Gables, Florida",
-          "url": "https://en.wikipedia.org/w/index.php?search=Coral%20Gables%2C%20Florida",
-          "status": "unverified"
+          "title": "Wikipedia: Coral Gables Open Invitational",
+          "url": "https://en.wikipedia.org/wiki/Coral_Gables_Open_Invitational",
+          "status": "verified"
         }
       ]
     },
@@ -11446,7 +11451,7 @@
     },
     {
       "id": "golf-shenzhen-china",
-      "prompt": "This coastal city’s mission-style course hosts the Volvo-branded professional golf event each spring.",
+      "prompt": "This Chinese city’s Mission Hills resort is accredited as the world’s largest golf facility.",
       "answer": "Shenzhen, China",
       "lat": 22.5431,
       "lng": 114.0579,
@@ -11456,14 +11461,14 @@
         "golf",
         "Asia"
       ],
-      "promptZh": "这座城市的传教风格球场每年春季举办沃尔沃职业公开赛。",
-      "story": "The Volvo China Open debuted in 1994 at Mission Hills Golf Club in Shenzhen. The same club hosted the event again in 2013.",
-      "storyZh": "沃尔沃中国公开赛于1994年在深圳的观澜湖高尔夫俱乐部首次举行。该俱乐部在2013年再次承办了这项赛事。",
+      "promptZh": "这座中国城市的观澜湖度假区被认证为世界上最大的高尔夫设施。",
+      "story": "Mission Hills Shenzhen in Guanlan holds the Guinness record as the world’s largest golf facility, with twelve 18-hole courses; it hosted the World Cup of Golf in 2007, 2008 and 2009, won by Scotland, Sweden and Italy.",
+      "storyZh": "深圳观澜的观澜湖以 12 座 18 洞球场获吉尼斯认证为世界最大高尔夫设施；2007、2008、2009 年高尔夫世界杯在此举行，冠军分别是苏格兰、瑞典和意大利。",
       "sources": [
         {
-          "title": "Wikipedia: Shenzhen, China",
-          "url": "https://en.wikipedia.org/w/index.php?search=Shenzhen%2C%20China",
-          "status": "unverified"
+          "title": "Wikipedia: Mission Hills Golf Club",
+          "url": "https://en.wikipedia.org/wiki/Mission_Hills_Golf_Club",
+          "status": "verified"
         }
       ]
     },
@@ -11757,7 +11762,7 @@
     },
     {
       "id": "tennis-toronto-ontario",
-      "prompt": "This city hosts the National Bank Open, a summer Masters 1000 tournament on hard courts.",
+      "prompt": "This city is one of two homes of the National Bank Open, the second-oldest tennis tournament in the world after Wimbledon.",
       "answer": "Toronto, Ontario",
       "lat": 43.6532,
       "lng": -79.3832,
@@ -11769,14 +11774,14 @@
       ],
       "viewLat": 38.6742,
       "viewLng": -84.2348,
-      "promptZh": "这座城市举办名为国家银行公开赛的1000分大师赛。",
-      "story": "The tournament returned to this city in 2021 after being cancelled in 2020.",
-      "storyZh": "该赛事在2020年取消后，于2021年重返这座城市。",
+      "promptZh": "这座城市是国家银行公开赛的两个举办地之一，该赛事是温网之外历史第二悠久的网球赛事。",
+      "story": "The Canadian Open — now the National Bank Open — alternates annually between Toronto and Montreal and is the second-oldest active tennis tournament in the world after Wimbledon.",
+      "storyZh": "加拿大公开赛（现名国家银行公开赛）每年在多伦多和蒙特利尔之间轮换举办，是温网之外历史第二悠久的现役网球赛事。",
       "sources": [
         {
-          "title": "Wikipedia: Toronto, Ontario",
-          "url": "https://en.wikipedia.org/w/index.php?search=Toronto%2C%20Ontario",
-          "status": "unverified"
+          "title": "Wikipedia: Canadian Open (tennis)",
+          "url": "https://en.wikipedia.org/wiki/Canadian_Open_%28tennis%29",
+          "status": "verified"
         }
       ]
     },
